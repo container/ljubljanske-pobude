@@ -1,0 +1,22 @@
+{
+  "cas": "2026-09-29T22:41:50.465Z",
+  "id": 68180,
+  "izvajalec": "ceste",
+  "koga": "ne",
+  "obseg": "odsek",
+  "odlocitev": "popravljeno",
+  "opomba": "",
+  "ponovitev": "ne",
+  "relevanca": "nizka",
+  "spremenjeno": [
+    "vrsta",
+    "vrsta2",
+    "koga",
+    "relevanca"
+  ],
+  "stanje": "S3",
+  "teren": "",
+  "varnost": "ne",
+  "vrsta": "V5",
+  "vrsta2": ""
+}

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 85927,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo namestitve dodatnega koša za pasje iztrebke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85928,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetnih lokacijah trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85931,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "predmetno območje dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85964,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Kljub temu bomo izvajalca ponovno opozorili na dosledno izvajanje ukrepov za preprečevanje onesnaževanja cestišča in prašenja",
+  "gotovost": "nizka",
+  "opomba": "Pritožba na izvajalca gradbišča; dodatno napovedano asfaltiranje »v kratkem«."
+ },
+ {
+  "id": 85966,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "predmetne površine dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85977,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "celovita prenova predmetnega odseka cestišča trenutno ni predvidena",
+  "gotovost": "nizka",
+  "opomba": "Prenova zavrnjena; za sanacijo le splošno preverjanje v rednem vzdrževanju (S3)."
+ },
+ {
+  "id": 85979,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Predmetna drevesa na Celovški cesti bomo dodatno preverili ter po potrebi izvedli ustrezne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85993,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "v letošnjem letu na Černetovi ulici ne načrtujemo obnove horizontalne prometne signalizacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85997,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo ustreznost prometne signalizacije na predmetni lokaciji preverili ter jo po potrebi dopolnili",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep (dopolnitev znaka), a pogojno »po potrebi«. (Usklajeno: »po potrebi« po preverjanju = S3.)"
+ },
+ {
+  "id": 86011,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "vključno z odstranitvijo odpadlega listja",
+  "gotovost": "nizka",
+  "opomba": "Odstranitev listja omenjena, a »po potrebi« v rednem vzdrževanju."
+ },
+ {
+  "id": 86057,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "bomo stanje klopi na predmetnem območju preverili ter po potrebi zagotovili njihovo ustrezno ureditev oziroma obnovo",
+  "gotovost": "nizka",
+  "opomba": "Odgovor govori o obnovi obstoječih klopi, ne o dodatnih."
+ },
+ {
+  "id": 86058,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetno območje dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86069,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog dodatno pozornost namenili tudi lokacijam, na katere se nanaša vaše sporočilo",
+  "gotovost": "visoka",
+  "opomba": "Podatek o številu nadzorov ni podan."
+ },
+ {
+  "id": 86089,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "označeno drevo raste na zemljišču v zasebni lasti",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86093,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo prenove predmetnega odseka Vodnikove ceste",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86100,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetni poti trenutno ne načrtujemo dodatnih ureditev",
+  "gotovost": "nizka",
+  "opomba": "Tudi: večina zemljišč ni v lasti MOL (S2)."
+ },
+ {
+  "id": 86107,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "smo stopnišče podhoda ob Aleji že ustrezno uredili",
+  "gotovost": "visoka",
+  "opomba": "Ureditev podhoda načrtovana v prihodnjem letu."
+ },
+ {
+  "id": 86111,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "odtoke na predmetnem območju dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86115,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ocenjujemo, da je na večini otroških igrišč nameščeno ustrezno število košev za odpadke",
+  "gotovost": "nizka",
+  "opomba": "Dodatni koši/obvestila implicitno zavrnjeni; nadaljevanje ozaveščanja."
+ },
+ {
+  "id": 86116,
+  "vrsta": "V6",
+  "stanje": "S6",
+  "dokaz": "na Kettejevi in Hotimirovi ulici že vzpostavljena omejitev hitrosti 30 km/h",
+  "gotovost": "nizka",
+  "opomba": "Predlagana omejitev že velja; za prekoračitve le splošno spremljanje."
+ },
+ {
+  "id": 86122,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Hvala za vaše pozitivno mnenje in prijazno pohvalo.",
+  "gotovost": "nizka",
+  "opomba": "Pohvala, ne pobuda."
+ },
+ {
+  "id": 86128,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "predmetni odsek kolesarske steze dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86136,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "preučili možnosti za njihovo zamenjavo oziroma nadgradnjo",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep le kot preučitev možnosti. (Usklajeno: samo preučitev možnosti = S3.)"
+ },
+ {
+  "id": 86146,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "bo problematiko komarjev preučila tudi z upravljavcem gospodarske javne infrastrukture",
+  "gotovost": "nizka",
+  "opomba": "Obširna pojasnila; pregled območja ni konkretno obljubljen."
+ },
+ {
+  "id": 86148,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Tudi navedene poškodbe bomo preverili ter jih po potrebi ustrezno uredili oziroma sanirali.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86162,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "odtoke na predmetnem območju dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86164,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Pot spominov in tovarištva (PST) ni namenjena izključno pešcem, temveč jo uporabljajo tudi kolesarji.",
+  "gotovost": "nizka",
+  "opomba": "Celovita prenova PST predvidena v prihodnje."
+ },
+ {
+  "id": 86165,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo stanje mostička in neposredne okolice ponovno preverili na terenu ter v primeru ugotovljenih nepravilnosti ustrezno ukrepali",
+  "gotovost": "visoka",
+  "opomba": "Količki na Žabji ulici: ne načrtujemo (S1)."
+ },
+ {
+  "id": 86192,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatna izvedba talne označbe oziroma stop črte trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86199,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "je navedena lokacija vključena v nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86208,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo preverili možnosti za ureditev dodatnih kolesarskih talnih označb",
+  "gotovost": "nizka",
+  "opomba": "Predlog kolesarske ulice ni neposredno naslovljen. (Usklajeno: samo preučitev možnosti = S3.)"
+ },
+ {
+  "id": 86213,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "preučili tudi možnosti za ureditev dodatnih kolesarskih talnih označb",
+  "gotovost": "nizka",
+  "opomba": "(Usklajeno: samo preučitev možnosti = S3.)"
+ },
+ {
+  "id": 86223,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli njihovo obnovo oziroma ustrezno dopolnitev",
+  "gotovost": "nizka",
+  "opomba": "(Usklajeno: »po potrebi« po preverjanju = S3.)"
+ },
+ {
+  "id": 86234,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "preverili možnosti za zamenjavo oziroma nadgradnjo obstoječih košev za odpadke",
+  "gotovost": "nizka",
+  "opomba": "(Usklajeno: samo preučitev možnosti = S3.)"
+ },
+ {
+  "id": 86244,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo postavitve količkov oziroma drugih fizičnih ovir",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86246,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86260,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih fizičnih ovir oziroma drugih ureditev, s katerimi bi preprečili dostop vozil, trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": "Redarstvo bo izvajalo občasne nadzore."
+ },
+ {
+  "id": 86272,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo stanje poškodovanega jaška na predmetnem območju preverili na terenu ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86278,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo stanje droga javne razsvetljave na predmetnem območju preverili na terenu",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86279,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo stanje droga javne razsvetljave na predmetnem območju preverili na terenu",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86291,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe in ga ustrezno očistili",
+  "gotovost": "nizka",
+  "opomba": "Predlog zamenjave peskovnika ni naslovljen."
+ },
+ {
+  "id": 86300,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetni odsek Rašiške ceste dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86309,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetni prometni znak dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Ponovna pobuda."
+ },
+ {
+  "id": 86310,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetni prometni znak dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Ponovna pobuda (dvojnik 86309)."
+ },
+ {
+  "id": 86311,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo ureditve dodatne javne razsvetljave",
+  "gotovost": "visoka",
+  "opomba": "Ponovna pobuda."
+ },
+ {
+  "id": 86312,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo ureditve dodatnih parkirnih mest oziroma parkirišča",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 86317,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "po potrebi koš za odpadke namestili oziroma prestavili na ustreznejše mesto",
+  "gotovost": "nizka",
+  "opomba": "(Usklajeno: »po potrebi« po preverjanju = S3.)"
+ },
+ {
+  "id": 86323,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "V prihodnje načrtujemo tudi dopolnitve obstoječega sistema",
+  "gotovost": "nizka",
+  "opomba": "Odgovor LPP; tudi predlog (V6), napoved brez roka."
+ },
+ {
+  "id": 86331,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na označeni lokaciji trenutno ne načrtujemo ureditve dodatnega prehoda za pešce",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86351,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

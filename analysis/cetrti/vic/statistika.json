@@ -1,0 +1,666 @@
+{
+ "vse_zamujeno_pct": 43,
+ "vse_z_rokom": 1890,
+ "vse_mediana": 6.0,
+ "skupaj": 2975,
+ "odgovorjenih": 2952,
+ "od": "2008-12-09",
+ "do": "2026-09-27",
+ "od3": "2023-09-29",
+ "od1": "2025-09-29",
+ "zajem": "2026-09-29",
+ "tri_leta": 544,
+ "zamujeno3_pct": 64,
+ "mediana3": 17,
+ "leta": [
+  {
+   "leto": 2008,
+   "n": 4,
+   "odgovorjenih": 4,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4.0
+  },
+  {
+   "leto": 2009,
+   "n": 42,
+   "odgovorjenih": 42,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4.5
+  },
+  {
+   "leto": 2010,
+   "n": 107,
+   "odgovorjenih": 107,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4
+  },
+  {
+   "leto": 2011,
+   "n": 115,
+   "odgovorjenih": 115,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3
+  },
+  {
+   "leto": 2012,
+   "n": 76,
+   "odgovorjenih": 76,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3.0
+  },
+  {
+   "leto": 2013,
+   "n": 122,
+   "odgovorjenih": 122,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4.0
+  },
+  {
+   "leto": 2014,
+   "n": 115,
+   "odgovorjenih": 115,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3
+  },
+  {
+   "leto": 2015,
+   "n": 108,
+   "odgovorjenih": 108,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 5.0
+  },
+  {
+   "leto": 2016,
+   "n": 123,
+   "odgovorjenih": 123,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4
+  },
+  {
+   "leto": 2017,
+   "n": 150,
+   "odgovorjenih": 150,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4.0
+  },
+  {
+   "leto": 2018,
+   "n": 173,
+   "odgovorjenih": 173,
+   "z_rokom": 73,
+   "zamujeno_pct": 33,
+   "mediana_dni": 5
+  },
+  {
+   "leto": 2019,
+   "n": 185,
+   "odgovorjenih": 185,
+   "z_rokom": 185,
+   "zamujeno_pct": 39,
+   "mediana_dni": 7
+  },
+  {
+   "leto": 2020,
+   "n": 231,
+   "odgovorjenih": 231,
+   "z_rokom": 231,
+   "zamujeno_pct": 42,
+   "mediana_dni": 7
+  },
+  {
+   "leto": 2021,
+   "n": 306,
+   "odgovorjenih": 306,
+   "z_rokom": 306,
+   "zamujeno_pct": 34,
+   "mediana_dni": 6.0
+  },
+  {
+   "leto": 2022,
+   "n": 299,
+   "odgovorjenih": 299,
+   "z_rokom": 299,
+   "zamujeno_pct": 26,
+   "mediana_dni": 5
+  },
+  {
+   "leto": 2023,
+   "n": 352,
+   "odgovorjenih": 352,
+   "z_rokom": 352,
+   "zamujeno_pct": 41,
+   "mediana_dni": 7.0
+  },
+  {
+   "leto": 2024,
+   "n": 160,
+   "odgovorjenih": 160,
+   "z_rokom": 160,
+   "zamujeno_pct": 52,
+   "mediana_dni": 9.5
+  },
+  {
+   "leto": 2025,
+   "n": 155,
+   "odgovorjenih": 152,
+   "z_rokom": 152,
+   "zamujeno_pct": 70,
+   "mediana_dni": 18.0
+  },
+  {
+   "leto": 2026,
+   "n": 152,
+   "odgovorjenih": 132,
+   "z_rokom": 132,
+   "zamujeno_pct": 80,
+   "mediana_dni": 23.0
+  }
+ ],
+ "lok_zamujeno_pct": 64,
+ "lok_mediana": 16.0,
+ "lok_zavrnjeno_pct": 34,
+ "lokalnih": 464,
+ "stanja": {
+  "S4": 80,
+  "S3": 131,
+  "S1": 94,
+  "SV": 18,
+  "S5": 58,
+  "S2": 42,
+  "S6": 21,
+  "S0": 20
+ },
+ "teme": [
+  {
+   "k": "ceste",
+   "n": 73,
+   "leto12": 17,
+   "varnost": 36,
+   "stanja": {
+    "S4": 16,
+    "S3": 20,
+    "S5": 17,
+    "SV": 1,
+    "S1": 10,
+    "S6": 6,
+    "S2": 1,
+    "S0": 2
+   },
+   "brez_odziva_pct": 44,
+   "zamujeno_pct": 75,
+   "mediana_dni": 21
+  },
+  {
+   "k": "odpadki",
+   "n": 49,
+   "leto12": 16,
+   "varnost": 6,
+   "stanja": {
+    "S3": 12,
+    "S4": 13,
+    "S5": 6,
+    "S6": 3,
+    "S2": 9,
+    "S1": 4,
+    "SV": 1,
+    "S0": 1
+   },
+   "brez_odziva_pct": 35,
+   "zamujeno_pct": 58,
+   "mediana_dni": 15.5
+  },
+  {
+   "k": "parkiranje",
+   "n": 47,
+   "leto12": 12,
+   "varnost": 15,
+   "stanja": {
+    "S4": 12,
+    "SV": 4,
+    "S3": 16,
+    "S6": 4,
+    "S1": 9,
+    "S5": 2
+   },
+   "brez_odziva_pct": 53,
+   "zamujeno_pct": 32,
+   "mediana_dni": 4
+  },
+  {
+   "k": "signalizacija",
+   "n": 37,
+   "leto12": 14,
+   "varnost": 30,
+   "stanja": {
+    "S3": 20,
+    "S4": 3,
+    "SV": 1,
+    "S1": 8,
+    "S6": 1,
+    "S0": 3,
+    "S5": 1
+   },
+   "brez_odziva_pct": 84,
+   "zamujeno_pct": 71,
+   "mediana_dni": 21.0
+  },
+  {
+   "k": "pesci",
+   "n": 37,
+   "leto12": 10,
+   "varnost": 31,
+   "stanja": {
+    "S3": 12,
+    "S5": 7,
+    "S4": 7,
+    "S1": 9,
+    "S6": 1,
+    "S2": 1
+   },
+   "brez_odziva_pct": 57,
+   "zamujeno_pct": 70,
+   "mediana_dni": 16
+  },
+  {
+   "k": "zelenje",
+   "n": 31,
+   "leto12": 14,
+   "varnost": 12,
+   "stanja": {
+    "S3": 13,
+    "S4": 4,
+    "S1": 2,
+    "S2": 4,
+    "S6": 3,
+    "S5": 3,
+    "S0": 2
+   },
+   "brez_odziva_pct": 55,
+   "zamujeno_pct": 72,
+   "mediana_dni": 21
+  },
+  {
+   "k": "kolo",
+   "n": 22,
+   "leto12": 10,
+   "varnost": 20,
+   "stanja": {
+    "S1": 10,
+    "S4": 3,
+    "S3": 3,
+    "S2": 1,
+    "SV": 1,
+    "S5": 1,
+    "S0": 3
+   },
+   "brez_odziva_pct": 73,
+   "zamujeno_pct": 79,
+   "mediana_dni": 20
+  },
+  {
+   "k": "hitrost",
+   "n": 20,
+   "leto12": 9,
+   "varnost": 17,
+   "stanja": {
+    "S1": 8,
+    "S3": 4,
+    "S2": 5,
+    "S5": 1,
+    "S4": 2
+   },
+   "brez_odziva_pct": 60,
+   "zamujeno_pct": 75,
+   "mediana_dni": 16.0
+  },
+  {
+   "k": "javni_prostor",
+   "n": 18,
+   "leto12": 8,
+   "varnost": 0,
+   "stanja": {
+    "S5": 8,
+    "S1": 5,
+    "S4": 1,
+    "S3": 1,
+    "S0": 2,
+    "SV": 1
+   },
+   "brez_odziva_pct": 44,
+   "zamujeno_pct": 56,
+   "mediana_dni": 15.5
+  },
+  {
+   "k": "igrisca",
+   "n": 16,
+   "leto12": 6,
+   "varnost": 4,
+   "stanja": {
+    "S5": 3,
+    "S6": 2,
+    "S1": 8,
+    "S3": 2,
+    "S0": 1
+   },
+   "brez_odziva_pct": 69,
+   "zamujeno_pct": 80,
+   "mediana_dni": 19
+  },
+  {
+   "k": "sola",
+   "n": 15,
+   "leto12": 6,
+   "varnost": 15,
+   "stanja": {
+    "S1": 5,
+    "S4": 3,
+    "S3": 2,
+    "S2": 2,
+    "S5": 1,
+    "S6": 1,
+    "S0": 1
+   },
+   "brez_odziva_pct": 53,
+   "zamujeno_pct": 79,
+   "mediana_dni": 22.0
+  },
+  {
+   "k": "hrup",
+   "n": 14,
+   "leto12": 9,
+   "varnost": 1,
+   "stanja": {
+    "S2": 6,
+    "S4": 1,
+    "S5": 1,
+    "S1": 2,
+    "S0": 2,
+    "S3": 2
+   },
+   "brez_odziva_pct": 43,
+   "zamujeno_pct": 75,
+   "mediana_dni": 20.5
+  },
+  {
+   "k": "jpp",
+   "n": 13,
+   "leto12": 2,
+   "varnost": 1,
+   "stanja": {
+    "S3": 3,
+    "SV": 1,
+    "S1": 7,
+    "S4": 2
+   },
+   "brez_odziva_pct": 77,
+   "zamujeno_pct": 46,
+   "mediana_dni": 8
+  },
+  {
+   "k": "lastnistvo",
+   "n": 13,
+   "leto12": 4,
+   "varnost": 2,
+   "stanja": {
+    "SV": 4,
+    "S2": 1,
+    "S3": 2,
+    "S4": 3,
+    "S5": 1,
+    "S0": 2
+   },
+   "brez_odziva_pct": 31,
+   "zamujeno_pct": 64,
+   "mediana_dni": 12
+  },
+  {
+   "k": "azil",
+   "n": 11,
+   "leto12": 1,
+   "varnost": 7,
+   "stanja": {
+    "S2": 6,
+    "S4": 3,
+    "SV": 1,
+    "S3": 1
+   },
+   "brez_odziva_pct": 9,
+   "zamujeno_pct": 18,
+   "mediana_dni": 4
+  },
+  {
+   "k": "vode",
+   "n": 10,
+   "leto12": 4,
+   "varnost": 1,
+   "stanja": {
+    "S3": 3,
+    "S2": 5,
+    "S1": 1,
+    "SV": 1
+   },
+   "brez_odziva_pct": 40,
+   "zamujeno_pct": 80,
+   "mediana_dni": 24.5
+  },
+  {
+   "k": "razsvetljava",
+   "n": 10,
+   "leto12": 2,
+   "varnost": 5,
+   "stanja": {
+    "S4": 1,
+    "S1": 3,
+    "S5": 5,
+    "S3": 1
+   },
+   "brez_odziva_pct": 40,
+   "zamujeno_pct": 40,
+   "mediana_dni": 8.0
+  },
+  {
+   "k": "zimska",
+   "n": 10,
+   "leto12": 6,
+   "varnost": 9,
+   "stanja": {
+    "S4": 2,
+    "S3": 8
+   },
+   "brez_odziva_pct": 80,
+   "zamujeno_pct": 90,
+   "mediana_dni": 20.0
+  },
+  {
+   "k": "drugo",
+   "n": 8,
+   "leto12": 4,
+   "varnost": 1,
+   "stanja": {
+    "S4": 1,
+    "S3": 2,
+    "S2": 1,
+    "S1": 2,
+    "SV": 1,
+    "S0": 1
+   },
+   "brez_odziva_pct": 62,
+   "zamujeno_pct": 57,
+   "mediana_dni": 12
+  },
+  {
+   "k": "gradbisca",
+   "n": 5,
+   "leto12": 4,
+   "varnost": 2,
+   "stanja": {
+    "S4": 2,
+    "S5": 1,
+    "S3": 1,
+    "SV": 1
+   },
+   "brez_odziva_pct": 20,
+   "zamujeno_pct": 100,
+   "mediana_dni": 21
+  },
+  {
+   "k": "delo_mol",
+   "n": 3,
+   "leto12": 0,
+   "varnost": 2,
+   "stanja": {
+    "S1": 1,
+    "S3": 2
+   },
+   "brez_odziva_pct": 100,
+   "zamujeno_pct": 33,
+   "mediana_dni": 1
+  },
+  {
+   "k": "javni_red",
+   "n": 2,
+   "leto12": 1,
+   "varnost": 1,
+   "stanja": {
+    "S4": 1,
+    "S3": 1
+   },
+   "brez_odziva_pct": 50,
+   "zamujeno_pct": 50,
+   "mediana_dni": 20.5
+  }
+ ],
+ "sluzbe": [
+  {
+   "k": "Oddelek za gospodarske dejavnosti in promet",
+   "n": 238,
+   "leto12": 2,
+   "varnost": 118,
+   "stanja": {
+    "S4": 35,
+    "S3": 73,
+    "S1": 53,
+    "SV": 8,
+    "S2": 17,
+    "S5": 37,
+    "S6": 15
+   },
+   "brez_odziva_pct": 53,
+   "zamujeno_pct": 64,
+   "mediana_dni": 14.0
+  },
+  {
+   "k": "Odsek za pobude meščanov",
+   "n": 140,
+   "leto12": 125,
+   "varnost": 73,
+   "stanja": {
+    "S2": 14,
+    "S4": 9,
+    "S1": 36,
+    "S3": 47,
+    "S5": 12,
+    "S0": 19,
+    "SV": 3
+   },
+   "brez_odziva_pct": 73,
+   "zamujeno_pct": 98,
+   "mediana_dni": 23
+  },
+  {
+   "k": "Mestno redarstvo",
+   "n": 40,
+   "leto12": 16,
+   "varnost": 18,
+   "stanja": {
+    "S4": 17,
+    "S6": 5,
+    "SV": 2,
+    "S1": 3,
+    "S3": 11,
+    "S2": 2
+   },
+   "brez_odziva_pct": 35,
+   "zamujeno_pct": 0,
+   "mediana_dni": 2.0
+  },
+  {
+   "k": "Inšpektorat",
+   "n": 26,
+   "leto12": 8,
+   "varnost": 6,
+   "stanja": {
+    "S4": 18,
+    "SV": 2,
+    "S2": 5,
+    "S5": 1
+   },
+   "brez_odziva_pct": 0,
+   "zamujeno_pct": 31,
+   "mediana_dni": 4.0
+  },
+  {
+   "k": "Oddelek za ravnanje z nepremičninami",
+   "n": 7,
+   "leto12": 2,
+   "varnost": 3,
+   "stanja": {
+    "S2": 4,
+    "SV": 2,
+    "S5": 1
+   },
+   "brez_odziva_pct": 0,
+   "zamujeno_pct": 29,
+   "mediana_dni": 2
+  },
+  {
+   "k": "Oddelek za šport",
+   "n": 4,
+   "leto12": 0,
+   "varnost": 0,
+   "stanja": {
+    "S5": 3,
+    "S6": 1
+   },
+   "brez_odziva_pct": 0,
+   "zamujeno_pct": 50,
+   "mediana_dni": 7.5
+  },
+  {
+   "k": "Služba za razvojne projekte in investicije",
+   "n": 4,
+   "leto12": 3,
+   "varnost": 0,
+   "stanja": {
+    "S5": 3,
+    "SV": 1
+   },
+   "brez_odziva_pct": 0,
+   "zamujeno_pct": 50,
+   "mediana_dni": 30.5
+  },
+  {
+   "k": "Oddelek za varstvo okolja",
+   "n": 3,
+   "leto12": 2,
+   "varnost": 0,
+   "stanja": {
+    "S1": 2,
+    "S5": 1
+   },
+   "brez_odziva_pct": 67,
+   "zamujeno_pct": 33,
+   "mediana_dni": 4
+  }
+ ]
+}

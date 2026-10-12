@@ -1,0 +1,25 @@
+{
+  "captured_at": "2026-10-01T21:13:55.028456+00:00",
+  "source": "https://pobude.ljubljana.si/arcgis/rest/services/mol_ulice/ulice_mol_interni/MapServer/31",
+  "source_crs": "EPSG:3794",
+  "output_crs": "EPSG:4326",
+  "district_count": 17,
+  "manual_offset_applied": false,
+  "requests": [
+    {
+      "url": "https://pobude.ljubljana.si/arcgis/rest/services/mol_ulice/ulice_mol_interni/MapServer/31?f=json",
+      "path": "raw/mol_ulice_cetrtne_skupnosti_metadata.json",
+      "sha256": "c9e79993860aae001436ea36775b59b3f1ed7da17e30b2fde86b888a900af559"
+    },
+    {
+      "url": "https://pobude.ljubljana.si/arcgis/rest/services/mol_ulice/ulice_mol_interni/MapServer/31/query?where=1%3D1&outFields=CETRT%2CSTEVILKA%2CIME%2COZNAKA&returnGeometry=true&f=json",
+      "path": "raw/mol_ulice_cetrtne_skupnosti_3794.json",
+      "sha256": "6a2293126e598287b7cd41120b745fb566fc457a7dfea2206a774f3a62fcf633"
+    },
+    {
+      "url": "https://pobude.ljubljana.si/arcgis/rest/services/mol_ulice/ulice_mol_interni/MapServer/31/query?where=1%3D1&outFields=CETRT%2CSTEVILKA%2CIME%2COZNAKA&returnGeometry=true&f=json&outSR=4326",
+      "path": "raw/mol_ulice_cetrtne_skupnosti_4326.json",
+      "sha256": "6b02c784d0cfc82d01f33814984e13f691c9088a4ae40543e94120dc61af435b"
+    }
+  ]
+}

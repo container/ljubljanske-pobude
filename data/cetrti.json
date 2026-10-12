@@ -1,0 +1,30 @@
+[
+ {
+  "id": "vic",
+  "ime": "Vič",
+  "kje": "na Viču",
+  "oznaka": "VIČ",
+  "mapa": "data/vic_2026-09-29",
+  "zajem": "2026-09-29",
+  "oznake": true
+ },
+ {
+  "id": "center",
+  "ime": "Center",
+  "kje": "v Centru",
+  "oznaka": "CENTER",
+  "mapa": "data/center_2026-10-01",
+  "zajem": "2026-10-01",
+  "oznake": false
+ },
+ {
+  "id": "siska",
+  "ime": "Šiška",
+  "kje": "v Šiški",
+  "oznaka": "ŠIŠKA",
+  "mapa": "data/siska_2026-10-09",
+  "zajem": "2026-10-09",
+  "oznake": false,
+  "oznake_let": 2
+ }
+]

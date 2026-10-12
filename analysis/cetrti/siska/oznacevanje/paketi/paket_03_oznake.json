@@ -1,0 +1,402 @@
+[
+ {
+  "id": 82663,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82664,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Tekaških prog ob Koseškem bajerju ni možno urediti, ker zemljišča niso v lasti Mestne občine Ljubljana.",
+  "gotovost": "visoka",
+  "opomba": "razlog: zemljišča niso v lasti MOL"
+ },
+ {
+  "id": 82665,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82672,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "Prenova bo umeščena v izvedbo skladno s proračunskimi zmožnostmi.",
+  "gotovost": "visoka",
+  "opomba": "projektna dokumentacija in gradbeno dovoljenje že pridobljena"
+ },
+ {
+  "id": 82690,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "parkirišč pa zaradi parkiranih vozil pogosto ni mogoče temeljito očistiti",
+  "gotovost": "nizka",
+  "opomba": "generičen odgovor o zimski službi; za parkirišča posredno zavrnjeno"
+ },
+ {
+  "id": 82703,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82707,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82708,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "vprašanje o ključu čiščenja le posredno odgovorjeno (prioritete)"
+ },
+ {
+  "id": 82709,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na navedenem odseku Verovškove ulice ne načrtujemo sprememb prometne signalizacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82714,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "odgovor ne naslovi kupa snega ob fasadi"
+ },
+ {
+  "id": 82719,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82720,
+  "vrsta": "V8",
+  "stanje": "S1",
+  "dokaz": "Vremenske razmere ne morejo in ne smejo predstavljati utemeljenega razloga za kršitve cestnoprometnih predpisov.",
+  "gotovost": "nizka",
+  "opomba": "glede zimske službe napoti na KPL"
+ },
+ {
+  "id": 82731,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno dodatnih ureditev pri avtobusnih postajališčih ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82732,
+  "vrsta": "V6",
+  "stanje": "S6",
+  "dokaz": "v tem tednu ponovno namestili nove reševalne obroče z vrvmi",
+  "gotovost": "visoka",
+  "opomba": "za Ljubljanico pojasnjena obstoječa oprema"
+ },
+ {
+  "id": 82733,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo dodatnih ureditev, kot so postavitev zaščitnih trakov ali dodatnih opozorilnih tabel",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82743,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82750,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "postavitev javnih električnih polnilnic ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "napoti na Petrol in Elektro Ljubljana"
+ },
+ {
+  "id": 82766,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "odstranitev količkov izvedena takoj, ko bodo to dopuščale vremenske razmere",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82778,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V prihodnje bomo na obravnavanih odsekih preučili možnosti dodatne označitve poteka kolesarskega prometa s talnimi označbami",
+  "gotovost": "nizka",
+  "opomba": "obstoječa ureditev ocenjena kot skladna; le preučitev brez zaveze"
+ },
+ {
+  "id": 82786,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "tovrstne prilagoditve parkirnega režima za posamezna območja ali objekte trenutno niso možne",
+  "gotovost": "visoka",
+  "opomba": "predlog zabeležen za morebitne spremembe odloka"
+ },
+ {
+  "id": 82789,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "stanje na navedeni lokaciji dodatno preverili ter po potrebi izvedli ustrezne ukrepe čiščenja",
+  "gotovost": "visoka",
+  "opomba": "predlog za večje koše ni naslovljen"
+ },
+ {
+  "id": 82793,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "tovrstne prilagoditve parkirnega režima za posamezna območja ali objekte trenutno niso možne",
+  "gotovost": "visoka",
+  "opomba": "predlog zabeležen za morebitne spremembe odloka"
+ },
+ {
+  "id": 82801,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "uvedba časovne tolerance pred 6.00 uro trenutno ni možna",
+  "gotovost": "visoka",
+  "opomba": "predlog zabeležen za morebitne spremembe odloka"
+ },
+ {
+  "id": 82804,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82805,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "spremembe parkirnega režima za posamezna območja ali objekte trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": "predlog zabeležen za morebitne spremembe odloka"
+ },
+ {
+  "id": 82815,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82816,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "spremembe parkirnega režima za posamezna območja ali objekte trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": "predlog zabeležen za morebitne spremembe odloka"
+ },
+ {
+  "id": 82823,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Ocenjujemo, da je prometna ureditev na predmetnem križišču ustrezna in skladna s prometno-tehničnimi predpisi.",
+  "gotovost": "visoka",
+  "opomba": "podhod zaprt, po prenovi odprt podnevi"
+ },
+ {
+  "id": 82828,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "predlagamo, da pridobite soglasja oziroma podpise vsaj 75 % stanovalcev ulice ter nam jih posredujete v nadaljnjo obravnavo",
+  "gotovost": "visoka",
+  "opomba": "pogojno: potrebni podpisi 75 % stanovalcev"
+ },
+ {
+  "id": 82832,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo lokacijo vključili v nabor problematičnih območij",
+  "gotovost": "nizka",
+  "opomba": "meritve hitrosti na lokaciji niso mogoče; morebitno radarsko ohišje"
+ },
+ {
+  "id": 82833,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82852,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Navedeno lokacijo bomo preverili ter po potrebi izvedli odstranitev odpadkov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82877,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82878,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "generičen odgovor o zimski službi, brez ukrepa za lokacijo"
+ },
+ {
+  "id": 82883,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82892,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82898,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "spremembe parkirnega režima za posamezna območja ali objekte trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": "prijavitelj obvešča o prijavi na TIRS"
+ },
+ {
+  "id": 82955,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Zoper ugotovljene kršitve smo ukrepali v skladu s svojimi zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82962,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82999,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83000,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ureditev glede dostopa za kolesarje iz Železnikarjeve ulice na Drenikovo ulico trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83001,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "inšpekcijskega postopka ne bomo uvedli",
+  "gotovost": "visoka",
+  "opomba": "možen predlog za prekrškovni postopek z identifikacijo lastnika"
+ },
+ {
+  "id": 83016,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Na omenjenem mestu bomo namestili manjkajoči količek",
+  "gotovost": "visoka",
+  "opomba": "količek obljubljen že pred več kot letom"
+ },
+ {
+  "id": 83017,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "bomo pristojne sodelavce seznanili z navedenim primerom ter jih pozvali k doslednemu ravnanju",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 83046,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83057,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Takoj ko bodo razmere to dopuščale, bomo navedeno lokacijo preverili na terenu ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "nizka",
+  "opomba": "sanacija odložena zaradi zaprtih asfaltnih baz"
+ },
+ {
+  "id": 83062,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bo na predmetni lokaciji občasno izvedlo nadzor",
+  "gotovost": "visoka",
+  "opomba": "dodatni fizični ukrepi le morebiti preučeni"
+ },
+ {
+  "id": 83063,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo podaljšanja nadstreška na navedeni lokaciji",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83069,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "poskrbeli za odstranitev razbitega stekla",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 83072,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "uvedbe dodatne prometne signalizacije trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

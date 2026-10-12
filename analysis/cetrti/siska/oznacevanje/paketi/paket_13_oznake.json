@@ -1,0 +1,402 @@
+[
+ {
+  "id": 75041,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "obveščamo vas, da je inšpekcijski postopek v teku",
+  "gotovost": "nizka",
+  "opomba": "Inšpekcijski postopek v teku, brez napovedanega ukrepa; vprašanje o dovoljenju ni odgovorjeno."
+ },
+ {
+  "id": 75047,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "smo preverili in ugotovili, da delujejo brez težav",
+  "gotovost": "nizka",
+  "opomba": "MOL/LPP navaja, da napake ni."
+ },
+ {
+  "id": 75079,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Ureditev predmetnega območja je naročena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75113,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "zoper kršitve CPP uvedli več prekrškovnih postopkov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75121,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75141,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "imamo v planu nadomestitev drevesa in sicer predvidoma v mesecu novembru oz. decembru",
+  "gotovost": "nizka",
+  "opomba": "Vrsta: ponovna zasaditev drevesa."
+ },
+ {
+  "id": 75149,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Prometnega znaka, da je na javnem prostoru dovoljeno le parkiranje stanovalcev, ne bomo postavili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75192,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75232,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Bomo uredlili.",
+  "gotovost": "nizka",
+  "opomba": "Kratka zaveza brez roka."
+ },
+ {
+  "id": 75234,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Glede predmetne zadeve smo opozorili izvajalce.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75245,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ni v načrtu",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75257,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "na podlagi opravljenega nadzora vam sporočamo, da kršitev CPP nismo zaznali",
+  "gotovost": "nizka",
+  "opomba": "Nadzor opravljen, kršitev ni bila zaznana."
+ },
+ {
+  "id": 75261,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Prestavitev kolesarske steze; odgovor po dolgem času."
+ },
+ {
+  "id": 75263,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "zoper prijavljeno vozilo uvedli prekrškovni postopek",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75266,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Označitev dodatnih parkirnih mest na javni površini ni možna.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75267,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Učinkovitejše rešitve za obdobje jutranje prometne konice ni.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75272,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75273,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75283,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "vaš predlog bomo preučili ter po možnosti lokacijo uvrstili na seznam novih lokacij",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 75305,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "zoper kršitve CPP uvedli 25 prekrškovnih postopkov",
+  "gotovost": "visoka",
+  "opomba": "Del o Vavpotičevi (ozko vozišče) ni naslovljen."
+ },
+ {
+  "id": 75313,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Na neizvedeno delo smo opozorili izvajalca.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje kdaj ni vsebinsko odgovorjeno; lahko tudi V8."
+ },
+ {
+  "id": 75318,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "smo sprejeli odločitev, da bomo v prihodnje v primeru predčasno zaključenih obvozov obvestila pošiljali po elektronski pošti",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75332,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75358,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75359,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "jih za enkrat ohranjamo",
+  "gotovost": "nizka",
+  "opomba": "Predlog zabeležen za naslednje spremembe."
+ },
+ {
+  "id": 75360,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Z vaše strani posredovani fotografiji bomo sicer posredovali v obravnavo izvajalcu",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 75370,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75382,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "zoper ugotovljene kršitve cestnoprometnih predpisov uvedli več prekrškovnih postopkov",
+  "gotovost": "visoka",
+  "opomba": "Del o količkih (OGDP): S3."
+ },
+ {
+  "id": 75385,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Izvajalcem smo naročili pregled pasjega parka in ureditev skladnno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 75386,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "niso v lasti MOL IN jih ne vzdržujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75395,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "bo na podlagi novega Zakona o dolgotrajni oskrbi predvidoma od julija 2025 upravičencem in upravičenkam sofinancirala država",
+  "gotovost": "nizka",
+  "opomba": "Lahko tudi V9/S2."
+ },
+ {
+  "id": 75399,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "na mestne avtobuse vtičnic za polnjenje pametnih naprav ne bomo nameščali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75402,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Javna razsvetljava ne deluje zaradi bližnjega gradbišča.",
+  "gotovost": "nizka",
+  "opomba": "Le pojasnilo vzroka, brez zaveze."
+ },
+ {
+  "id": 75404,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75410,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala."
+ },
+ {
+  "id": 75411,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala."
+ },
+ {
+  "id": 75412,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala."
+ },
+ {
+  "id": 75431,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "predmetna zelenica je v zasebni lasti zato Mestno redarstvo ne more izvesti zakonitega ukrepa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75444,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75466,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "namestitev dvižne zapornice ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75476,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "ko opazite kršitev, le to sporočite dežurnemu redarju",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na dežurnega redarja, brez zaveze."
+ },
+ {
+  "id": 75477,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75489,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75498,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Znak prepovedano parkiranje pri parkirišču Vrtca Lek smo uredili.",
+  "gotovost": "visoka",
+  "opomba": "Del o redarskem nadzoru ni naslovljen."
+ },
+ {
+  "id": 75504,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75505,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 75513,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala."
+ },
+ {
+  "id": 75516,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Prometne ureditve najmanj do konca poletja ne bomo spreminjali.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75522,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75525,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "V času gradnje vse občane porosimo za razumevanje in strpnost.",
+  "gotovost": "nizka",
+  "opomba": "Pojasnilo zapore; nadomestna cesta ni naslovljena."
+ }
+]

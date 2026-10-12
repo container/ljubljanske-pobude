@@ -1,0 +1,402 @@
+[
+ {
+  "id": 76175,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "bo preverjena tudi možnost izboljšanja linij na območju, ki ga navajate",
+  "gotovost": "nizka",
+  "opomba": "Študija prenove linij LPP poteka, preverba možnosti brez zaveze."
+ },
+ {
+  "id": 76177,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Na podlagi vaše pobude smo opravili dodatni nadzor predmetne lokacije ter uvedli več prekrškovnih postopkov, odrejen je bil tudi odvoz vozila.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76178,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Pri nadzorih smo ugotovili več kršitev, zoper kršitelje pa smo ukrepali v skladu z našimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76179,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "Podjetje VOKA Snaga ne odloča o mestu postavitve zabojnikov, vsak blok sam poskrbi za to, kje jih bodo imeli. Predlagamo, da se obrnete na vzdrževalca bloka.",
+  "gotovost": "visoka",
+  "opomba": "Napotitev na upravnika bloka."
+ },
+ {
+  "id": 76193,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "Trenutno predmetne ulice nimamo v načrtu za prenovo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76200,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo nadaljevali tudi v bodoče, v skladu s kadrovskimi zmožnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Predlog parkomatov napoten na OGDP, brez odgovora."
+ },
+ {
+  "id": 76232,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Vzdrževalec bo opravil terenski ogled in ustrezno ukrepal.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76233,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "sistem deluje brezhibno",
+  "gotovost": "nizka",
+  "opomba": "MOL pojasni, da okvare ni; ukrep ni potreben."
+ },
+ {
+  "id": 76245,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Skladno s kadrovskimi zmožnostmi bomo z nadzori lokacije nadaljevali tudi v bodoče ter zoper zaznane kršitve ustrezno ukrepali.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76246,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "Torej ne gre za napako v aplikaciji ampak za nastavitev plačilnega sistema.",
+  "gotovost": "nizka",
+  "opomba": "Prijava napake v aplikaciji; LPP pojasni, da napake ni."
+ },
+ {
+  "id": 76248,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Sporočamo vam, da je bilo uvedeno več prekrškovnih postopkov, odredili pa smo tudi odvoz vozila.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76249,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Ukrepali smo v skladu s svojimi pooblastili, odrejen je bil tudi odvoz vozila.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76264,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Obvozna trasa linije 18 bo tako od ponedeljka, 13. 1. 2025 preusmerjena po redni trasi do Vodovodne ceste",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76295,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Obvozna trasa linije 18 bo tako od ponedeljka, 13. 1. 2025 preusmerjena po redni trasi do Vodovodne ceste",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76337,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Do začetka obnove se lahko na novo namešča le varovalna ograja, ki jo vedno znova delno odstranijo.",
+  "gotovost": "nizka",
+  "opomba": "Obnova omenjena brez roka; le ponovno nameščanje ograje."
+ },
+ {
+  "id": 76349,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Pretežno pohvala; predlog cone 30. Pozen odgovor."
+ },
+ {
+  "id": 76377,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Napaka bo odpravljena v najkrajšem možnem času.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76383,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "so patrulje Mestnega redarstva opravile več nadzorov predmetne lokacije in ukrepale v skladu s svojimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": "Predlog jasnejših oznak za prepoved parkiranja ni naslovljen."
+ },
+ {
+  "id": 76395,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Posledično je bila spremenjena tudi obvozna trasa linije 18",
+  "gotovost": "nizka",
+  "opomba": "Predlog trajne spremembe trase ni naslovljen; pojasnjena le obvozna trasa."
+ },
+ {
+  "id": 76460,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "liniji 3 in 3B na dneve, ko so na sporedu predstave, med 18.30 in 19.30 podaljšata svojo vožnjo do postajališča Svet metraže",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76463,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76464,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi. VV letošnjem letu sicer ni načrtovanih večjih posegov na Podutiški.",
+  "gotovost": "nizka",
+  "opomba": "Mešano: preverba (S3) in brez večjih posegov letos (S1). Pozen odgovor."
+ },
+ {
+  "id": 76473,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Vaše sporočilo smo posredovali pristojni službi za čiščenje, ki je območje očistila.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76498,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prosimo vas, da pobudo dopolnite s točno lokacijo kršitve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76528,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "Drevesa znotraj drevoreda trenutno ne bomo odstranili.",
+  "gotovost": "nizka",
+  "opomba": "Odstranili bodo le poganjke ob zbiralnici odpadkov."
+ },
+ {
+  "id": 76536,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Namestili smo nov prometni znak",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76547,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Predmetna zadeva je že naročena v pregled in ureditev.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76553,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "Bomo ponovno naročili pregled dreves, ki bodo pregledana po planu.",
+  "gotovost": "nizka",
+  "opomba": "Ureditev parka ni naslovljena; zdravih dreves ne odstranjujejo."
+ },
+ {
+  "id": 76586,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "bomo zamenjali z bolj vključujočim sporočilom. Zamenjavo nalepk bomo izvedli na vseh avtobusih",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76650,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Vaše sporočilo smo predali pristojni službi, ki je ta teden območje očistila.",
+  "gotovost": "visoka",
+  "opomba": "Tretja pobuda; prejšnji neodgovorjeni."
+ },
+ {
+  "id": 76654,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Pobudo smo posredovali ustrezni službi, ki je sporočila, da so danes to počistili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76671,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Vrsta: nedovoljene ovire na parkirnih mestih. Pozen odgovor."
+ },
+ {
+  "id": 76702,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "Območje je v večinski lasti športnega društva GIB (17/20 delež). Predlagamo, da se glede čiščenja obrnete na njih.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76723,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "Omenjeno zemljišče ni v lasti MOL, ni javna površina in je MOL tudi ne vzdržuje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76724,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Bomo preverili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76725,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Zamenjali bomo še obrabljen tobogan ravni mali. Namestili bomo sedež za najmlajše na obstoječo gugalnico.",
+  "gotovost": "nizka",
+  "opomba": "Igrišče ni v lasti MOL; ograje in pitnika ne bodo postavili."
+ },
+ {
+  "id": 76726,
+  "vrsta": "V4",
+  "stanje": "S6",
+  "dokaz": "Ljubeljska ulica je ponovno urejena kot neprevozna.",
+  "gotovost": "nizka",
+  "opomba": "Talne oznake in stebrički niso naslovljeni. Pozen odgovor."
+ },
+ {
+  "id": 76740,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "V letošnjem letu ni predvidenega izvajanja novih ureditev na Litostrojski.",
+  "gotovost": "visoka",
+  "opomba": "Namera preoblikovanja v krožišče obstaja, brez roka."
+ },
+ {
+  "id": 76762,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Pri nadzoru smo zoper zaznane kršitve ukrepali v skladu z našimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76764,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Postavljanje fizičnih ovir se uporablja le na občutljivejših, izpostavljenih nevarnih mestih, torej izjemoma in ne sistemsko.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76766,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76790,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Bomo preverili stanje klopi. Sicer je predvidena celostna prenova.",
+  "gotovost": "nizka",
+  "opomba": "Preverba klopi (S3), prenova brez roka (S4)."
+ },
+ {
+  "id": 76791,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "Zemljišče ni v lasti Mestne občine Ljubljana in s športnim objektom ne upravlja.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76825,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje o številu ukrepanj in fizičnih ovirah ni odgovorjeno."
+ },
+ {
+  "id": 76872,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prosimo vas, da pobudo dopolnite s točno lokacijo kršitve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76883,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Vašo pobudo smo posredovali JP VOKA Snaga, ki skrbi za praznjenje košev.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76885,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Sanacija mostu je predividena v letu 2025.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76922,
+  "vrsta": "V8",
+  "stanje": "S6",
+  "dokaz": "Z voznikom, ki je opravljal prevoz v navedenem času, smo opravili razgovor.",
+  "gotovost": "nizka",
+  "opomba": "Voznik opozorjen; LPP sicer zanika ogrožanje."
+ },
+ {
+  "id": 76923,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76924,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

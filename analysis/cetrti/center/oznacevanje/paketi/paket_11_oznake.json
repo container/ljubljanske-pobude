@@ -1,0 +1,402 @@
+[
+ {
+  "id": 85237,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bo Mestno redarstvo v okviru rednih delovnih nalog opravilo nadzor navedene lokacije",
+  "gotovost": "visoka",
+  "opomba": "Dolgotrajno parkiranje motorjev po odgovoru ni kršitev."
+ },
+ {
+  "id": 85245,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": "Samo potrdilo o prejemu prijave."
+ },
+ {
+  "id": 85257,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Z izvajanjem rednega vzdrževanja in drugih ustreznih ukrepov bomo nadaljevali tudi v prihodnje",
+  "gotovost": "visoka",
+  "opomba": "Odgovor ne naslovi nujnega čiščenja in sodelovanja s SŽ."
+ },
+ {
+  "id": 85261,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "izgradnje brezplačne parkirne hiše trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85264,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Dela potekajo v okviru projekta izgradnje Potniškega centra Ljubljana",
+  "gotovost": "nizka",
+  "opomba": "Odgovor govori o celoviti prenovi, ne o sanaciji propadajočega podvoza."
+ },
+ {
+  "id": 85269,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Dodatnih ukrepov za umirjanje prometa trenutno ne načrtujemo. Kljub temu bomo ponovno preučili možnost uvedbe talnih označb",
+  "gotovost": "nizka",
+  "opomba": "Zavrnitev dodatnih ukrepov, talne označbe le ponovno preučiti."
+ },
+ {
+  "id": 85271,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "predlagane ureditve trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85272,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "celovite obnove Materinskega mostu trenutno ne načrtujemo",
+  "gotovost": "nizka",
+  "opomba": "Pohodne površine bodo po potrebi preverili; del o odvisnikih le sistemsko pojasnilo."
+ },
+ {
+  "id": 85273,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "z izvajanjem teh aktivnosti pa bomo nadaljevali tudi v prihodnje",
+  "gotovost": "nizka",
+  "opomba": "Brez dodatnega ukrepa; odgovor brani novo ureditev."
+ },
+ {
+  "id": 85276,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Spremembe obstoječe prometne ureditve trenutno niso predvidene.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85277,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatna prometna signalizacija oziroma spremembe prometne ureditve trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85279,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Za nastalo nevšečnost se vam opravičujemo.",
+  "gotovost": "visoka",
+  "opomba": "Opravičilo brez zaveze za izboljšanje obveščanja."
+ },
+ {
+  "id": 85286,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "urejanje in vzdrževanje predmetne infrastrukture v pristojnosti Direkcije Republike Slovenije za infrastrukturo",
+  "gotovost": "visoka",
+  "opomba": "Ponovljena pobuda iz 2023."
+ },
+ {
+  "id": 85290,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "Prometna ureditev skupaj s pripadajočo prometno signalizacijo je vzpostavljena skladno z veljavnimi prometno-tehničnimi predpisi",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi predloga kolesarskih stez."
+ },
+ {
+  "id": 85308,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "po potrebi izvedli obnovo talnih prometnih označb",
+  "gotovost": "nizka",
+  "opomba": "Pogojno (po potrebi) v okviru rednega vzdrževanja."
+ },
+ {
+  "id": 85312,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "po potrebi izvedli košnjo oziroma druge ustrezne vzdrževalne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Pogojno (po potrebi) v okviru rednega vzdrževanja."
+ },
+ {
+  "id": 85314,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo postavitve dodatnih količkov",
+  "gotovost": "visoka",
+  "opomba": "Omenjen občasen nadzor redarstva."
+ },
+ {
+  "id": 85327,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "razlika pri izbiri časa parkiranja izhaja iz tehnične zasnove in programske opreme posameznih uličnih parkomatov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85329,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Mestna občina Ljubljana v okviru pristojnega Oddelka za gospodarske dejavnosti in promet izvaja naloge",
+  "gotovost": "nizka",
+  "opomba": "Zahtevano ime odgovorne osebe ni navedeno."
+ },
+ {
+  "id": 85343,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "preučili možnosti za morebitno namestitev ločenih zbiralnikov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85381,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "dodatne namestitve košev za odpadke na območju Parka Ajdovščina trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": "Koše za pasje iztrebke bodo preverili in po potrebi ponovno namestili."
+ },
+ {
+  "id": 85395,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85396,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "postavitev javnih električnih polnilnic ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "Napoti na Petrol in Elektro Ljubljana."
+ },
+ {
+  "id": 85402,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Trenutno čakamo na dobavo potrebnih rezervnih delov. Popravilo bomo izvedli po dobavi ustreznih rezervnih delov.",
+  "gotovost": "nizka",
+  "opomba": "Brez roka; odgovor LPP."
+ },
+ {
+  "id": 85409,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85440,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo stanje predmetnih dreves na terenu preverili ter po potrebi izvedli ustrezne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85447,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "bomo na predmetnem odseku Poljanskega nasipa izvedli obnovo talnih označb",
+  "gotovost": "visoka",
+  "opomba": "Prej obljubljena obnova spomladi ni bila izvedena; nov rok ni naveden."
+ },
+ {
+  "id": 85455,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "spremembe obstoječega načina delovanja prometne signalizacije na predmetnem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85469,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Za motenje javnega reda in miru se obrnite na Policijo.",
+  "gotovost": "visoka",
+  "opomba": "Inšpektorat nima pristojnosti."
+ },
+ {
+  "id": 85470,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "ni v pristojnosti Mestne občine Ljubljana, temveč je v pristojnosti države oziroma upravljavca železniške infrastrukture",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85488,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "v organizaciji drugih deležnikov (ne MOL)",
+  "gotovost": "nizka",
+  "opomba": "Pojasnilo urnikov mestnih zavodov; brez zaveze o omejitvi."
+ },
+ {
+  "id": 85490,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe z namenom zagotavljanja urejenosti javne površine in odstranitve zaraščene vegetacije",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 85491,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe z namenom zagotavljanja nemotene uporabe pločnika",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85492,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe z namenom zagotavljanja varnega in nemotenega poteka kolesarskega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85494,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Vaš predlog bomo zabeležili ter ga preučili",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 85506,
+  "vrsta": "V8",
+  "stanje": "S1",
+  "dokaz": "košnja javnih zelenih površin izvaja skladno z načrtom vzdrževanja in v časovnih terminih, ki so z vidika izvedbe del ter vremenskih razmer najprimernejši",
+  "gotovost": "nizka",
+  "opomba": "Implicitna zavrnitev, odgovor brani obstoječo prakso."
+ },
+ {
+  "id": 85538,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Ključi skate parka pod Fabianijevim mostom so na voljo v BAZI",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85543,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "aktivnosti v zvezi z njihovo prenovo pa so že v teku",
+  "gotovost": "visoka",
+  "opomba": "Odgovor brez konkretnih rokov."
+ },
+ {
+  "id": 85552,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Inšpektorat Mestne občine Ljubljana nima pristojnosti ukrepanja, zato postopka ne bomo uvedli",
+  "gotovost": "visoka",
+  "opomba": "Napoti na sodišče."
+ },
+ {
+  "id": 85557,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "izvedba barvanja talnih označb pri previsokih temperaturah ni mogoča",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85590,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85606,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti izvajali nadzore",
+  "gotovost": "visoka",
+  "opomba": "Za količke napoti na Oddelek za gospodarske dejavnosti in promet."
+ },
+ {
+  "id": 85607,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti izvajali nadzore",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85636,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85666,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "zato vse uporabnike prosimo za razumevanje in strpnost",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85690,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85691,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo postavitve dodatnega cestnega prometnega ogledala",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85695,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatne spremembe oziroma ureditve kolesarskih površin trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": "Predvidena celovita rekonstrukcija Masarykove ceste, brez roka."
+ },
+ {
+  "id": 85701,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "praviloma odgovoren lastnik oziroma upravnik posameznega stanovanjskega objekta",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85725,
+  "vrsta": "V4",
+  "stanje": "S2",
+  "dokaz": "neposredno obrnete na Onkološki inštitut",
+  "gotovost": "nizka",
+  "opomba": "Ne pojasni, ali so mesta na Šuštarjevem nabrežju javna."
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 81355,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Vaš predlog smo zabeležili",
+  "gotovost": "nizka",
+  "opomba": "Napovedana je širša študija, ne ohranitev predlagane trase."
+ },
+ {
+  "id": 81366,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Najbližji javno dostopni igrišči za rekreativno igro nogometa sta v Športnem parku Tivoli",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81367,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81382,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Na tem območju trenutno ne načrtujemo ureditve krožišča.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81392,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Mestno redarstvo v okviru svojih pristojnosti izvaja nadzore",
+  "gotovost": "nizka",
+  "opomba": "Opis splošne prakse brez zaveze zahtevanemu nadzoru ob koncih tedna."
+ },
+ {
+  "id": 81405,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "nadzor nad zahtevnimi objekti je v pristojnosti Inšpektorata RS za naravne vire in prostor.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81432,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno na tem mestu dodatne postavitve količkov ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81452,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "JP Voka–Snaga bomo o zadevi seznanili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81459,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "smo na omenjeni lokaciji opravili nadzor in uvedli več prekrškovnih postopkov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81468,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "navedete točno lokacijo (hišno številko in ulico).",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81547,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo vzpostavitve oziroma zarisa rumenega pasu",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81576,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "V prihodnjem letu načrtujemo celovito prenovo Šišenske ceste",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81582,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81586,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Ocenjujemo, da je višina parkirnine v neposredni bližini Kopališča Tivoli še vedno primerna",
+  "gotovost": "nizka",
+  "opomba": "Predlog vključitve parkiranja v vstopnino ni izrecno obravnavan."
+ },
+ {
+  "id": 81600,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo dodatne osvetlitve prehodov za pešce",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81603,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "po potrebi uredili klančino.",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep je pogojen s preverjanjem, brez roka. (Usklajeno: »po potrebi« po preverjanju = S3.)"
+ },
+ {
+  "id": 81610,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Postavitev semaforja pri prehodu za pešce na tem mestu ni možna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81634,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "bomo pa znižali robnike pločnika pri prehodu",
+  "gotovost": "nizka",
+  "opomba": "Delna napoved: klančina da, osvetlitev ni predvidena."
+ },
+ {
+  "id": 81644,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "parkomat na Gospodinjski ulici vandaliziran, katerega smo popravili in postavili nazaj",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81645,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Do zaključka del, ki jih načrtujemo do sredine prihodnjega leta",
+  "gotovost": "nizka",
+  "opomba": "Razsvetljava je napovedana v prenovi, takojšnja odprava napake zavrnjena."
+ },
+ {
+  "id": 81661,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Dovoz do garaž se ne more omogočiti na enak način kot prej",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81734,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "inšpektorica bo ukrepala v skladu z zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81788,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Naši sodelavci JP Voka Snaga redno čistijo odpadlo listje",
+  "gotovost": "nizka",
+  "opomba": "Splošen opis čiščenja, brez potrditve čiščenja prijavljenih lokacij."
+ },
+ {
+  "id": 81816,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "na navedeni lokaciji v tem trenutku niso predvidene spremembe prometne ureditve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81835,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo odstranitve prometnega znaka zelena puščica",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81868,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Ob vzpostavitvi Potniškega centra Ljubljana bo shema linij gotovo prevetrena",
+  "gotovost": "nizka",
+  "opomba": "Naveden je mejnik, ne konkreten datum zaključka študije."
+ },
+ {
+  "id": 81886,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "ureditev kolesarske steze na cestišču.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81887,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo sprememb v zasnovi ureditve mestnega parka",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81888,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "načrtovano tudi podaljšanje zavijalnega pasu za zavijanje desno na Celovško cesto.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81889,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "načrtovano tudi podaljšanje zavijalnega pasu za zavijanje desno na Celovško cesto.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81890,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "Trenutno je podhod z obeh strani zaprt oziroma ni uporaben",
+  "gotovost": "nizka",
+  "opomba": "Potrjeno zaprtje, brez zaveze predlagani prenovi."
+ },
+ {
+  "id": 81891,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb na tem območju.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81903,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81904,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "bomo ustrezno obnovili in označili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81906,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ni predvidena izvedba novih talnih označb prehodov za pešce.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81913,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Trenutno na tem območju ne načrtujemo sprememb prometne ureditve",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81919,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Preverili smo delovanje prikazovalnikov smeri na omenjenem vozilu in ugotovili, da delujejo brez težav.",
+  "gotovost": "nizka",
+  "opomba": "Pregled opravljen, popravilo ni navedeno."
+ },
+ {
+  "id": 81930,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "o navedeni problematiki seznanili Mestno redarstvo MOL",
+  "gotovost": "nizka",
+  "opomba": "Nadzor napovedan, predlagani količki ali rampa niso obravnavani."
+ },
+ {
+  "id": 81942,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "prav tako ni predvidena izvedba podzemne garažne hiše.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81944,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "V kolikor se bo izkazala potreba, bomo umestili dodatno javno razsvetljavo",
+  "gotovost": "nizka",
+  "opomba": "Ukrep je pogojen z ogledom, brez roka."
+ },
+ {
+  "id": 81988,
+  "vrsta": "V8",
+  "stanje": "S6",
+  "dokaz": "je bilo odstranjeno s prikazovalnika",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81998,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "izvedlo nadzor ter zoper ugotovljene kršitve ustrezno ukrepalo.",
+  "gotovost": "nizka",
+  "opomba": "Večdelni odgovor: nadzor ob ponovnih prijavah, ureditev ulic šele po prenovi."
+ },
+ {
+  "id": 82019,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "tista vozila, ki imajo ustrezno dovolilnico Mestne občine Ljubljana (MOL) za vožnjo po rumenem pasu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82026,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "zaključena do maja 2026.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82027,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti izvedli nadzor navedene lokacije.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82047,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "na javnih površinah obvezna uporaba povodca.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82058,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "za zdaj ne načrtujemo ureditve otroškega igrišča.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82062,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Če bo tudi v prihodnje prihajalo do tovrstnih nepravilnosti, bomo preučili uvedbo dodatnih ukrepov",
+  "gotovost": "nizka",
+  "opomba": "Fizične ovire odložene na pogojno preučitev; nadzor je ločen ukrep."
+ },
+ {
+  "id": 82065,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Stanje pločnika na navedeni lokaciji bomo preverili in po potrebi izvedli ustrezno sanacijo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82067,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Po zaključku celovite prenove območja je predvidena ponovna zasaditev dreves",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

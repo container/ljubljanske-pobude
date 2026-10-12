@@ -1,0 +1,402 @@
+[
+ {
+  "id": 83867,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83874,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "v prihodnosti načrtujemo revitalizacijo celotne Poti spominov in tovarištva (PST), v okviru katere bomo ustrezno uredili tudi predmetni odsek poti",
+  "gotovost": "visoka",
+  "opomba": "Ni roka; pobuda je želela ureditev do majskega pohoda."
+ },
+ {
+  "id": 83885,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "parkirišča tržnice Koseze niso v lasti Mestne občine Ljubljana, zato predlagana ureditev ne sodi v njeno pristojnost",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83886,
+  "vrsta": "V5",
+  "stanje": "S2",
+  "dokaz": "predlagana ureditev ni izvedljiva, saj zemljišče, na katerem se nahaja zunanje parkirišče tržnice Koseze, ni v lasti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83898,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V kolikor pa bo tudi v prihodnje prihajalo do tovrstnih kršitev, bomo preučili možnost postavitve dodatnih stebričkov",
+  "gotovost": "nizka",
+  "opomba": "Stebrički pogojno odloženi; obljubljen občasni nadzor redarstva (S4)."
+ },
+ {
+  "id": 83911,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Dovolilnice za službena vozila oziroma vozila gospodarskih subjektov v okviru obstoječe parkirne ureditve niso predvidene.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83928,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83929,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83942,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "vašo prijavo vodimo pod število 06100-228/2026. Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "nizka",
+  "opomba": "Standardni odgovor inšpektorata: odprta zadeva, brez roka. (Usklajeno: dodelitev inšpektorju brez ukrepa = S3.)"
+ },
+ {
+  "id": 83943,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "vašo prijavo že vodimo pod število 06100-1205/2025. Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "nizka",
+  "opomba": "Ponovna prijava; prijavitelj navaja, da se ni nič zgodilo. (Usklajeno: dodelitev inšpektorju brez ukrepa = S3.)"
+ },
+ {
+  "id": 83952,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori na tem območju bomo nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83954,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo tudi v prihodnje nadaljevali ter ob ugotovljenih nepravilnostih ustrezno ukrepali",
+  "gotovost": "visoka",
+  "opomba": "Ponovitev pobude 83929."
+ },
+ {
+  "id": 83963,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "načrtujemo celovito rekonstrukcijo Jadranske ulice, pričetek del pa je predviden v letošnjem letu",
+  "gotovost": "visoka",
+  "opomba": "Predloga o nadzoru in črni listi odgovor ne naslovi."
+ },
+ {
+  "id": 83969,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Ocenjujemo, da je prometna ureditev na navedenem križišču ustrezna in skladna s prometno-tehničnimi predpisi.",
+  "gotovost": "visoka",
+  "opomba": "Podhod bo po prenovi odprt podnevi."
+ },
+ {
+  "id": 84010,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84013,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno na tem območju ne načrtujemo razširitve pločnika, saj ocenjujemo, da je njegova širina ustrezna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84025,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Igralo na predmetni lokaciji bomo na terenu preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84034,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno na tem območju ne načrtujemo postavitve zabojnika za pasje iztrebke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84051,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "trenutno potekajo postopki za spremembo OPN (Občinskega prostorskega načrta), ki naj bi bil predvidoma obravnavan v letošnjem letu",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84066,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "kar ne vključuje dela ceste, ki ga navajate v svoji pobudi",
+  "gotovost": "nizka",
+  "opomba": "Odgovor predloga ne zavrne izrecno; navedeni odsek ni del prenove."
+ },
+ {
+  "id": 84070,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "zaradi tehničnih omejitev na navedeni lokaciji trenutno ni mogoče izvajati meritev hitrosti",
+  "gotovost": "nizka",
+  "opomba": "Napotitev tudi na Policijo; lokacija vključena v evidenco problematičnih območij."
+ },
+ {
+  "id": 84081,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "vašo prijavo že vodimo pod število 06100-1205/2025. Prijava je dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "nizka",
+  "opomba": "Ponovna prijava (glej 83943); predlog količkov ni naslovljen. (Usklajeno: dodelitev inšpektorju brez ukrepa = S3.)"
+ },
+ {
+  "id": 84089,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "vašo prijavo vodimo pod število 06100-266/2026. Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "nizka",
+  "opomba": "Standardni odgovor inšpektorata. (Usklajeno: dodelitev inšpektorju brez ukrepa = S3.)"
+ },
+ {
+  "id": 84108,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V kolikor se bodo tovrstne nepravilnosti še naprej pojavljale, bomo preučili tudi možnost postavitve dodatnih stebričkov",
+  "gotovost": "nizka",
+  "opomba": "Stebrički pogojno odloženi; redarstvo občasno nadzoruje. Enako kot 83898."
+ },
+ {
+  "id": 84111,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Predmetno otroško igrišče bomo preverili na terenu ter po potrebi pristopili k izvedbi ustreznih vzdrževalnih in sanacijskih ukrepov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84121,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "bomo izvajalca opozorili na navedene nepravilnosti ter ga pozvali k doslednemu ravnanju",
+  "gotovost": "nizka",
+  "opomba": "Pralna kotanja že obstaja po navedbi MOL. (Usklajeno: opozorilo izvajalcu = S3.)"
+ },
+ {
+  "id": 84124,
+  "vrsta": "V4",
+  "stanje": "S6",
+  "dokaz": "Na podlagi večjega števila opozoril smo na predmetnem križišču dodatno zarisali talni trikotnik",
+  "gotovost": "nizka",
+  "opomba": "Prestavitev znaka ni mogoča (S1); dodatna talna oznaka že izvedena."
+ },
+ {
+  "id": 84130,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno dodatnih ukrepov oziroma ureditev ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84134,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "vam predlagamo, da pridobite soglasja oziroma podpise večine stanovalcev oziroma lastnikov na obravnavanem območju ter nam zbrano dokumentacijo posredujete",
+  "gotovost": "nizka",
+  "opomba": "Pogoj: soglasje večine stanovalcev."
+ },
+ {
+  "id": 84144,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo v okviru kadrovskih zmožnosti nadaljevali.",
+  "gotovost": "nizka",
+  "opomba": "Pritožba na stanje PST in nedelovanje redarstva."
+ },
+ {
+  "id": 84156,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "prenovo predmetnega odseka Celovške ceste vodi Direkcija Republike Slovenije za infrastrukturo",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje o državni cesti; brez vsebinskega odgovora o časovnici."
+ },
+ {
+  "id": 84169,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "bomo predmetno območje dodatno preverili ter po potrebi odstranili odpadke",
+  "gotovost": "nizka",
+  "opomba": "Vrsta morda V2."
+ },
+ {
+  "id": 84184,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo ograjo pasjega parka v Kosezah na terenu preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84211,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Sporočamo, da je zadeva urejena. Potrjeni zadnji zapisniki sej Sveta ČS Šiška so objavljeni",
+  "gotovost": "visoka",
+  "opomba": "Zapisniki objavljeni (S6)."
+ },
+ {
+  "id": 84217,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Kolesarjem, ki se iz Gasilske ceste vključujejo na Verovškovo ulico, priporočamo, da pri vožnji uporabljajo desni rob vozišča",
+  "gotovost": "visoka",
+  "opomba": "Dodatnih ureditev ne načrtujejo."
+ },
+ {
+  "id": 84220,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o količkih ni naslovljeno."
+ },
+ {
+  "id": 84225,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Izvajalca bomo opozorili tudi na zaznane nepravilnosti pri izvajanju košnje",
+  "gotovost": "nizka",
+  "opomba": "(Usklajeno: opozorilo izvajalcu = S3.)"
+ },
+ {
+  "id": 84264,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo predmetni odsek cestišča dodatno preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84271,
+  "vrsta": "V8",
+  "stanje": "S6",
+  "dokaz": "z voznikom, ki je v navedenem času vozil na liniji 18 v smeri Bežigrad, opravili razgovor ter ga opozorili",
+  "gotovost": "visoka",
+  "opomba": "Odgovor LPP."
+ },
+ {
+  "id": 84281,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "je v načrtu izvedba celovite prenove pasjega parka v Kosezah, ki bo med drugim obsegala ureditev oziroma zamenjavo ograje",
+  "gotovost": "visoka",
+  "opomba": "Brez časovnice; senca in pitna voda nista naslovljeni."
+ },
+ {
+  "id": 84297,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "je v načrtu izvedba celovite prenove pasjega parka v Kosezah, ki bo med drugim obsegala ureditev oziroma zamenjavo ograje",
+  "gotovost": "visoka",
+  "opomba": "Brez časovnice; pitnik ni naslovljen."
+ },
+ {
+  "id": 84298,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "O napaki nas je že predhodno opozoril voznik, zato smo nemudoma pričeli s postopkom zamenjave vozila.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor LPP; popravilo motorja napovedano."
+ },
+ {
+  "id": 84319,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo predmetni pokrov hidranta na navedeni lokaciji dodatno preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84335,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "upravljanje s pitniki oziroma vodnimi priključki na območju osnovnih šol ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84337,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "zamenjava obstoječih košev za odpadke na predmetnem območju trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": "Pobuda zabeležena za prihodnje načrte."
+ },
+ {
+  "id": 84346,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84373,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo obcestni kanal na navedeni lokaciji dodatno pregledali ter po potrebi izvedli čiščenje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84383,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo predmetno otroško igrišče dodatno preverili ter po potrebi uredili in dopolnili peskovnik z novo mivko",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84403,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "predlagane ureditve na predmetnem območju žal niso možne, saj zemljišče ni v lasti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84404,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "upravljanje s pitniki oziroma vodnimi priključki na območju osnovnih šol ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

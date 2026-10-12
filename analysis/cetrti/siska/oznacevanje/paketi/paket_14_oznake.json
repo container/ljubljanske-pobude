@@ -1,0 +1,402 @@
+[
+ {
+  "id": 75558,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "na podlagi opravljenega nadzora vam sporočamo, da kršitev CPP nismo zaznali",
+  "gotovost": "nizka",
+  "opomba": "Nadzor opravljen, kršitev ni zaznana; zapuščeno vozilo ni naslovljeno."
+ },
+ {
+  "id": 75569,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Napaka bo odpravljena v najkrajšem možnem času.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75589,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75590,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Parkirišče za tovornjake: ne načrtujejo, pristojnost države (S1/S2)."
+ },
+ {
+  "id": 75615,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Prometne ureditve vsaj do konca poletja ne bomo spreminjali.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75616,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75617,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "ni sprejemljivo parkiranje na površinah katere temu niso namenjene",
+  "gotovost": "nizka",
+  "opomba": "Prijavitelj prosi za rešitev parkiranja/kazni; odgovor napoti na ugovor."
+ },
+ {
+  "id": 75625,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Dodatne povezave preko Atletskega centra Šiška niso predvidene.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75654,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "LPP žal ne more pristopiti k dodatnim cenovnim ugodnostim prevoza z mestnimi avtobusi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75686,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za podano sporočilo.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi bistva pobude (napačna oznaka linije), govori o voznih redih."
+ },
+ {
+  "id": 75708,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Popravilo smo že naročili izvajalcem.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75724,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Na omenjeni lokaciji smo že izvedli več prekrškovnih postopkov",
+  "gotovost": "visoka",
+  "opomba": "Nameščeni tudi dodatni količki; občasni nadzori v okviru kadrovskih zmožnosti."
+ },
+ {
+  "id": 75726,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "morajo gasilska društva dokumentacijo vezano na požarne načrte posredovati Gasilski brigadi Ljubljana",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75727,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "praviloma število potnikov na vozilih ne dosega največje dovoljene kapacitete vozil",
+  "gotovost": "nizka",
+  "opomba": "Dodatni avtobus ni izrecno zavrnjen, odgovor pa ne napove ukrepa."
+ },
+ {
+  "id": 75736,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75757,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prosimo vas, da pobudo dopolnite s točno lokacijo kršitve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75762,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Dela na Verovškovi in Vodovodni ulici se izvajajo zaradi prestavitve vodovoda in predvidene nove prometne ureditve križišča.",
+  "gotovost": "nizka",
+  "opomba": "Tudi pritožba nad gnečo; predlog obvoza ni naslovljen."
+ },
+ {
+  "id": 75765,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "novih pasjih košev pa ne nameščamo več",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75766,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Patrulja Mestnega redarstva je naredila kontrolni ogled Mazijeve ulice in opravila razgovor s stanovalci",
+  "gotovost": "nizka",
+  "opomba": "Kršitev ob nadzoru ni bilo; napovedan ponoven nadzor v prihodnjem tednu."
+ },
+ {
+  "id": 75767,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o planu kolesarske infrastrukture ni vsebinsko odgovorjeno."
+ },
+ {
+  "id": 75796,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "Žal pa zaradi omejenih kadrovskih zmožnosti ne moremo zagotoviti stalne prisotnosti mestnih redarjev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75809,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Za ostale odgovore napotitev na zahtevo za informacije javnega značaja."
+ },
+ {
+  "id": 75825,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "povezave do ulice Alme Sodnik, mimo poslovnih objektov Novartisa žal ni",
+  "gotovost": "nizka",
+  "opomba": "Obvoz ni izrecno zavrnjen, a odgovor pojasni, da ni mogoč."
+ },
+ {
+  "id": 75830,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Hvala za poslane predloge.",
+  "gotovost": "visoka",
+  "opomba": "Do predlogov se odgovor ne opredeli."
+ },
+ {
+  "id": 75832,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75835,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Izvajalcem smo že naročili, da preverijo stanje in ukrepajo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75836,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Zadeva je že urejena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75849,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Bomo obvestili izvajalce.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 75869,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "zahvaljujemo se vam za vaše mnenje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 75956,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "V kratkem bomo uredili dostope in izvedli popravilo kljuk (ključavnic).",
+  "gotovost": "visoka",
+  "opomba": "Pasji park dodan tudi na seznam za obnovo."
+ },
+ {
+  "id": 76024,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76027,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Vrsta nejasna (pritožba nad nevarno ureditvijo)."
+ },
+ {
+  "id": 76050,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Izgradnja povezovalne ceste med Alme Sodnik in Verovškovo ulico trenutno ni v planu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76061,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "Vsekakor bomo vašo pohvalo prenesli vozniku",
+  "gotovost": "nizka",
+  "opomba": "Pohvala, ne problem; nobena vrsta ne ustreza dobro."
+ },
+ {
+  "id": 76069,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 76071,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "smo opravili nadzor predmetne zelenice in uvedli več prekrškovnih postopkov ter odredili odvoze vozil",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76073,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "smo opravili nadzor na Mazijevi ulici in uvedli več prekrškovnih postopkov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76077,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "je bilo listje pospravljeno 28.11.2024",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76082,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Napaka bo odpravljena v najkrajšem možnem času.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76088,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "smo opravili nadzor predmetne lokacije ter uvedli več prekrškovnih postopkov, odrejen je bil tudi odvoz vozila",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76111,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili in v primeru ugotovitve, da gre dejansko za zapuščeno vozilo na javni površini, bomo ukrepali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76115,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili in v primeru ugotovitve, da gre dejansko za zapuščeno vozilo na javni površini, bomo ukrepali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76126,
+  "vrsta": "V8",
+  "stanje": "S1",
+  "dokaz": "Izvedena ureditev je skladna z vidika prometne varnosti.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76127,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "Do uveljavitve odločitve sodišča, mestna občina ne more ukrepati.",
+  "gotovost": "nizka",
+  "opomba": "Odloženo zaradi sodnega spora o lastništvu (blizu S2)."
+ },
+ {
+  "id": 76128,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "Do uveljavitve odločitve sodišča, mestna občina ne more ukrepati.",
+  "gotovost": "nizka",
+  "opomba": "Odloženo zaradi sodnega spora o lastništvu (blizu S2)."
+ },
+ {
+  "id": 76146,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Pločnik je bil urejen 28.1.2025.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76147,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Pot od pasjega igrišča do osnovne šole smo vključili v plan jesenskega in spomladanskega čiščenja listja.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76148,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prosimo vas, da pobudo dopolnite s točno lokacijo kršitve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76149,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "patrulje Mestnega redarstva v različnih časovnih intervalih opravile nadzor in ukrepale v skladu s svojimi pooblastili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76171,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "na podlagi vaše pobude smo opravili nadzor predmetne lokacije, vendar kršitve nismo zaznali",
+  "gotovost": "nizka",
+  "opomba": "Nadzor opravljen, kršitev ni zaznana."
+ }
+]

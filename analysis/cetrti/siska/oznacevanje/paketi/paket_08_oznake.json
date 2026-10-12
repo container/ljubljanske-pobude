@@ -1,0 +1,402 @@
+[
+ {
+  "id": 84926,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "bomo v okviru prihodnjih ureditev predmetnega območja preučili možnosti dodatne zasaditve dreves",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84961,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Stanje na terenu bomo tudi v prihodnje spremljali ter v okviru pristojnosti Mestne občine Ljubljana po potrebi preučili in izvedli ustrezne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Preusmeritev prometa ni naslovljena; stebrički že nameščeni; zemljišča niso last MOL."
+ },
+ {
+  "id": 84985,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili in v primeru ugotovitve, da gre dejansko za zapuščeno vozilo na javni površini, bomo ukrepali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84987,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetni odsek cestišča dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84990,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "obstoječe koše za odpadke na predmetni lokaciji dodatno preverili ter jih po potrebi nadomestili z ustreznejšimi",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep naveden, a pogojno (po potrebi)."
+ },
+ {
+  "id": 84991,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Pristojni arborist bo navedeno drevo na terenu strokovno pregledal ter ocenil njegovo stanje in morebitna tveganja.",
+  "gotovost": "nizka",
+  "opomba": "Obljubljen strokovni pregled; odstranitev le po potrebi."
+ },
+ {
+  "id": 85002,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "gre v konkretnem primeru za zasebno zemljišče parc.št. 370/6, k.o. 1739 Zgornja Šiška",
+  "gotovost": "visoka",
+  "opomba": "Inšpektorat nima pristojnosti, postopka ne bo uvedel."
+ },
+ {
+  "id": 85005,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "na najbolj poškodovanih delih po potrebi izvedli nujne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Celovite rekonstrukcije ne načrtujejo."
+ },
+ {
+  "id": 85008,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85050,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "stanje jaška na predmetni lokaciji preverili na terenu ter po potrebi izvedli ustrezne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85057,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85060,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "z nadzori na navedenem območju nadaljevalo tudi v popoldanskem in večernem času",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85061,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli košnjo oziroma druge ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85066,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "jo bomo vključili v nadaljnje načrtovanje nadzora hitrosti na območju Mestne občine Ljubljana, v kolikor bo to izvedljivo",
+  "gotovost": "nizka",
+  "opomba": "Pogojno (če izvedljivo); napotitev tudi na Policijo."
+ },
+ {
+  "id": 85069,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetni odsek cestišča dodatno preverili ter po potrebi v okviru svojih pristojnosti izvedli ustrezne sanacijske",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85092,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85093,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "v primeru kršitve določil javnega reda in miru pokličete Policijo",
+  "gotovost": "visoka",
+  "opomba": "Inšpektorat MOL nima pristojnosti."
+ },
+ {
+  "id": 85105,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "V kolikor bodo za njegovo izvedbo izpolnjeni ustrezni tehnični in prostorski pogoji, bomo možnost njegove umestitve upoštevali v okviru prihodnjih ureditev",
+  "gotovost": "nizka",
+  "opomba": "Pitnik v pasjem parku ni predviden; prvi pitnik odložen na prihodnje ureditve."
+ },
+ {
+  "id": 85119,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85121,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "na predmetnem območju trenutno ne načrtujemo ureditve dodatnih pitnikov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85127,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmogljivosti Mestnega redarstva opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": "Za stebričke napoten na Oddelek za gospodarske dejavnosti in promet."
+ },
+ {
+  "id": 85140,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe, vključno s čiščenjem odtočnih jaškov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85143,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "ki bo na predmetni lokaciji v okviru svojih pristojnosti izvajalo občasne nadzore",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85146,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "v okviru pristojnosti Mestne občine Ljubljana preučili možnosti za izvedbo ustreznih ukrepov",
+  "gotovost": "nizka",
+  "opomba": "Zapora za tovorni promet ni naslovljena; stebrički že nameščeni; poškodba kanala: preverili po potrebi."
+ },
+ {
+  "id": 85163,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "spremembe obstoječega načina delovanja prometne signalizacije na predmetnem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85165,
+  "vrsta": "V5",
+  "stanje": "S2",
+  "dokaz": "Ureditev oziroma obnova otroškega igrišča, postavitev novih igral ter investicijska vlaganja v predmetno površino pa so v pristojnosti lastnikov zemljišča.",
+  "gotovost": "visoka",
+  "opomba": "Zemljišče v lasti etažnih lastnikov."
+ },
+ {
+  "id": 85168,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "se pri zamenjavi svetil javne mestne razsvetljave uporabljajo sodobna svetila, ki so izbrana in vgrajena skladno z veljavnimi tehničnimi standardi",
+  "gotovost": "nizka",
+  "opomba": "Barvna temperatura (pod 3000 K) ni konkretno odgovorjena; napotitev na Javno razsvetljavo d.d."
+ },
+ {
+  "id": 85173,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85174,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Dodatne spremembe prometne ureditve na navedeni lokaciji trenutno niso predvidene.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85175,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85190,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85192,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili in v primeru ugotovitve, da gre dejansko za zapuščeno vozilo na javni površini, bomo ukrepali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85201,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85206,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi na najbolj poškodovanih odsekih kolesarske steze izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Celovite prenove ne načrtujejo."
+ },
+ {
+  "id": 85210,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Prijavitelj navaja večkratne prijave, luknja že eno leto."
+ },
+ {
+  "id": 85212,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo preučili možnost ureditve dodatnih talnih označb za usmerjanje kolesarskega prometa",
+  "gotovost": "nizka",
+  "opomba": "Prijavitelj navaja več pobud pred leti."
+ },
+ {
+  "id": 85213,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "predmetno zemljišče parc.št. 1870/1, k.o. 1739 Zgornja Šiška je v lasti Republike Slovenije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85228,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Na podlagi zapisanega predlagana sprememba načina izvajanja linije 25 ni možna.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85252,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Vsi javni vrtci v Sloveniji se dosledno držijo uradnih priporočil in zdravstvenih smernic",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi prošnje za nanos krem/repelentov; sklic na NIJZ."
+ },
+ {
+  "id": 85263,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "predmetna količka dodatno preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85266,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "pristojni arborist drevesa na navedeni lokaciji strokovno pregledal ter na podlagi ugotovljenega stanja po potrebi določil in izvedel ustrezne strokovne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Obljubljen strokovni pregled; ukrepi le po potrebi."
+ },
+ {
+  "id": 85270,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili in v primeru ugotovitve, da gre dejansko za zapuščeno vozilo na javni površini, bomo ukrepali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85275,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "V kolikor bo ugotovljeno, da je zadeva v pristojnosti Mestne občine Ljubljana, bomo v okviru svojih pristojnosti po potrebi sprejeli ustrezne ukrepe.",
+  "gotovost": "nizka",
+  "opomba": "Pristojnost še ni ugotovljena; tudi premajhna cev (večji poseg)."
+ },
+ {
+  "id": 85284,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "prometno ogledalo na navedeni lokaciji na terenu preverili ter ga po potrebi ustrezno prilagodili",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep naveden, a pogojno (po potrebi)."
+ },
+ {
+  "id": 85305,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "zahvaljujemo se vam za vaše pozitivno mnenje in izkazano podporo",
+  "gotovost": "visoka",
+  "opomba": "Pohvala dogodka, ne zahteva ukrepa."
+ },
+ {
+  "id": 85315,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetnem križišču trenutno ne načrtujemo postavitve cestnega ogledala oziroma izvedbe dodatnih ukrepov za izboljšanje preglednosti",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85316,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetnem križišču trenutno ne načrtujemo izvedbe dodatnih ukrepov za izboljšanje preglednosti",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85341,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "preučili možnosti za namestitev dodatnih klopi z naslonjali",
+  "gotovost": "nizka",
+  "opomba": "Samo preučitev brez zaveze."
+ },
+ {
+  "id": 85349,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "vašo pobudo za izvajanje meritev hitrosti smo zabeležili in jo bomo vključili v nadaljnje načrtovanje nadzora hitrosti",
+  "gotovost": "nizka",
+  "opomba": "Napotitev tudi na Policijo."
+ },
+ {
+  "id": 85405,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "Glasovno napoved, kakor tudi napis na prikazovalniku bomo v prihodnje nadgradili in dodali tudi angleški jezik.",
+  "gotovost": "nizka",
+  "opomba": "Konkretna zaveza brez roka; testiranje slovenske napovedi v teku."
+ }
+]

@@ -1,0 +1,161 @@
+{
+  "source": "https://www.cilj.org/",
+  "captured": "2026-10-01",
+  "fonts": [
+    {
+      "local": "assets/fonts/dm-sans-latin-ext.woff2",
+      "url": "https://www.cilj.org/_next/static/media/7ab938503e4547a1-s.p.woff2"
+    },
+    {
+      "local": "assets/fonts/dm-sans-latin.woff2",
+      "url": "https://www.cilj.org/_next/static/media/13971731025ec697-s.p.woff2"
+    },
+    {
+      "local": "assets/fonts/plus-jakarta-sans-latin-ext.woff2",
+      "url": "https://www.cilj.org/_next/static/media/9e7b0a821b9dfcb4-s.p.woff2"
+    },
+    {
+      "local": "assets/fonts/plus-jakarta-sans-latin.woff2",
+      "url": "https://www.cilj.org/_next/static/media/636a5ac981f94f8b-s.p.woff2"
+    }
+  ],
+  "logo": {
+    "local": "assets/cilj-logo.png",
+    "url": "https://www.cilj.org/brand/logo.png"
+  },
+  "icons": {
+    "origin": "Inline SVG from live DOM",
+    "local": "assets/icons/",
+    "names": [
+      "chevron-down",
+      "share2",
+      "arrow-right",
+      "moon",
+      "menu",
+      "map-pinned",
+      "users",
+      "megaphone",
+      "clipboard-list",
+      "heart-handshake",
+      "door-open",
+      "handshake",
+      "network",
+      "vote",
+      "target",
+      "coins",
+      "map"
+    ]
+  },
+  "files": [
+    {
+      "path": "assets/cilj-logo.png",
+      "bytes": 26175,
+      "sha256": "7def4dacd499efe0635ee1168080513021cf651daec80ef3fe4fb76f952714b2"
+    },
+    {
+      "path": "assets/fonts/dm-sans-latin-ext.woff2",
+      "bytes": 18192,
+      "sha256": "219b02c7d8884817d3d6ad4c8771f2c000ce4c5669a67ef4e2e5617ffa25c4cc"
+    },
+    {
+      "path": "assets/fonts/dm-sans-latin.woff2",
+      "bytes": 36980,
+      "sha256": "468d56b6b25b05b70190b6c233d773f6f1770e8579827ce022a57f03fa8002fb"
+    },
+    {
+      "path": "assets/fonts/plus-jakarta-sans-latin-ext.woff2",
+      "bytes": 21688,
+      "sha256": "0303e02b53b0298fb26a0193941a2e8754f0f9a9fce50d90b178d8da3424873f"
+    },
+    {
+      "path": "assets/fonts/plus-jakarta-sans-latin.woff2",
+      "bytes": 27272,
+      "sha256": "cd8db90cd950e26bc8761f65d323588bd5cd112d326d6d322bc7c8ea86771215"
+    },
+    {
+      "path": "assets/icons/arrow-right.svg",
+      "bytes": 244,
+      "sha256": "1b0faa958604c9f1f9babba346d5bfe711034468e49546e3db04f862dc213782"
+    },
+    {
+      "path": "assets/icons/chevron-down.svg",
+      "bytes": 217,
+      "sha256": "95061c19cb79483d0257360b6ff0fd94eb0567f861b117b08fb69ef79e43d3b8"
+    },
+    {
+      "path": "assets/icons/clipboard-list.svg",
+      "bytes": 443,
+      "sha256": "5cfb6024e653cf91b2f96ee11fa12212fe90ac332a3568a7d36f46534226c454"
+    },
+    {
+      "path": "assets/icons/coins.svg",
+      "bytes": 344,
+      "sha256": "5d3ab9b04abf244a72ba35cac6ae0543aad256db49123ec040cf19c7b5455cf0"
+    },
+    {
+      "path": "assets/icons/door-open.svg",
+      "bytes": 417,
+      "sha256": "b2e52e045ae23b811928d96dbe00a79915bce14e20f4b5f814882779ef397ecb"
+    },
+    {
+      "path": "assets/icons/handshake.svg",
+      "bytes": 494,
+      "sha256": "d19f9e4cec855f155f97f6969bf9d6d6547b64982eb8cb7f589b688a324a1b71"
+    },
+    {
+      "path": "assets/icons/heart-handshake.svg",
+      "bytes": 516,
+      "sha256": "36c2cf3ac037e4867a3d8a4c76817653a147e0fc98c88833bd926347141226ea"
+    },
+    {
+      "path": "assets/icons/map-pinned.svg",
+      "bytes": 470,
+      "sha256": "ef5834457f13179d0ee74affc22866a883a25ce60c846c8f704aeefcfa000568"
+    },
+    {
+      "path": "assets/icons/map.svg",
+      "bytes": 501,
+      "sha256": "3bc3115dd0563cd2560f0a35f1270c7fd3d79c70fe2f4d33369682ea65b4e765"
+    },
+    {
+      "path": "assets/icons/megaphone.svg",
+      "bytes": 273,
+      "sha256": "e8189f4969397fd4bf13f7806334d7acb8e8fdcc7338b86282cbd77229989f89"
+    },
+    {
+      "path": "assets/icons/menu.svg",
+      "bytes": 317,
+      "sha256": "aae4f764184ba421feec995a0eea93f47f56392a0af3ffd958c5d4346d0df158"
+    },
+    {
+      "path": "assets/icons/moon.svg",
+      "bytes": 258,
+      "sha256": "6304af3dc32e6c009068a543b164b12d5d59d1c70cfecda0a9e319c9d60a2eaf"
+    },
+    {
+      "path": "assets/icons/network.svg",
+      "bytes": 434,
+      "sha256": "fa57f2e2a8e36cbbb8fa0ebb2a23ce2403fc24c7bc659992d2c3fdcf5656bab6"
+    },
+    {
+      "path": "assets/icons/share2.svg",
+      "bytes": 413,
+      "sha256": "3e4505dc84b240ddfbad8398ad87e7e63d4038e24ceba7959637e21b46f67652"
+    },
+    {
+      "path": "assets/icons/target.svg",
+      "bytes": 305,
+      "sha256": "054f10ea389ac87247f2de811882b5c1e6a59f15b87599ede99122f0a58edc58"
+    },
+    {
+      "path": "assets/icons/users.svg",
+      "bytes": 370,
+      "sha256": "8ecdb00234cde3b37f0d7135f3bcba1442be74bc44b86a7266bd254b4001d54e"
+    },
+    {
+      "path": "assets/icons/vote.svg",
+      "bytes": 305,
+      "sha256": "d8b3eb3b096e976fbecbe3d5bee11786042130f998f18753de2b2d15e423b40f"
+    }
+  ]
+}

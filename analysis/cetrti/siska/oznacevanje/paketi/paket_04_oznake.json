@@ -1,0 +1,402 @@
+[
+ {
+  "id": 83075,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "obstoječo prometno signalizacijo ustrezno dopolnili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83080,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83082,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V zaključni fazi del bomo preverili tudi možnosti postavitve dodatnih ovir",
+  "gotovost": "nizka",
+  "opomba": "le preučitev možnosti po zaključku del; lahko tudi S3"
+ },
+ {
+  "id": 83103,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ureditev ali ukrepov na tem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83135,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83146,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83147,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83148,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83149,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Na linijo 5 se praviloma razporeja zgibna vozila.",
+  "gotovost": "nizka",
+  "opomba": "LPP pojasni obstoječo prakso; dodatnega avtobusa/intervala ne naslovi"
+ },
+ {
+  "id": 83165,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo na terenu preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83170,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83172,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "ki bo na predmetni lokaciji občasno izvedlo nadzor",
+  "gotovost": "nizka",
+  "opomba": "enosmerno ureditev zagovarjajo, sprememba ni napovedana; obljubljen le občasen nadzor redarstva"
+ },
+ {
+  "id": 83174,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Zaradi enotne ureditve niso možne posebne prilagoditve za posamezne lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83179,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Prav tako bomo ponovno namestili fizične ovire oziroma stebričke",
+  "gotovost": "visoka",
+  "opomba": "obljubljena tudi sanacija cestišča"
+ },
+ {
+  "id": 83186,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83191,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83193,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83200,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83213,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83227,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83228,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "predmetni uvoz na Celovško cesto ni v pristojnosti urejanja Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "napotitev na DARS"
+ },
+ {
+  "id": 83236,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "spremembe semafornega intervala trenutno niso načrtovane",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83245,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na predmetnem križišču ne načrtujemo postavitve cestnih grbin oziroma ležečih policajev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83254,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Cestne grbine predstavljajo enega izmed učinkovitih ukrepov za umirjanje prometa",
+  "gotovost": "nizka",
+  "opomba": "implicitna zavrnitev; odgovor zagovarja grbine"
+ },
+ {
+  "id": 83256,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83269,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83279,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog ter razpoložljivih kadrovskih zmožnosti opravili nadzor na navedeni lokaciji",
+  "gotovost": "visoka",
+  "opomba": "hrup v pristojnosti Policije; luža, črte, znaki niso naslovljeni"
+ },
+ {
+  "id": 83290,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "žal ne upravljamo s prostori na območju Kosez",
+  "gotovost": "nizka",
+  "opomba": "ponudijo souporabo prostorov na drugih lokacijah"
+ },
+ {
+  "id": 83291,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Mestna občina Ljubljana nima pristojnosti niti neposrednega vpliva na poslovne odločitve gospodarskih družb",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83300,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83301,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "bomo predmetno lokacijo preverili ter izvedli sanacijo asfaltne površine in vzpostavili prvotno stanje",
+  "gotovost": "nizka",
+  "opomba": "vprašanje kdaj; rok vezan na obratovanje asfaltnih baz"
+ },
+ {
+  "id": 83326,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "ki bo na predmetni lokaciji izvajalo poostren nadzor",
+  "gotovost": "visoka",
+  "opomba": "fizične ovire le preučitev, če se kršitve nadaljujejo"
+ },
+ {
+  "id": 83330,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83331,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83337,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "nizka",
+  "opomba": "pritožba nad nedoslednostjo MOL; le evidentirana prijava inšpektoratu"
+ },
+ {
+  "id": 83341,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo ureditve javnih sanitarij",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83358,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83364,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno na predmetnem območju ne načrtujemo postavitve dodatnih košev za odpadke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83371,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi odstranili odpadke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83378,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83417,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "celovita prenova oziroma asfaltiranje Beljaške ulice trenutno ni mogoče",
+  "gotovost": "visoka",
+  "opomba": "razsvetljava ni naslovljena"
+ },
+ {
+  "id": 83439,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "je potrebno pri zasnovi notranje razporeditve upoštevati tudi potrebe starejših potnikov",
+  "gotovost": "nizka",
+  "opomba": "LPP pojasni načela; sprememba ni obljubljena"
+ },
+ {
+  "id": 83440,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "nizka",
+  "opomba": "vprašanje kdaj; le evidentirana prijava inšpektoratu"
+ },
+ {
+  "id": 83462,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "nizka",
+  "opomba": "pritožba, da sosednja jama ni bila sanirana; po potrebi; sanacija šele ko bodo obratovale asfaltne baze"
+ },
+ {
+  "id": 83466,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo na podlagi vašega opozorila preučili možnost dodatne ureditve talnih označb",
+  "gotovost": "nizka",
+  "opomba": "ležeče ovire niso naslovljene; le preučitev talnih označb"
+ },
+ {
+  "id": 83467,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo na predmetni lokaciji preučili možnost izvedbe dodatnih talnih prometnih označb",
+  "gotovost": "nizka",
+  "opomba": "le preučitev; za parkiranje napotitev na redarstvo ob prijavi"
+ },
+ {
+  "id": 83471,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "v najkrajšem možnem času izvedli nujne sanacijske ukrepe",
+  "gotovost": "nizka",
+  "opomba": "rok le 'v najkrajšem možnem času'"
+ },
+ {
+  "id": 83476,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "presojajo vsi zahtevani pogoji in parametri, vključno z vplivi načrtovanega objekta na prostor, promet in drugo infrastrukturo",
+  "gotovost": "nizka",
+  "opomba": "dovoljenje izdaja državni organ (S2 vidik)"
+ },
+ {
+  "id": 83485,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "V okviru načrtovane prenove Litostrojske ceste je predvidena tudi izvedba nujnih ukrepov na Gorazdovi ulici.",
+  "gotovost": "nizka",
+  "opomba": "v planu brez časovnice"
+ },
+ {
+  "id": 83489,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo na terenu preverili in po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

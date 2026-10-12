@@ -1,0 +1,402 @@
+[
+ {
+  "id": 77564,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Pristojna služba je predmetno območje že počistila.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77574,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Odgovor vam je že bil posredovana po mail-u 17.2.2025.",
+  "gotovost": "nizka",
+  "opomba": "Vsebinski odgovor ni objavljen, le sklic na e-pošto."
+ },
+ {
+  "id": 77592,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "Žal stalne osebne prisotnosti policista ali redarja ni mogoče zagotoviti.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77595,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77667,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "Odnašanje odpadkov v tuje zabojnike samo po sebi ni prekršek",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o gradbenem dovoljenju je odgovorjeno (dovoljenje obstaja)."
+ },
+ {
+  "id": 77668,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Izvajalcu smo naročili pregled na terenu in sanacijo nevarnega roba.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77676,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Razsvetljava bo urejena skladno s projektom ureditve, ki se pripravlja.",
+  "gotovost": "nizka",
+  "opomba": "Projekt v pripravi, brez roka."
+ },
+ {
+  "id": 77677,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Do takrat bo PST urejen, oziroma ustrezno urejen, da bo pohod potekal neovirano.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77707,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "Po stvarnopravnem zakoniku (SPZ) lahko etažni lastniki sami porežejo moteče rastje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77761,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Izvajalcem smo naročili, da preverijo stanje na terenu in ukrepajo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77782,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "Za celovito obnovo podhoda pri Aleji je v pripravi projekt.",
+  "gotovost": "nizka",
+  "opomba": "Projekt v pripravi, brez roka."
+ },
+ {
+  "id": 77786,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Vzdrževalec je obveščen. Zadevo bo preveril in ustrezno ukrepal.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77823,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Da bi lahko situacijo natančno preverili, bi rabili več podatkov",
+  "gotovost": "nizka",
+  "opomba": "Odgovor pojasni delovanje prikazovalnikov in prosi za dodatne podatke."
+ },
+ {
+  "id": 77922,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Pot heroja Trtnika bomo v letošnjem letu obnovili.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi neposredno obrezovanja vej, napove obnovo poti."
+ },
+ {
+  "id": 77933,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo ali lahko izvedemo kakšne ukrepe in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje o lastništvu delno odgovorjeno."
+ },
+ {
+  "id": 77938,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "Za ureditev zelenja predlagamo, da se obrnete na upravnika tamkajšnjih objektov.",
+  "gotovost": "visoka",
+  "opomba": "Ogled opravljen, nevarnosti ni zaznane."
+ },
+ {
+  "id": 77985,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77987,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Vrsta nejasna: parkiranje ob cesti, prošnja za rešitev."
+ },
+ {
+  "id": 77994,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Odločitve o ureditvi in času njene izvedbe prenove še ni.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o sodelovanju javnosti ni odgovorjeno."
+ },
+ {
+  "id": 77996,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77999,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "V okviru kadrovskih zmožnosti bomo tudi v prihodnje, v sklopu rednega opravljanja nalog, na tej lokaciji izvajali nadzor",
+  "gotovost": "visoka",
+  "opomba": "Opravljen nadzor, kršitev ni bilo zaznanih."
+ },
+ {
+  "id": 78002,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Izvajalcu smo posredovali vašo pobudo, tako da bo v času pohoda urejeno.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78007,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "zato bodo na terenu izvedene preveritve in ukrepi v skladu s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": "Ogledalo ni namestil upravljavec občinskih cest."
+ },
+ {
+  "id": 78022,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Ocenjujejo, da je košev v parku dovolj in da ni potrebe po dodatnih.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78058,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno še nimamo vzpostavljenih zbiralnikov odpadnega olja.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78095,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78098,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje (zakaj znak tu, v Podutiku ne) ni vsebinsko odgovorjeno."
+ },
+ {
+  "id": 78105,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Predmetno zadevo bomo uredili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78106,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Današnji ogled stanja na Matjanovi kaže, da je bilo drevo že odstranjeno.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78139,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Pitnik na predlagani lokaciji ni predviden.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78152,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78181,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Zadeva je bila predana v pregled.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78227,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "bomo, na podlagi prejete pritožbe ponovno opozorili na zaznane kršitve",
+  "gotovost": "nizka",
+  "opomba": "JSS bo najemnike opozoril; odpoved pogodbe le kot skrajni ukrep; hrup napoti na policijo."
+ },
+ {
+  "id": 78230,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Dodatno bomo preverili stanje v Šiški in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 78244,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Preverimo in uredimo.",
+  "gotovost": "nizka",
+  "opomba": "Zelo kratek odgovor, obljuba ureditve brez roka."
+ },
+ {
+  "id": 78248,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "na predmetni lokaciji izvedli več nadzorov mirujočega prometa in uvedli več prekrškovnih postopkov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78257,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Zadeva je že naročena, vendar na žal še ni bila realizirana.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78270,
+  "vrsta": "V3",
+  "stanje": "S5",
+  "dokaz": "obveščamo vas, da zapuščena vozila že obravnavamo v skladu z 19. členom Zakona o pravilih cestnega prometa.",
+  "gotovost": "nizka",
+  "opomba": "Postopek v teku, brez roka."
+ },
+ {
+  "id": 78277,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "V kolikor se bo ponudila priložnost, bomo o namestitvi dodatne stene za vadbo tenisa vsekakor razmislili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78283,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "je predvidena tudi izgradnja kolesarske poti, ki bo potekala vzdolž železniške proge.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor omeni le državni načrt za Gorenjsko progo."
+ },
+ {
+  "id": 78294,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78300,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78321,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Po postavitvi opažamo izboljšanje situacije, zato koša ne bomo odstranjevali.",
+  "gotovost": "nizka",
+  "opomba": "Vrsta nejasna (odstranitev koša / praznjenje)."
+ },
+ {
+  "id": 78324,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "glede same postavitve fizičnih ovir v obliki grbin obrniti na pristojni Oddelek za gospodarske dejavnosti in promet.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi hitrosti, le parkiranje; napoti na drug oddelek MOL."
+ },
+ {
+  "id": 78333,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Na podlagi vaše pobude bomo opravili nadzor  na omenjeni lokaciji",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78334,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Ko bodo ti postopki končani, bo določeno katere parcele bodo javne in katere ne.",
+  "gotovost": "visoka",
+  "opomba": "Odloženo do zaključka sodnih postopkov."
+ },
+ {
+  "id": 78347,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Zadevo bomo preverili. Če bo v bližini na voljo vodovodna cev in bo izvedba možna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78372,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "Lokacijo bomo preverili in preučili možnosti ureditve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78397,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Na predlagani lokaciji se bo letos prenovil Bloudkov park, ki ne zajema vzpostavitev skate parka.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78398,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "V okviru študije bodo preverjene različne variante poteka linij",
+  "gotovost": "nizka",
+  "opomba": "Študija linij v teku; možnost bo le preverjena."
+ }
+]

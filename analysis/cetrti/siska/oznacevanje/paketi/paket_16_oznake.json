@@ -1,0 +1,402 @@
+[
+ {
+  "id": 76926,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Zadevo bomo uredili.",
+  "gotovost": "nizka",
+  "opomba": "Obljuba ureditve brez imenovanega ukrepa in roka."
+ },
+ {
+  "id": 76941,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Sanacija je že naročena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76950,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo možnosti preprečevanja parkiranja na zelenici.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76958,
+  "vrsta": "V5",
+  "stanje": "S3",
+  "dokaz": "V teku je obravnava možnosti za obnovo prehoda, vendar dokončne odločitve niso sprejete",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76971,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Intervali med odhodi so ostali enaki, kot decembra, kar pomeni, da se število avtobusov v uporabi ni zmanjšalo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 76992,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "gre za zasebno zemljišče na katerem pa Mestno redarstvo ne more ukrepati.",
+  "gotovost": "visoka",
+  "opomba": "Redarstvo opravilo kontrolo; pobuda delno vprašanje o pristojnosti."
+ },
+ {
+  "id": 77011,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Ukrepi za zagotavljanje varnosti so naročeni in bodo izvedeni v skladu z ostalimi prioritetami.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77017,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzorom bomo v okviru kadrovskih zmožnosti nadaljevali tudi v prihodnje ob rednem opravljanju svojih nalog",
+  "gotovost": "visoka",
+  "opomba": "Ob nadzoru kršitev niso zaznali."
+ },
+ {
+  "id": 77020,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala; odgovor po treh mesecih."
+ },
+ {
+  "id": 77047,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Napaka bo odpravljena v najkrajšem možnem času.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77051,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori območja v času dogodkov bomo v skladu s kadrovskimi zmožnostmi nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77068,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Trenutno smo v fazi pridobivanja gradbenega dovoljenja.",
+  "gotovost": "visoka",
+  "opomba": "Odgovor po več kot 7 mesecih."
+ },
+ {
+  "id": 77095,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77110,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77115,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Zadevo bomo uredili v najkrajšem možnem času iz naslova intervencijskih popravil, predvidoma do konca meseca aprila.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77117,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "patrulja Mestnega redarstva opravila nazor lokacije, kjer pa kršitev nismo zaznali.",
+  "gotovost": "nizka",
+  "opomba": "Nadzor opravljen, kršitev ni bilo; brez nadaljnje zaveze."
+ },
+ {
+  "id": 77126,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "pozvali Snago, ki na tem delu skrbi za čistočo, naj en koš (brez pokrova) odstranijo.",
+  "gotovost": "nizka",
+  "opomba": "Delno ugodeno: en koš odstranjen, trije ostanejo."
+ },
+ {
+  "id": 77137,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano pobudo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala."
+ },
+ {
+  "id": 77158,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Sanacija predmetnega območja je naročena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77159,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Hvala za posredovano pobudo.",
+  "gotovost": "visoka",
+  "opomba": "Samo zahvala."
+ },
+ {
+  "id": 77161,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "je JP VOKA SNAGA že naslovili prošnjo na JP LPT za organizacijo začasnega zaprtja določenih parkirnih mest.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor večinoma opisuje pretekla čiščenja."
+ },
+ {
+  "id": 77174,
+  "vrsta": "V3",
+  "stanje": "S5",
+  "dokaz": "zapuščeno vozilo že obravnavamo v skladu z 19. členom Zakona o pravilih cestnega prometa.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77189,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Bomo preverili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77196,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Lokacijo bodo vključili v plan in jo v najkrajšem možnem času očistili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77204,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "vse šole imajo izdelane varnostne protokole za ukrepanje ob različnih situacijah, MOL pa šolam namenja sredstva za varovanje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77219,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Polnilnice za električna vozila postavljajo ponudniki na podlagi odobrene vloge",
+  "gotovost": "nizka",
+  "opomba": "Samo pojasnilo postopka, brez zaveze."
+ },
+ {
+  "id": 77230,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77281,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Predlagam, da vašo pobudo naslovite na Šport Ljubljana.",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na javni zavod Šport Ljubljana."
+ },
+ {
+  "id": 77295,
+  "vrsta": "V3",
+  "stanje": "S5",
+  "dokaz": "zapuščeno vozilo že obravnavamo v skladu z 19. členom Zakona o pravilih cestnega prometa.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77297,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Pri nadzorih smo ugotovili več kršitev, zoper kršitelje pa smo ukrepali v skladu z našimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": "Fizične ovire niso naslovljene."
+ },
+ {
+  "id": 77303,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Zadevo bomo preučili.",
+  "gotovost": "visoka",
+  "opomba": "Ponovljena pobuda."
+ },
+ {
+  "id": 77337,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Vašo pobudo smo posredovali podjetju VOKA Snaga in jih pozvali, naj začnejo njihovi delavci smeti prazniti peš.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77355,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Pri nadzorih smo ugotovili več kršitev, zoper kršitelje pa smo ukrepali v skladu z našimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77357,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Zadeva je že bila urejena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77363,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Sanacija predmetnega območja je že naročena izvajalcem.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77368,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Vaše elektronsko sporočilo smo prejeli in ga posredovali v reševanje Službi za pravne zadeve MOL",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77393,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Luknja v cestistišču je že bila sanirana.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77400,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Odgovor smo vam 31.3.2025 posredovali na vaš elektronski naslov.",
+  "gotovost": "nizka",
+  "opomba": "Vsebina odgovora ni objavljena."
+ },
+ {
+  "id": 77410,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Lokacija je vključena v letošnji plan sanacij.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77420,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "Pri nadzorih smo ugotovili več kršitev, zoper kršitelje pa smo ukrepali v skladu z našimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77422,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Hvala za vašo pobudo. Preverimo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77434,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Sanacija luknje je že bila izvedena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77458,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77517,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Omenjene lipe rastejo na območju, ki je v lasti vsakokratnih lastnikov stavbe in niso v upravkljanju Mestne občine Ljubljana.",
+  "gotovost": "nizka",
+  "opomba": "Drevo na zasebnem zemljišču; vrsta morda V6."
+ },
+ {
+  "id": 77523,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77524,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi in možnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Vrsta morda V6 (sprememba režima hitrosti)."
+ },
+ {
+  "id": 77541,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77546,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 77547,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Ureditev predmetnega območja je naročena.",
+  "gotovost": "visoka",
+  "opomba": "Obrez dreves ni posebej naslovljen."
+ },
+ {
+  "id": 77551,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Predlagamo, da se glede predmetne zadeve obrnete na Javni zavod Šport Ljubljana.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje ni vsebinsko odgovorjeno; napotitev na JZ Šport Ljubljana."
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 82477,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "odstranjevanje grafitov na zasebnih objektih ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "Grafiti na zasebnih fasadah; omenjen tudi redni nadzor redarstva."
+ },
+ {
+  "id": 82484,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Kljub navedenemu bomo nadzoru tovrstnih parkirnih mest še naprej posvečali posebno pozornost.",
+  "gotovost": "visoka",
+  "opomba": "Predlog dodatnih invalidskih mest ni naslovljen."
+ },
+ {
+  "id": 82489,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravljamo nadzor lokacije",
+  "gotovost": "nizka",
+  "opomba": "Fizične ovire niso v pristojnosti redarstva; napotitev na OGDP, ki je že odgovoril."
+ },
+ {
+  "id": 82492,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Inšpektorat Mestne občine Ljubljana nima pristojnosti ukrepanja zato postopka ne bomo uvedli",
+  "gotovost": "visoka",
+  "opomba": "Napotitev na državno okoljsko inšpekcijo in policijo."
+ },
+ {
+  "id": 82503,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Na temo predlaganega »bontona« v prometu smo vam že večkrat odgovorili",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o podatkih o zasedenosti pločnikov ni odgovorjeno."
+ },
+ {
+  "id": 82534,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Mestno redarstvo MOL na območju Slovenske ceste izvaja občasne nadzore ter v primeru zaznanih kršitev ustrezno ukrepa",
+  "gotovost": "nizka",
+  "opomba": "Pojasnjeno, da je kratkotrajno ustavljanje dovoljeno po signalizaciji."
+ },
+ {
+  "id": 82543,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "sanacija oziroma ustrezno vzdrževanje ni v pristojnosti Mestne občine Ljubljana, temveč v njihovi pristojnosti",
+  "gotovost": "visoka",
+  "opomba": "Ploščad v lasti etažnih lastnikov."
+ },
+ {
+  "id": 82545,
+  "vrsta": "V8",
+  "stanje": "S2",
+  "dokaz": "Inšpektorat MU MOL hrupa ne nadzira",
+  "gotovost": "visoka",
+  "opomba": "Napotitev na policijo."
+ },
+ {
+  "id": 82547,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82575,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Vljudno vas prosimo, da nam posredujete fotografijo navedenega grafita",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82595,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "bomo strokovno preučili in, v kolikor bo tehnično izvedljiv, ga poskušali upoštevati pri prihodnjih ureditvah",
+  "gotovost": "nizka",
+  "opomba": "Pogojna preučitev brez zaveze."
+ },
+ {
+  "id": 82597,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82600,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "Mestna občina Ljubljana na tem področju nima pristojnosti nadzora.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o požarni varnosti klubov; napotitev na državne organe; število klubov ni odgovorjeno."
+ },
+ {
+  "id": 82601,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Osnovne informacije o možnostih vključitve v enote zaščite in reševanja",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82602,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Za prireditev Izvajanje Božične glasbe -DJ je bilo izdano dovoljenje s strani Oddelka za gospodarske dejavnosti in promet",
+  "gotovost": "nizka",
+  "opomba": "Odgovor za Lolito in decembrske nadzore; ostali ponudniki niso omenjeni."
+ },
+ {
+  "id": 82611,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "Odstranjevanje grafitov na zasebnih objektih ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82614,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo spremembe prometne ureditve",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82622,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "dodatna razdalja, ki jo morajo uporabniki garaž prevoziti zaradi veljavne prometne ureditve, ne predstavlja večje ovire",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82625,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "Mestna občina Ljubljana na tem področju nima pristojnosti nadzora.",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na državne organe."
+ },
+ {
+  "id": 82627,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "se za dodatne informacije in ukrepe obrnete na pristojni Inšpektorat Republike Slovenije za varstvo pred naravnimi in drugimi nesrečami",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje o nadzorih v Nebu ni vsebinsko odgovorjeno."
+ },
+ {
+  "id": 82628,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "Mestna občina Ljubljana na tem področju nima pristojnosti nadzora.",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na državne organe."
+ },
+ {
+  "id": 82630,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno na navedenem križišču ne načrtujemo sprememb prometne signalizacije.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82633,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "bomo uvrstili v nabor lokacij, ki so ob upoštevanju kriterijev primerne za postavitev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82638,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "Program varnih sob je v pristojnosti Ministrstva za zdravje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82640,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo lokacijo dodatno preverili na terenu ter po potrebi izvedli ustrezno čiščenje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82645,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Služba za vzdrževanje Mestne občine Ljubljana redno skrbi za čiščenje navedenega dovoza.",
+  "gotovost": "nizka",
+  "opomba": "Brez dodatne zaveze; uporabnike pozovejo k sodelovanju pri čiščenju."
+ },
+ {
+  "id": 82660,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo spremembe prometne signalizacije na navedenem križišču.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82662,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Navedeno lokacijo bomo dodatno preverili ter po potrebi zagotovili ustrezno čiščenje.",
+  "gotovost": "visoka",
+  "opomba": "Nedelovanje zbiralnic pozimi ni naslovljeno."
+ },
+ {
+  "id": 82716,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Steber semaforja bomo na terenu preverili in v primeru ugotovljenih nepravilnosti izvedli potrebne sanacijske ukrepe.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 82723,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "si prizadevamo za sprotno zaznavanje tovrstnih težav in ustrezno ukrepanje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82724,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "v Zavetišču za brezdomce na Povšetovi 10 zagotovili dodatna zasilna ležišča",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82727,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "iz pobude ni razvidno, na katero šolo se nanaša.",
+  "gotovost": "nizka",
+  "opomba": "Zahteva glede mnenja k imenovanju ravnateljice; MOL prosi za podatek o šoli."
+ },
+ {
+  "id": 82738,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "v kolikor bo tehnično izvedljivo, ga bomo opremili z zvočno signalizacijo",
+  "gotovost": "nizka",
+  "opomba": "Pogojno glede tehnične izvedljivosti."
+ },
+ {
+  "id": 82748,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Javnega povabila za praznično okrasitev, na katerega bi se lahko prijavili vsi zainteresirani umetniki s svojimi koncepti in idejami, za zdaj ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82779,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Izvedbo zamenjave načrtujemo v toplejšem delu letošnjega leta",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82780,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ne predvideva posebnih sprememb cen za posamezne skupine uporabnikov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82787,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "Splošen odgovor, lokacija ni naslovljena."
+ },
+ {
+  "id": 82788,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Tudi v prihodnje si bomo prizadevali za učinkovito izvajanje zimske službe",
+  "gotovost": "visoka",
+  "opomba": "Splošen odgovor, lokacija ni naslovljena."
+ },
+ {
+  "id": 82790,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Ključ od igrišča se nahaja pri receptorju stavbe na naslovu Zarnikova ulica 3.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82810,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokaciji",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82814,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo dodatnih celostnih ureditev parka ob Karlovški cesti",
+  "gotovost": "visoka",
+  "opomba": "Po potrebi osnovno redno vzdrževanje."
+ },
+ {
+  "id": 82820,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "vse izdane letne parkirne dovolilnice za stanovalce v letu 2025 veljale do konca meseca januarja",
+  "gotovost": "nizka",
+  "opomba": "Odgovor pojasni obstoječo ureditev, ki delno ustreza predlogu; brez zaveze."
+ },
+ {
+  "id": 82834,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Mestno redarstvo MOL in Policija v okviru mešanih patrulj na izpostavljenih območjih izvajata redne nadzore",
+  "gotovost": "nizka",
+  "opomba": "Splošen odgovor o obstoječih ukrepih."
+ },
+ {
+  "id": 82837,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "spremembe cen parkirnin za posamezne uporabnike ali posamezne lokacije niso možne",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82838,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo preučili možnost uvedbe talnih označb na cestišču",
+  "gotovost": "nizka",
+  "opomba": "Samo preučitev možnosti; vidnost obstoječih znakov ni naslovljena."
+ },
+ {
+  "id": 82841,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "takoj, ko bodo vremenske razmere to dopuščale, izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82842,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Pristojne izvajalce bomo opozorili na navedene nepravilnosti ter jih pozvali k doslednemu ravnanju",
+  "gotovost": "nizka",
+  "opomba": "Projekt vodi DRSI; roka ni."
+ },
+ {
+  "id": 82844,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "postavitev dodatnih stebričkov trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": "Obveščeno redarstvo za občasen nadzor."
+ },
+ {
+  "id": 82847,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Z izvajanjem ustreznih ukrepov bomo nadaljevali tudi v prihodnje",
+  "gotovost": "nizka",
+  "opomba": "Splošen odgovor; ponudnik Nobel burek ni omenjen."
+ },
+ {
+  "id": 82848,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "ko bodo vremenske razmere to dopuščale, po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

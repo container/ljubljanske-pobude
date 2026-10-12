@@ -1,0 +1,19 @@
+{
+  "cas": "2026-09-29T23:14:25.031Z",
+  "id": 84043,
+  "izvajalec": "nepremicnine",
+  "koga": "da",
+  "lokacija": "ok",
+  "obseg": "tocka",
+  "odlocitev": "popravljeno",
+  "opomba": "",
+  "relevanca": "visoka",
+  "spremenjeno": [
+    "koga",
+    "relevanca"
+  ],
+  "stanje": "S0",
+  "teren": "nereseno",
+  "varnost": "ne",
+  "vrsta": "V7"
+}

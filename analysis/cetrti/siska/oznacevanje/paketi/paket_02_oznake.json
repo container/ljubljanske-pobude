@@ -1,0 +1,402 @@
+[
+ {
+  "id": 82087,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Operater bo na kraj v najkrajšem možnem času poslal prosto patruljo",
+  "gotovost": "nizka",
+  "opomba": "Nadzor je vezan na sprotno telefonsko prijavo."
+ },
+ {
+  "id": 82091,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "Obnova Litostrojske ceste je predvidena v letu 2026.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82107,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo dodatnih ureditev na navedeni stezi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82131,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo še naprej izvajali redne in usmerjene nadzore",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82138,
+  "vrsta": "V6",
+  "stanje": "S6",
+  "dokaz": "Magistrova ulica trenutno grobo asfaltirana in začasno prevozna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82141,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "kjer bo to tehnično izvedljivo in smiselno, postavili stebričke oziroma druge fizične zapore",
+  "gotovost": "nizka",
+  "opomba": "Pogojna izvedba po pregledu, brez roka."
+ },
+ {
+  "id": 82143,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "stanje na lokaciji preverili ter po potrebi poskrbeli za čiščenje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82157,
+  "vrsta": "V6",
+  "stanje": "S6",
+  "dokaz": "Pri dobavi novih vozil smo vaš predlog že delno upoštevali.",
+  "gotovost": "nizka",
+  "opomba": "Delno izvedeno le pri novih vodikovih avtobusih, ne celotnem voznem parku."
+ },
+ {
+  "id": 82171,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo sprememb parkirne ureditve",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82172,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatne ureditev oziroma postavitve količkov ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82173,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo postavitve fizičnih ovir oziroma stebričkov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82174,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatna semaforizacija za zavijanje desno pa v tem trenutku ni predvidena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82179,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo zamenjave cestnega ogledala.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82180,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Pristojni arborist bo drevo strokovno pregledal in po potrebi določil ustrezne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Odstranitev nevarnega drevesa ni napovedana, le pregled in določitev ukrepov."
+ },
+ {
+  "id": 82184,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "navedeno lokacijo preverile in po potrebi poskrbele za odstranitev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82185,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "stanje mostička preverile in v primeru ugotovljenih pomanjkljivosti izvedle nujne sanacijske vzdrževalne ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82186,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "omenjeni kažipot po potrebi ustrezno uredili oziroma ponovno postavili.",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep ponovne postavitve je pogojen s preverjanjem. (Usklajeno: »po potrebi« po preverjanju = S3.)"
+ },
+ {
+  "id": 82187,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82223,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "omogoča varno souporabo ceste med kolesarji in vozniki motornih vozil.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor zagovarja ureditev, ne napove spremembe."
+ },
+ {
+  "id": 82230,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo sprememb obstoječe prometne signalizacije oziroma semafornih intervalov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82243,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "na tem območju načrtujemo ureditev prehoda čez železniško progo",
+  "gotovost": "nizka",
+  "opomba": "Projekt brez časovnice, za podrobnosti napotitev na državo."
+ },
+ {
+  "id": 82290,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno tovrstne signalizacije z opozorilnimi lučkami ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82306,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo na tem območju preverili možnosti dodatne označitve kolesarskih površin",
+  "gotovost": "nizka",
+  "opomba": "Napovedana preveritev možnosti, ne izvedba označb."
+ },
+ {
+  "id": 82310,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedle ustrezne ukrepe v skladu z veljavnimi predpisi in strokovnimi smernicami.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82314,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "potrpežljivo počakajo na zelen signal semaforja",
+  "gotovost": "nizka",
+  "opomba": "Ni zaveze odpravi ovirane vidljivosti."
+ },
+ {
+  "id": 82316,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "na terenu preverili in po potrebi izvedli nujne sanacijske ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82326,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Prevrnjene stebričke bomo na terenu nemudoma postavili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82339,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "vključno z odstranitvijo vejevja",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep v okviru pogojne sanacije po izboljšanju vremena."
+ },
+ {
+  "id": 82342,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo ureditve dodatne prometne signalizacije ali dodatnih prometno-tehničnih ukrepov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82345,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82361,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Magistrova ulica bo urejena z dvosmerno prometno ureditvijo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82363,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "opravili nadzor lokacije",
+  "gotovost": "nizka",
+  "opomba": "Odgovor napoveduje nadzor, ne obravnava zahtevanih količkov."
+ },
+ {
+  "id": 82393,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Vljudno vas prosimo, da nam posredujete jasno fotografijo lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82404,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog ter kadrovskih zmožnosti opravljamo nadzor lokacije",
+  "gotovost": "nizka",
+  "opomba": "Opis tekočega nadzora brez potrditve konkretnega ukrepanja."
+ },
+ {
+  "id": 82405,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "dela betoniranja potekajo neprekinjeno",
+  "gotovost": "nizka",
+  "opomba": "Pojasnilo nočnih del, brez izboljšanja obveščanja ali omejitve hrupa."
+ },
+ {
+  "id": 82406,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "vse aktualne prometne informacije za območje Ljubljane spremljate na portalu PromInfo",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na portal ne odgovori na zahtevo po miru in predhodnem obveščanju."
+ },
+ {
+  "id": 82424,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Linija 99 vozi na relaciji SŽ Šiška – SŽ Kolodvor.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82436,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo postavitve dodatnega koša za pasje iztrebke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82457,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo postavitve dodatne javne razsvetljave",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82535,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82536,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "navedeno lokacijo preverili ter po potrebi izvedli sanacijo zelenice.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82544,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "je izključno v pristojnosti Policije in Inšpektorata Republike Slovenije za notranje zadeve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82577,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82591,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "preverili ter po potrebi izvedli nujne sanacijske ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82594,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno tlakovanja navedene poti ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82623,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Navedeno lokacijo bomo preverili ter po potrebi zagotovili ustrezno čiščenje okolice.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82624,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "pri čemer bomo v prihodnje poskrbeli tudi za ureditev okoliških ulic.",
+  "gotovost": "nizka",
+  "opomba": "Za okoliške ulice ni določen rok; termin Goriške ni termin celotnega zahtevanega območja."
+ },
+ {
+  "id": 82632,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82639,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Magistrova ulica uradno še vedno zaprta, saj določena gradbena dela še niso v celoti zaključena.",
+  "gotovost": "nizka",
+  "opomba": "Pojasnjen razlog obvoza, datum zaključka ni podan."
+ },
+ {
+  "id": 82657,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "Mestna občina Ljubljana s posekom ni bila seznanjena in ga ni izvajala.",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

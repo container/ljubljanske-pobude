@@ -1,0 +1,17 @@
+{
+  "cas": "2026-09-29T23:02:01.581Z",
+  "id": 78849,
+  "izvajalec": "ceste",
+  "koga": "da",
+  "obseg": "tocka",
+  "odlocitev": "popravljeno",
+  "opomba": "\"Ker je minilo že dalj časa\" ... to pomeni, da te pobude sploh ne delujejo, če rabijo preveč časa za odgovor, da je sploh relevanten. Mogoče moramo takšne posbej označiti",
+  "relevanca": "srednja",
+  "spremenjeno": [
+    "vrsta"
+  ],
+  "stanje": "S3",
+  "teren": "",
+  "varnost": "ne",
+  "vrsta": "V7"
+}

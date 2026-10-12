@@ -1,0 +1,466 @@
+<title>Pereče teme Viča</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: theme index + detail on the left, a sticky vector map of ČS Vič on the right; stacks with the map on top on phones. */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#1c2420; --muted:#5b6862; --line:#d7ddd9;
+  --accent:#dc2626; --accent-soft:#fde2e2;
+  --traffic:#1d4ed8; --other:#c026d3;
+  --land:#ecefe9; --road:#c9cfca; --green:#d6e6cf; --water:#cfe0e8; --border:#1c2420;
+  --ok:#2c7a3f; --warn:#9a5b00; --bad:#a3342b;
+  --f-display:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#131816; --surface:#1b2220; --ink:#e4eae7; --muted:#9aa7a1; --line:#2e3834;
+  --accent:#f87171; --accent-soft:#3b1d1d; --traffic:#7aa2ff; --other:#e879f9;
+  --land:#1a201e; --road:#34403b; --green:#1f2e22; --water:#1c2b33; --border:#e4eae7;
+  --ok:#78c98b; --warn:#e3a54a; --bad:#ec8a80; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#131816; --surface:#1b2220; --ink:#e4eae7; --muted:#9aa7a1; --line:#2e3834;
+  --accent:#f87171; --accent-soft:#3b1d1d; --traffic:#7aa2ff; --other:#e879f9;
+  --land:#1a201e; --road:#34403b; --green:#1f2e22; --water:#1c2b33; --border:#e4eae7;
+  --ok:#78c98b; --warn:#e3a54a; --bad:#ec8a80; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+.callout{position:fixed;z-index:2000;max-width:320px;background:var(--ink);color:var(--surface);font-size:13px;line-height:1.45;padding:8px 10px;border-radius:6px;pointer-events:none;box-shadow:0 6px 20px rgba(0,0,0,.2)}
+.callout b{display:block;margin-bottom:2px}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body)}
+.app{display:grid;grid-template-columns:minmax(0,400px) minmax(0,1fr);gap:0;min-height:100vh}
+.side{padding-inline:20px;padding-block:22px 40px;border-right:1px solid var(--line);min-width:0}
+.mapwrap{position:sticky;top:env(safe-area-inset-top,0px);height:100vh;min-width:0}
+h1{font:600 30px/1.1 var(--f-display);margin:0 0 6px}
+.lede{color:var(--muted);font-size:14px;margin:0 0 14px}
+.toggles{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;align-items:center}
+.filters{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 10px;margin-bottom:10px}
+.filters summary{cursor:pointer;font-weight:600;font-size:13.5px}
+.fcount{font-weight:400;color:var(--muted);margin-left:6px}
+.fgroup{display:grid;gap:4px;margin-top:8px}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{all:unset;box-sizing:border-box;display:inline-flex;align-items:center;gap:5px;font-size:12.5px;padding:3px 8px;border:1px solid var(--line);border-radius:999px;cursor:pointer;background:var(--bg);color:var(--ink)}
+.chip i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.chip[aria-pressed="false"]{opacity:.4;text-decoration:line-through}
+.chip:focus-visible{outline:2px solid var(--accent)}
+#cMode{font:14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:5px 8px}
+.frow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;justify-content:space-between}
+#fChips{margin:8px 0}
+.fnote{font-size:12.5px;color:var(--warn);margin:0 0 6px}
+.chip b{font-weight:500;color:var(--muted);font-variant-numeric:tabular-nums}
+.tlabel{font-size:13px;color:var(--muted);margin-right:2px}
+.toggles button,.btn{font:500 13px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:5px 10px;border-radius:6px;cursor:pointer}
+.toggles button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--surface)}
+button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.grp{font:600 11.5px var(--f-body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:16px 0 4px;display:flex;align-items:center;gap:8px}
+.grp i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.theme{all:unset;box-sizing:border-box;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;align-items:center;width:100%;padding:7px 8px;border-radius:6px;cursor:pointer}
+.theme:hover{background:var(--surface)}
+.theme[aria-pressed="true"]{background:var(--surface);box-shadow:inset 3px 0 0 var(--accent)}
+.theme:focus-visible{outline:2px solid var(--accent)}
+.tname{font-weight:500;min-width:0}
+.tmeta{grid-column:1/-1;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.spark{display:flex;align-items:flex-end;gap:2px;height:20px}
+.spark b{width:6px;background:var(--muted);border-radius:1px;opacity:.45}
+.spark b{opacity:.6}
+.tnum{font:500 13px var(--f-mono);min-width:3ch;text-align:right;font-variant-numeric:tabular-nums}
+.detail{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-top:14px}
+.detail h2{font:600 22px/1.2 var(--f-display);margin:0 0 4px}
+.kpis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:10px 0}
+.kpi{background:var(--bg);border-radius:6px;padding:6px 8px}
+.kpi b{display:block;font:600 18px var(--f-mono);font-variant-numeric:tabular-nums}
+.kpi span{font-size:11.5px;color:var(--muted)}
+.bars{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:3px 8px;align-items:center;font-size:12.5px;font-variant-numeric:tabular-nums;margin:6px 0 10px}
+.bars .bar{height:8px;background:var(--line);border-radius:4px;overflow:hidden}
+.bars .bar i{display:block;height:100%;background:var(--muted)}
+.lbl{font:600 11px var(--f-body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:12px 0 4px}
+.plist{display:grid;gap:2px;max-height:360px;overflow:auto}
+.pitem{all:unset;box-sizing:border-box;display:grid;grid-template-columns:auto auto minmax(0,1fr);gap:8px;align-items:baseline;padding:4px 4px;border-radius:4px;cursor:pointer;font-size:13.5px}
+.pitem:hover,.pitem:focus-visible{background:var(--bg)}
+.pitem .d{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.st{font:500 11px var(--f-mono);padding:0 4px;border-radius:3px;background:var(--line)}
+.st.S1,.st.S3,.st.S0{color:var(--bad)}
+.st.S5,.st.S6,.st.SV{color:var(--ok)}
+.st.S2,.st.S4{color:var(--warn)}
+.pitem .t{overflow-wrap:anywhere}
+.pitem.old .t{color:var(--muted)}
+.field{display:grid;gap:4px;margin-top:8px}
+.field label{font-size:12.5px;color:var(--muted)}
+.field select,.field textarea{font:14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:6px 8px;width:100%}
+.saved{font-size:12px;color:var(--muted);margin-left:8px}
+.legbtn{position:absolute;left:12px;bottom:12px;z-index:510;font:500 13px var(--f-body);background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:6px 10px;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.legbtn[aria-expanded="true"]{bottom:auto;top:auto}
+.legend{z-index:500;position:absolute;left:12px;bottom:52px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:12px;display:grid;gap:3px;max-width:calc(100% - 24px)}
+.legend div{display:flex;align-items:center;gap:6px}
+.zoom{position:absolute;right:12px;top:12px;display:grid;gap:4px}
+.zoom button{width:32px;height:32px;font:600 16px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:6px;cursor:pointer}
+.tip{z-index:600;position:absolute;pointer-events:none;background:var(--ink);color:var(--surface);font-size:12.5px;padding:4px 8px;border-radius:4px;max-width:260px;transform:translate(-50%,-120%)}
+.overlay{position:fixed;inset:0;z-index:20;background:color-mix(in srgb,var(--ink) 45%,transparent);display:flex;align-items:flex-start;justify-content:center;padding:max(24px,env(safe-area-inset-top,0px)) 16px 24px;overflow-y:auto}
+.panel{background:var(--surface);color:var(--ink);border-radius:10px;max-width:720px;width:100%;padding:20px 22px;box-shadow:0 12px 40px rgba(0,0,0,.25)}
+.panel h3{font:600 21px/1.25 var(--f-display);margin:4px 0 6px}
+.panel .top{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}
+.panel p{white-space:pre-line;overflow-wrap:anywhere;margin:6px 0}
+.panel .who{font-size:13px;color:var(--muted)}
+.panel a{color:var(--accent)}
+.facts{display:grid;grid-template-columns:minmax(140px,auto) minmax(0,1fr);gap:3px 14px;margin:0;font-size:13.5px}
+.facts dt{color:var(--muted)}
+.facts dd{margin:0;overflow-wrap:anywhere}
+.thumbs{display:flex;flex-wrap:wrap;gap:8px}
+.thumbs img{height:110px;width:auto;max-width:100%;border-radius:6px;border:1px solid var(--line);display:block}
+@media (max-width:520px){.facts{grid-template-columns:1fr}.facts dd{margin-bottom:6px}}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+@media (max-width:860px){.app{grid-template-columns:1fr}.mapwrap{position:relative;height:62vh;order:-1}.side{border-right:0}}
+/*LEAFLETCSS*/
+#map{width:100%;height:100%;background:#eef0ec}
+.leaflet-tile-pane{filter:grayscale(1) brightness(1.08) contrast(.9)}
+.leaflet-container{font-family:var(--f-body)}
+.leaflet-control-attribution{font-size:11px}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:900;display:flex;gap:4px;align-items:center;padding:8px 20px;background:var(--surface);border-bottom:1px solid var(--line)}
+.tabs .brand{font:600 17px var(--f-display);margin-right:14px}
+.tabs button{all:unset;cursor:pointer;font:500 14px var(--f-body);padding:6px 12px;border-radius:6px;color:var(--muted)}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--surface)}
+.tabs button:focus-visible{outline:2px solid var(--accent)}
+.app{height:calc(100vh - 49px)}
+.app .side{overflow-y:auto;max-height:calc(100vh - 49px)}
+.mapwrap{height:calc(100vh - 49px);top:49px}
+.page{max-width:920px;margin:0 auto;padding-inline:20px;padding-block:28px 60px}
+.page h2{font:600 28px/1.15 var(--f-display);margin:0 0 10px;text-wrap:balance}
+.page h3{font:600 20px/1.2 var(--f-display);margin:30px 0 8px}
+.page p,.page li{max-width:70ch}
+.page .muted{color:var(--muted);font-size:14px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:14px 0 6px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.tile b{display:block;font:600 26px var(--f-mono);font-variant-numeric:tabular-nums}
+.tile span{font-size:12.5px;color:var(--muted)}
+.hbar{display:grid;grid-template-columns:minmax(120px,max-content) minmax(0,1fr) max-content;gap:4px 10px;align-items:center;font-size:13.5px;font-variant-numeric:tabular-nums}
+.hbar .t{height:14px;background:var(--bg);border-radius:0 4px 4px 0;overflow:hidden}
+.hbar .t i{display:block;height:100%;background:var(--ink);border-radius:0 4px 4px 0}
+.hbar .v{text-align:right;color:var(--muted);white-space:nowrap}
+.vbars{display:flex;align-items:flex-end;gap:3px;height:180px;border-bottom:1px solid var(--line);padding-top:18px;overflow-x:auto}
+.vbars .c{flex:1 0 26px;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;position:relative}
+.vbars .c i{width:70%;background:var(--ink);border-radius:4px 4px 0 0;min-height:1px}
+.vbars .c.part i{background:repeating-linear-gradient(135deg,var(--ink) 0 3px,transparent 3px 6px);border:1px solid var(--ink)}
+.vbars .c em{font-style:normal;font-size:11px;color:var(--muted);position:absolute;top:-16px}
+.vbars .c.na i{background:var(--line)}
+.page h2.sec{font-size:24px;margin:40px 0 4px;padding-top:18px;border-top:2px solid var(--ink)}
+.page p.scope{font-size:14px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;margin:6px 0 10px}
+.axis{font-size:12px;color:var(--muted);margin:4px 0 0}
+.vlab{display:flex;gap:3px;overflow-x:auto}
+.vlab span{flex:1 0 26px;text-align:center;font-size:10.5px;color:var(--muted)}
+.tbl{overflow-x:auto;margin-top:8px}
+.tbl table{border-collapse:collapse;width:100%;font-size:13.5px;font-variant-numeric:tabular-nums}
+.tbl th,.tbl td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:middle}
+.tbl th{font-weight:600;color:var(--muted);font-size:12px;letter-spacing:.03em}
+.tbl td.num,.tbl th.num{text-align:right}
+.stack{display:flex;height:12px;width:180px;border-radius:3px;overflow:hidden;gap:1px;background:var(--surface)}
+.stack i{display:block;height:100%}
+.slegend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12.5px;margin:8px 0}
+.slegend span{display:inline-flex;align-items:center;gap:5px}
+.slegend i{width:10px;height:10px;border-radius:2px;display:inline-block}
+.params{display:grid;grid-template-columns:minmax(150px,max-content) minmax(0,1fr);gap:6px 16px;font-size:14px}
+.params dt{font-weight:600}
+.params dd{margin:0;color:var(--ink)}
+.params dd small{color:var(--muted)}
+@media (max-width:860px){.app,.app .side{height:auto;max-height:none}.mapwrap{top:0}.tabs{overflow-x:auto}.params{grid-template-columns:1fr}.params dd{margin-bottom:8px}}
+</style>
+
+<nav class="tabs" role="tablist" aria-label="Pogledi">
+  <span class="brand">Pereče teme Viča</span>
+  <button type="button" role="tab" id="tabPob" aria-selected="true" data-tab="pobude">Vse pobude</button>
+  <button type="button" role="tab" id="tabTeme" aria-selected="false" data-tab="teme">Pobude po temah</button>
+  <button type="button" role="tab" id="tabStat" aria-selected="false" data-tab="stat">Statistika</button>
+  <button type="button" role="tab" id="tabAbout" aria-selected="false" data-tab="about">O strani</button>
+</nav>
+<section id="stat" class="page" hidden></section>
+<section id="about" class="page" hidden>/*ABOUT*/</section>
+<div class="app" id="map-view">
+  <div class="side">
+    <p class="lede" id="ledeTeme" hidden>Pobude iz zadnjih treh let (29. 9. 2023–29. 9. 2026), ki zadevajo prebivalce ČS Vič, razvrščene v teme. Teme so urejene po perečnosti. Izberi temo, da jo vidiš na zemljevidu; klik na točko odpre pobudo.</p>
+    <p class="lede" id="ledePob">Vse pobude iz zadnjih treh let, ki zadevajo prebivalce ČS Vič. Barva pove, kako je odgovoril MOL, velikost pa, kako relevantna je pobuda. Klik na vrednost jo skrije ali prikaže, dvoklik pusti samo njo.</p>
+    <div class="filters" id="pobPanel">
+      <div class="fgroup"><span class="tlabel">Stanje odgovora (barva)</span><div class="chips" id="fSt"></div></div>
+      <div class="fgroup"><span class="tlabel">Relevanca (velikost)</span><div class="chips" id="fRel"></div></div>
+      <div class="frow"><span id="shown" class="fcount"></span><button type="button" class="btn" id="fReset">Ponastavi filtre</button></div>
+    </div>
+    <div class="toggles" role="group" aria-label="Prikaz na zemljevidu">
+      <button type="button" id="tRecent" aria-pressed="false">Samo zadnjih 12 mesecev</button>
+      <button type="button" id="tOld" aria-pressed="false">Pokaži pobude 2008–2023</button>
+    </div>
+    <div id="themes" hidden></div>
+  </div>
+  <div class="mapwrap">
+    <div id="map" role="region" aria-label="Zemljevid pobud v ČS Vič"></div>
+    <button type="button" class="legbtn" id="legBtn" aria-expanded="false" aria-controls="legend">Legenda</button>
+    <div class="legend" id="legend" hidden></div>
+    <div class="tip" id="tip" hidden></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const D = /*DATA*/;
+const TX = /*TEKSTI*/;
+const NAMES = {ceste:"Dotrajane ceste",signalizacija:"Semaforji, znaki, preglednost",pesci:"Pešci in pločniki",parkiranje:"Parkiranje",kolo:"Kolesarji",hitrost:"Hitrost in tranzit skozi soseske",sola:"Šolske poti",jpp:"Javni promet",gradbisca:"Gradbišča in zapore",
+  odpadki:"Odpadki in čistoča",zelenje:"Drevesa in zelenje",igrisca:"Igrišča in druženje",javni_prostor:"Javni prostor",zimska:"Zimska služba",hrup:"Hrup in tresenje",lastnistvo:"Lastništvo zemljišč",razsvetljava:"Javna razsvetljava",vode:"Vode in poplave",azil:"Azilni dom",delo_mol:"Delovanje MOL",javni_red:"Javni red",drugo:"Drugo"};
+const TRAFFIC = new Set(["ceste","signalizacija","pesci","parkiranje","kolo","hitrost","sola","jpp","gradbisca"]);
+const ST = {S0:"brez odgovora",S1:"zavrnjeno ali odloženo",S2:"zunaj pristojnosti MOL",S3:"odgovor brez zaveze",S4:"nedoločena obljuba",S5:"konkretna napoved",S6:"izvedba po navedbi MOL",SV:"vprašanje odgovorjeno"};
+const OCENA = {"":"—",perece:"Pereče",srednje:"Srednje",ni:"Ni pereče",zdruzi:"Združi z drugo temo"};
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const el = (t,c,x) => { const e=document.createElement(t); if(c) e.className=c; if(x!=null) e.textContent=x; return e; };
+const fmt = d => { if(!d) return "—"; const [y,m,dd]=d.split("-"); return `${+dd}. ${+m}. ${y}`; };
+const ST_DEFAULT = ["S1","S2","S3","S4","S5","S6"];  // S0 and SV hidden by default
+let fSt = new Set(ST_DEFAULT), fRel = new Set(["visoka","srednja","nizka"]);
+let view = "pobude", sel = null, onlyRecent = false, hideSilent = false, showOld = false, notes = {}, store = null;
+try { notes = JSON.parse(localStorage.getItem("teme-vic")||"{}"); } catch(e) {}
+
+const pts = D.tocke.filter(p => p.k==="da" && p.lok!=="izven");
+const passF = p => view!=="pobude" || (fSt.has(p.s) && fRel.has(p.r));
+const order = Object.entries(D.teme).sort((a,b)=>b[1].perecnost-a[1].perecnost);
+
+/* ---------- theme index ---------- */
+function themeList(){
+  const box = document.getElementById("themes"); box.replaceChildren();
+  for (const [label, test, color] of [["Promet", t=>TRAFFIC.has(t), "--traffic"], ["Druge teme", t=>!TRAFFIC.has(t), "--other"]]){
+    const g = el("div","grp"); const dot = el("i"); dot.style.background = `var(${color})`; g.append(dot, label); box.append(g);
+    for (const [t,s] of order.filter(([t])=>test(t))){
+      const b = el("button","theme"); b.type="button"; b.setAttribute("aria-pressed", String(sel===t));
+      const sp = el("span","spark"); const mx = Math.max(...s.leta,1);
+      const YRS = ["2023/24 (29. 9. 2023–28. 9. 2024)","2024/25 (29. 9. 2024–28. 9. 2025)","2025/26 (29. 9. 2025–29. 9. 2026)"];
+      s.leta.forEach((v,i) => { const x=el("b"); x.style.height = Math.max(2, 20*v/mx)+"px"; x.dataset.tip = `${YRS[i]}|${v} pobud v tej temi`; sp.append(x); });
+      const name = el("span","tname",NAMES[t]||t); if (notes[t]?.ocena) name.append(" · "+OCENA[notes[t].ocena]);
+      b.append(name, sp);
+      b.append(el("span","tmeta",`${s.n} pobud · ${s.ulic} ulic · brez odziva ${Math.round(100*s.neodziv/s.n)} %`));
+      b.addEventListener("click", ()=>{ sel = sel===t ? null : t; refresh(); });
+      box.append(b);
+      if (sel===t){ const slot=el("div"); slot.id="detail"; box.append(slot); }
+    }
+  }
+}
+
+/* ---------- detail ---------- */
+function detail(){
+  const box = document.getElementById("detail"); if (!box || !sel) return; box.replaceChildren();
+  const s = D.teme[sel]; const d = el("div","detail");
+  d.append(el("h2",null,NAMES[sel]||sel));
+  const k = el("div","kpis");
+  for (const [v,l] of [[s.n,"pobud v 3 letih"],[s.leta[2],"v zadnjih 12 mes."],[s.ulic,"različnih ulic"],[`${Math.round(100*s.neodziv/s.n)} %`,"zavrnjeno, brez zaveze ali brez odgovora"],[s.izvedeno,"napovedano ali izvedeno"]]){
+    const x = el("div","kpi"); x.append(el("b",null,String(v)), el("span",null,l)); k.append(x);
+  }
+  d.append(k);
+  d.append(el("div","lbl","Pobude po letih"));
+  const bars = el("div","bars"); const mx = Math.max(...s.leta,1);
+  ["2023/24","2024/25","2025/26"].forEach((y,i)=>{ const b=el("span","bar"); const f=el("i"); f.style.width=(100*s.leta[i]/mx)+"%"; b.append(f); bars.append(el("span",null,y), b, el("span",null,String(s.leta[i]))); });
+  d.append(bars);
+  if (s.top_ulice.length){ d.append(el("div","lbl","Največ na ulicah")); d.append(el("p",null,s.top_ulice.map(([u,n])=>`${u} (${n})`).join(", "))); }
+  if (s.prenova) d.append(el("p","lede",`${s.prenova} pobud se pritožuje nad že izvedeno prenovo.`));
+  d.append(el("div","lbl","Pobude (najnovejše prve; klik odpre)"));
+  const list = el("div","plist");
+  for (const p of pts.filter(p=>p.t===sel && passF(p)).sort((a,b)=>b.d.localeCompare(a.d))){
+    const b = el("button","pitem"+(p.ak==="utihnilo"?" old":"")); b.type="button";
+    b.append(el("span","d",fmt(p.d)), el("span","st "+p.s,p.s), el("span","t",p.n + (p.u?` · ${p.u}`:"")));
+    b.addEventListener("click",()=>{ showOverlay(p); }); b.addEventListener("mouseenter",()=>pulse(p.id)); list.append(b);
+  }
+  d.append(list);
+  // reviewer judgement
+  const n = notes[sel] || {};
+  const f1 = el("div","field"); const l1 = el("label",null,"Tvoja ocena teme"); l1.htmlFor="oc"; const s1 = el("select"); s1.id="oc";
+  for (const [v,t] of Object.entries(OCENA)){ const o=el("option",null,t); o.value=v; s1.append(o); } s1.value=n.ocena||""; f1.append(l1,s1);
+  const f2 = el("div","field"); const l2 = el("label",null,"Opomba"); l2.htmlFor="op"; const t2 = el("textarea"); t2.id="op"; t2.rows=3; t2.value=n.opomba||""; t2.placeholder="Kaj manjka, kaj združiti, kaj preveriti …"; f2.append(l2,t2);
+  const row = el("div","row"); const save = el("button","btn","Shrani"); save.type="button"; const info = el("span","saved");
+  save.addEventListener("click", async ()=>{ const out={tema:sel, ocena:s1.value, opomba:t2.value.trim(), cas:new Date().toISOString()}; notes[sel]=out;
+    try{ localStorage.setItem("teme-vic", JSON.stringify(notes)); }catch(e){}
+    info.textContent="Shranjujem …"; try{ if(store) await store.doc(sel).set(out); info.textContent="Shranjeno"; themeList(); }catch(e){ info.textContent="Ni shranjeno: "+(e.message||"napaka"); } });
+  const exp = el("button","btn","Kopiraj vse ocene"); exp.type="button";
+  exp.addEventListener("click", ()=>{ const txt=JSON.stringify(Object.values(notes)); navigator.clipboard.writeText(txt).then(()=>{ info.textContent="Ocene so kopirane, prilepi jih v pogovor."; }).catch(()=>{ info.textContent=txt; }); });
+  row.append(save, exp, info); d.append(f1,f2,row);
+  box.append(d);
+}
+
+/* ---------- overlay ---------- */
+function showOverlay(p){
+  const x = TX[p.id] || {}; const last = document.activeElement;
+  const ov = el("div","overlay"); ov.setAttribute("role","dialog"); ov.setAttribute("aria-modal","true");
+  const pn = el("div","panel"); const top = el("div","top");
+  top.append(el("span","who",`#${p.id} · prijava ${fmt(p.d)}` + (p.s?` · ${p.s} ${ST[p.s]}`:"") + (p.t?` · ${NAMES[p.t]||p.t}`:" · pred 2023, brez teme")));
+  const r = el("span","row"); const a = el("a",null,"Zemljevid"); a.href=`https://www.openstreetmap.org/?mlat=${x.lat}&mlon=${x.lon}#map=18/${x.lat}/${x.lon}`; a.target="_blank"; a.rel="noopener";
+  const c = el("button","btn","Zapri"); c.type="button"; r.append(a,c); top.append(r);
+  pn.append(top, el("h3",null,p.n));
+  if (p.po) pn.append(el("p","who",p.po + (p.u?` · ${p.u}`:"")));
+  pn.append(el("div","lbl","Pobuda"), el("p",null,x.pobuda||""), el("div","lbl","Odgovor"), el("p","who",(x.odgovoril||"")+(x.odgovor_datum?" · "+fmt(x.odgovor_datum):"")), el("p",null,x.odgovor||"Brez odgovora."));
+  const dl = (title, rows) => { if (!rows || !rows.length) return; pn.append(el("div","lbl",title)); const g=el("dl","facts"); for (const [k,v] of rows){ g.append(el("dt",null,k), el("dd",null,v)); } pn.append(g); };
+  dl("Naše oznake", x.oznake);
+  dl("Podatki portala", x.portal);
+  if (x.priloge && x.priloge.length){ pn.append(el("div","lbl",`Priloge (${x.priloge.length})`)); const w=el("div","thumbs");
+    for (const u of x.priloge){ const a=el("a"); a.href=u; a.target="_blank"; a.rel="noopener"; if (/\.(jpe?g|png|gif|webp)$/i.test(u)){ const im=el("img"); im.src=u; im.alt="Priloga"; im.loading="lazy"; a.append(im);} else a.textContent=u.split("/").pop(); w.append(a); }
+    pn.append(w); }
+  ov.append(pn); document.body.append(ov);
+  const done=()=>{ ov.remove(); document.removeEventListener("keydown",key); last?.focus?.(); }; const key=e=>{ if(e.key==="Escape") done(); };
+  c.addEventListener("click",done); ov.addEventListener("click",e=>{ if(e.target===ov) done(); }); document.addEventListener("keydown",key); c.focus();
+}
+
+/* ---------- map ---------- */
+const map = L.map("map", {minZoom:11, maxZoom:19, zoomSnap:0.5, preferCanvas:true, maxBounds:[[45.97,14.39],[46.08,14.54]]});
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {maxZoom:19, attribution:'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'}).addTo(map);
+L.polygon(D.podlaga.meja, {color:"#1c2420", weight:1.5, dashArray:"6 4", fill:false, interactive:false}).addTo(map);
+const bounds = L.latLngBounds(pts.map(p=>[p.la,p.lo]));
+map.fitBounds(bounds.pad(0.05));
+const oldLayer = L.layerGroup().addTo(map);
+const layer = L.layerGroup().addTo(map);
+const markers = new Map();
+const tip = document.getElementById("tip");
+function col(name){ return css(name) || "#888"; }
+const SCOL = {S0:"#9ca3af", S1:"#c0504d", S2:"#e39a92", S3:"#7cc494", S4:"#3f9e62", S5:"#237a45", S6:"#0f4d2a", SV:"#6f95c8"};
+const RCOL = {visoka:"#b91c1c", srednja:"#f59e0b", nizka:"#94a3b8"};
+const RNAME = {visoka:"Visoka relevanca", srednja:"Srednja relevanca", nizka:"Nizka relevanca"};
+const SORDER = ["S0","S1","S2","S3","S4","S5","S6","SV"];
+const SDESC = {S0:"MOL na pobudo še ni objavil odgovora.",S1:"MOL je predlog zavrnil ali ga odložil brez roka: »ni predvideno«, »ne načrtujemo«, »ni v kratkoročnem planu«, »po drugih ureditvah bomo preučili«.",S2:"MOL pravi, da ni pristojen, in napoti na državo (DRSI, DRSV) ali zasebnega lastnika.",S3:"Odgovor ne obljubi ničesar konkretnega: samo zahvala, »preverili bomo in ukrepali skladno s pristojnostmi«, »po potrebi«, prošnja za fotografijo.",S4:"Odgovor pove, kaj bodo naredili, a brez roka, npr. »obrezali bomo ob naslednjem rednem vzdrževanju«, »nadzor v okviru kadrovskih zmožnosti«.",S5:"Konkreten ukrep z datumom ali v teku: »naročili smo«, »uvrščeno v plan del«, »dela se začnejo …«.",S6:"MOL v odgovoru navaja, da je bilo delo opravljeno. Na terenu tega nismo preverili.",SV:"Pobuda je bila vprašanje in MOL je nanj vsebinsko odgovoril."};
+const COL = {traffic:"#1d4ed8", other:"#c026d3", sel:"#dc2626", safety:"#dc2626", silent:"#9ca3af", silentEdge:"#374151", mute:"#9ca3af", halo:"#ffffff"};
+const RAD = {visoka:9, srednja:6.5, nizka:4.5};
+function grayMode(){ return view==="teme" && !sel; }
+function visiblePts(){
+  return pts.filter(p => passF(p) && (!onlyRecent || p.ak==="aktualno") && (!hideSilent || p.ak!=="utihnilo") && (view!=="teme" || !sel || p.t===sel));
+}
+function drawPoints(){
+  layer.clearLayers(); markers.clear();
+  const vis = visiblePts().sort((a,b)=>RAD[b.r]-RAD[a.r] || a.d.localeCompare(b.d));  // large first, small on top
+  const sh = document.getElementById("shown"); if (sh) sh.textContent = `Prikazanih ${vis.length} pobud`;
+  const gray = grayMode();
+  for (const p of vis){
+    const m = gray
+      ? L.circleMarker([p.la,p.lo], {radius:RAD[p.r], color:COL.halo, weight:1.5, fillColor: TRAFFIC.has(p.t) ? COL.traffic : COL.other, fillOpacity: p.ak==="aktualno" ? .95 : .6})
+      : L.circleMarker([p.la,p.lo], {radius:RAD[p.r], color:COL.halo, weight:1.5, fillColor:SCOL[p.s], fillOpacity: p.ak==="aktualno" ? 1 : .55});
+    m.bindTooltip(`${fmt(p.d)} · ${p.n}`, {direction:"top", offset:[0,-8]}); m.on("click", ()=>showOverlay(p));
+    m.addTo(layer); markers.set(p.id, m);
+  }
+}
+function drawOld(){
+  oldLayer.clearLayers(); if (!showOld) return;
+  for (const p of D.stare){
+    const m = L.circleMarker([p.la,p.lo], {radius:3.5, color:"#ffffff", weight:.8, fillColor:"#78716c", fillOpacity:.75});
+    m.bindTooltip(`${fmt(p.d)} · ${p.n}`, {direction:"top", offset:[0,-4]});
+    m.on("click", ()=>showOverlay({id:p.id, d:p.d, n:p.n, s:"", t:""}));
+    m.addTo(oldLayer);
+  }
+}
+function pulse(id){ const m = markers.get(id); if (!m) return; m.bringToFront(); const r=m.getRadius(); m.setRadius(r*2); setTimeout(()=>m.setRadius(r), 500); }
+function focusTheme(){ if (!sel) return; const g = pts.filter(p=>p.t===sel); if (g.length) map.flyToBounds(L.latLngBounds(g.map(p=>[p.la,p.lo])).pad(0.15), {maxZoom:16, duration:.6}); }
+function legend(){
+  const lg = document.getElementById("legend"); lg.replaceChildren();
+  const item = (inner, text, tip) => { const r=el("div"); r.innerHTML=`<svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true">${inner}</svg>`; r.append(text); if (tip) r.dataset.tip = tip; lg.append(r); };
+  const c = (r,fill,op) => `<circle cx="12" cy="12" r="${r}" fill="${fill}" fill-opacity="${op}" stroke="#fff" stroke-width="1.5"/>`;
+  if (grayMode()){ item(c(7,COL.traffic,.95), "Promet"); item(c(7,COL.other,.95), "Druge teme"); item(c(9,"#9ca3af",1), "Velikost: visoka · srednja · nizka relevanca"); item(c(6,"#6b7280",.55), "Bledo: starejše od 12 mesecev"); const h=el("div"); h.textContent="Izberi temo, da vidiš stanje odgovorov."; h.style.color="var(--muted)"; lg.append(h); }
+  else {
+    if (sel && view==="teme"){ const h=el("div"); h.style.fontWeight="600"; h.textContent=NAMES[sel]; lg.append(h); }
+    const cnt = {}; for (const p of visiblePts()) cnt[p.s]=(cnt[p.s]||0)+1;
+    for (const k of SORDER) if (cnt[k]) item(c(7,SCOL[k],1), `${k} ${ST[k]} (${cnt[k]})`, `${k} ${ST[k]}|${SDESC[k]}`);
+    item(c(9,"#9ca3af",1)+"", "Velikost: visoka · srednja · nizka relevanca");
+    item(c(6,"#6b7280",.55), "Bledo: starejše od 12 mesecev");
+  }
+  if (showOld) item(c(3.5,"#78716c",.75), "Pobude 2008–2023 (brez oznak)");
+}
+function refresh(){ themeList(); detail(); legend(); drawPoints(); if (typeof buildChips==='function') buildChips(); const b=document.querySelector('.theme[aria-pressed="true"]'); if (b) b.scrollIntoView({block:'nearest'}); }
+document.getElementById("legBtn").addEventListener("click",e=>{ const lg=document.getElementById("legend"); lg.hidden=!lg.hidden; e.currentTarget.setAttribute("aria-expanded",String(!lg.hidden)); e.currentTarget.textContent = lg.hidden ? "Legenda" : "Skrij legendo"; });
+document.getElementById("tOld").addEventListener("click",e=>{ showOld=!showOld; e.currentTarget.setAttribute("aria-pressed",String(showOld)); drawOld(); legend(); });
+for (const [id,fn,get] of [["tRecent",()=>{onlyRecent=!onlyRecent;},()=>onlyRecent]]){
+  document.getElementById(id).addEventListener("click",e=>{ fn(); e.currentTarget.setAttribute("aria-pressed",String(get())); refresh(); });
+}
+function rerender(){ buildChips(); legend(); drawPoints(); }
+function buildChips(){
+  const mk = (boxId, set, items, keyOf, otherOk) => { const box=document.getElementById(boxId); box.replaceChildren();
+    const cnt = {}; for (const p of pts) if ((!onlyRecent || p.ak==="aktualno") && (!hideSilent || p.ak!=="utihnilo") && otherOk(p)) { const k=keyOf(p); cnt[k]=(cnt[k]||0)+1; }
+    for (const [key,label,swatch,tip] of items){ const b=el("button","chip"); b.type="button"; b.setAttribute("aria-pressed",String(set.has(key)));
+      b.append(swatch, label, " ", el("b",null,String(cnt[key]||0))); if (tip) b.dataset.tip = tip;
+      b.addEventListener("click",()=>{ set.has(key) ? set.delete(key) : set.add(key); rerender(); });
+      b.addEventListener("dblclick",()=>{ set.clear(); set.add(key); rerender(); });
+      box.append(b); } };
+  const dot = (color, size) => { const i=el("i"); i.style.background=color; if (size){ i.style.width=i.style.height=size+"px"; } return i; };
+  mk("fSt", fSt, SORDER.map(k=>[k,`${k} ${ST[k]}`,dot(SCOL[k]),`${k} ${ST[k]}|${SDESC[k]}`]), p=>p.s, p=>fRel.has(p.r));
+  mk("fRel", fRel, [["visoka","Visoka",dot("#6b7280",14)],["srednja","Srednja",dot("#6b7280",10)],["nizka","Nizka",dot("#6b7280",7)]], p=>p.r, p=>fSt.has(p.s));
+}
+document.getElementById("fReset").addEventListener("click",()=>{ fSt=new Set(ST_DEFAULT); fRel=new Set(["visoka","srednja","nizka"]); rerender(); });
+buildChips();
+refresh();
+
+/* ---------- tabs ---------- */
+const STAT = /*STAT*/;
+document.querySelector(".tabs").addEventListener("click", e => {
+  const b = e.target.closest("button[data-tab]"); if (!b) return;
+  for (const x of document.querySelectorAll(".tabs button[data-tab]")) x.setAttribute("aria-selected", String(x===b));
+  const t = b.dataset.tab;
+  const mapTab = t==="teme" || t==="pobude";
+  document.getElementById("map-view").hidden = !mapTab;
+  if (mapTab && view!==t){ view = t;
+    for (const [id,on] of [["ledeTeme",t==="teme"],["themes",t==="teme"],["ledePob",t==="pobude"],["pobPanel",t==="pobude"]]) document.getElementById(id).hidden = !on;
+    drawOld(); refresh(); if (t==="pobude") map.flyToBounds(bounds.pad(0.05), {duration:.4}); }
+  document.getElementById("stat").hidden = t!=="stat";
+  document.getElementById("about").hidden = t!=="about";
+  if (mapTab) setTimeout(()=>map.invalidateSize(), 50);
+  if (t==="stat" && !document.getElementById("stat").childElementCount) renderStats();
+  window.scrollTo(0,0);
+});
+const callout = el("div","callout"); callout.hidden = true; document.body.append(callout);
+document.addEventListener("mouseover", e => { const t = e.target.closest("[data-tip]"); if (!t) { callout.hidden = true; return; }
+  const [a,b] = t.dataset.tip.split("|"); callout.replaceChildren(el("b",null,a), document.createTextNode(b||"")); callout.hidden = false; });
+document.addEventListener("mousemove", e => { if (callout.hidden) return; const w = callout.offsetWidth;
+  callout.style.left = Math.min(e.clientX+14, innerWidth-w-8)+"px"; callout.style.top = (e.clientY+16)+"px"; });
+const nf = n => n==null ? "—" : n.toLocaleString("sl-SI");
+function renderStats(){
+  const S = STAT, box = document.getElementById("stat");
+  const h = (tag, txt, cls) => { const e = el(tag, cls, txt); box.append(e); return e; };
+  h("h2","Statistika pobud ČS Vič");
+  h("p","Vir: portal pobude.ljubljana.si, pobude s filtrom VIČ, zajete 29. 9. 2026. »Odgovorjena« na portalu pomeni samo, da je MOL objavil odgovor. O tem, ali je problem rešen, ne pove nič.","muted");
+  const tilesOf = arr => { const tiles = el("div","tiles"); box.append(tiles); for (const [v,l] of arr){ const t = el("div","tile"); t.append(el("b",null,v), el("span",null,l)); tiles.append(t); } };
+  const section = (title, scope) => { const x = h("h2", title); x.className = "sec"; h("p", scope, "scope"); };
+  section("Vse pobude po letih, 2008–2026", `${nf(S.skupaj)} pobud od ${fmt(S.od)} do 27. 9. 2026. Tu uporabljamo samo podatke portala: datume, roke in status.`);
+  tilesOf([[nf(S.skupaj),"pobud od leta 2008"],[`${(100*S.odgovorjenih/S.skupaj).toFixed(1).replace(".",",")} %`,`odgovorjenih na portalu (${nf(S.odgovorjenih)})`],[`${S.vse_zamujeno_pct} %`,`zamujenih odgovorov od leta 2018 (${nf(S.vse_z_rokom)} pobud z rokom)`],[`${String(S.vse_mediana).replace(".",",")} dni`,"tipično do odgovora, vsa leta"]]);
+  const vchart = (title, note, key, fmtv, partial, unit) => {
+    h("h3", title); if (note) h("p", note, "muted");
+    const mx = Math.max(...S.leta.map(y=>y[key]||0));
+    const bars = el("div","vbars"), labs = el("div","vlab");
+    for (const y of S.leta){ const v = y[key]; const c = el("div","c"+(v==null?" na":"")+(partial && y.leto===2026?" part":""));
+      const i = el("i"); i.style.height = v==null ? "2px" : (100*v/mx)+"%"; c.dataset.tip = `${y.leto}|${v==null?"ni podatka":fmtv(v)+(unit||"")}`;
+      c.append(el("em",null,v==null?"":fmtv(v)), i); bars.append(c); labs.append(el("span",null,String(y.leto).slice(2))); }
+    box.append(bars, labs, el("p","axis","Leto prijave pobude · številka nad stolpcem: " + (unit ? unit.trim() : "število pobud")));
+  };
+  vchart("Pobude po letih","Koliko pobud je bilo prijavljenih vsako leto. Leto 2026 obsega samo pobude do 27. 9. (šrafirano).","n",nf,true," pobud");
+  vchart("Zamujeni odgovori","Delež pobud, pri katerih je MOL odgovoril šele po roku, ki ga za odgovor določi portal. Portal rok beleži od leta 2018. Upoštevan je zadnji objavljeni odgovor, zato je delež pri pobudah z več odgovori lahko nekoliko previsok.","zamujeno_pct",v=>v,false," % zamujenih");
+  vchart("Koliko dni je MOL potreboval za odgovor","Tipično število dni od prijave do odgovora (mediana): pri polovici pobud je bil odgovor hitrejši, pri polovici počasnejši.","mediana_dni",v=>String(v).replace(".",","),false," dni");
+
+  section("Zadnja tri leta, 2023–2026", `${nf(S.lokalnih)} pobud, prijavljenih med 29. 9. 2023 in 29. 9. 2026, ki zadevajo prebivalce ČS in so na Viču (od ${nf(S.tri_leta)} vseh v tem obdobju). Za te pobude imamo tudi teme in stanje odgovora.`);
+  tilesOf([[nf(S.lokalnih),"pobud"],[`${S.lok_zavrnjeno_pct} %`,"zavrnjenih, zunaj pristojnosti ali brez odgovora"],[`${S.lok_zamujeno_pct} %`,"zamujenih odgovorov"],[`${String(S.lok_mediana).replace(".",",")} dni`,"tipično do odgovora"]]);
+  h("h3","Stanje odgovorov");
+  h("p","Stanje smo določili iz besedila odgovora MOL. Za razlago šifre se z miško postavi nanjo.","muted");
+  const tot = Object.values(S.stanja).reduce((a,b)=>a+b,0), hb = el("div","hbar"); box.append(hb);
+  const smx = Math.max(...Object.values(S.stanja));
+  for (const k of SORDER){ const v = S.stanja[k]||0; const t = el("span","t"); const i = el("i"); i.style.width=(100*v/smx)+"%"; i.style.background=SCOL[k]; t.append(i); const lab=el("span",null,`${k} ${ST[k]}`); for (const x of [lab,t]) x.dataset.tip=`${k} ${ST[k]}|${SDESC[k]} (${v} pobud)`;
+    hb.append(lab, t, el("span","v",`${v} · ${Math.round(100*v/tot)} %`)); }
+
+  const legend = () => { const lg = el("div","slegend"); for (const k of SORDER){ const sp=el("span"); const i=el("i"); i.style.background=SCOL[k]; sp.append(i,`${k} ${ST[k]}`); sp.dataset.tip=`${k} ${ST[k]}|${SDESC[k]}`; lg.append(sp);} return lg; };
+  const table = (rows, first, nameFn, withLate) => {
+    const wrap = el("div","tbl"), tb = el("table"); wrap.append(tb);
+    const cols = [[first,0],["Pobud",1],["Stanje odgovorov",0],["Zavrnjeno ali brez odgovora",1]].concat(withLate ? [["Zamujenih odgovorov",1]] : []).concat([["Dni do odgovora (tipično)",1]]);
+    const head = el("tr"); for (const [c,n] of cols) head.append(el("th",n?"num":"",c)); tb.append(head);
+    for (const r of rows){ const tr = el("tr"); tr.append(el("td",null,nameFn(r.k)), el("td","num",nf(r.n)));
+      const td = el("td"); const st = el("span","stack");
+      for (const k of SORDER){ const v=r.stanja[k]; if(!v) continue; const i=el("i"); i.style.width=(100*v/r.n)+"%"; i.style.background=SCOL[k]; i.dataset.tip=`${k} ${ST[k]}: ${v} od ${r.n}|${SDESC[k]}`; st.append(i);} td.append(st); tr.append(td);
+      const rej = (r.stanja.S0||0)+(r.stanja.S1||0)+(r.stanja.S2||0);
+      tr.append(el("td","num",Math.round(100*rej/r.n)+" %"));
+      if (withLate) tr.append(el("td","num",r.zamujeno_pct==null?"—":r.zamujeno_pct+" %"));
+      tr.append(el("td","num",r.mediana_dni==null?"—":String(r.mediana_dni).replace(".",",")));
+      tb.append(tr); }
+    box.append(legend(), wrap);
+  };
+  h("h3","Po temah");
+  h("p","Zavrnjeno ali brez odgovora: brez odgovora (S0), zavrnjeno ali odloženo (S1) in zunaj pristojnosti MOL (S2). Dni do odgovora: tipično število dni od prijave do odgovora (mediana).","muted");
+  table(S.teme, "Tema", k=>NAMES[k]||k, false);
+  h("h3","Po službah, ki so odgovorile");
+  h("p","Odsek za pobude meščanov objavlja odgovore, ki jih pripravijo drugi oddelki (»odgovor gospoda župana«). Prikazane so službe z vsaj tremi pobudami.","muted");
+  table(S.sluzbe, "Služba", k=>k, true);
+}
+
+(async()=>{
+  const db = window.claude ? await window.claude.use("db") : null; if (!db) return;
+  store = db.collection("teme");
+  store.onSnapshot(snap=>{ for (const d of snap.docs){ const v=d.data(); if(v) notes[v.tema]=v; } themeList(); if (sel) { const o=document.getElementById("oc"); if(o && notes[sel]) o.value=notes[sel].ocena||""; } });
+})();
+</script>

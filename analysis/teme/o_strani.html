@@ -1,0 +1,64 @@
+<h2>O strani</h2>
+<p>Ta stran pregleduje pobude prebivalcev Četrtne skupnosti Vič, oddane na portalu <a href="https://pobude.ljubljana.si/" target="_blank" rel="noopener">pobude.ljubljana.si</a>. Išče težave, ki so dolgo odprte, zadevajo več ljudi, posebej varnost, in kažejo na sistemsko zanemarjanje. Ni uradna stran Mestne občine Ljubljana.</p>
+
+<h3>Kaj stran pokaže</h3>
+<ul>
+  <li><b>Zemljevid</b>: pobude iz zadnjih treh let, obarvane po temi, stanju odgovora ali relevanci, s filtri. Na zahtevo tudi starejše pobude od leta 2008.</li>
+  <li><b>Teme</b>: 22 tem, urejenih po perečnosti. Ob vsaki so trend po letih, prizadete ulice in seznam pobud.</li>
+  <li><b>Statistika</b>: koliko pobud je odgovorjenih, kako hitro in s kakšnim odzivom, po temah in službah.</li>
+</ul>
+
+<h3>Kako smo prišli do rezultatov</h3>
+<ol>
+  <li><b>Zajem.</b> 29. 9. 2026 smo s portala prenesli vse javne pobude, ki jih prikaže filter »VIČ«: 2.975 pobud od 9. 12. 2008 do 27. 9. 2026 (2.952 odgovorjenih, 23 neodgovorjenih). Ohranili smo besedila, odgovore, datume, točke na zemljevidu in povezave do prilog. Zajem smo po koncu ponovno primerjali s seznamom portala in se je ujemal.</li>
+  <li><b>Obdobje.</b> Za podrobno analizo smo vzeli pobude, prijavljene med 29. 9. 2023 in 29. 9. 2026: 544 pobud.</li>
+  <li><b>Umerjanje.</b> Pripravili smo shemo oznak in z njo ročno označili 50 pobud. Vse oznake je pregledal in po potrebi popravil prebivalec Viča, ki pozna teren. Iz popravkov smo dopolnili pravila, na primer:
+    <ul>
+      <li>cestišče vpadnic ne zadeva prebivalcev, pločniki in prehodi ob njih pa jih;</li>
+      <li>odgovor »preverili bomo in ukrepali skladno s pristojnostmi« je odgovor brez zaveze.</li>
+    </ul></li>
+  <li><b>Označevanje.</b> Preostalih 494 pobud je po zapisanih navodilih in primerih iz umerjanja označil jezikovni model (Claude). Vsaka oznaka stanja ima dobesedni citat iz odgovora, na katerem temelji. Kjer model ni bil prepričan, je gotovost označena kot nizka.</li>
+  <li><b>Teme.</b> V drugem prehodu je vsaka pobuda dobila eno od 22 tem glede na to, kaj ljudi skrbi. Ni pomembno, katera služba ukrepa.</li>
+  <li><b>Perečnost teme</b> sešteje: prijave v zadnjem letu (največja utež), prijave v prejšnjih letih, pobude z varnostjo, pobude brez odziva MOL, število različnih ulic in pobude z visoko relevanco.</li>
+</ol>
+
+<h3>Omejitve</h3>
+<ul>
+  <li>»Odgovorjena« na portalu ne pomeni »rešena«. Stanje na terenu je potrjeno samo za nekaj zadev, drugo izhaja iz besedila odgovora.</li>
+  <li>Oznake večinoma niso ročno preverjene. Relevanca je najbolj subjektivna oznaka, stanje odgovora pa najbolj zanesljiva.</li>
+  <li>Vsaka pobuda ima samo eno temo, zato so manjše teme verjetno podcenjene.</li>
+  <li>Pobude oddajajo predvsem ljudje, ki težavo opazijo na poti. Prevlada prometa je zato lahko tudi posledica tega, kdo portal uporablja.</li>
+  <li>Zajem obsega samo pobude s filtrom VIČ. Ob preverjanju glede na sloj Četrtne skupnosti v registru ulic MOL (D96/TM), zajet 1. 10. 2026, je zunaj prikazane meje Viča 143 točk: 91 iz obdobja pred 29. 9. 2023 in 52 novejših. Koordinate portala so lahko nenatančne; vsebinske oznake zato niso določene samo s položajem točke.</li>
+  <li>Točke so tam, kamor jih je postavil prijavitelj, zato so lahko nenatančne.</li>
+</ul>
+
+<h3>Parametri vsake pobude</h3>
+<p class="muted">Polja, ki jih vidiš v oknu posamezne pobude. Oznake so samo pri pobudah iz zadnjih treh let; podatke portala imajo vse pobude.</p>
+<dl class="params">
+  <dt>Tema</dt><dd>Ena od 22 tem, na primer Pešci in pločniki, Hrup in tresenje, Vode in poplave. Pod »Promet« spadajo dotrajane ceste, semaforji in znaki, pešci, parkiranje, kolesarji, hitrost in tranzit, šolske poti, javni promet ter gradbišča.</dd>
+  <dt>Na kratko</dt><dd>Nekaj besed o tem, kaj točno je problem.</dd>
+  <dt>Vrsta</dt><dd>Kaj pobuda zahteva.<br>
+    <small>V1 okvara ali poškodba · V2 ponavljajoče vzdrževanje (obrez, čiščenje) · V3 kršitve in nadzor (redarstvo, inšpekcija) · V4 manjša ureditev (klančina, znak, prehod) · V5 večja investicija ali prenova · V6 nova storitev ali predlog · V7 vprašanje · V8 pritožba na delo služb · V9 zunaj pristojnosti MOL</small></dd>
+  <dt>Stanje po odgovoru</dt><dd>Kaj pove objavljeni odgovor MOL. To ni dokaz rešitve.<br>
+    <small>S0 brez odgovora · S1 zavrnjeno ali odloženo brez roka (»ni predvideno«, »ne načrtujemo«) · S2 zunaj pristojnosti MOL (država, zasebnik) · S3 odgovor brez zaveze (samo zahvala, »preverili bomo in ukrepali skladno s pristojnostmi«, »po potrebi«, prošnja za fotografijo) · S4 nedoločena obljuba s konkretnim ukrepom, brez roka · S5 konkretna napoved (naročeno, v planu del, rok) · S6 izvedba po navedbi MOL · SV vprašanje je vsebinsko odgovorjeno</small></dd>
+  <dt>Dokaz za stanje</dt><dd>Dobesedni izsek iz odgovora, na katerem temelji stanje.</dd>
+  <dt>Relevanca</dt><dd>Visoka, srednja ali nizka: kako dobro pobuda ustreza cilju analize. Višje so varnost, otroci in šolske poti, lastništvo javnih površin, dotrajane soseske in projekti, ki spreminjajo osrednji prostor četrti. Nižje so tranzit, P+R in enkratna vprašanja.</dd>
+  <dt>Varnost</dt><dd>Da, če je ogrožena fizična varnost ljudi: promet, pešci, kolesarji, otroci, padci, vidnost ali dostop intervencije.</dd>
+  <dt>Zadeva prebivalcev ČS</dt><dd>Da ali ne. Ne pomeni: cestišče in pretočnost vpadnic, storitve predvsem za obiskovalce (P+R) ali osebna vprašanja. Pobude z »ne« na zemljevidu niso prikazane.</dd>
+  <dt>Obseg</dt><dd>Točka, odsek ulice, soseska, cel Vič ali cela MOL.</dd>
+  <dt>Lokacija</dt><dd>Na Viču; točka napačna, a zadeva na Viču; ni v ČS Vič; ali ni vezana na lokacijo. Pobude zunaj Viča na zemljevidu niso prikazane.</dd>
+  <dt>Najbližja ulica</dt><dd>Ulica iz registra ulic MOL, najbližja točki pobude.</dd>
+  <dt>Izvajalec</dt><dd>Kdo mora dejansko ukrepati (ceste, promet, zelenje, čistoča, redarstvo, inšpektorat, JP LPT, LPP, investicije, nepremičnine, država …), ne nujno služba, ki je odgovorila.</dd>
+  <dt>Zadeva (ključ)</dt><dd>Kraj in problem v obliki »ulica | problem«. Z njim smo povezovali ponovljene pobude.</dd>
+  <dt>Dni do odgovora / brez odgovora</dt><dd>Dnevi od prijave do zadnjega objavljenega odgovora oziroma do dneva zajema, če odgovora ni.</dd>
+  <dt>Prepozen odgovor</dt><dd>Da, če je odgovor prišel po več kot 30 dneh ali v odgovoru piše na primer »ker je minilo že dalj časa«.</dd>
+  <dt>Odgovor brez vsebine</dt><dd>Da, če ima odgovor brez pozdravov in podpisa manj kot 60 znakov.</dd>
+  <dt>Besedilo omenja ponavljanje</dt><dd>Da, če prijavitelj sam piše, da se problem vleče (»že leta«, »ponovno«, sklic na prejšnjo pobudo).</dd>
+  <dt>Pritožba na izvedeno prenovo</dt><dd>Da, če pobuda govori o že izvedeni prenovi, ki ni upoštevala potreb ali je slabo izvedena.</dd>
+  <dt>Znanje s terena</dt><dd>Rešeno, ni rešeno ali delno, kjer je to potrdil pregledovalec.</dd>
+  <dt>Gotovost in vir oznak</dt><dd>Gotovost je visoka ali nizka. Vir je »pregledano ročno« (50 pobud) ali »strojno«.</dd>
+  <dt>Podatki portala</dt><dd>Status, četrtna skupnost, kategorija portala, datumi prijave, objave in zadnjega odgovora, <b>rok za odgovor</b> (portal ga beleži od leta 2018), ali obravnava več oddelkov in služba, ki je odgovorila. Priloge so fotografije prijavitelja s portala.</dd>
+</dl>
+
+<h3>Viri</h3>
+<p class="muted">Pobude, odgovori in meja ČS: portal pobude.ljubljana.si (MOL), zajem 29. 9. 2026. Register ulic: kartografski strežnik MOL. Zemljevid: © sodelavci OpenStreetMap. Knjižnica zemljevida: Leaflet.</p>

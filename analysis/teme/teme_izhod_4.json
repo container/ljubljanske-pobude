@@ -1,0 +1,818 @@
+[
+ {
+  "id": 83470,
+  "tema": "drugo",
+  "prenova": "ne",
+  "podrobno": "namen parcele v Kozarjah"
+ },
+ {
+  "id": 83484,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "zapuščeno vozilo na parkirišču"
+ },
+ {
+  "id": 83534,
+  "tema": "sola",
+  "prenova": "ne",
+  "podrobno": "vožnja skozi rdečo na šolski poti"
+ },
+ {
+  "id": 83568,
+  "tema": "javni_prostor",
+  "prenova": "ne",
+  "podrobno": "začetek gradnje plezalnega centra"
+ },
+ {
+  "id": 83643,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "izbrisane talne oznake in prehod"
+ },
+ {
+  "id": 83644,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "neočiščena cesta in pločniki"
+ },
+ {
+  "id": 83745,
+  "tema": "igrisca",
+  "prenova": "ne",
+  "podrobno": "manjkajo klopi na igrišču"
+ },
+ {
+  "id": 83752,
+  "tema": "javni_prostor",
+  "prenova": "ne",
+  "podrobno": "začetek gradnje plezalnega centra"
+ },
+ {
+  "id": 83805,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "luknje v asfaltu Glinške"
+ },
+ {
+  "id": 83834,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "kolesnice ovirajo izvoze"
+ },
+ {
+  "id": 83875,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "manjkajoča kolesarska pot proti Dobrovi"
+ },
+ {
+  "id": 83924,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "manjkajoči zabojniki na ekološkem otoku"
+ },
+ {
+  "id": 83944,
+  "tema": "gradbisca",
+  "prenova": "ne",
+  "podrobno": "sočasne zapore brez izhoda"
+ },
+ {
+  "id": 83945,
+  "tema": "igrisca",
+  "prenova": "ne",
+  "podrobno": "ni športnega igrišča na Dolgem mostu"
+ },
+ {
+  "id": 83966,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "dotrajana Reška in Tomažičeva"
+ },
+ {
+  "id": 83967,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "manj alergena drevesa ob prenovi"
+ },
+ {
+  "id": 83968,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "nevarne veje dveh dreves"
+ },
+ {
+  "id": 84038,
+  "tema": "gradbisca",
+  "prenova": "ne",
+  "podrobno": "parkiranje stanovalcev med prenovo"
+ },
+ {
+  "id": 84040,
+  "tema": "lastnistvo",
+  "prenova": "ne",
+  "podrobno": "cesta na zasebni parceli"
+ },
+ {
+  "id": 84041,
+  "tema": "lastnistvo",
+  "prenova": "ne",
+  "podrobno": "plačljivo parkirišče na neurejeni lastnini"
+ },
+ {
+  "id": 84043,
+  "tema": "lastnistvo",
+  "prenova": "ne",
+  "podrobno": "parkirišče na zasebni parceli"
+ },
+ {
+  "id": 84044,
+  "tema": "lastnistvo",
+  "prenova": "ne",
+  "podrobno": "dostopna cesta na zasebni parceli"
+ },
+ {
+  "id": 84082,
+  "tema": "hrup",
+  "prenova": "ne",
+  "podrobno": "preglasni zvočni signali semaforja"
+ },
+ {
+  "id": 84127,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "divjanje po Cesti na Ključ"
+ },
+ {
+  "id": 84198,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "prometno ogledalo na izvozu"
+ },
+ {
+  "id": 84199,
+  "tema": "igrisca",
+  "prenova": "ne",
+  "podrobno": "ni igrišča pri novih blokih"
+ },
+ {
+  "id": 84200,
+  "tema": "jpp",
+  "prenova": "ne",
+  "podrobno": "ni javnega prevoza Kozarje–Brdo"
+ },
+ {
+  "id": 84214,
+  "tema": "javni_prostor",
+  "prenova": "ne",
+  "podrobno": "začetek gradnje plezalnega centra"
+ },
+ {
+  "id": 84223,
+  "tema": "javni_prostor",
+  "prenova": "ne",
+  "podrobno": "začetek gradnje plezalnega centra"
+ },
+ {
+  "id": 84289,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "kolesarski pas izgine pred semaforjem"
+ },
+ {
+  "id": 84290,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "zbledele kolesarske oznake"
+ },
+ {
+  "id": 84370,
+  "tema": "lastnistvo",
+  "prenova": "ne",
+  "podrobno": "dovozi na parcelah inštitutov"
+ },
+ {
+  "id": 84432,
+  "tema": "jpp",
+  "prenova": "ne",
+  "podrobno": "premajhno parkirišče P+R Dolgi most"
+ },
+ {
+  "id": 84447,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "nočno dirkanje po Koprski"
+ },
+ {
+  "id": 84458,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "neurejeni jaški na Tržaški"
+ },
+ {
+  "id": 84461,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "razbitine avtomobilov na dovozu"
+ },
+ {
+  "id": 84462,
+  "tema": "vode",
+  "prenova": "ne",
+  "podrobno": "struga Gradaščice polna kamenja"
+ },
+ {
+  "id": 84483,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "zasukano ogledalo pri vrtcu"
+ },
+ {
+  "id": 84534,
+  "tema": "hrup",
+  "prenova": "ne",
+  "podrobno": "ropotajoč pokrov jaška"
+ },
+ {
+  "id": 84535,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "prehitra vožnja zaradi obvoza"
+ },
+ {
+  "id": 84546,
+  "tema": "javni_prostor",
+  "prenova": "ne",
+  "podrobno": "premalo javnih sanitarij ob PST"
+ },
+ {
+  "id": 84556,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "zapuščen avto zaseda mesto"
+ },
+ {
+  "id": 84567,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "odstranitev japonskega dresnika"
+ },
+ {
+  "id": 84570,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "parkiranje na prehodu za pešce"
+ },
+ {
+  "id": 84593,
+  "tema": "hrup",
+  "prenova": "ne",
+  "podrobno": "nočni hrup prireditev v Mestnem logu"
+ },
+ {
+  "id": 84597,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "grafiti na železniških nadvozih"
+ },
+ {
+  "id": 84631,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "pomanjkanje parkirišč, predlog dovolilnic"
+ },
+ {
+  "id": 84642,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "kurišče odpadkov na Barju"
+ },
+ {
+  "id": 84648,
+  "tema": "sola",
+  "prenova": "ne",
+  "podrobno": "prehitra vožnja pri šoli Vrhovci"
+ },
+ {
+  "id": 84662,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "grafit na fasadi knjižnice"
+ },
+ {
+  "id": 84715,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "udarna jama v križišču"
+ },
+ {
+  "id": 84773,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "udarna jama na Oslavijski"
+ },
+ {
+  "id": 84820,
+  "tema": "razsvetljava",
+  "prenova": "ne",
+  "podrobno": "neosvetljena pešpot proti PST"
+ },
+ {
+  "id": 84827,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "dvignjeno križišče ob igrišču"
+ },
+ {
+  "id": 84868,
+  "tema": "javni_prostor",
+  "prenova": "ne",
+  "podrobno": "začetek gradnje plezalnega centra"
+ },
+ {
+  "id": 84907,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "izbrisani prehodi za pešce"
+ },
+ {
+  "id": 84927,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "selitev centra ponovne uporabe"
+ },
+ {
+  "id": 84944,
+  "tema": "pesci",
+  "prenova": "da",
+  "podrobno": "pano ovira prehod na Trgu MDB"
+ },
+ {
+  "id": 85052,
+  "tema": "vode",
+  "prenova": "ne",
+  "podrobno": "zamašeni cestni odtoki"
+ },
+ {
+  "id": 85063,
+  "tema": "pesci",
+  "prenova": "ne",
+  "podrobno": "vozniki peljejo skozi rdečo na prehodu"
+ },
+ {
+  "id": 85064,
+  "tema": "pesci",
+  "prenova": "ne",
+  "podrobno": "vozniki peljejo skozi rdečo na prehodu"
+ },
+ {
+  "id": 85098,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "reklamni pano privijačen na drevo"
+ },
+ {
+  "id": 85099,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "reklamni pano privijačen na drevo"
+ },
+ {
+  "id": 85104,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "razbito steklo na kolesarskem pasu"
+ },
+ {
+  "id": 85171,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "poškodovano cestišče Gmajnice"
+ },
+ {
+  "id": 85243,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "zabojniki na javni površini"
+ },
+ {
+  "id": 85244,
+  "tema": "pesci",
+  "prenova": "ne",
+  "podrobno": "posedan pločnik do vrtca"
+ },
+ {
+  "id": 85326,
+  "tema": "drugo",
+  "prenova": "ne",
+  "podrobno": "pohvala dogodka dan glasbe"
+ },
+ {
+  "id": 85330,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "izruvan obcestni količek"
+ },
+ {
+  "id": 85331,
+  "tema": "hrup",
+  "prenova": "ne",
+  "podrobno": "protihrupna ograja ob avtocesti"
+ },
+ {
+  "id": 85333,
+  "tema": "drugo",
+  "prenova": "ne",
+  "podrobno": "pohvala dogodka v parku"
+ },
+ {
+  "id": 85410,
+  "tema": "zimska",
+  "prenova": "ne",
+  "podrobno": "zimski pesek v ovinku"
+ },
+ {
+  "id": 85411,
+  "tema": "hrup",
+  "prenova": "ne",
+  "podrobno": "tresenje hiše zaradi posedene ceste"
+ },
+ {
+  "id": 85416,
+  "tema": "pesci",
+  "prenova": "ne",
+  "podrobno": "ni podhoda pod železnico"
+ },
+ {
+  "id": 85456,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "semafor za pešce le na tipko"
+ },
+ {
+  "id": 85471,
+  "tema": "jpp",
+  "prenova": "ne",
+  "podrobno": "prikazovalnik zasedenosti P+R"
+ },
+ {
+  "id": 85559,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "odpadki in vejevje v Gradaščici"
+ },
+ {
+  "id": 85560,
+  "tema": "drugo",
+  "prenova": "ne",
+  "podrobno": "preveč galebov na Viču"
+ },
+ {
+  "id": 85592,
+  "tema": "javni_red",
+  "prenova": "ne",
+  "podrobno": "brezdomski tabor ob Gradaščici"
+ },
+ {
+  "id": 85595,
+  "tema": "jpp",
+  "prenova": "ne",
+  "podrobno": "napačni prihodi v aplikaciji Urbana"
+ },
+ {
+  "id": 85601,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "parkiranje na mestih za polnjenje"
+ },
+ {
+  "id": 85602,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "globoka udarna jama"
+ },
+ {
+  "id": 85681,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "dotrajana Cesta v Rožno dolino"
+ },
+ {
+  "id": 85682,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "grmovje oži pločnik"
+ },
+ {
+  "id": 85760,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "živa meja zmanjšuje preglednost"
+ },
+ {
+  "id": 85761,
+  "tema": "pesci",
+  "prenova": "da",
+  "podrobno": "tovornjaki ogrožajo pešce in kolesarje"
+ },
+ {
+  "id": 85774,
+  "tema": "razsvetljava",
+  "prenova": "da",
+  "podrobno": "nova luč sveti v spalnico"
+ },
+ {
+  "id": 85776,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "oznake kolesarskih poti z zmajem"
+ },
+ {
+  "id": 85786,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "počasen semafor za pešce"
+ },
+ {
+  "id": 85863,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "smeti v zelenem pasu"
+ },
+ {
+  "id": 85891,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "strohnele podpore mladih vrb"
+ },
+ {
+  "id": 85961,
+  "tema": "drugo",
+  "prenova": "ne",
+  "podrobno": "gasilska intervencija brez lokalnih gasilcev"
+ },
+ {
+  "id": 85975,
+  "tema": "ceste",
+  "prenova": "da",
+  "podrobno": "križišče ni izvedeno po projektu"
+ },
+ {
+  "id": 86025,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "hitra vožnja po Vrhovnikovi"
+ },
+ {
+  "id": 86027,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "gost in hiter promet po Vrhovnikovi"
+ },
+ {
+  "id": 86041,
+  "tema": "pesci",
+  "prenova": "ne",
+  "podrobno": "ni pločnika na Vrhovnikovi"
+ },
+ {
+  "id": 86055,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "prekratek zamik semaforja za pešce"
+ },
+ {
+  "id": 86075,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "pogostejše odstranjevanje grafitov"
+ },
+ {
+  "id": 86080,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "luknje na Jadranski in Vipavski"
+ },
+ {
+  "id": 86099,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "obrabljene zebre na šolski poti"
+ },
+ {
+  "id": 86109,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "obrabljena zebra Lepi pot"
+ },
+ {
+  "id": 86141,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "nočno parkiranje tovornjakov"
+ },
+ {
+  "id": 86168,
+  "tema": "jpp",
+  "prenova": "ne",
+  "podrobno": "podaljšanje linije 16 do UKC"
+ },
+ {
+  "id": 86206,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "hitrost in tranzit po Postojnski"
+ },
+ {
+  "id": 86216,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "posek varovalnega gozdička ob obvoznici"
+ },
+ {
+  "id": 86235,
+  "tema": "vode",
+  "prenova": "ne",
+  "podrobno": "vejevje v Malem grabnu"
+ },
+ {
+  "id": 86237,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "premalo parkirnih mest pri blokih"
+ },
+ {
+  "id": 86238,
+  "tema": "igrisca",
+  "prenova": "ne",
+  "podrobno": "prostor za druženje starejših"
+ },
+ {
+  "id": 86295,
+  "tema": "kolo",
+  "prenova": "da",
+  "podrobno": "ukinjen kolesarski pas po prenovi"
+ },
+ {
+  "id": 86413,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "parkiranje na zelenici"
+ },
+ {
+  "id": 86415,
+  "tema": "hitrost",
+  "prenova": "ne",
+  "podrobno": "tranzit po Kogejevi in Tesni"
+ },
+ {
+  "id": 86419,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "ni košev za smeti"
+ },
+ {
+  "id": 86431,
+  "tema": "gradbisca",
+  "prenova": "ne",
+  "podrobno": "zapora brez dostopa intervencije"
+ },
+ {
+  "id": 86441,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "smeti v okolici azilnega doma"
+ },
+ {
+  "id": 86442,
+  "tema": "odpadki",
+  "prenova": "ne",
+  "podrobno": "steklo na kolesarski klančini"
+ },
+ {
+  "id": 86475,
+  "tema": "pesci",
+  "prenova": "ne",
+  "podrobno": "dotrajan most čez Glinščico"
+ },
+ {
+  "id": 86488,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "živa meja zožuje pločnik"
+ },
+ {
+  "id": 86509,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "nagnjena in suha drevesa"
+ },
+ {
+  "id": 86518,
+  "tema": "hrup",
+  "prenova": "ne",
+  "podrobno": "hrup obvoznice, protihrupna ograja"
+ },
+ {
+  "id": 86521,
+  "tema": "signalizacija",
+  "prenova": "da",
+  "podrobno": "po prenovi ni odštevalnika"
+ },
+ {
+  "id": 86546,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "dvosmerni promet za kolesarje"
+ },
+ {
+  "id": 86571,
+  "tema": "vode",
+  "prenova": "ne",
+  "podrobno": "zalivanje kleti ob nalivih"
+ },
+ {
+  "id": 86601,
+  "tema": "igrisca",
+  "prenova": "ne",
+  "podrobno": "izginila igrala v parku"
+ },
+ {
+  "id": 86660,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "obrez grmovja ob poti"
+ },
+ {
+  "id": 86686,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "poškodovana ograja ob kolesarski stezi"
+ },
+ {
+  "id": 86714,
+  "tema": "ceste",
+  "prenova": "ne",
+  "podrobno": "dotrajano cestišče na šolski poti"
+ },
+ {
+  "id": 86735,
+  "tema": "zelenje",
+  "prenova": "ne",
+  "podrobno": "zaraščen podhod pod progo"
+ },
+ {
+  "id": 86737,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "nedelujoč odštevalnik za pešce"
+ },
+ {
+  "id": 86738,
+  "tema": "signalizacija",
+  "prenova": "ne",
+  "podrobno": "grmičevje zastira pogled na cesto"
+ },
+ {
+  "id": 86805,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "luknja in robnik na kolesarski"
+ },
+ {
+  "id": 86806,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "dotrajana kolesarska steza Aškerčeva"
+ },
+ {
+  "id": 86808,
+  "tema": "kolo",
+  "prenova": "ne",
+  "podrobno": "ozka kolesarska pot, robniki"
+ },
+ {
+  "id": 86856,
+  "tema": "sola",
+  "prenova": "ne",
+  "podrobno": "spregledan prehod na šolski poti"
+ },
+ {
+  "id": 86884,
+  "tema": "parkiranje",
+  "prenova": "ne",
+  "podrobno": "nasprotovanje plačljivemu parkiranju"
+ },
+ {
+  "id": 86903,
+  "tema": "sola",
+  "prenova": "ne",
+  "podrobno": "nevarno dovažanje otrok pri OŠ Vič"
+ },
+ {
+  "id": 86912,
+  "tema": "drugo",
+  "prenova": "ne",
+  "podrobno": "podgane, potrebna deratizacija"
+ }
+]

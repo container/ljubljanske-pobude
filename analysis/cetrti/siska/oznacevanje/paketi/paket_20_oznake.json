@@ -1,0 +1,402 @@
+[
+ {
+  "id": 79705,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Strokovnim službam bomo posredovali pobudo in naročili, da izvedejo ustrezne ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79756,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "Poleg prenove parka bomo namestili ograjo, ki bo bolj vzdržljiva in bolj primerna za park te vrste.",
+  "gotovost": "nizka",
+  "opomba": "Prenova parka brez roka; del o količkih na Vodnikovi ni naslovljen."
+ },
+ {
+  "id": 79768,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79775,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79797,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Čiščenje smo naročili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79798,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "MOL predmetnih igrišč ne ureja. Predlagamo, da se obrnete na JZ Šport Ljubljana.",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na JZ Šport Ljubljana (javni zavod MOL), ne na državo ali zasebnika."
+ },
+ {
+  "id": 79826,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "nizka",
+  "opomba": "Obrez grmovja z zasebnega zemljišča; obravnava inšpektorat."
+ },
+ {
+  "id": 79879,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru kadrovskih zmožnosti izvedli nadzor navedene lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79899,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "S pohvalo bomo seznanili voznika in njegove nadrejene.",
+  "gotovost": "nizka",
+  "opomba": "Pohvala vozniku LPP; nobena vrsta ne ustreza dobro."
+ },
+ {
+  "id": 79900,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "naprošamo, da nam za domnevno zapuščena vozilo navedete točen naslov (hišno številko in znamko in barvo vozila)",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79907,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V letošnjem letu ni predvidenih nobenih preureditev nivojskega železniškega prehoda.",
+  "gotovost": "nizka",
+  "opomba": "Obnova talnih oznak napovedana po končanju gradbenih del na ŽAK (brez roka)."
+ },
+ {
+  "id": 79929,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "nizka",
+  "opomba": "Žleb na zasebnem objektu; obravnava inšpektorat."
+ },
+ {
+  "id": 79934,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Če bo le možno, bomo upoštevali tudi predlog za postavitev pitnika.",
+  "gotovost": "nizka",
+  "opomba": "Naročena dokumentacija za prenovo parka; pitnik pogojno."
+ },
+ {
+  "id": 79956,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Izvajalca bomo opozorili, da se v času gradnje Atletskega centra Ljubljana dosledno drži načrtovane prometne ureditve.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79959,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Iščemo rešitve, žal pa gre za kompleksne ureditve, ki jih ne more občina izvajati samostojno.",
+  "gotovost": "nizka",
+  "opomba": "Med S3 in S1."
+ },
+ {
+  "id": 80005,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Hvala za posredovano pobudo, ki smo jo posredovali pristojnim službam, to je podjetje JP VOKA SNAGA.",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje ni vsebinsko odgovorjeno."
+ },
+ {
+  "id": 80027,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Zadevo bomo uredili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80028,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Zadevo bomo uredili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80041,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Zaenkrat pasji park na tem območju ni predviden",
+  "gotovost": "visoka",
+  "opomba": "Pobuda uvrščena na seznam za bodoče ureditve."
+ },
+ {
+  "id": 80042,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Predmetno zadevo bomo uredili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80067,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": "Lahko tudi V4 (umirjanje prometa)."
+ },
+ {
+  "id": 80078,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "se trenutno z namenom izboljšanja javnega prevoza osredotočamo predvsem na ukrepe za učinkovitejši mestni avtobusni promet",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80107,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Vašo pobudo smo posredovali podjetju Snaga in jih pozvali, da preverijo situacijo in ukrepajo po pristojnosti.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80121,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "V okviru rednih delovnih nalog ter ob upoštevanju trenutnih kadrovskih zmožnosti bomo izvedli nadzor prometa na omenjenem območju",
+  "gotovost": "visoka",
+  "opomba": "Umik iz navigacije: zunaj pristojnosti (Google)."
+ },
+ {
+  "id": 80125,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Zadevo bomo preverili in uredili.",
+  "gotovost": "nizka",
+  "opomba": "Preverjanje + obljuba ureditve brez »po potrebi«."
+ },
+ {
+  "id": 80151,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Izvajalca smo opozorili, da se mora v času gradnje Atletskega centra Ljubljana dosledno držati načrtovane prometne ureditve.",
+  "gotovost": "nizka",
+  "opomba": "Opozorilo izvajalcu že dano; predlog za table ni naslovljen."
+ },
+ {
+  "id": 80156,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Ureditev predmetne zadeve je že naročena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80158,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Prometnega ogledala ne moremo namestiti, ker ni prostora za njegov namestitev na zemljišču javne ceste.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80161,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Zadevo bomo preverili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80169,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Prometno ogledalo smo zamenjali konec meseca avgusta.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80171,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Učinkovite rešitve ne poznamo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80175,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Sočasno z gradnjo atletskega centra bo prenovljena tudi  Goriška.",
+  "gotovost": "nizka",
+  "opomba": "Pobuda mešana (ovire, kolesarska pot, nadzor); odgovor napove prenovo Goriške in začasno ureditev."
+ },
+ {
+  "id": 80191,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Preverili bomo in uredili.",
+  "gotovost": "nizka",
+  "opomba": "Preverjanje + obljuba ureditve brez »po potrebi«."
+ },
+ {
+  "id": 80242,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Gre za bazno postajo TELEMACH-a, ki je bila zaradi gradnje Atletskega centa Ljubljana začasno prestavljana za cca 100 m.",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje o predhodnem obveščanju ni naslovljeno."
+ },
+ {
+  "id": 80248,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "Predvidevamo, da se bosta predmetni gradnji pričeli izvajati v prihodnjih letih.",
+  "gotovost": "nizka",
+  "opomba": "Pobuda je vprašanje »kdaj«; možno V7/SV."
+ },
+ {
+  "id": 80283,
+  "vrsta": "V1",
+  "stanje": "S2",
+  "dokaz": "Predlagamo, da se glede predmetne zadeve obrnete na JP VOKA Snaga.",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na JP VOKA Snaga; pobuda poudarja večletno neodzivnost (V8)."
+ },
+ {
+  "id": 80288,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Odstranitev mize ni predvidena.",
+  "gotovost": "visoka",
+  "opomba": "Za nočni red napotitev na policijo."
+ },
+ {
+  "id": 80303,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Ocenjujejo, da je košev v parku dovolj in da potrebe po postavitvi dodatnih košev ni.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80316,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "vas vljudno prosim, da nam pošljete fotografijo ploščic in natančno lokacijo",
+  "gotovost": "visoka",
+  "opomba": "Odgovor nakazuje, da so ploščice verjetno v lasti etažnih lastnikov."
+ },
+ {
+  "id": 80319,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "Koši za smeti se redno praznijo po določenem terminskem planu.",
+  "gotovost": "nizka",
+  "opomba": "Brez ukrepa; predlog skupne čistilne akcije."
+ },
+ {
+  "id": 80330,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Zato bomo na omenjenem mestu zagotovili namestitev koša za smeti.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80353,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Prenova Litostrojske ceste je predvidena v območju od Celovške ceste do železniške proge.",
+  "gotovost": "nizka",
+  "opomba": "Vprašani odsek (proga–obvoznica) ni v prenovi; za prenovljeni del napovedana ozelenitev glede na izvedljivost."
+ },
+ {
+  "id": 80383,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Za prenovo je pripravljen projekt, trenutno pa čakamo na izdajo gradbenega dovoljenja na upravni enoti.",
+  "gotovost": "nizka",
+  "opomba": "Popravilo ograj ni neposredno naslovljeno."
+ },
+ {
+  "id": 80385,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Zadevo bomo preverili in po potrebi naročili deratizacijo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80388,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Na teren bomo poslali ekipo, da zadevo uredi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80391,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Postavitev protihrupne ograje ob železniški progi je v pristojnosti Slovenskih železnic.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80401,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Na tej površini je dopustno  zabojnike imeti le na dan odvoza, nato jih je potrebno  takoj odmakniti na zasebno površino.",
+  "gotovost": "nizka",
+  "opomba": "Inšpektorat le pojasni pravilo, ukrep ni napovedan."
+ },
+ {
+  "id": 80429,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "Čiščenje odtokov bomo izvedli ob naslednjem rednem vzdrževanju ulice.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 80430,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "nato pa bo sledila sanacija nepravilnosti na celotni Goriški ulici do Litostrojske ceste",
+  "gotovost": "nizka",
+  "opomba": "Sanacija v okviru prenove Goriške, začetek »v letošnjem letu«."
+ },
+ {
+  "id": 80450,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "Obrezovanje grmovja na omenjeni lokaciji ne bo izvedeno oziroma trenutno ni v načrtu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "district_count": 17,
+  "source_checksums_match": true,
+  "source_crs": "EPSG:3794",
+  "output_crs": "EPSG:4326",
+  "independently_checked_vertices": 11764,
+  "max_proj_difference_m": 0.00010477586186254387,
+  "site_boundaries_match_source": [
+    "vic",
+    "center"
+  ],
+  "initiative_data_unchanged": true,
+  "visual_checks": [
+    "Vič: Gradaščica, Barjanska, Aškerčeva",
+    "Center: Aškerčeva, Zoisova"
+  ],
+  "manual_offset_applied": false
+}

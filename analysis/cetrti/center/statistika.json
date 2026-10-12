@@ -1,0 +1,1013 @@
+{
+ "vse_zamujeno_pct": 36,
+ "vse_z_rokom": 9569,
+ "vse_mediana": 5,
+ "skupaj": 16529,
+ "odgovorjenih": 16479,
+ "od": "2008-12-09",
+ "do": "2026-09-29",
+ "od3": "2023-10-01",
+ "od1": "2025-10-01",
+ "zajem": "2026-10-01",
+ "tri_leta": 2603,
+ "zamujeno3_pct": 53,
+ "mediana3": 10,
+ "leta": [
+  {
+   "leto": 2008,
+   "n": 16,
+   "odgovorjenih": 16,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3.0
+  },
+  {
+   "leto": 2009,
+   "n": 278,
+   "odgovorjenih": 278,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4.0
+  },
+  {
+   "leto": 2010,
+   "n": 543,
+   "odgovorjenih": 543,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3
+  },
+  {
+   "leto": 2011,
+   "n": 550,
+   "odgovorjenih": 550,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 2.5
+  },
+  {
+   "leto": 2012,
+   "n": 578,
+   "odgovorjenih": 578,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3.0
+  },
+  {
+   "leto": 2013,
+   "n": 719,
+   "odgovorjenih": 719,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3
+  },
+  {
+   "leto": 2014,
+   "n": 763,
+   "odgovorjenih": 763,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 4
+  },
+  {
+   "leto": 2015,
+   "n": 900,
+   "odgovorjenih": 900,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3.0
+  },
+  {
+   "leto": 2016,
+   "n": 1030,
+   "odgovorjenih": 1030,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3.0
+  },
+  {
+   "leto": 2017,
+   "n": 920,
+   "odgovorjenih": 920,
+   "z_rokom": 0,
+   "zamujeno_pct": null,
+   "mediana_dni": 3.0
+  },
+  {
+   "leto": 2018,
+   "n": 1315,
+   "odgovorjenih": 1315,
+   "z_rokom": 702,
+   "zamujeno_pct": 35,
+   "mediana_dni": 4
+  },
+  {
+   "leto": 2019,
+   "n": 1455,
+   "odgovorjenih": 1455,
+   "z_rokom": 1455,
+   "zamujeno_pct": 28,
+   "mediana_dni": 5
+  },
+  {
+   "leto": 2020,
+   "n": 855,
+   "odgovorjenih": 855,
+   "z_rokom": 855,
+   "zamujeno_pct": 32,
+   "mediana_dni": 6
+  },
+  {
+   "leto": 2021,
+   "n": 1222,
+   "odgovorjenih": 1222,
+   "z_rokom": 1222,
+   "zamujeno_pct": 33,
+   "mediana_dni": 6.0
+  },
+  {
+   "leto": 2022,
+   "n": 1517,
+   "odgovorjenih": 1517,
+   "z_rokom": 1517,
+   "zamujeno_pct": 22,
+   "mediana_dni": 5
+  },
+  {
+   "leto": 2023,
+   "n": 1811,
+   "odgovorjenih": 1811,
+   "z_rokom": 1811,
+   "zamujeno_pct": 35,
+   "mediana_dni": 6
+  },
+  {
+   "leto": 2024,
+   "n": 835,
+   "odgovorjenih": 835,
+   "z_rokom": 835,
+   "zamujeno_pct": 46,
+   "mediana_dni": 8
+  },
+  {
+   "leto": 2025,
+   "n": 661,
+   "odgovorjenih": 657,
+   "z_rokom": 657,
+   "zamujeno_pct": 54,
+   "mediana_dni": 10
+  },
+  {
+   "leto": 2026,
+   "n": 561,
+   "odgovorjenih": 515,
+   "z_rokom": 515,
+   "zamujeno_pct": 76,
+   "mediana_dni": 21
+  }
+ ],
+ "neodgovorjenih3": 50,
+ "sluzbe": [
+  {
+   "k": "Oddelek za gospodarske dejavnosti in promet",
+   "n": 1156,
+   "zamujeno_pct": 58,
+   "mediana_dni": 11,
+   "leto12": 38,
+   "neodgovorjenih": 5
+  },
+  {
+   "k": "Odsek za pobude meščanov",
+   "n": 732,
+   "zamujeno_pct": 82,
+   "mediana_dni": 21,
+   "leto12": 499,
+   "neodgovorjenih": 39
+  },
+  {
+   "k": "Mestno redarstvo",
+   "n": 301,
+   "zamujeno_pct": 3,
+   "mediana_dni": 2,
+   "leto12": 96,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Inšpektorat",
+   "n": 168,
+   "zamujeno_pct": 12,
+   "mediana_dni": 4.0,
+   "leto12": 44,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Oddelek za kulturo",
+   "n": 56,
+   "zamujeno_pct": 45,
+   "mediana_dni": 6,
+   "leto12": 10,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Oddelek za zaščito in reševanje OZR",
+   "n": 31,
+   "zamujeno_pct": 23,
+   "mediana_dni": 4,
+   "leto12": 10,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Oddelek za varstvo okolja",
+   "n": 28,
+   "zamujeno_pct": 25,
+   "mediana_dni": 7.0,
+   "leto12": 4,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Oddelek za ravnanje z nepremičninami",
+   "n": 26,
+   "zamujeno_pct": 31,
+   "mediana_dni": 5.0,
+   "leto12": 3,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Oddelek za zdravje in socialno varstvo",
+   "n": 19,
+   "zamujeno_pct": 11,
+   "mediana_dni": 7,
+   "leto12": 5,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Služba za razvojne projekte in investicije",
+   "n": 19,
+   "zamujeno_pct": 74,
+   "mediana_dni": 18,
+   "leto12": 1,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Oddelek za šport",
+   "n": 17,
+   "zamujeno_pct": 35,
+   "mediana_dni": 4,
+   "leto12": 5,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Služba za digitalizacijo",
+   "n": 17,
+   "zamujeno_pct": 80,
+   "mediana_dni": 21,
+   "leto12": 2,
+   "neodgovorjenih": 2
+  },
+  {
+   "k": "Služba za organiziranje dela mestnega sveta",
+   "n": 11,
+   "zamujeno_pct": 36,
+   "mediana_dni": 5,
+   "leto12": 1,
+   "neodgovorjenih": 0
+  }
+ ],
+ "kategorije": [
+  {
+   "k": "Ceste",
+   "n": 276,
+   "zamujeno_pct": 73,
+   "mediana_dni": 19.5,
+   "leto12": 79,
+   "neodgovorjenih": 6
+  },
+  {
+   "k": "Delo Mestnega redarstva",
+   "n": 249,
+   "zamujeno_pct": 6,
+   "mediana_dni": 2.0,
+   "leto12": 70,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Pešpoti in pločniki",
+   "n": 200,
+   "zamujeno_pct": 70,
+   "mediana_dni": 18,
+   "leto12": 41,
+   "neodgovorjenih": 3
+  },
+  {
+   "k": "Drevesa, rastje in zelene površine",
+   "n": 155,
+   "zamujeno_pct": 63,
+   "mediana_dni": 13.0,
+   "leto12": 30,
+   "neodgovorjenih": 5
+  },
+  {
+   "k": "Delo inšpekcij",
+   "n": 134,
+   "zamujeno_pct": 19,
+   "mediana_dni": 4.0,
+   "leto12": 25,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Kolesarske poti",
+   "n": 133,
+   "zamujeno_pct": 74,
+   "mediana_dni": 20,
+   "leto12": 37,
+   "neodgovorjenih": 2
+  },
+  {
+   "k": "Javne prireditve",
+   "n": 127,
+   "zamujeno_pct": 43,
+   "mediana_dni": 6.5,
+   "leto12": 8,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Odpadki",
+   "n": 111,
+   "zamujeno_pct": 59,
+   "mediana_dni": 14.0,
+   "leto12": 35,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Mirujoči promet",
+   "n": 111,
+   "zamujeno_pct": 58,
+   "mediana_dni": 12,
+   "leto12": 30,
+   "neodgovorjenih": 6
+  },
+  {
+   "k": "Avtobusna postajališča",
+   "n": 92,
+   "zamujeno_pct": 76,
+   "mediana_dni": 19.5,
+   "leto12": 55,
+   "neodgovorjenih": 4
+  },
+  {
+   "k": "Umiritev prometa in varnost",
+   "n": 89,
+   "zamujeno_pct": 69,
+   "mediana_dni": 17,
+   "leto12": 26,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Javni red in mir",
+   "n": 81,
+   "zamujeno_pct": 21,
+   "mediana_dni": 4,
+   "leto12": 39,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Razno",
+   "n": 74,
+   "zamujeno_pct": 50,
+   "mediana_dni": 13.0,
+   "leto12": 35,
+   "neodgovorjenih": 2
+  },
+  {
+   "k": "Kultura",
+   "n": 62,
+   "zamujeno_pct": 47,
+   "mediana_dni": 6,
+   "leto12": 13,
+   "neodgovorjenih": 3
+  },
+  {
+   "k": "LPP",
+   "n": 62,
+   "zamujeno_pct": 74,
+   "mediana_dni": 13,
+   "leto12": 26,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Parki in zelenice",
+   "n": 54,
+   "zamujeno_pct": 74,
+   "mediana_dni": 17.5,
+   "leto12": 15,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Svetila",
+   "n": 54,
+   "zamujeno_pct": 42,
+   "mediana_dni": 7,
+   "leto12": 10,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Javni prevoz",
+   "n": 44,
+   "zamujeno_pct": 50,
+   "mediana_dni": 9.5,
+   "leto12": 7,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Urejanje prostora",
+   "n": 42,
+   "zamujeno_pct": 97,
+   "mediana_dni": 30.5,
+   "leto12": 26,
+   "neodgovorjenih": 4
+  },
+  {
+   "k": "Šifra 161, naziv ni znan",
+   "n": 41,
+   "zamujeno_pct": 66,
+   "mediana_dni": 10,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Splošno MU MOL",
+   "n": 30,
+   "zamujeno_pct": 66,
+   "mediana_dni": 18,
+   "leto12": 18,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Invazivne živali",
+   "n": 30,
+   "zamujeno_pct": 59,
+   "mediana_dni": 13,
+   "leto12": 5,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Vzdrževanje cest",
+   "n": 30,
+   "zamujeno_pct": 73,
+   "mediana_dni": 21.0,
+   "leto12": 8,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 193, naziv ni znan",
+   "n": 29,
+   "zamujeno_pct": 21,
+   "mediana_dni": 4,
+   "leto12": 10,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 42, naziv ni znan",
+   "n": 29,
+   "zamujeno_pct": 34,
+   "mediana_dni": 7,
+   "leto12": 3,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Otroška igrišča",
+   "n": 28,
+   "zamujeno_pct": 79,
+   "mediana_dni": 18.0,
+   "leto12": 9,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Športne površine",
+   "n": 26,
+   "zamujeno_pct": 44,
+   "mediana_dni": 7,
+   "leto12": 7,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Socialno varstvo in zdravje",
+   "n": 24,
+   "zamujeno_pct": 17,
+   "mediana_dni": 7.0,
+   "leto12": 8,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 185, naziv ni znan",
+   "n": 23,
+   "zamujeno_pct": 74,
+   "mediana_dni": 18,
+   "leto12": 1,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Ostala infrastruktura",
+   "n": 22,
+   "zamujeno_pct": 89,
+   "mediana_dni": 21,
+   "leto12": 20,
+   "neodgovorjenih": 3
+  },
+  {
+   "k": "Vodnjaki in pitniki",
+   "n": 17,
+   "zamujeno_pct": 50,
+   "mediana_dni": 7.5,
+   "leto12": 3,
+   "neodgovorjenih": 1
+  },
+  {
+   "k": "Pritožbe nad delom MU",
+   "n": 17,
+   "zamujeno_pct": 27,
+   "mediana_dni": 4,
+   "leto12": 6,
+   "neodgovorjenih": 2
+  },
+  {
+   "k": "Informatika",
+   "n": 16,
+   "zamujeno_pct": 75,
+   "mediana_dni": 13.0,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Delovanje lokalne samouprave",
+   "n": 15,
+   "zamujeno_pct": 40,
+   "mediana_dni": 7,
+   "leto12": 2,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 188, naziv ni znan",
+   "n": 14,
+   "zamujeno_pct": 43,
+   "mediana_dni": 6.5,
+   "leto12": 2,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Zapore cest",
+   "n": 11,
+   "zamujeno_pct": 82,
+   "mediana_dni": 35,
+   "leto12": 5,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Vzgoja in izobraževanje",
+   "n": 10,
+   "zamujeno_pct": 50,
+   "mediana_dni": 6.5,
+   "leto12": 2,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Javne sanitarije",
+   "n": 8,
+   "zamujeno_pct": 50,
+   "mediana_dni": 12.5,
+   "leto12": 3,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "BicikeLJ",
+   "n": 5,
+   "zamujeno_pct": 60,
+   "mediana_dni": 13,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Invazivne rastline",
+   "n": 4,
+   "zamujeno_pct": 100,
+   "mediana_dni": 16.5,
+   "leto12": 1,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Poraba sredstev",
+   "n": 4,
+   "zamujeno_pct": 75,
+   "mediana_dni": 14.0,
+   "leto12": 2,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Vodovod",
+   "n": 3,
+   "zamujeno_pct": 33,
+   "mediana_dni": 7,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Oglaševanje ",
+   "n": 3,
+   "zamujeno_pct": 100,
+   "mediana_dni": 74,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Stanovanjska problematika",
+   "n": 2,
+   "zamujeno_pct": 50,
+   "mediana_dni": 12.5,
+   "leto12": 1,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 195, naziv ni znan",
+   "n": 2,
+   "zamujeno_pct": 0,
+   "mediana_dni": 2.5,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 77, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 0,
+   "mediana_dni": 7,
+   "leto12": 1,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 152, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 0,
+   "mediana_dni": 7,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 65, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 100,
+   "mediana_dni": 18,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 192, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 0,
+   "mediana_dni": 3,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 198, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 100,
+   "mediana_dni": 9,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 34, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 100,
+   "mediana_dni": 63,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 124, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 0,
+   "mediana_dni": 8,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Občinski domovi prostori itd.",
+   "n": 1,
+   "zamujeno_pct": 0,
+   "mediana_dni": 5,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Šifra 73, naziv ni znan",
+   "n": 1,
+   "zamujeno_pct": 100,
+   "mediana_dni": 10,
+   "leto12": 0,
+   "neodgovorjenih": 0
+  },
+  {
+   "k": "Storitve MOL",
+   "n": 1,
+   "zamujeno_pct": null,
+   "mediana_dni": null,
+   "leto12": 1,
+   "neodgovorjenih": 1
+  }
+ ],
+ "vs": {
+  "n": 725,
+  "od": "2025-10-01",
+  "stanja": {
+   "S0": 50,
+   "S3": 205,
+   "S4": 107,
+   "S1": 171,
+   "SV": 56,
+   "S2": 85,
+   "S5": 37,
+   "S6": 14
+  },
+  "zavrnjeno_pct": 42,
+  "brez_zaveze_pct": 59,
+  "zaveza_pct": 7,
+  "zamujeno_pct": 73,
+  "vrste": [
+   {
+    "k": "V3",
+    "n": 158,
+    "leto12": 158,
+    "varnost": 0,
+    "stanja": {
+     "S4": 79,
+     "S2": 39,
+     "S1": 11,
+     "S3": 26,
+     "S5": 1,
+     "S6": 2
+    },
+    "brez_odziva_pct": 23,
+    "zamujeno_pct": 22,
+    "mediana_dni": 3.0
+   },
+   {
+    "k": "V6",
+    "n": 123,
+    "leto12": 123,
+    "varnost": 0,
+    "stanja": {
+     "S1": 69,
+     "S3": 28,
+     "S6": 6,
+     "S5": 7,
+     "S4": 7,
+     "S2": 6
+    },
+    "brez_odziva_pct": 79,
+    "zamujeno_pct": 86,
+    "mediana_dni": 20
+   },
+   {
+    "k": "V4",
+    "n": 99,
+    "leto12": 99,
+    "varnost": 0,
+    "stanja": {
+     "S1": 71,
+     "S2": 2,
+     "S3": 16,
+     "S4": 7,
+     "S5": 2,
+     "S6": 1
+    },
+    "brez_odziva_pct": 88,
+    "zamujeno_pct": 98,
+    "mediana_dni": 22
+   },
+   {
+    "k": "V2",
+    "n": 80,
+    "leto12": 80,
+    "varnost": 0,
+    "stanja": {
+     "S4": 6,
+     "S5": 9,
+     "S3": 60,
+     "S2": 4,
+     "S1": 1
+    },
+    "brez_odziva_pct": 76,
+    "zamujeno_pct": 95,
+    "mediana_dni": 24.5
+   },
+   {
+    "k": "V7",
+    "n": 74,
+    "leto12": 74,
+    "varnost": 0,
+    "stanja": {
+     "SV": 56,
+     "S3": 11,
+     "S1": 1,
+     "S2": 6
+    },
+    "brez_odziva_pct": 16,
+    "zamujeno_pct": 70,
+    "mediana_dni": 20.0
+   },
+   {
+    "k": "V1",
+    "n": 70,
+    "leto12": 70,
+    "varnost": 0,
+    "stanja": {
+     "S1": 2,
+     "S5": 14,
+     "S2": 3,
+     "S3": 45,
+     "S4": 3,
+     "S6": 3
+    },
+    "brez_odziva_pct": 67,
+    "zamujeno_pct": 97,
+    "mediana_dni": 27.5
+   },
+   {
+    "k": "V8",
+    "n": 29,
+    "leto12": 29,
+    "varnost": 0,
+    "stanja": {
+     "S3": 17,
+     "S1": 3,
+     "S4": 4,
+     "S5": 2,
+     "S2": 1,
+     "S6": 2
+    },
+    "brez_odziva_pct": 69,
+    "zamujeno_pct": 79,
+    "mediana_dni": 21
+   },
+   {
+    "k": "V9",
+    "n": 22,
+    "leto12": 22,
+    "varnost": 0,
+    "stanja": {
+     "S2": 21,
+     "S1": 1
+    },
+    "brez_odziva_pct": 5,
+    "zamujeno_pct": 73,
+    "mediana_dni": 21.5
+   },
+   {
+    "k": "V5",
+    "n": 20,
+    "leto12": 20,
+    "varnost": 0,
+    "stanja": {
+     "S1": 12,
+     "S2": 3,
+     "S5": 2,
+     "S4": 1,
+     "S3": 2
+    },
+    "brez_odziva_pct": 70,
+    "zamujeno_pct": 95,
+    "mediana_dni": 20.5
+   }
+  ],
+  "sluzbe": [
+   {
+    "k": "Odsek za pobude meščanov",
+    "n": 499,
+    "leto12": 499,
+    "varnost": 0,
+    "stanja": {
+     "S0": 39,
+     "S3": 170,
+     "S1": 150,
+     "S4": 33,
+     "SV": 37,
+     "S2": 37,
+     "S5": 28,
+     "S6": 5
+    },
+    "brez_odziva_pct": 72,
+    "zamujeno_pct": 99,
+    "mediana_dni": 24.0
+   },
+   {
+    "k": "Mestno redarstvo",
+    "n": 96,
+    "leto12": 96,
+    "varnost": 0,
+    "stanja": {
+     "S4": 67,
+     "S2": 10,
+     "S1": 6,
+     "SV": 3,
+     "S3": 8,
+     "S6": 2
+    },
+    "brez_odziva_pct": 15,
+    "zamujeno_pct": 0,
+    "mediana_dni": 3.0
+   },
+   {
+    "k": "Inšpektorat",
+    "n": 44,
+    "leto12": 44,
+    "varnost": 0,
+    "stanja": {
+     "S2": 28,
+     "S3": 11,
+     "SV": 2,
+     "S5": 1,
+     "S1": 2
+    },
+    "brez_odziva_pct": 30,
+    "zamujeno_pct": 0,
+    "mediana_dni": 2.0
+   },
+   {
+    "k": "Oddelek za gospodarske dejavnosti in promet",
+    "n": 38,
+    "leto12": 38,
+    "varnost": 0,
+    "stanja": {
+     "S0": 5,
+     "SV": 1,
+     "S1": 11,
+     "S5": 6,
+     "S3": 7,
+     "S4": 5,
+     "S6": 3
+    },
+    "brez_odziva_pct": 61,
+    "zamujeno_pct": 67,
+    "mediana_dni": 13
+   },
+   {
+    "k": "Oddelek za kulturo",
+    "n": 10,
+    "leto12": 10,
+    "varnost": 0,
+    "stanja": {
+     "S0": 1,
+     "S2": 4,
+     "SV": 2,
+     "S3": 3
+    },
+    "brez_odziva_pct": 40,
+    "zamujeno_pct": 11,
+    "mediana_dni": 3
+   },
+   {
+    "k": "Oddelek za zaščito in reševanje OZR",
+    "n": 10,
+    "leto12": 10,
+    "varnost": 0,
+    "stanja": {
+     "SV": 5,
+     "S2": 4,
+     "S1": 1
+    },
+    "brez_odziva_pct": 10,
+    "zamujeno_pct": 30,
+    "mediana_dni": 6.5
+   },
+   {
+    "k": "Oddelek za šport",
+    "n": 5,
+    "leto12": 5,
+    "varnost": 0,
+    "stanja": {
+     "S6": 3,
+     "S5": 1,
+     "SV": 1
+    },
+    "brez_odziva_pct": 0,
+    "zamujeno_pct": 40,
+    "mediana_dni": 7
+   },
+   {
+    "k": "Oddelek za zdravje in socialno varstvo",
+    "n": 5,
+    "leto12": 5,
+    "varnost": 0,
+    "stanja": {
+     "S3": 2,
+     "SV": 1,
+     "S4": 1,
+     "S5": 1
+    },
+    "brez_odziva_pct": 40,
+    "zamujeno_pct": 0,
+    "mediana_dni": 6
+   }
+  ]
+ }
+}

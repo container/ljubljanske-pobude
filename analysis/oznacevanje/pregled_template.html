@@ -1,0 +1,275 @@
+<title>Pregled pobud Vič</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky toolbar with progress and filters; one card per initiative, source text left, labels right, stacking on phones. */
+:root{
+  --bg:#f5f6f4; --surface:#ffffff; --ink:#1d2622; --muted:#5d6a64; --line:#d9dfdb;
+  --accent:#1f6b5c; --accent-soft:#e2efe9; --mark:#fbe7a6;
+  --ok:#2c7a3f; --ok-soft:#e1f1e4; --warn:#9a5b00; --warn-soft:#fbecd3; --bad:#a3342b; --bad-soft:#f7e0dd;
+  --f-display:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#141a18; --surface:#1c2421; --ink:#e3e9e6; --muted:#9aa8a1; --line:#2f3a36;
+  --accent:#6cc2ab; --accent-soft:#1f3630; --mark:#5a4a16;
+  --ok:#78c98b; --ok-soft:#1d3323; --warn:#e3a54a; --warn-soft:#3a2c14; --bad:#ec8a80; --bad-soft:#3c1f1c; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141a18; --surface:#1c2421; --ink:#e3e9e6; --muted:#9aa8a1; --line:#2f3a36;
+  --accent:#6cc2ab; --accent-soft:#1f3630; --mark:#5a4a16;
+  --ok:#78c98b; --ok-soft:#1d3323; --warn:#e3a54a; --warn-soft:#3a2c14; --bad:#ec8a80; --bad-soft:#3c1f1c; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--f-body)}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:24px 64px}
+h1{font:600 clamp(26px,4vw,34px)/1.15 var(--f-display);margin:0 0 6px;text-wrap:balance}
+.lede{color:var(--muted);max-width:68ch;margin:0 0 16px}
+details.legend{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin-bottom:16px}
+details.legend summary{cursor:pointer;font-weight:600}
+.legend-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:4px 28px;margin-top:10px;font-size:13.5px}
+.legend-grid h3{font:600 12px/1 var(--f-body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:12px 0 6px}
+.legend-grid dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:2px 10px}
+.legend-grid dt{font-family:var(--f-mono);font-weight:500}
+.legend-grid dd{margin:0;color:var(--ink)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;margin-bottom:18px}
+.progress{display:flex;align-items:center;gap:10px;font-variant-numeric:tabular-nums;min-width:0}
+.meter{width:160px;max-width:40vw;height:8px;border-radius:4px;background:var(--line);overflow:hidden}
+.meter i{display:block;height:100%;background:var(--accent);width:0}
+.filters{display:flex;flex-wrap:wrap;gap:6px}
+.filters button,.btn{font:500 13.5px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:6px 12px;border-radius:6px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+button:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.sync{font-size:13px;color:var(--muted);margin-left:auto}
+.list{display:grid;gap:16px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);overflow:hidden}
+.card[data-state="potrjeno"]{border-color:var(--ok)}
+.card[data-state="popravljeno"]{border-color:var(--warn)}
+.src{padding:16px 18px;min-width:0;border-right:1px solid var(--line)}
+.head{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline;margin-bottom:6px}
+.id{font:500 13px var(--f-mono);color:var(--accent)}
+.title{font:600 19px/1.25 var(--f-display);margin:0 0 4px;text-wrap:balance}
+.meta{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;display:flex;flex-wrap:wrap;gap:4px 14px;margin-bottom:10px}
+.meta a{color:var(--accent)}
+.lbl{font:600 11.5px var(--f-body);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:10px 0 2px}
+.txt{margin:0;white-space:pre-line;overflow-wrap:anywhere}
+.resp{color:var(--ink);opacity:.92}
+mark{background:var(--mark);color:inherit;padding:0 2px;border-radius:2px}
+.chip{font:500 12px var(--f-body);padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.chip.state-potrjeno{background:var(--ok-soft);color:var(--ok)}
+.chip.state-popravljeno{background:var(--warn-soft);color:var(--warn)}
+.chip.state-caka{background:var(--line);color:var(--muted)}
+.chip.anchor{background:var(--bad-soft);color:var(--bad)}
+.labels{padding:16px 18px;display:grid;gap:8px;align-content:start;min-width:0}
+.field{display:grid;grid-template-columns:110px minmax(0,1fr);align-items:center;gap:8px}
+.field label{font-size:13px;color:var(--muted)}
+.field select,.field textarea{font:14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:5px 8px;width:100%;min-width:0}
+.field select.changed{border-color:var(--warn);background:var(--warn-soft)}
+.field textarea{resize:vertical;min-height:52px}
+.proposal-note{font-size:13px;color:var(--muted);background:var(--bg);border-radius:6px;padding:8px 10px;margin:0}
+.actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:4px}
+.saved{font-size:12.5px;color:var(--muted)}
+.empty{padding:40px;text-align:center;color:var(--muted)}
+.export{margin-top:28px;font-size:13.5px;color:var(--muted)}
+.export textarea{width:100%;height:120px;font:12px var(--f-mono);background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:6px;margin-top:8px}
+@media (max-width:820px){.card{grid-template-columns:1fr}.src{border-right:0;border-bottom:1px solid var(--line)}.field{grid-template-columns:96px minmax(0,1fr)}.sync{margin-left:0}}
+@media (prefers-reduced-motion:no-preference){.meter i{transition:width .3s}}
+</style>
+
+<div class="wrap">
+  <h1>Pregled 50 pobud: umerjanje oznak</h1>
+  <p class="lede">Za vsako pobudo sem predlagal oznake. Preglej jih in jih potrdi ali popravi. Popravljena polja se obarvajo. Ponovitve bom ugotovil sam, ko pobude združim v zadeve. V polju »Teren« lahko dodaš, kar veš o dejanskem stanju. Rumeno je označen stavek odgovora, na katerem temelji ocena stanja.</p>
+
+  <details class="legend">
+    <summary>Pomen oznak</summary>
+    <div class="legend-grid" id="legend"></div>
+  </details>
+
+  <div class="bar">
+    <div class="progress"><span class="meter"><i id="meter"></i></span><span id="count">0 / 50 pregledanih</span></div>
+    <div class="filters" id="filters" role="group" aria-label="Filter">
+      <button type="button" data-f="caka" aria-pressed="true">Čaka</button>
+      <button type="button" data-f="vse" aria-pressed="false">Vse</button>
+      <button type="button" data-f="popravljeno" aria-pressed="false">Popravljeno</button>
+      <button type="button" data-f="visoka" aria-pressed="false">Visoka relevanca</button>
+    </div>
+    <span class="sync" id="sync">Povezujem shranjevanje …</span>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <div class="export" id="exportBox" hidden>
+    <strong>Shranjevanje ni na voljo.</strong> Pregled je shranjen samo v tem brskalniku. Ko končaš, kopiraj spodnje besedilo in ga prilepi v pogovor.
+    <div class="actions"><button type="button" class="btn" id="copyBtn">Kopiraj pregled</button></div>
+    <textarea id="exportText" readonly></textarea>
+  </div>
+</div>
+
+<script>
+const DATA = /*DATA*/;
+const OPTS = {
+  vrsta:{V1:"Okvara, poškodba",V2:"Ponavljajoče vzdrževanje",V3:"Kršitve in nadzor",V4:"Manjša ureditev (klančina, znak, prehod)",V5:"Večja investicija, prenova",V6:"Nova storitev, predlog",V7:"Vprašanje, informacija",V8:"Pritožba na delo služb",V9:"Zunaj pristojnosti MOL"},
+  obseg:{tocka:"Točka",odsek:"Odsek ulice",soseska:"Soseska",vic:"Cel Vič",mol:"Cela MOL"},
+  koga:{"":"—",da:"Da",ne:"Ne"},
+  varnost:{da:"Da",ne:"Ne"},
+  izvajalec:{ceste:"Ceste, vzdrževanje",promet:"Promet, signalizacija",razsvetljava:"Javna razsvetljava",zelenje:"Drevesa, zelenice",cistoca:"Čistoča, odpadki",redarstvo:"Mestno redarstvo",inspektorat:"Inšpektorat",lpt:"JP LPT (parkiranje)",lpp:"LPP",investicije:"Investicije, projekti",nepremicnine:"Nepremičnine, zemljišča",okolje:"Varstvo okolja",sport:"Šport",kultura:"Kultura",zascita:"Zaščita in reševanje",drzava:"Država (DRSI, DRSV)",zasebnik:"Zasebnik",cs:"ČS Vič"},
+  stanje:{S0:"Brez odgovora",S1:"Zavrnjeno ali odloženo brez roka",S2:"Zunaj pristojnosti MOL",S3:"Odgovor brez zaveze",S4:"Nedoločena obljuba",S5:"Konkretna napoved",S6:"Izvedba po navedbi MOL",SV:"Vprašanje vsebinsko odgovorjeno"},
+  ponovitev:{da:"Da",ne:"Ne"},
+  relevanca:{visoka:"Visoka",srednja:"Srednja",nizka:"Nizka"},
+  lokacija:{ok:"Pravilna, na Viču",tocka:"Točka napačna, zadeva je na Viču",izven:"Zadeva ni v ČS Vič",brez:"Ni vezana na lokacijo"},
+  teren:{"":"—",reseno:"Rešeno",nereseno:"Ni rešeno",delno:"Delno",nevem:"Ne vem"}
+};
+const FIELDS = [["vrsta","Vrsta"],["lokacija","Lokacija"],["obseg","Obseg"],["koga","Prebivalci ČS"],["varnost","Varnost"],["izvajalec","Izvajalec"],["stanje","Stanje"],["relevanca","Relevanca"],["teren","Teren"]];
+const LABELED = FIELDS.map(f=>f[0]).filter(k=>k!=="teren");
+const optsFor = k => k==="vrsta2" ? Object.assign({"":"—"},OPTS.vrsta) : OPTS[k];
+
+const legend = document.getElementById("legend");
+for (const [k,name] of [["vrsta","Vrsta pobude"],["stanje","Stanje po odgovoru"],["obseg","Obseg"]]) {
+  const box=document.createElement("div");
+  const h=document.createElement("h3"); h.textContent=name; box.append(h);
+  const dl=document.createElement("dl");
+  for (const [c,t] of Object.entries(OPTS[k])) { const dt=document.createElement("dt"); dt.textContent=c; const dd=document.createElement("dd"); dd.textContent=t; dl.append(dt,dd); }
+  box.append(dl); legend.append(box);
+}
+
+let reviews = {};          // id -> saved review
+let store = null;          // db collection or null
+let filter = "caka";
+const LS = "pregled50";
+try { reviews = JSON.parse(localStorage.getItem(LS)||"{}"); } catch(e) {}
+
+function stateOf(r){ const s=reviews[r.id]; return s ? s.odlocitev : "caka"; }
+function fmt(d){ if(!d) return "—"; const [y,m,dd]=d.split("-"); return `${+dd}. ${+m}. ${y}`; }
+
+function highlight(el, text, quote){
+  const parts = (quote||"").replace(/^\(|\)$/g,"").split(/\s*\.\.\.\s*/).filter(p=>p.length>6);
+  let ranges=[];
+  for (const p of parts){ const i=text.indexOf(p); if(i>=0) ranges.push([i,i+p.length]); }
+  ranges.sort((a,b)=>a[0]-b[0]);
+  let pos=0;
+  for (const [a,b] of ranges){ if(a<pos) continue; el.append(text.slice(pos,a)); const m=document.createElement("mark"); m.textContent=text.slice(a,b); el.append(m); pos=b; }
+  el.append(text.slice(pos));
+}
+
+function card(r){
+  const c=document.createElement("article"); c.className="card"; c.id="p"+r.id;
+  const saved=reviews[r.id];
+  c.dataset.state=stateOf(r);
+  const src=document.createElement("div"); src.className="src";
+  const head=document.createElement("div"); head.className="head";
+  const id=document.createElement("span"); id.className="id"; id.textContent="#"+r.id;
+  const chip=document.createElement("span"); chip.className="chip state-"+stateOf(r); chip.textContent={caka:"Čaka",potrjeno:"Potrjeno",popravljeno:"Popravljeno"}[stateOf(r)];
+  head.append(id,chip);
+  if(r.anchor){ const a=document.createElement("span"); a.className="chip anchor"; a.textContent="Znana zadeva"; head.append(a); }
+  const t=document.createElement("h2"); t.className="title"; t.textContent=r.title;
+  const meta=document.createElement("div"); meta.className="meta";
+  const g=r.geometry_wgs84||{};
+  meta.innerHTML="";
+  for (const s of [`Prijava ${fmt(r.reported_date)}`,`Odgovor ${fmt(r.last_response_date)}`,r.category||"Kategorija ni znana",(r.respondents_text||"").replace(/^Odgovor (pripravil|v pripravi)\s*:\s*/,"")]) { const sp=document.createElement("span"); sp.textContent=s; meta.append(sp); }
+  if(g.y){ const a=document.createElement("a"); a.href=`https://www.openstreetmap.org/?mlat=${g.y}&mlon=${g.x}#map=18/${g.y}/${g.x}`; a.target="_blank"; a.rel="noopener"; a.textContent="Zemljevid"; meta.append(a); }
+  const l1=document.createElement("div"); l1.className="lbl"; l1.textContent="Pobuda";
+  const p1=document.createElement("p"); p1.className="txt"; p1.textContent=r.initiative_text;
+  const l2=document.createElement("div"); l2.className="lbl"; l2.textContent="Odgovor";
+  const p2=document.createElement("p"); p2.className="txt resp";
+  if(r.response_text) highlight(p2, r.response_text, r.p.dokaz); else p2.textContent="V posnetku ni odgovora.";
+  src.append(head,t,meta,l1,p1,l2,p2);
+
+  const lab=document.createElement("div"); lab.className="labels";
+  const vals = saved ? saved : Object.assign({teren:"",opomba:""}, r.p);
+  const sels={};
+  for (const [k,name] of FIELDS){
+    const f=document.createElement("div"); f.className="field";
+    const L=document.createElement("label"); L.textContent=name; L.htmlFor=`f-${r.id}-${k}`;
+    const s=document.createElement("select"); s.id=`f-${r.id}-${k}`;
+    for (const [v,txt] of Object.entries(optsFor(k))){ const o=document.createElement("option"); o.value=v; o.textContent=(k.startsWith("vrsta")||k==="stanje")&&v?`${v} · ${txt}`:txt; s.append(o); }
+    s.value = vals[k] ?? r.p[k] ?? "";
+    const mark=()=>s.classList.toggle("changed", k!=="teren" && s.value!==(r.p[k]??""));
+    s.addEventListener("change",()=>{mark(); dirty();});
+    mark(); sels[k]=s; f.append(L,s); lab.append(f);
+  }
+  const f=document.createElement("div"); f.className="field";
+  const L=document.createElement("label"); L.textContent="Opomba"; L.htmlFor=`f-${r.id}-opomba`;
+  const ta=document.createElement("textarea"); ta.id=`f-${r.id}-opomba`; ta.value=saved?.opomba||""; ta.placeholder="Kaj je narobe z oznakami, kaj veš o lokaciji …";
+  ta.addEventListener("input",dirty);
+  f.append(L,ta); lab.append(f);
+  if(r.p.opomba || r.p.ponovitev==="da"){ const n=document.createElement("p"); n.className="proposal-note"; n.textContent=[r.p.ponovitev==="da"?"Besedilo omenja, da se problem ponavlja ali vleče.":"", r.p.opomba?"Moja opomba: "+r.p.opomba:""].filter(Boolean).join(" "); lab.append(n); }
+  const act=document.createElement("div"); act.className="actions";
+  const btn=document.createElement("button"); btn.type="button"; btn.className="btn primary"; btn.textContent=saved?"Shrani spremembe":"Potrdi";
+  const info=document.createElement("span"); info.className="saved"; info.textContent=saved?"Shranjeno":"";
+  function dirty(){ const changed=LABELED.some(k=>sels[k].value!==(r.p[k]??"")); btn.textContent = changed ? "Shrani popravek" : (saved?"Shrani spremembe":"Potrdi"); info.textContent=""; }
+  btn.addEventListener("click", async ()=>{
+    const out={id:r.id};
+    for (const [k] of FIELDS) out[k]=sels[k].value;
+    out.opomba=ta.value.trim();
+    out.spremenjeno=LABELED.filter(k=>out[k]!==(r.p[k]??""));
+    out.odlocitev=out.spremenjeno.length?"popravljeno":"potrjeno";
+    out.cas=new Date().toISOString();
+    btn.disabled=true; info.textContent="Shranjujem …";
+    try { await save(out); info.textContent="Shranjeno"; }
+    catch(e){ info.textContent="Ni shranjeno: "+(e&&e.message||"napaka")+". Poskusi znova."; }
+    btn.disabled=false;
+    render(true, r.id);
+  });
+  act.append(btn,info); lab.append(act);
+  c.append(src,lab);
+  return c;
+}
+
+async function save(out){
+  reviews[out.id]=out;
+  try { localStorage.setItem(LS, JSON.stringify(reviews)); } catch(e) {}
+  if (store) await store.doc(String(out.id)).set(out);
+  updateExport();
+}
+
+const list=document.getElementById("list");
+function visible(r){
+  const s=stateOf(r);
+  if(filter==="vse") return true;
+  if(filter==="visoka") return (reviews[r.id]?.relevanca||r.p.relevanca)==="visoka";
+  return s===filter;
+}
+function render(keepScroll, focusId){
+  const done=DATA.filter(r=>reviews[r.id]).length;
+  document.getElementById("count").textContent=`${done} / ${DATA.length} pregledanih`;
+  document.getElementById("meter").style.width=(100*done/DATA.length)+"%";
+  const y=window.scrollY;
+  list.replaceChildren();
+  const rows=DATA.filter(visible);
+  for (const r of rows) list.append(card(r));
+  if(!rows.length){ const e=document.createElement("div"); e.className="empty"; e.textContent= filter==="caka" ? "Vse pobude so pregledane. Sporoči mi v pogovoru, pa preberem popravke." : "V tem filtru ni pobud."; list.append(e); }
+  if(keepScroll) window.scrollTo(0,y);
+}
+document.getElementById("filters").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return;
+  filter=b.dataset.f;
+  for (const x of e.currentTarget.children) x.setAttribute("aria-pressed", String(x===b));
+  render(false);
+});
+function updateExport(){ document.getElementById("exportText").value=JSON.stringify(Object.values(reviews)); }
+document.getElementById("copyBtn").addEventListener("click",()=>{
+  const t=document.getElementById("exportText");
+  navigator.clipboard.writeText(t.value).catch(()=>{ t.focus(); t.select(); });
+});
+
+render(false);
+updateExport();
+
+(async()=>{
+  const sync=document.getElementById("sync");
+  const db = window.claude ? await window.claude.use("db") : null;
+  if(!db){ sync.textContent="Shranjeno samo v tem brskalniku"; document.getElementById("exportBox").hidden=false; return; }
+  store=db.collection("pregled");
+  let first=true;
+  store.onSnapshot(snap=>{
+    const remote={};
+    for (const d of snap.docs){ const v=d.data(); if(v) remote[v.id]=v; }
+    const local=Object.values(reviews).filter(v=>!remote[v.id]);
+    reviews=Object.assign({}, remote);
+    for (const v of local){ reviews[v.id]=v; store.doc(String(v.id)).set(v).catch(()=>{}); }
+    sync.textContent="Pregled se shranjuje sproti";
+    if(first){ first=false; render(true); }
+    else { const done=DATA.filter(r=>reviews[r.id]).length; document.getElementById("count").textContent=`${done} / ${DATA.length} pregledanih`; document.getElementById("meter").style.width=(100*done/DATA.length)+"%"; }
+  }, ()=>{ sync.textContent="Shranjevanje ni uspelo, pregled je v tem brskalniku"; document.getElementById("exportBox").hidden=false; });
+})();
+</script>

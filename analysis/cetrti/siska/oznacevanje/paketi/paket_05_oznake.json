@@ -1,0 +1,402 @@
+[
+ {
+  "id": 83490,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo na terenu preverili in po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83493,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo ureditve kolesarskega prehoda, saj za to ne prepoznavamo potrebe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83500,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "spremembe semafornega intervala trenutno niso načrtovane",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83502,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Dodatnih ureditev na semaforiziranem prehodu za pešce trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83503,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "v letošnjem letu načrtovana celovita rekonstrukcija oziroma prenova Litostrojske ceste",
+  "gotovost": "nizka",
+  "opomba": "Za konkretni odsek pločnika le 'preverili in po potrebi'; parkiranje predano redarstvu (občasni nadzor)."
+ },
+ {
+  "id": 83504,
+  "vrsta": "V8",
+  "stanje": "S1",
+  "dokaz": "v peskovnik vgrajena naravna prana rečna mivka, ki je skladna z veljavnimi standardi za otroška igrišča",
+  "gotovost": "nizka",
+  "opomba": "Odgovor pojasni, da je mivka ustrezna; zamenjave ne bo."
+ },
+ {
+  "id": 83505,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Dodatnih prometnih ureditev oziroma prilagoditev na predmetnem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83506,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori na omenjenih območjih bomo nadaljevali tudi v prihodnje",
+  "gotovost": "visoka",
+  "opomba": "Predlog cvetličnih koritov ni naslovljen."
+ },
+ {
+  "id": 83520,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "celovite prenove Derčeve ulice trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83521,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "bomo ob primernih vremenskih pogojih poskrbeli tudi za zasaditev manjkajočih dreves",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83523,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "predmetna površina ni vključena v načrt vzdrževanja niti v pristojnost urejanja Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "Podrt prometni znak ni naslovljen."
+ },
+ {
+  "id": 83532,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo na terenu preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83543,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo uvedbe dodatnih ukrepov za umirjanje prometa",
+  "gotovost": "visoka",
+  "opomba": "Nadaljujejo z občasnimi meritvami hitrosti."
+ },
+ {
+  "id": 83546,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83556,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "označeno zemljišče ni v lasti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "Ozelenitev po zaključku del DARS predvidoma jeseni."
+ },
+ {
+  "id": 83557,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "že namestili fizične ovire oziroma kovinske stebričke na desni strani vozišča",
+  "gotovost": "visoka",
+  "opomba": "Dodatni stebrički na nasprotni strani le pogojno preučeni."
+ },
+ {
+  "id": 83566,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo na terenu preverili ter po potrebi izvedli ustrezne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83577,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "sprememb na tem področju za zdaj ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83580,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "na tem območju nove ureditve niso predvidene",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83581,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo uvedbe plačila parkirnine glede na dejanski čas parkiranja",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83584,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo ureditve dodatnih javnih parkirnih površin",
+  "gotovost": "nizka",
+  "opomba": "Oblikovano kot vprašanje (možen V7/SV)."
+ },
+ {
+  "id": 83592,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "že obvestili pristojnega izvajalca vzdrževanja, ki bo v najkrajšem možnem času saniral cestišče",
+  "gotovost": "nizka",
+  "opomba": "Meja S3/S5: obvestilo izvajalcu z obljubo sanacije."
+ },
+ {
+  "id": 83612,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83613,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83615,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo zamenjave ali odstranitve košev za odpadke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83620,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83623,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "prenova OŠ Valentina Vodnika trenutno še ni uvrščena v načrt investicij MOL za naslednja leta",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83624,
+  "vrsta": "V8",
+  "stanje": "S6",
+  "dokaz": "že namestili fizične ovire oziroma kovinske stebričke na desni strani vozišča",
+  "gotovost": "visoka",
+  "opomba": "Enak odgovor kot 83557; dodatni stebrički le pogojno."
+ },
+ {
+  "id": 83631,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "trenutno preučujemo možnosti celovite prenove poti PST",
+  "gotovost": "nizka",
+  "opomba": "Prenova le v preučevanju brez roka (meja S1/S4); sanacija 'po potrebi'."
+ },
+ {
+  "id": 83636,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "spada v pristojnost državnih organov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83646,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83658,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "V kolikor se bo izkazalo, da je dodatna osvetlitev tehnično izvedljiva in prometno upravičena",
+  "gotovost": "nizka",
+  "opomba": "Preverili in preučili; pogojna obljuba."
+ },
+ {
+  "id": 83672,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na predmetni cesti ne načrtujemo uvedbe dodatnih ukrepov za umirjanje prometa",
+  "gotovost": "visoka",
+  "opomba": "Za obravnavo zahtevano soglasje 75 % stanovalcev."
+ },
+ {
+  "id": 83686,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo navedeni jašek na terenu preverili ter po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83705,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "v letošnjem letu načrtovana prenova odseka Litostrojske ceste",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83707,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Ocenjujemo, da bi bila izvedba možna v naslednjih petih letih.",
+  "gotovost": "visoka",
+  "opomba": "Projekt v pristojnosti države (SŽ, DRSI)."
+ },
+ {
+  "id": 83718,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "smo pri pristojnem izvajalcu že naročili izvedbo ustreznih sanacijskih del",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83720,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo preučili možnost označitve prehoda za pešce na tem mestu",
+  "gotovost": "nizka",
+  "opomba": "Preverili in preučili brez zaveze."
+ },
+ {
+  "id": 83743,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "bomo v tem oziroma naslednjem tednu izvedli sanacijo in preplastitev akrilne površine kotalkališča",
+  "gotovost": "nizka",
+  "opomba": "Oblikovano kot vprašanje (možen V7/SV); vprašanje o ponovnem odprtju ni odgovorjeno."
+ },
+ {
+  "id": 83746,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "nizka",
+  "opomba": "Samo potrdilo inšpektorata; preureditev zbirnega mesta ni naslovljena."
+ },
+ {
+  "id": 83753,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo na terenu preverili in po potrebi izvedli nujne sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83763,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "sanacija poškodb stopnišča v podhodu pri Kinu Šiška že izvedena",
+  "gotovost": "visoka",
+  "opomba": "Čiščenje: enkrat tedensko po planu."
+ },
+ {
+  "id": 83791,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "pristopili k njihovi sanaciji oziroma ustrezni ureditvi",
+  "gotovost": "nizka",
+  "opomba": "Konkretna obljuba brez roka (meja S4/S5)."
+ },
+ {
+  "id": 83794,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z izvajanjem nadzora bomo nadaljevali tudi v prihodnje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83800,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo vaše opozorilo upoštevali pri nadaljnjem načrtovanju nadzorov v takšnih primerih",
+  "gotovost": "visoka",
+  "opomba": "Plačilo parkirnine napoteno na JP LPT."
+ },
+ {
+  "id": 83815,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo na navedeni lokaciji v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83835,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "v zasebni lasti in ni javna površina",
+  "gotovost": "nizka",
+  "opomba": "Prijava tudi dodeljena inšpektorju."
+ },
+ {
+  "id": 83839,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na tem območju ne načrtujemo postavitve fizičnih ovir oziroma stebričkov",
+  "gotovost": "visoka",
+  "opomba": "Redarstvo bo občasno izvedlo nadzor."
+ },
+ {
+  "id": 83843,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo celovite rekonstrukcije predmetnega odseka Celovške ceste",
+  "gotovost": "visoka",
+  "opomba": "Nujna vzdrževalna dela po potrebi."
+ },
+ {
+  "id": 83863,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno sprememba trase linije 18 ni predvidena",
+  "gotovost": "visoka",
+  "opomba": "Predlog vključen v študijo mreže linij LPP."
+ }
+]

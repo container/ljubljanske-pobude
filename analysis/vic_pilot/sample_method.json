@@ -1,0 +1,72 @@
+{
+  "source_records": 2975,
+  "recent_frame": 544,
+  "period": [
+    "2023-09-29",
+    "2026-09-29"
+  ],
+  "targeted_records": 36,
+  "context_records": 64,
+  "sample_size": 100,
+  "candidate_groups": {
+    "glinska_oslavijska": [
+      78454,
+      78529,
+      81438,
+      84715,
+      83805
+    ],
+    "jamova_vrtec_klancine": [
+      73605,
+      76835,
+      81348
+    ],
+    "jadranska_jamova_semafor": [
+      75814,
+      80633
+    ],
+    "vrhovnikova_pesci": [
+      70927,
+      76834,
+      77952,
+      79303,
+      81574,
+      86025,
+      86027,
+      86041
+    ],
+    "gorice_ciscenje": [
+      71215,
+      70231,
+      83644
+    ],
+    "gorice_rastje": [
+      74182,
+      74946
+    ],
+    "gorice_prehodi": [
+      78011,
+      83643,
+      84907
+    ],
+    "dolgi_most_wc": [
+      67748,
+      68016,
+      68829,
+      82472
+    ],
+    "nahlikova_parkiranje": [
+      80840,
+      82046
+    ],
+    "zabojniki_robidovje": [
+      74102,
+      74496
+    ],
+    "pot_pst_odpadki": [
+      68857,
+      71553
+    ]
+  },
+  "selection": "36 targeted follow-up records from text screening of 544 recent initiatives, plus 64 systematically spaced chronological context records from the remainder. Purposive exploratory design; not a representative sample."
+}

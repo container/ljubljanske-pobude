@@ -1,0 +1,402 @@
+[
+ {
+  "id": 84916,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "uvedba dodatne prometne signalizacije na predmetnem območju trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84924,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Dodatne talne označbe za dvosmerno kolesarsko stezo v okviru te začasne ureditve niso predvidene",
+  "gotovost": "visoka",
+  "opomba": "Napoved ureditve kolesarske steze na nasprotni strani ceste letos."
+ },
+ {
+  "id": 84928,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli košnjo in čiščenje površin",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84935,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "pristojni arborist navedeno drevo na terenu strokovno pregledal",
+  "gotovost": "nizka",
+  "opomba": "Pregled arborista napovedan, ukrepi le po potrebi."
+ },
+ {
+  "id": 84943,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Vaš predlog smo zabeležil in ga bomo v čimvečji možni meri upoštevali pri prihodnjem načrtovanju",
+  "gotovost": "nizka",
+  "opomba": "Odgovor MKL; obstoječi čas utemeljen, brez zaveze."
+ },
+ {
+  "id": 85001,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Na podlagi ugotovitev strokovnega pregleda bodo po potrebi določeni in izvedeni ustrezni arboristični ukrepi",
+  "gotovost": "nizka",
+  "opomba": "Pregled arborista napovedan, odstranitev le po potrebi."
+ },
+ {
+  "id": 85003,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Poškodba naj bi trajala skoraj leto, padca kolesarjev."
+ },
+ {
+  "id": 85006,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "mestne linije se praviloma označujejo z imenom končnega postajališča v smeri vožnje.",
+  "gotovost": "nizka",
+  "opomba": "LPP pojasni obstoječo prakso, sprememba ni napovedana."
+ },
+ {
+  "id": 85007,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "Vaš predlog bomo upoštevali pri pripravi prihodnjih obvestil",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85011,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Dodatne izjeme oziroma spremembe obstoječe prometne ureditve trenutno niso predvidene.",
+  "gotovost": "nizka",
+  "opomba": "Vsebuje tudi predlog izjeme za stanovalce, ki je zavrnjen."
+ },
+ {
+  "id": 85014,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "ponovna vzpostavitev oziroma sanacija obstoječega dvigala žal ni primerna oziroma dolgoročno izvedljiva rešitev",
+  "gotovost": "nizka",
+  "opomba": "Namesto dvigala napovedana klančina, brez roka."
+ },
+ {
+  "id": 85016,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Vse udeležence v prometu vljudno pozivamo, da ravnajo strpno, odgovorno in v skladu z veljavnimi cestnoprometnimi predpisi",
+  "gotovost": "visoka",
+  "opomba": "Odgovor ne naslovi konkretnega dogodka."
+ },
+ {
+  "id": 85017,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Na Mestni občini Ljubljana si prizadevamo, da se pregledi in potrebni ukrepi izvajajo v najkrajšem možnem času",
+  "gotovost": "nizka",
+  "opomba": "Splošen odgovor brez konkretnega ukrepa."
+ },
+ {
+  "id": 85048,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "stanovalci Komenskega ulice še vedno nemoteno dostopate do svojih objektov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85049,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "Voznike in voznice bomo ponovno opozorili na še večjo pozornost do ranljivejših skupin v prometu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85067,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "zapora Tavčarjeve ulice oziroma sprememba njene prometne ureditve trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85073,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "uvedba posebnih dovolilnic za brezplačno parkiranje na drugih območjih za čas trajanja zapor trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85077,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "vam svetujemo, da se obrnete na JP LPT, ki upravlja sistem potopnih stebričkov",
+  "gotovost": "nizka",
+  "opomba": "Napotitev na JP LPT; tudi pritožba zaradi zapore Miklošičeve."
+ },
+ {
+  "id": 85079,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "Inšpektorat Mestne občine Ljubljana ne bo uvedel postopka",
+  "gotovost": "visoka",
+  "opomba": "Predlog nalepk na zabojnikih ni naslovljen."
+ },
+ {
+  "id": 85100,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85103,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85107,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Ponavljajoča pobuda; tudi preverjanje možnosti dopolnitve signalizacije (S3)."
+ },
+ {
+  "id": 85111,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatne označitve izhoda trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85116,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "stanje pasaže v okviru rednega letnega vzdrževanja dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Pasaža v lasti etažnih lastnikov; večje ureditve v njihovi pristojnosti."
+ },
+ {
+  "id": 85120,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "trenutno ni mogoče izvajati meritev hitrosti s samodejno merilno napravo",
+  "gotovost": "nizka",
+  "opomba": "Redni nadzori redarstva se nadaljujejo."
+ },
+ {
+  "id": 85134,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvajajo dodatne aktivnosti z namenom zagotavljanja varnosti, urejenosti in čistoče javnega prostora",
+  "gotovost": "nizka",
+  "opomba": "Mešano čistoča/varnost; dolgoročni socialni projekti omenjeni."
+ },
+ {
+  "id": 85135,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvajajo aktivnosti z namenom zagotavljanja varnosti, urejenosti in čistoče javnega prostora",
+  "gotovost": "visoka",
+  "opomba": "Splošen odgovor."
+ },
+ {
+  "id": 85137,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Vse udeležence v prometu vljudno prosimo za razumevanje ter prilagoditev novi prometni ureditvi",
+  "gotovost": "visoka",
+  "opomba": "Za prometno študijo napotitev na zahtevo IJZ."
+ },
+ {
+  "id": 85148,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "v okviru rednega letnega vzdrževanja po potrebi izvedli ustrezne vzdrževalne oziroma sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Vključuje tudi poškodovano ploščo in predlog dodatnih košev."
+ },
+ {
+  "id": 85149,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili na terenu ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85151,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Nevarno igrišče, generičen odgovor."
+ },
+ {
+  "id": 85153,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "glede hrupa in posledično kršenja javnega reda in miru se obrnite na Policijo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85155,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "glede hrupa in posledično kršenja javnega reda in miru se obrnite na Policijo",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje dovoljenja MOL ni naslovljeno."
+ },
+ {
+  "id": 85158,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Mestno redarstvo izvaja redne in usmerjene nadzore. Prisotnost redarskih patrulj se prilagaja ugotovljenim varnostnim razmeram",
+  "gotovost": "nizka",
+  "opomba": "Opis obstoječih nadzorov; čiščenje in dolgoročni ukrepi niso naslovljeni."
+ },
+ {
+  "id": 85162,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ukrepov za umirjanje prometa trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85166,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo stojala za kolesa na terenu preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85169,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z izvajanjem nadzorov bomo skladno z našimi rednimi delovnimi nalogami nadaljevali tudi v prihodnje",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje zakaj/koliko časa ni naslovljeno."
+ },
+ {
+  "id": 85170,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ocenjujemo, da obstoječi sistem zagotavlja ustrezno raven organiziranosti in varnosti na tem področju",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85172,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetni lokaciji trenutno ne načrtujemo ureditve dodatnega prehoda za pešce",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85176,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z izvajanjem nadzorov bomo skladno z našimi rednimi delovnimi nalogami nadaljevali tudi v prihodnje",
+  "gotovost": "nizka",
+  "opomba": "Prijavitelj vnaprej zavrnil generičen odgovor; dobil enakega."
+ },
+ {
+  "id": 85191,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85205,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85207,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "vse udeležence v prometu vljudno pozivamo, da svoje gibanje prilagodijo razmeram na terenu",
+  "gotovost": "nizka",
+  "opomba": "Le pojasnilo režima dostopa; parkiranje z dovolilnicami ni naslovljeno."
+ },
+ {
+  "id": 85209,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Ključavničarska ulica v okviru rednega programa čiščenja ulic mestnega središča čisti vse dni v tednu dvakrat dnevno",
+  "gotovost": "nizka",
+  "opomba": "Ni potrjeno, da je bil golob odstranjen."
+ },
+ {
+  "id": 85211,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85215,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "da bomo lahko po potrebi naročili dodatno čiščenje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85226,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "pri načrtovanju prometnih ureditev sledi načelom trajnostne mobilnosti ter postopnemu zmanjševanju odvisnosti od osebnega motornega prometa",
+  "gotovost": "nizka",
+  "opomba": "Implicitna zavrnitev; napotitev na prednostni najem garaž pri JP LPT."
+ },
+ {
+  "id": 85230,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Odločitev o poteku linije po zaključku gradbenih del še ni sprejeta.",
+  "gotovost": "nizka",
+  "opomba": "LPP ne vidi ovire, a odločitev odprta."
+ },
+ {
+  "id": 85231,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "predlagana sprememba načina izvajanja linije 12D ni možna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85234,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "povzročanje hrupa in motenje nočnega miru med 22.00 in 6.00 uro sodi v pristojnost policije",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

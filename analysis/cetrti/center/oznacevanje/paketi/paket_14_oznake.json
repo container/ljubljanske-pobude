@@ -1,0 +1,202 @@
+[
+ {
+  "id": 86492,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ocenjujemo, da je na območju Tomanovega parka zagotovljeno zadostno število košev za odpadke",
+  "gotovost": "visoka",
+  "opomba": "Dodatnega koša ne bodo postavili; redno čiščenje in 'po potrebi' dodatni ukrepi."
+ },
+ {
+  "id": 86493,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Vzpostavitve posebne ekipe za obravnavo akutnih situacij trenutno ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86495,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo delovanje pitnika na Hribarjevem nabrežju preverili na terenu ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86506,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Predmetno območje bomo dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Omenja odstranitev nevarnih odpadkov, a pogojno ('po potrebi')."
+ },
+ {
+  "id": 86522,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z rednimi nadzori Kongresnega trga, Parka Zvezda in drugih bolj izpostavljenih lokacij v mestnem središču bomo nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": "Pojasnjeno, da samo zadrževanje ni prekršek."
+ },
+ {
+  "id": 86549,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "za nadzor in ukrepanje v teh primerih pristojna Policija",
+  "gotovost": "visoka",
+  "opomba": "Napotitev na Policijo (113)."
+ },
+ {
+  "id": 86552,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Mestna občina Ljubljana bo z izvajanjem ustreznih ukrepov nadaljevala tudi v prihodnje",
+  "gotovost": "nizka",
+  "opomba": "Splošen odgovor o sistemskih ukrepih (center Metelkova, zavetišče); za konkretni park ni ukrepa."
+ },
+ {
+  "id": 86558,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "bo potrebno dopolniti s formalnim obrazcem in ga tudi osebno podpisati",
+  "gotovost": "visoka",
+  "opomba": "Pojasnjen postopek preimenovanja."
+ },
+ {
+  "id": 86564,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "MOL preučila možnost uporabe Aquataina za širšo rabo",
+  "gotovost": "nizka",
+  "opomba": "Le preučitev možnosti, brez roka; okrepljeno informiranje."
+ },
+ {
+  "id": 86568,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "zapiranje odprtin med pohodno površino in železno ograjo na predmetnem mostu trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86579,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetnem območju trenutno ne načrtujemo postavitve dodatnih fizičnih ovir",
+  "gotovost": "visoka",
+  "opomba": "Problematiko parkiranja bodo posredovali Mestnemu redarstvu za nadzor."
+ },
+ {
+  "id": 86585,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Naprošamo vas, da nas obvestite, kateri spomenik mislite",
+  "gotovost": "visoka",
+  "opomba": "Obljubljeno takojšnje čiščenje ob natančni lokaciji."
+ },
+ {
+  "id": 86594,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog ter kadrovskih in operativnih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86605,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "nima pristojnosti glede hrupa, zato postopka ne bomo uvedli, predlagamo da se obrnete na policijo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86610,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "pristojnost nad izvajanjem Zakona o varstvu javnega reda in miru nadzira policija",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86615,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo predmetno območje na Vilharjevi ulici dodatno preverili ter v okviru svojih pristojnosti po potrebi izvedli ustrezne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Zasebno zemljišče; preverili bodo možnosti ukrepanja."
+ },
+ {
+  "id": 86633,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Spremembe oziroma ukinitev vzpostavljene prometne ureditve trenutno niso predvidene.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86646,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Po potrebi se izvajajo tudi dodatni vzdrževalni oziroma sanacijski ukrepi",
+  "gotovost": "visoka",
+  "opomba": "Odgovor ne naslovi konkretne dolgotrajne luže."
+ },
+ {
+  "id": 86670,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "Izvedbo potrebnih del načrtujemo v kratkem",
+  "gotovost": "nizka",
+  "opomba": "Vrsta med V1 (luknje) in V8 (nedokončana sanacija); rok 'v kratkem' nedoločen."
+ },
+ {
+  "id": 86687,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "pristojnost glede hrupa usmeri na okoljsko inšpekcijo in policijo",
+  "gotovost": "visoka",
+  "opomba": "Ognjemet: Inšpektorat RS za notranje zadeve."
+ },
+ {
+  "id": 86723,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "določene površine na izpostavljenem območju v zasebni lasti, zato je ureditev parkiranja na teh površinah v pristojnosti njihovih lastnikov",
+  "gotovost": "nizka",
+  "opomba": "Delno vprašanje; redarstvo nadzira javne površine; o prenovi tlakovcev ni odgovora (napotitev na pristojne)."
+ },
+ {
+  "id": 86726,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "je zagotavljanje javnega reda in miru ter varnosti udeležencev in drugih oseb v pristojnosti Policije",
+  "gotovost": "nizka",
+  "opomba": "Vsebinsko blizu V9 (javni shodi v pristojnosti Policije)."
+ },
+ {
+  "id": 86762,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Mestno redarstvo bo tudi v prihodnje v okviru svojih kadrovskih in operativnih zmožnosti nadaljevalo nadzore na izpostavljenem območju",
+  "gotovost": "visoka",
+  "opomba": "Droge v pristojnosti Policije; varovano območje že vzpostavljeno."
+ },
+ {
+  "id": 86835,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": "Informacij o postopkih tretjim osebam ne dajo."
+ },
+ {
+  "id": 86883,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

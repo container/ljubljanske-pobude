@@ -1,0 +1,19 @@
+{
+  "cas": "2026-09-29T22:46:19.254Z",
+  "id": 70089,
+  "izvajalec": "drzava",
+  "koga": "da",
+  "obseg": "mol",
+  "odlocitev": "popravljeno",
+  "opomba": "",
+  "relevanca": "nizka",
+  "spremenjeno": [
+    "varnost",
+    "koga"
+  ],
+  "stanje": "S2",
+  "teren": "",
+  "varnost": "da",
+  "vrsta": "V9",
+  "vrsta2": ""
+}

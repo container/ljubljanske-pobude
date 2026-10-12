@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+# Local machine settings, credentials, and temporary output
+.DS_Store
+.claude/
+.env
+.env.*
+!.env.example
+/tmp/
+/output/
+/outputs/
+
+# Full capture archives stay local; the runnable site is in deploy/site.
+/data/vic_*/
+/data/center_*/
+/data/siska_*/

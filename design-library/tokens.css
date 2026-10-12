@@ -1,0 +1,38 @@
+/* CILJ reference, captured 2026-10-01. Names normalized for future reuse. */
+:root {
+  --cilj-primary: #ff6b35;
+  --cilj-background: #fff;
+  --cilj-foreground: #252525;
+  --cilj-muted: #f7f7f7;
+  --cilj-muted-foreground: #8e8e8e;
+  --cilj-border: #ebebeb;
+  --cilj-primary-foreground: #fbfbfb;
+  --cilj-primary-10: rgb(255 107 53 / 10%);
+  --cilj-primary-15: rgb(255 107 53 / 15%);
+  --cilj-font-display: 'Plus Jakarta Sans', 'Plus Jakarta Sans Fallback', sans-serif;
+  --cilj-font-body: 'DM Sans', 'DM Sans Fallback', system-ui, sans-serif;
+  --cilj-radius-field: 8px;
+  --cilj-radius-button: 10px;
+  --cilj-radius-card: 12px;
+  --cilj-radius-pill: 9999px;
+  --cilj-shadow-sm: 0 1px 2px rgb(0 0 0 / 5%);
+  --cilj-reading-max: 896px;
+  --cilj-grid-max: 1024px;
+  --cilj-gradient: radial-gradient(ellipse at top, rgb(255 107 53 / 10%), #fff, #fff);
+}
+
+/* Proposed extension: charts and maps. */
+:root {
+  --cilj-chart-1: #FF6B35;
+  --cilj-chart-2: #2878B5;
+  --cilj-chart-3: #21856B;
+  --cilj-chart-4: #8860A7;
+  --cilj-chart-5: #C49A20;
+  --cilj-chart-6: #C65D83;
+  --cilj-map-1: #FFF0E8;
+  --cilj-map-2: #FDCDB5;
+  --cilj-map-3: #FA9A70;
+  --cilj-map-4: #E36536;
+  --cilj-map-5: #A83916;
+  --cilj-map-no-data: #D9DDE2;
+}

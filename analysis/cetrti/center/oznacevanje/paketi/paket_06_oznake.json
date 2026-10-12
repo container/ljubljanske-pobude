@@ -1,0 +1,402 @@
+[
+ {
+  "id": 83238,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Stanje na predmetni lokaciji bomo preverili ter količek po potrebi ponovno namestili na ustrezno mesto.",
+  "gotovost": "nizka",
+  "opomba": "Ukrep imenovan (ponovna namestitev), a pogojen s »po potrebi«."
+ },
+ {
+  "id": 83248,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "je na navedeni lokaciji urejeno začasno avtobusno postajališče, opremljeno z ustrezno začasno prometno signalizacijo",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ponovi, da je ureditev ustrezna; vprašanj o kaznih in poti kolesarjev ne naslovi."
+ },
+ {
+  "id": 83251,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "V primeru zasebnih zemljišč in objektov pa je za zagotavljanje ustreznih higienskih razmer odgovoren lastnik oziroma upravljavec nepremičnine",
+  "gotovost": "nizka",
+  "opomba": "Golobi na zasebnih hišah; vrsta nejasna."
+ },
+ {
+  "id": 83259,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Vaš predlog bomo evidentirali in ga proučili v okviru prihodnjih ureditev tega območja.",
+  "gotovost": "visoka",
+  "opomba": "Deratizacijo bodo ponovno ocenili po zaključku gradbenih del."
+ },
+ {
+  "id": 83281,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "smo na predmetni lokaciji opravili nadzor, pri čemer omenjenega betonskega bloka nismo zaznali",
+  "gotovost": "nizka",
+  "opomba": "Ob ogledu bloka niso našli; ni ukrepa."
+ },
+ {
+  "id": 83282,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na območju Karlovške in Zoisove ceste ne načrtujemo sprememb prometne ureditve ali obstoječe prometne signalizacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83287,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Ustreznost prometne signalizacije bomo na predmetni lokaciji preverili in v primeru ugotovljenih nepravilnosti po potrebi izvedli ustrezne ukrepe.",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje o zakonitosti ni odgovorjeno; nadaljevanje v pobudi 83518."
+ },
+ {
+  "id": 83289,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "žal težko podamo vsebinski komentar ali preverimo okoliščine posameznega primera",
+  "gotovost": "visoka",
+  "opomba": "LPP prosi za konkretne podatke."
+ },
+ {
+  "id": 83340,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno na navedeni lokaciji ne načrtujemo postavitve dodatnega koša za pasje iztrebke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83384,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "za nepravilnosti glede vzdrževanja stanovanjskih objektov je to v pristojnosti gradbene inšpekcije",
+  "gotovost": "visoka",
+  "opomba": "Inšpektorat bo preventivno obvestil OŠ Ledina in upravnika."
+ },
+ {
+  "id": 83386,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83390,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Vaše opozorilo bomo upoštevali pri nadaljnjem načrtovanju nadzornih aktivnosti.",
+  "gotovost": "nizka",
+  "opomba": "Splošna pobuda brez lokacije; meja S3/S4."
+ },
+ {
+  "id": 83391,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Glede hrupa ima na podlagi Zakona o varstvu javnega reda in miru pristojnost ukrepanja policija",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83399,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo uvedbe brezplačnega parkiranja za električna vozila v času polnjenja.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83428,
+  "vrsta": "V8",
+  "stanje": "S6",
+  "dokaz": "skupini voznikov Kavalir posredovali vaše opozorilo ter opravili krajši posvet",
+  "gotovost": "nizka",
+  "opomba": "Vprašanja o razlogih za zavrnitev vožnje odgovor ne pojasni."
+ },
+ {
+  "id": 83441,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "dodatne postavitve začasnih javnih sanitarij na območju mestnega središča trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": "Tudi podaljšanje obratovalnega časa WC na Bregu zavrnjeno."
+ },
+ {
+  "id": 83442,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Podzemne zbiralnice na navedenih ulicah bomo dodatno preverili ter po potrebi izvedli ustrezne ukrepe čiščenja in ureditve okolice.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83445,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Letne parkirne dovolilnice so namenjene izključno prebivalcem posameznih območij",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83455,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "uvedba dodatne časovne tolerance ali brezplačnega parkiranja za posamezno lokacijo ni možna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83457,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "vas prosimo, da nam posredujete osnovne podatke o dogodku (čas, linija ali številka vozila)",
+  "gotovost": "visoka",
+  "opomba": "Pobudnik je izrecno prosil, naj ga ne prosijo za podatke."
+ },
+ {
+  "id": 83487,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "na tem področju sprememb za zdaj ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83488,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "v določenih primerih uporaba vozila nujna zaradi službenih vsakodnevnih obveznosti",
+  "gotovost": "nizka",
+  "opomba": "Poziv funkcionarjem, ne konkretna storitev; odgovor pojasnjuje in ne obljublja ničesar."
+ },
+ {
+  "id": 83492,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Za tovrstne objekte po prijavi je pristojna gradbena inšpekcija",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83496,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo predmetno lokacijo dodatno preverili in po potrebi zagotovili ustrezno čiščenje ter ureditev okolice",
+  "gotovost": "visoka",
+  "opomba": "Celovita ureditev Vilharjeve načrtovana jeseni po zaključku gradbenih del."
+ },
+ {
+  "id": 83518,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "signalizacija postavljena ustrezno in skladno z veljavnimi prometnimi predpisi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83549,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "V okviru rednega letnega vzdrževanja bomo brežine ob reki Ljubljanici dodatno preverili in po potrebi izvedli čiščenje ter njihovo ustrezno ureditev.",
+  "gotovost": "visoka",
+  "opomba": "Povšetova ni omenjena."
+ },
+ {
+  "id": 83551,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "o predlogu umika določila o osvetlitvi avtobusnih postajališč na Mestni občini Ljubljana nismo seznanjeni",
+  "gotovost": "nizka",
+  "opomba": "Odgovor splošen; na posamezna vprašanja ne odgovori."
+ },
+ {
+  "id": 83558,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z izvajanjem teh ukrepov bomo nadaljevali tudi v prihodnje",
+  "gotovost": "nizka",
+  "opomba": "Mešano: čistoča in varnost; odgovor navaja redne nadzore redarstva in policije."
+ },
+ {
+  "id": 83565,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "bomo v okviru rednega vzdrževanja preverili na terenu ter po potrebi naročili izvedbo deratizacije",
+  "gotovost": "nizka",
+  "opomba": "Ukrep imenovan (deratizacija), a pogojen s »po potrebi«."
+ },
+ {
+  "id": 83574,
+  "vrsta": "V9",
+  "stanje": "S1",
+  "dokaz": "ni v njenem interesu sprožati upravne spore zoper odločitve Ministrstva za pravosodje RS",
+  "gotovost": "nizka",
+  "opomba": "Odločbe izdaja ministrstvo; MOL ne bo ukrepala."
+ },
+ {
+  "id": 83575,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "Ob naslednji spremembi voznih redov bomo ponovno analizirali dejanske vozne čase posameznih linij",
+  "gotovost": "nizka",
+  "opomba": "Predlog nove linije N9 ni naslovljen."
+ },
+ {
+  "id": 83582,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ureditve dodatne prometne signalizacije na tem območju ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83583,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "V okviru navedenega preučujemo tudi možnosti dodatne označitve parkirnih površin oziroma dopolnitve prometne signalizacije",
+  "gotovost": "nizka",
+  "opomba": "Preučevanje v teku, brez roka."
+ },
+ {
+  "id": 83601,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Na Gasilski brigadi Ljubljana je 156 zaposlenih.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83603,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "O opisani problematiki bomo seznanili Inšpektorat MOL, ki bo na predmetnem območju preveril ustreznost ureditve gostinskih vrtov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83647,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno novih prometnih ukrepov ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83649,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Mestno redarstvo MOL in Policija redno izvajata nadzor na tem območju",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83651,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo postavitve dodatnih stojal za kolesa na tem območju",
+  "gotovost": "visoka",
+  "opomba": "Nefunkcionalna kolesa odstranjujejo kot kosovni odpad."
+ },
+ {
+  "id": 83669,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Predlagamo, da svoj predlog glede spremembe zakonodaje oziroma povečanja denarnih kazni posredujete neposredno pristojnemu organu",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83676,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ukrepov za umirjanje prometa trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83682,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Prenova OŠ Prule bo predvidoma končana marca 2027",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83688,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo premika opozorilne table na navedeni lokaciji",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83693,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83699,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "Preverili bomo, kateri izvajalec je izvajal vožnje po parkovnih poteh v Tivoliju, ter ga opozorili na navedene nepravilnosti",
+  "gotovost": "nizka",
+  "opomba": "Sanacija travnika ni omenjena."
+ },
+ {
+  "id": 83700,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na predmetni lokaciji trenutno ne načrtujemo dodatnih ureditev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83701,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo nadaljevali tudi v prihodnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83706,
+  "vrsta": "V7",
+  "stanje": "S2",
+  "dokaz": "priporočamo, da se za dodatne informacije obrnete na pristojno Direkcijo Republike Slovenije za infrastrukturo",
+  "gotovost": "nizka",
+  "opomba": "Projekt opisan, časovnica napotena na državo."
+ },
+ {
+  "id": 83709,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "na navedenem območju trenutno ne načrtujemo sprememb prometne signalizacije oziroma dodatnih prilagoditev semaforskih intervalov",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83710,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "na Tržaški cesti v smeri proti centru mesta načrtujemo ureditev rumenega pasu v naslednjih dveh letih",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83734,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "z nadzori pa bomo nadaljevali tudi v prihodnje v okviru rednih delovnih nalog",
+  "gotovost": "visoka",
+  "opomba": "Predlog količkov (iz 2024) napoten na Oddelek za gospodarske dejavnosti in promet."
+ }
+]

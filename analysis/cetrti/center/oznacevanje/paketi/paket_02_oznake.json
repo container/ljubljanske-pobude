@@ -1,0 +1,402 @@
+[
+ {
+  "id": 81748,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru dnevnih delovnih nalog opravljamo nadzore ter v primeru zaznanih kršitev ukrepamo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81750,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bomo pregledali in po potrebi izvedli nujna vzdrževalna dela",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81753,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Žal trenutno druge alternative ni",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81762,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "O vaši pobudi bomo seznanili JP Voka Snaga ter jih pozvali, da stanje preverijo in podhod ustrezno očistijo.",
+  "gotovost": "visoka",
+  "opomba": "Odgovor dodaja, da je podhod v lasti Slovenskih železnic."
+ },
+ {
+  "id": 81774,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "vam priporočamo, da o tem obvestite pristojni Inšpektorat Republike Slovenije za okolje in energijo",
+  "gotovost": "visoka",
+  "opomba": "Vprašanje, kdo izvaja čiščenje, ni odgovorjeno."
+ },
+ {
+  "id": 81786,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Ocenjujemo, da je trenutna prometna signalizacija ustrezna",
+  "gotovost": "nizka",
+  "opomba": "Pobuda je napisana kot vprašanje, a dejansko zahteva vrnitev krajšega intervala."
+ },
+ {
+  "id": 81792,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno na omenjeni lokaciji ne načrtujemo postavitve novih stojal za kolesa.",
+  "gotovost": "nizka",
+  "opomba": "Stojala omenjena v okviru prihodnjega projekta brez roka."
+ },
+ {
+  "id": 81794,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Nadzor nad svetlobnim onesnaževanjem je v pristojnosti Inšpektorata RS za okolje in energijo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81797,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo z nadzori nadaljevali tudi v prihodnje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81806,
+  "vrsta": "V5",
+  "stanje": "S2",
+  "dokaz": "Za prijavo v okviru razpisa je potrebno, da vlogo vloži lastnik stavbe oziroma objekta",
+  "gotovost": "nizka",
+  "opomba": "Napoti na lastnika (razpis za sofinanciranje 2026)."
+ },
+ {
+  "id": 81808,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "V podjetju LPP smo začeli s projektom celovite preveritve in prenove mreže linij mestnega potniškega prometa.",
+  "gotovost": "visoka",
+  "opomba": "Novi avtobusi bodo zelene barve."
+ },
+ {
+  "id": 81814,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "redno preverjamo, na katerih semaforiziranih križiščih bi bila namestitev prometnega znaka z zeleno puščico",
+  "gotovost": "nizka",
+  "opomba": "Strinjanje s predlogom, a brez konkretne lokacije ali ukrepa."
+ },
+ {
+  "id": 81817,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "bomo navedeno lokacijo dodatno preverili in po potrebi prilagodili osvetlitev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81819,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Mestno redarstvo MOL redno nadzira motoriste in ob zaznanih kršitvah ustrezno ukrepa.",
+  "gotovost": "nizka",
+  "opomba": "Nadzor nad kolesarji in skiroji ni naslovljen."
+ },
+ {
+  "id": 81843,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "priporočajo, da se za cepljenje najprej obrnete na svojega osebnega zdravnika",
+  "gotovost": "nizka",
+  "opomba": "Samo informacije o drugih možnostih cepljenja, brez ukrepa."
+ },
+ {
+  "id": 81850,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Mestno redarstvo MOL v sodelovanju s Policijsko upravo Ljubljana redno izvaja nadzor nad nedovoljenim grafitiranjem",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi čiščenja grafitov."
+ },
+ {
+  "id": 81859,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Žal pa nimamo pristojnosti, da bi omejili velikost vseh skupin",
+  "gotovost": "nizka",
+  "opomba": "Odgovarja Turizem Ljubljana; vprašanje o turistični taksi odgovorjeno."
+ },
+ {
+  "id": 81867,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bodo jaške na navedeni lokaciji pregledali in po potrebi ustrezno očistili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81894,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor električnih polnilnic",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81895,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81896,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "je na mostu poškodovana steklena pohodna plošča",
+  "gotovost": "visoka",
+  "opomba": "Zamenjava plošče predvidena še v letošnjem letu (S5)."
+ },
+ {
+  "id": 81899,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "nedelujoče pa ustrezno zamenjali",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81921,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ocenjujemo, da dodaten Klinko Kavalir trenutno ni potreben",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81953,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81965,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "prav tako ni dovoljeno parkiranje na območju za pešce",
+  "gotovost": "visoka",
+  "opomba": "Dodatno obljubljen nadzor lokacije."
+ },
+ {
+  "id": 81974,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "bodo stanje strešnega stekla nadstrešnice preverile in po potrebi izvedle ustrezne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81986,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Na navedenem območju bomo odstranili odpadke in ustrezno uredili okolico.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81987,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Povezava do neposrednega prenosa sej mestnega sveta in novinarskih konferenc se nahaja pod zavihkom aktualno / videoteka",
+  "gotovost": "visoka",
+  "opomba": "Drugo vprašanje (redno posodabljanje pobud) ni odgovorjeno."
+ },
+ {
+  "id": 82001,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "je začasni zbirni center na Povšetovi ulici do nadaljnjega zaprt",
+  "gotovost": "visoka",
+  "opomba": "Datuma ponovnega odprtja ni; nov zbirni center v 2–3 letih."
+ },
+ {
+  "id": 82012,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Predlagamo, da se s svojo pobudo obrnete neposredno nanj",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82017,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Navedeni svetilki bomo preverili in zagotovili njuno nemoteno delovanje.",
+  "gotovost": "visoka",
+  "opomba": "Osvetlitev kipa posredovana Oddelku za kulturo (S3)."
+ },
+ {
+  "id": 82029,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "je ureditev potopnih zabojnikov žal prostorsko zelo omejena",
+  "gotovost": "nizka",
+  "opomba": "Za sestanek napoti na dan odprtih vrat, za divje odlaganje na Inšpektorat MOL."
+ },
+ {
+  "id": 82030,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Trenutno na navedenem odseku Zarnikove ulice ne načrtujemo celovite prenove cestišča.",
+  "gotovost": "visoka",
+  "opomba": "Opažanja posredovana izvajalcu rednega vzdrževanja."
+ },
+ {
+  "id": 82031,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "načrtujemo, da bomo v letu 2026 izvedli nujna sanacijska in vzdrževalna dela na igralih",
+  "gotovost": "visoka",
+  "opomba": "Za divje odlaganje in neprimerna ravnanja napoti na policijo."
+ },
+ {
+  "id": 82050,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Celostna prometna strategija Mestne občine Ljubljana temelji na uravnoteženem upravljanju prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82054,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Predlagamo, da se stanovalci obrnete neposredno na policijo",
+  "gotovost": "nizka",
+  "opomba": "Pobuda je postavljena kot vprašanje (lahko V7/SV)."
+ },
+ {
+  "id": 82070,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo sprememb na področju ureditve podzemnih zbiralnic odpadkov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82071,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "je navedena pasaža v lasti etažnih lastnikov stavbe, ki so pristojni za vzdrževanje in čiščenje te površine",
+  "gotovost": "nizka",
+  "opomba": "Dodano, da redarstvo in policija izvajata redne nadzore."
+ },
+ {
+  "id": 82073,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82088,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "bodo dobile dodaten – rumeni – pas, ki bo rezerviran za vsa vozila javnega potniškega prometa",
+  "gotovost": "nizka",
+  "opomba": "Večinoma pojasnilo vzrokov zastojev; rekonstrukcije v okviru PCL brez roka."
+ },
+ {
+  "id": 82123,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Navedeno zbiralnico bomo dodatno preverili in po potrebi zagotovili ustrezno ureditev.",
+  "gotovost": "visoka",
+  "opomba": "Dnevno čiščenje ni obljubljeno."
+ },
+ {
+  "id": 82128,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Hvala za vaše mnenje.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi zamenjave zaves."
+ },
+ {
+  "id": 82144,
+  "vrsta": "V5",
+  "stanje": "S2",
+  "dokaz": "S svojo pobudo se lahko obrnete na Ministrstvo za kulturo RS.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82145,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "je za ukrepanje pristojna Policija in ne redarstvo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82147,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno na omenjenem križišču ne načrtujemo sprememb prometne ureditve",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82149,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Luknje na navedeni lokaciji bomo na terenu preverili in jih po potrebi zasuli",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82150,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "gre v predmetni zadevi  za kršitev javnega reda in miru, kar nadzira  Policija",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82151,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Zadevo bomo preverili ter ukrepali skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82152,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "na navedeni lokaciji redno izvajamo nadzore v okviru naših delovnih nalog",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82154,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Parkirišče na Grablovičevi ulici bomo preverili, okolico ustrezno počistili",
+  "gotovost": "nizka",
+  "opomba": "Enkratno čiščenje; redno čiščenje ni obljubljeno, koši le morebitni."
+ }
+]

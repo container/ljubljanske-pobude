@@ -1,0 +1,402 @@
+[
+ {
+  "id": 78399,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Vzpostavitev take kolesarske poti žal ni mogoča",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78414,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Arborist svetovalec je preveril stanje omenjenega drevesa. Drevo je nagnjeno že dalj časa in ni znakov, da bi bilo lahko posebej nevarno",
+  "gotovost": "nizka",
+  "opomba": "Pregled opravljen, ukrep ni bil potreben."
+ },
+ {
+  "id": 78441,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "v času našega nadzora na kraju ni bilo prijavljenega vozila",
+  "gotovost": "visoka",
+  "opomba": "Nadzor opravljen, vozila ni bilo; prosijo za dodatne podatke."
+ },
+ {
+  "id": 78469,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "Obvestili bomo lastnika te žive meje, da jo obreže.",
+  "gotovost": "nizka",
+  "opomba": "Živa meja je zasebna; MOL bo obvestil lastnika."
+ },
+ {
+  "id": 78585,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Spodjedanje brežine bo potrebno rešiti na več točkah. Časovnica zaenkrat še ni opredeljena.",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 78590,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Cesta je v kratkem predvidena za prenovo, bo pa vzdrževalec preveril nevarne točke in jih saniral.",
+  "gotovost": "nizka",
+  "opomba": "Prenova brez datuma, vmes lokalna sanacija."
+ },
+ {
+  "id": 78677,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Obveščamo, da je bila druga košnja izvedena 2.7.2025",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78701,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "Vse druge površine so v zasebni lasti, zato je glede košev na teh območjih treba stopiti v stik z upravniki tamkajšnjih objektov.",
+  "gotovost": "nizka",
+  "opomba": "Vrane: pristojno ministrstvo (MKGP); koši: zasebne površine."
+ },
+ {
+  "id": 78711,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Zelena faza se za pešce vklopi le ob dejanski potrebi – ko pešec pritisne tipko.",
+  "gotovost": "visoka",
+  "opomba": "Pojasnilo režima, sprememba ne bo izvedena."
+ },
+ {
+  "id": 78717,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Za enkrat tudi nismo zaznali težav s strani turistov",
+  "gotovost": "nizka",
+  "opomba": "Implicitna zavrnitev brez izrecne odločitve."
+ },
+ {
+  "id": 78730,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Zadeva bo obravnavana enotno ko pride na vrsto",
+  "gotovost": "nizka",
+  "opomba": "Zadeva vodena pri inšpektoratu, brez napovedanega ukrepa ali roka."
+ },
+ {
+  "id": 78764,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Iz vrtca so nam zagotovili, da so bivše otroško igrišče ustrezno uredili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78765,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78780,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78781,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "izvedli nadzor mirujočega prometa skladno s katerim smo uvedli prekrškovne postopke",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78782,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Skladno s kadrovskimi zmožnostmi bomo z nadzori lokacije nadaljevali tudi v bodoče",
+  "gotovost": "nizka",
+  "opomba": "Nadzor opravljen, kršitev ni bilo."
+ },
+ {
+  "id": 78791,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Cesto, ki pelje mimo omenjenih naslovov bomo preverili in lokalno sanirali posamezna nevarna mesta.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78792,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Ureditev v zvezi s parkiranjem na tem območju ne moremo izvajati.",
+  "gotovost": "visoka",
+  "opomba": "Razlog: sodni postopek o lastništvu zemljišč."
+ },
+ {
+  "id": 78794,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Sporočamo, da količkov ne bomo odstranili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78796,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78797,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Sporočamo, da nadomestnih parkirišč v času gradnje ne bo zagotovljenih.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78800,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi",
+  "gotovost": "nizka",
+  "opomba": "Vrsta: lahko tudi V8 (nedokončana dela)."
+ },
+ {
+  "id": 78801,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "Vsi koši, ki jih je po našem naročilu postavilo podjetje VOKA Snaga, se redno praznijo.",
+  "gotovost": "nizka",
+  "opomba": "Odgovor zanika problem; morebitni drugi koši so v pristojnosti upravnikov."
+ },
+ {
+  "id": 78803,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Skupaj z njimi bomo zadevo preučili in se odločili če bomo koš odstranili ali ne.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78812,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Izvajalcem smo naročili preveriti stanje na terenu.",
+  "gotovost": "visoka",
+  "opomba": "Psi na igrišču: obvestili bodo Inšpektorat; koši in pasji park niso naslovljeni z ukrepom."
+ },
+ {
+  "id": 78815,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Drugih sprememb ne bomo izvajali.",
+  "gotovost": "visoka",
+  "opomba": "Rekonstrukcija križišča brez časovnice."
+ },
+ {
+  "id": 78825,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Izvajalcem smo naročili preveriti stanje na terenu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78826,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Izvajalcem smo naročili preveriti stanje na terenu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78890,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Košnja je bila opravljena 10.6.2025.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78892,
+  "vrsta": "V8",
+  "stanje": "S6",
+  "dokaz": "Potrjeni zapisniki sej Sveta ČS Šiška so sedaj objavljeni",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78911,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Izvajalce smo opozorili glede košnje.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78930,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "Drevesa, ki jih omenjate, rastejo na zasebni površini.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78948,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "situacijo bomo preverili in ukrepali skladno z zakonskimi pooblastili in pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78951,
+  "vrsta": "V8",
+  "stanje": "S4",
+  "dokaz": "Pasji park je predviden za prenovo in takrat se bo menjala tudi ograja.",
+  "gotovost": "nizka",
+  "opomba": "Količki ob Acapulco baru: postavitev ni predvidena (S1)."
+ },
+ {
+  "id": 78979,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "Odgovor brez vsebine."
+ },
+ {
+  "id": 78981,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Pri objavi je žal prišlo do napake, namesto pravilne oznake 18L je bila navedena linija 18",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 78983,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Tretja košnja je bila izvedena 15. julija 2025.",
+  "gotovost": "nizka",
+  "opomba": "Pobuda sprašuje, kdaj bo košnja (lahko V7/SV)."
+ },
+ {
+  "id": 78985,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Z nadzori bomo nadaljevali tudi v prihodnje ob rednem opravljanju svojih nalog.",
+  "gotovost": "nizka",
+  "opomba": "Ogled opravljen, kršitev ni bilo."
+ },
+ {
+  "id": 79018,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Nadzor nad snemanjem javne površine ni v pristojnosti Inšpektorata MOL.",
+  "gotovost": "visoka",
+  "opomba": "Napotitev na Informacijskega pooblaščenca."
+ },
+ {
+  "id": 79022,
+  "vrsta": "V8",
+  "stanje": "S1",
+  "dokaz": "Uporaba tega odseka je bila nujna, saj zaradi zapor ni bilo mogoče vzpostaviti druge ustrezne obvozne trase.",
+  "gotovost": "nizka",
+  "opomba": "LPP pojasni in zavrne očitek; brez spremembe."
+ },
+ {
+  "id": 79030,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Košnja je bila izvedena 9.6.2025",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79034,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V letošnjem letu sicer ni predvidenih nobenih novih ureditev na tem cestnem odseku.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79050,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Zadeva je zabeležena v plan lokacij predvidenih za sanacijo.",
+  "gotovost": "nizka",
+  "opomba": "V planu, brez časovnice (meja S4/S5)."
+ },
+ {
+  "id": 79052,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "Kolesarske površine bodo urejene v sklopu prenove ceste. V teku je izdelava načrta, časovnica za gradnjo pa še ni določena.",
+  "gotovost": "nizka",
+  "opomba": "Projektiranje v teku, brez roka gradnje."
+ },
+ {
+  "id": 79053,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "V teku je izdelava načrtov za rekonstrukcijo Litostrojske ceste. Časovnica za gradnjo še ni določena.",
+  "gotovost": "nizka",
+  "opomba": "Projektiranje v teku, brez roka gradnje."
+ },
+ {
+  "id": 79070,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79077,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo z namenom ugotovitve dejanskega stanja na pristojni Oddelek za gospodarske dejavnosti in promet predlagali postavitev preventivne table \"VI VOZITE\"",
+  "gotovost": "nizka",
+  "opomba": "Nadzor hitrosti ni napovedan; le predlog table drugemu oddelku."
+ },
+ {
+  "id": 79089,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Košnja ter ureditev okolice je bila izvedena 9.6.2025.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79109,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Igrišče ni v lasti Mestne občine Ljubljana in ga vzdržujemo zaradi velikega javnega interesa. Vzdržujemo ga  interventno",
+  "gotovost": "nizka",
+  "opomba": "Obnova ni napovedana; naročen pregled stanja."
+ },
+ {
+  "id": 79124,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 84479,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "seznanili Mestno redarstvo Mestne občine Ljubljana, ki bo na predmetni lokaciji občasno izvajalo nadzor",
+  "gotovost": "visoka",
+  "opomba": "Predlog za vodne igre zavrnjen (voda ni namenjena igri)."
+ },
+ {
+  "id": 84497,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "lastniki objektov dolžni zagotavljati njihovo ustrezno vzdrževanje skladno z veljavnimi predpisi",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84506,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "ki je ni mogoče trajno odpraviti zgolj z represivnimi ukrepi, povečanjem števila kazni ali stalno prisotnostjo varnostnikov",
+  "gotovost": "nizka",
+  "opomba": "Navaja obstoječe redne nadzore; kamere in varnostniki niso obljubljeni."
+ },
+ {
+  "id": 84520,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84522,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Vaše sporočilo smo posredovali strokovni sodelavki v Službi za lokalno samoupravo",
+  "gotovost": "visoka",
+  "opomba": "Dokončni odgovor obljubljen naknadno po e-pošti."
+ },
+ {
+  "id": 84523,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "preverili ter po potrebi izvedli ustrezne vzdrževalne oziroma sanacijske ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84533,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84549,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "uvedbe vozila Kavalir v okviru prireditve Pohod ob žici trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84550,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo tudi v prihodnje izvajali preventivne ukrepe in nadzor",
+  "gotovost": "nizka",
+  "opomba": "Splošen opis obstoječih ukrepov, brez lokacijsko vezanega ukrepa."
+ },
+ {
+  "id": 84553,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "izvajalec gostinske dejavnosti na predmetni lokaciji izbran na podlagi javnega razpisa",
+  "gotovost": "visoka",
+  "opomba": "Sprememba šele ob ponovni oddaji lokacije."
+ },
+ {
+  "id": 84571,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "umestitev začasnih postajališč na način, da bi bilo možno prehitevanje avtobusov ni mogoče",
+  "gotovost": "nizka",
+  "opomba": "Omenjena celostna prenova Vilharjeve 'v kratkem', brez roka."
+ },
+ {
+  "id": 84589,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "občasno začasno odstrani zaradi potreb organizacije prireditev na Kongresnem trgu",
+  "gotovost": "visoka",
+  "opomba": "Parkiranje na kolesarski stezi ni naslovljeno."
+ },
+ {
+  "id": 84601,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ukrepov oziroma sprememb prometne ureditve na predmetnem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84616,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "svetujemo, da občani ob tovrstnih situacijah nemudoma pokličejo Mestno redarstvo",
+  "gotovost": "visoka",
+  "opomba": "Odgovor napoti na prijavo ob dogodku."
+ },
+ {
+  "id": 84618,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na tem območju ne načrtujemo spremembe obstoječe prometne ureditve",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84629,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84635,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Navedeno lokacijo bomo preverili ter po potrebi ustrezno ukrepali v okviru svojih pristojnosti.",
+  "gotovost": "nizka",
+  "opomba": "Pobuda je le popravek lokacije pobude 84692."
+ },
+ {
+  "id": 84646,
+  "vrsta": "V3",
+  "stanje": "S1",
+  "dokaz": "trenutno ni mogoče izvajati meritev hitrosti s samodejno merilno napravo, nameščeno v vozilu",
+  "gotovost": "visoka",
+  "opomba": "Navaja vsakodnevne nadzore mirujočega prometa."
+ },
+ {
+  "id": 84654,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Mestno redarstvo MOL in Policija na izpostavljenih območjih mesta izvajata redne nadzore",
+  "gotovost": "nizka",
+  "opomba": "Predlog korit/ovir proti poležavanju ni naslovljen; omenjena zavetišče in center Metelkova."
+ },
+ {
+  "id": 84663,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli odstranitev grafita",
+  "gotovost": "nizka",
+  "opomba": "Imenovan ukrep, a pogojno (po potrebi)."
+ },
+ {
+  "id": 84665,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "omejitev dostopa v posamezne etaže zgolj za imetnike kartic trenutno ni predvidena",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84687,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Trenutno potekajo preveritve krmilnih programov semaforjev ter prometnovarnostnih razmer na predmetnem območju",
+  "gotovost": "nizka",
+  "opomba": "Obstoječo ureditev ocenjuje kot optimalno; preveritev brez zaveze k spremembi."
+ },
+ {
+  "id": 84701,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Na podlagi ugotovitev pregleda bodo po potrebi določeni in izvedeni ustrezni arboristični ukrepi",
+  "gotovost": "nizka",
+  "opomba": "Obljubljen arboristični pregled, ukrep pogojen z ugotovitvami."
+ },
+ {
+  "id": 84708,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "jo bomo vključili v nadaljnje načrtovanje nadzora hitrosti na območju Mestne občine Ljubljana, v kolikor bo to izvedljivo",
+  "gotovost": "nizka",
+  "opomba": "Hitrostne ovire posredovane pristojnemu oddelku."
+ },
+ {
+  "id": 84714,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo tudi v prihodnje izvajali preventivne aktivnosti, nadzor ter druge ukrepe",
+  "gotovost": "nizka",
+  "opomba": "Splošen opis obstoječih ukrepov; pomoč lastnikom ni ponujena."
+ },
+ {
+  "id": 84752,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ureditev oziroma sprememb začasne prometne ureditve na navedenem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84758,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "načrtujemo tudi ureditev semaforiziranega prehoda za pešce na predmetnem križišču s Črtomirovo ulico. Pričetek del je predviden v naslednjem letu.",
+  "gotovost": "visoka",
+  "opomba": "V sklopu rekonstrukcije Vilharjeve."
+ },
+ {
+  "id": 84764,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo izvedbe dodatnih talnih označb na kolesarskih površinah",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84768,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ureditev oziroma sprememb začasne prometne ureditve na navedenem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84792,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": "Prijavitelj navaja padec s kolesom."
+ },
+ {
+  "id": 84793,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe, vključno z obrezovanjem vegetacije",
+  "gotovost": "nizka",
+  "opomba": "Imenovan ukrep, a pogojno; tudi signalizacija pogojno."
+ },
+ {
+  "id": 84807,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "dodatnih ureditev oziroma sprememb začasne prometne ureditve na navedenem križišču trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84813,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "predmetne kanalete dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84814,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno na predmetni lokaciji ne načrtujemo dodatnih ukrepov na sistemu javne razsvetljave",
+  "gotovost": "nizka",
+  "opomba": "Hkrati pogojna preveritev in prilagoditev ob odstopanjih."
+ },
+ {
+  "id": 84826,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Obstoječa ureditev predstavlja strokovno optimalno rešitev",
+  "gotovost": "nizka",
+  "opomba": "Napovedano le spremljanje in morebitne prilagoditve."
+ },
+ {
+  "id": 84829,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Inšpektorat Mestne občine Ljubljana nima pristojnosti odločanja, zato postopka ne bomo uvedli",
+  "gotovost": "visoka",
+  "opomba": "Napotitev na Policijo."
+ },
+ {
+  "id": 84830,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Mestno redarstvo sodeluje s policijo v okviru mešanih policijsko redarskih patrulj",
+  "gotovost": "nizka",
+  "opomba": "Opis programov; nov bivanjski center na Poljanski odprt letos poleti."
+ },
+ {
+  "id": 84838,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": "Časovna omejitev dostave ni naslovljena."
+ },
+ {
+  "id": 84840,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ureditve dodatne prometne signalizacije oziroma izvedbe dodatnih ukrepov za umirjanje prometa na predmetnem območju trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84842,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog na omenjenih območjih opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": "Opozorilne table niso naslovljene."
+ },
+ {
+  "id": 84849,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "nizka",
+  "opomba": "Samo potrdilo o evidentiranju prijave na Inšpektoratu."
+ },
+ {
+  "id": 84859,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "spremembe prometne ureditve na predmetnem odseku Trdinove ulice trenutno niso predvidene",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84860,
+  "vrsta": "V9",
+  "stanje": "S2",
+  "dokaz": "Mestna občina Ljubljana nima pristojnosti odločati o izobešanju državnih zastav",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84866,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "nadzor nad kršitvami, povezanimi s prekomernim hrupom v času nočnega miru, sodi v pristojnost Policije",
+  "gotovost": "nizka",
+  "opomba": "Redarstvo navaja prilagajanje nočnih patrulj po zmožnostih."
+ },
+ {
+  "id": 84867,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli dodatno čiščenje",
+  "gotovost": "nizka",
+  "opomba": "Tudi semafor: pogojna preveritev krmilnega programa."
+ },
+ {
+  "id": 84870,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "rastejo na zemljišču v lasti etažnih lastnikov stavbe, zato niso vključena v načrt vzdrževanja javnih zelenih površin",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84872,
+  "vrsta": "V7",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje, na koga se obrniti, ni neposredno odgovorjeno; le evidentiranje prijave."
+ },
+ {
+  "id": 84884,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "dodatno preverili ter po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "nizka",
+  "opomba": ""
+ },
+ {
+  "id": 84899,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "namestitve senčnikov na predmetnih lokacijah trenutno ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84901,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "preverili na terenu ter po potrebi zagotovili njeno ustrezno prilagoditev",
+  "gotovost": "nizka",
+  "opomba": "Imenovan ukrep, a pogojno."
+ }
+]

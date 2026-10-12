@@ -1,0 +1,402 @@
+[
+ {
+  "id": 79148,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Ujed v nobenem primeru ne naseljujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79186,
+  "vrsta": "V2",
+  "stanje": "S2",
+  "dokaz": "ni v pristojnosti Mestne občine Ljubljana",
+  "gotovost": "visoka",
+  "opomba": "travnik v lasti etažnih lastnikov"
+ },
+ {
+  "id": 79205,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "Za postavitev dodatnih košev za smeti se prosim obrnite na upravnika okoliških objektov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79206,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "Za postavitev dodatnih košev za smeti se prosim obrnite na upravnika okoliških objektov.",
+  "gotovost": "visoka",
+  "opomba": "podvojena pobuda (79205)"
+ },
+ {
+  "id": 79217,
+  "vrsta": "V1",
+  "stanje": "S6",
+  "dokaz": "Sanacija je bila izvedena dne 23.6.2025.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79218,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru svojih rednih nalog na omenjenem območju izvajali nadzore nad opisanimi kršitvami",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79219,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "V letošnjem letu ni predvidenih novih ureditev na Ulici Milana Majcna.",
+  "gotovost": "nizka",
+  "opomba": "pobuda o hitrosti/ležečih policajih; del odgovora je tudi splošni 'preverili bomo'"
+ },
+ {
+  "id": 79220,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v okviru svojih rednih nalog na omenjenem območju izvajali nadzore nad opisanimi kršitvami",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79221,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bo Mestno redarstvo v okviru svojih pristojnosti na tem območju izvajal nadzore prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79222,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bo Mestno redarstvo v okviru svojih pristojnosti na tem območju izvajal nadzore prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79223,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bo Mestno redarstvo opravilo nadzor nad določbami Zakona o zaščiti živali na omenjenem območju",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79232,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79248,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79262,
+  "vrsta": "V8",
+  "stanje": "S5",
+  "dokaz": "Izvajalcu smo ponovno naročili sanacijo.",
+  "gotovost": "visoka",
+  "opomba": "ponovna pobuda zaradi nedokončane sanacije"
+ },
+ {
+  "id": 79272,
+  "vrsta": "V5",
+  "stanje": "S5",
+  "dokaz": "Za obnovo podhoda pri Aleji je v pripravi projekt.",
+  "gotovost": "visoka",
+  "opomba": "odgovor ne naslovi ukinitve prehodov"
+ },
+ {
+  "id": 79289,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79313,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "Mestno redarstvo na omenjeni lokaciji izvaja periodične nadzore in ukrepa v skladu s svojimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79322,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Naročilo za ureditev pločnika je v teku.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79323,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo na terenu in ukrepali bomo skladno s pristojnostmi in možnostmi.",
+  "gotovost": "visoka",
+  "opomba": "časovnica za rekonstrukcijo ceste še ni v obravnavi"
+ },
+ {
+  "id": 79357,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "že pristopila k proučitvi in izvedbi tehnične rešitve, ki bi na tem delu pripomogla k izboljšanju prometne varnosti",
+  "gotovost": "nizka",
+  "opomba": "radar ni izrecno obljubljen; mešanica proučitve in izvedbe"
+ },
+ {
+  "id": 79366,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Če je problematično drevo na kateri od teh dveh površin, prosimo označite drevo.",
+  "gotovost": "visoka",
+  "opomba": "prošnja za dodatne podatke; sicer napotitev na upravnika"
+ },
+ {
+  "id": 79368,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "ga uvrstil na seznam za odstranitev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79369,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79375,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "smo zaradi dotrajanosti odstranili tobogan, na mesto tega, smo postavili vzmetno igralo in dodali bomo še vrtiljak",
+  "gotovost": "nizka",
+  "opomba": "vprašanje o toboganu; napovedan vrtiljak"
+ },
+ {
+  "id": 79383,
+  "vrsta": "V2",
+  "stanje": "S5",
+  "dokaz": "Sporočamo, da je obrez naročen.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79407,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Smo naročili pristojni službi, da preveri in ustrezno uredi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79422,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Izdelane ni nobene posebne analize",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79423,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Ureditve dodatnega semaforja za kolesarje ni predvidena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79433,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "odgovor samo zahvala, brez vsebine"
+ },
+ {
+  "id": 79435,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79446,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bo Mestno redarstvo v skladu s kadrovskimi zmožnostmi opravilo nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": "hrup vozil napoten na Policijo (S2)"
+ },
+ {
+  "id": 79458,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Ureditev še dodatnega prehoda ni nujno potrebna",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79459,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79460,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "bomo vaš predlog upoštevali pri naslednjem izboru lokacij za postavitev ohišja stacionarne merilne naprave",
+  "gotovost": "nizka",
+  "opomba": "predlog table VI VOZITE; umirjanje na Verovškovi napoteno na drug oddelek"
+ },
+ {
+  "id": 79463,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Iz evidenc o prometni signalizaciji je razvidno, da prometnega ogledala nismo namestili.",
+  "gotovost": "visoka",
+  "opomba": "dodatno: preverili bomo na terenu"
+ },
+ {
+  "id": 79471,
+  "vrsta": "V2",
+  "stanje": "S6",
+  "dokaz": "Zalita so bila že štirikrat.",
+  "gotovost": "nizka",
+  "opomba": "splošno o zalivanju; ni jasno, ali velja za to drevo"
+ },
+ {
+  "id": 79472,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "Vašo pobudo smo posredovali podjetju VOKA Snaga",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79542,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "bomo v zvezi vaše pobude opravili dodatne nadzore",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79550,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "Na tem območju kosimo PST in javno otroško igrišče.",
+  "gotovost": "nizka",
+  "opomba": "posredno: travnik za šolo ni v košnji MOL"
+ },
+ {
+  "id": 79551,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Po odvozu kosovnih odpadkov pospravi izvajalec javne službe zbiranja komunalnih odpadkov JP VOKA SNAGA.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79552,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Prijava bo dodeljena v delo inšpektorju/inšpektorici",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79582,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "Trenutno ni v načrtu prenove nadhoda.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79592,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali  skladno s pristojnostmi.",
+  "gotovost": "nizka",
+  "opomba": "svetila usmerjena nad horizont; ni jasno ali okvara"
+ },
+ {
+  "id": 79613,
+  "vrsta": "V3",
+  "stanje": "S6",
+  "dokaz": "JP VOKA Snaga odpad sanirala in počistila ravno danes, 2.7.2025",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79661,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Zahvaljujemo se vam za posredovano sporočilo.",
+  "gotovost": "visoka",
+  "opomba": "odgovor samo zahvala, brez vsebine"
+ },
+ {
+  "id": 79674,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "Sanacija bo izvedena.",
+  "gotovost": "nizka",
+  "opomba": "obljuba brez roka"
+ },
+ {
+  "id": 79676,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Zaradi svoje obsežnosti jih ne moremo strniti v en kratek odgovor.",
+  "gotovost": "nizka",
+  "opomba": "pobuda za javno predstavitev ukrepov; odgovor splošen"
+ },
+ {
+  "id": 79677,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "Preverili bomo in ukrepali bomo skladno s pristojnostmi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79691,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "Predmetna zelenica ni v planu vzdrževanja javnih zelenih površin MOL.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 79692,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "Zadevo smo ponovno poslali izvajalcu - v pregled in ustrezno ukrepanje.",
+  "gotovost": "visoka",
+  "opomba": "tretja pobuda"
+ }
+]

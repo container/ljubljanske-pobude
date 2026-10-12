@@ -1,0 +1,18 @@
+{
+  "cas": "2026-09-29T23:19:16.771Z",
+  "id": 86475,
+  "izvajalec": "drzava",
+  "koga": "da",
+  "lokacija": "izven",
+  "obseg": "tocka",
+  "odlocitev": "popravljeno",
+  "opomba": "",
+  "relevanca": "srednja",
+  "spremenjeno": [
+    "lokacija"
+  ],
+  "stanje": "S2",
+  "teren": "",
+  "varnost": "da",
+  "vrsta": "V1"
+}
