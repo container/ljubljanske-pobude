@@ -1,0 +1,402 @@
+[
+ {
+  "id": 81397,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "Znak bomo uredili oziroma ponovno postavili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81458,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "po potrebi zamenjali za večjega ali pa ga pogosteje praznili",
+  "gotovost": "nizka",
+  "opomba": "Odstranitev ni obljubljena; ponujen je pogojni drugačen ukrep."
+ },
+ {
+  "id": 81478,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Trenutno potekajo ukrepi za izboljšanje razmer, urejajo se ceste in pločniki",
+  "gotovost": "nizka",
+  "opomba": "Več ukrepov; učinek na zastoje ni potrjen."
+ },
+ {
+  "id": 81737,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog opravili nadzor nad vožnjo vozil po pločniku",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81745,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "trenutno potekajo priprave na celovito ureditev parkiranja",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81766,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "namenjeno uporabnikom športnega centra",
+  "gotovost": "nizka",
+  "opomba": "Nočno odpiranje za stanovalce ni obljubljeno."
+ },
+ {
+  "id": 81767,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Ureditev bo veljala enotno za vse dni v letu.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81790,
+  "vrsta": "V6",
+  "stanje": "S2",
+  "dokaz": "predlog naslovite neposredno na ŠC Baza",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81798,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "če bo tehnično izvedljivo, po potrebi ustrezno označili.",
+  "gotovost": "nizka",
+  "opomba": "Označitev je pogojna."
+ },
+ {
+  "id": 81799,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "vključno z njihovo jasno označitvijo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81823,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Letno parkirno dovolilnico bo lahko pridobil vsak, ki ima na tem območju urejeno stalno ali začasno prebivališče",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81855,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "Označbe bodo obnovljene najkasneje do prve polovice leta 2026.",
+  "gotovost": "nizka",
+  "opomba": "Obnova oznak, ne zagotovitev dodatnih mest."
+ },
+ {
+  "id": 81911,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "dovolilnica je namenjena tudi stanovalcem z začasnim prebivališčem.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81920,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "prejete in preučene",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81935,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Talne označbe parkirnih mest bodo obnovljene predvidoma najkasneje do prve polovice leta 2026.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81947,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo postavitve nadstrešnice.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81948,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo postavitve cestnoprometnih ogledal.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 81997,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "načrtujemo tudi temeljito čiščenje parkirnih površin.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82089,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "V tej fazi ne načrtujemo omejitev delovnega časa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82166,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "preverili in po potrebi poskrbeli za njihovo nemoteno delovanje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82177,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ne načrtujemo sprememb obstoječe prometne signalizacije oziroma namestitve dodatnih senzorjev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82189,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo postavitve ležečih policajev na Cesti v Kostanj.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82190,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo ureditve novega otroškega igrišča",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82248,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "po potrebi ponovno postavili na ustrezno mesto.",
+  "gotovost": "nizka",
+  "opomba": "Konkreten ukrep je pogojen z ogledom."
+ },
+ {
+  "id": 82256,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82307,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Letna cena parkirne dovolilnice znaša 60 EUR za prvo vozilo",
+  "gotovost": "nizka",
+  "opomba": "Trajna brezplačnost ni sprejeta; naveden je obstoječi režim."
+ },
+ {
+  "id": 82330,
+  "vrsta": "V4",
+  "stanje": "S4",
+  "dokaz": "po potrebi pristopili k ustrezni označitvi parkirnega mesta.",
+  "gotovost": "nizka",
+  "opomba": "Pogojna označitev po preverjanju potreb."
+ },
+ {
+  "id": 82333,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Do 30. junija 2026 bodo parkirne dovolilnice",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82376,
+  "vrsta": "V6",
+  "stanje": "S5",
+  "dokaz": "elektronskih parkirnih dovolilnic, ki bodo predvidoma vzpostavljene v prvi polovici leta 2026.",
+  "gotovost": "nizka",
+  "opomba": "Integracija v Urbano ni predvidena."
+ },
+ {
+  "id": 82459,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "najkasneje do konca prve polovice leta 2026 postopno čim bolj optimalno zarisali parkirna mesta",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82661,
+  "vrsta": "V4",
+  "stanje": "S5",
+  "dokaz": "Ureditev javne razsvetljave na tem območju načrtujemo v spomladanskem času",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82754,
+  "vrsta": "V6",
+  "stanje": "S6",
+  "dokaz": "že sklenjen dogovor glede možnosti parkiranja za zaposlene vrtca.",
+  "gotovost": "nizka",
+  "opomba": "Sklenjen dogovor; brezplačnost ni potrjena."
+ },
+ {
+  "id": 82831,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "trenutno preverja več možnosti za izboljšanje parkirne ureditve.",
+  "gotovost": "nizka",
+  "opomba": "Posvetovanje s stanovalci ni obljubljeno."
+ },
+ {
+  "id": 82875,
+  "vrsta": "V8",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82890,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Takšno parkiranje ne more predstavljati ustrezne alternative",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82899,
+  "vrsta": "V3",
+  "stanje": "S5",
+  "dokaz": "okrepili skupne nadzore tudi po 20.00 uri.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82901,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "nizka",
+  "opomba": "Odgovor ne naslovi izrecno ohranjanja zelenic."
+ },
+ {
+  "id": 82915,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Trenutno ne načrtujemo spremembe prometne signalizacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82917,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82974,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "Mestno redarstvo v okviru svojih pristojnosti ne more zagotavljati ali iskati alternativnih možnosti parkiranja.",
+  "gotovost": "nizka",
+  "opomba": "Nedostojnost redarstva ni nepristojnost celotne MOL."
+ },
+ {
+  "id": 82979,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82980,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 82998,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83012,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "pri JP Voka Snaga naročite dodatne zabojnike za odpadke ali zaprosite za pogostejši odvoz odpadkov.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83023,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Na predmetni lokaciji interventna pot ni označena s predpisano prometno signalizacijo.",
+  "gotovost": "nizka",
+  "opomba": "Ogled ne potrjuje odprave prijavljenega problema."
+ },
+ {
+  "id": 83120,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "kot najemnik pridobite drugo parkirno dovolilnico",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83122,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "predvidoma v mesecu juniju letošnjega leta",
+  "gotovost": "nizka",
+  "opomba": "Podrobnosti in pogoji bodo šele objavljeni."
+ },
+ {
+  "id": 83164,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83207,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "Ograjo bomo na terenu preverili ter po potrebi izvedli ustrezne sanacijske ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83209,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "posredujete fotografijo poškodovane gugalnice",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

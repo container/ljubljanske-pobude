@@ -1,0 +1,585 @@
+[
+  {
+    "name": "Vrhovnikova med Tržaško in Jamovo: nevarna hoja brez pločnika in umirjanja prometa",
+    "ids": [
+      6566,
+      16131,
+      16276,
+      19096,
+      19184,
+      37311,
+      39649,
+      49956,
+      53987,
+      54518,
+      63640,
+      66413,
+      70927,
+      76834,
+      77952,
+      79303,
+      81574,
+      86025,
+      86027,
+      86041,
+      7552,
+      39648,
+      62148
+    ],
+    "review_note": "En problem varnosti pešcev na istem odseku; vključeni pločnik, prehod in umirjanje prometa. 39648/39649 sta zelo podobni objavi istega dne; 86025/86027 sorodni objavi istega dne. Število objav ni število neodvisnih dogodkov ali ljudi.",
+    "category": "lokalni problem",
+    "draft_number": 1
+  },
+  {
+    "name": "Jadranska–Jamova: rastje zakriva semafor",
+    "ids": [
+      75814,
+      80633
+    ],
+    "review_note": "Isti zaraščeni semafor, dve leti objav. To ne dokazuje, da med prijavama ni bilo obreza.",
+    "category": "lokalni problem",
+    "draft_number": 2
+  },
+  {
+    "name": "Tržaška, postajališče Tobačna: oglasni pano ovira pešce in preglednost",
+    "ids": [
+      40831,
+      42682,
+      75115,
+      82379
+    ],
+    "review_note": "Isti pano pri postajališču Tobačna. Odgovor omenja pogodbo in inšpekcijsko obravnavo; odprave ne potrjuje.",
+    "category": "lokalni problem",
+    "draft_number": 3
+  },
+  {
+    "name": "Tržaška pri knjižnici in Petrolu: pano in rastje zakrivata prehod",
+    "ids": [
+      41839,
+      76472,
+      79144,
+      79145,
+      86738
+    ],
+    "review_note": "Isti prehod knjižnica–Petrol, ovire preglednosti na obeh straneh. 79144/79145 sta skoraj podvojeni objavi istega dne. Ne prištevamo drevesa, ki zakriva samo Petrolov oglasni totem.",
+    "category": "lokalni problem",
+    "draft_number": 4
+  },
+  {
+    "name": "Tržaška pri knjižnici: pešci na slabo ločeni in označeni kolesarski poti",
+    "ids": [
+      42793,
+      54060,
+      54044,
+      56370,
+      60140,
+      75450,
+      78404,
+      81342,
+      47369
+    ],
+    "review_note": "Slaba ločitev in označenost površin povzroča konflikte pešcev in kolesarjev. Zahtevi iz 2019 za drugačen potek pred prenovo sta izključeni.",
+    "category": "lokalni problem",
+    "draft_number": 5
+  },
+  {
+    "name": "Tržaška pri knjižnici: vožnja skozi rdečo na prehodu",
+    "ids": [
+      83534,
+      85063,
+      85064
+    ],
+    "review_note": "85063/85064 najverjetneje opisujeta isti dogodek z vozičkom istega dne; tri objave niso trije dokazano različni dogodki. Obstaja tudi ločena starejša prijava iz februarja 2026.",
+    "category": "lokalni problem",
+    "draft_number": 6
+  },
+  {
+    "name": "Tržaška–Jadranska–Šestova: zamaknjena pasova in manjkajoče vodilne črte",
+    "ids": [
+      42925,
+      49071,
+      64873,
+      76550,
+      79919,
+      46365,
+      46437
+    ],
+    "review_note": "Skupni problem je zamaknjen potek pasov skozi križišče. Zaris vodilnih črt je predlagan blažilni ukrep, zato ne tvori dodatne skupine.",
+    "category": "lokalni problem",
+    "draft_number": 7
+  },
+  {
+    "name": "Cesta v Rožno dolino: razpadlo cestišče in nevarna kolesarska površina",
+    "ids": [
+      79327,
+      80095,
+      80315,
+      80579,
+      81176,
+      82669,
+      83188,
+      85681
+    ],
+    "review_note": "Isti imenovani cestni odsek in poškodovana površina za kolesarjenje. 100 m velja za neposredne povezave; povezana skupina se razteza dlje. Navedba prijavitelja o letu 2012 ni šteta kot pridobljena pobuda iz 2012.",
+    "category": "lokalni problem",
+    "draft_number": 8
+  },
+  {
+    "name": "Jadranska: dotrajano vozišče in odlaganje prenove",
+    "ids": [
+      6465,
+      6874,
+      8690,
+      9652,
+      14566,
+      22185,
+      37541,
+      63639,
+      74055,
+      76964,
+      77443,
+      80178,
+      86080,
+      37824,
+      37861
+    ],
+    "review_note": "Pobude izrecno opisujejo prenovo iste ulice. Točke tvorijo dva ločena prostorska sklopa; prikazana sta pod istim problemom, da se tema ne podvaja. Vsaka starejša pobuda je največ 100 m od vsaj ene novejše. Napoved prenove ni potrditev izvedbe.",
+    "category": "lokalni problem",
+    "draft_number": 9
+  },
+  {
+    "name": "Jadranska: manjkajoča kolesarska povezava",
+    "ids": [
+      21747,
+      22250,
+      80296
+    ],
+    "review_note": "Vključene izrecne zahteve za kolesarsko povezavo. Oddaljeni severni zadetek in pritožba zgolj na vožnjo po pločniku sta izključena.",
+    "category": "lokalni problem",
+    "draft_number": 10
+  },
+  {
+    "name": "Jadranska 4–14: nepregleden izvoz",
+    "ids": [
+      45204,
+      77041
+    ],
+    "review_note": "Isti izvoz Jadranska 4–14. Različna predloga rešitve (ogledalo, manjši zabojniki), isti problem preglednosti.",
+    "category": "lokalni problem",
+    "draft_number": 11
+  },
+  {
+    "name": "Tomažičeva–Kančeva: nevaren prehod in prehitra vožnja na šolski poti",
+    "ids": [
+      79996,
+      86856
+    ],
+    "review_note": "Novejša objava izrecno omenja novejši prehod. Težava se je spremenila iz zbledelih oznak v spregledovanje prehoda in previsoko hitrost; ne trdimo, da zebra ni bila obnovljena.",
+    "category": "lokalni problem",
+    "draft_number": 12
+  },
+  {
+    "name": "Mencingerjeva med Koprsko in Splitsko: dvosmerno kolesarjenje",
+    "ids": [
+      16424,
+      16428,
+      16501,
+      19179,
+      86546
+    ],
+    "review_note": "Isti odsek in isti predlog dvosmernega kolesarjenja. 16424/16428 sta zelo podobni objavi istega dne.",
+    "category": "lokalni problem",
+    "draft_number": 13
+  },
+  {
+    "name": "Koprska pri Mencingerjevi: hitrost in varno prečkanje ob igrišču",
+    "ids": [
+      10053,
+      17460,
+      18499,
+      84447,
+      84827
+    ],
+    "review_note": "Umirjanje hitrosti na Koprski ob parku in križišču. Izključena pobuda o senzorju semaforja, ki je drugačen problem.",
+    "category": "lokalni problem",
+    "draft_number": 14
+  },
+  {
+    "name": "Dolgi most ob železnici: nevaren dostop in manjkajoč varen podhod",
+    "ids": [
+      37271,
+      51984,
+      85416
+    ],
+    "review_note": "Manjkajoča varna povezava pod železnico do Dolgega mostu. P+R je cilj poti, vendar pobude izrecno zadevajo tudi lokalne prebivalce in otroke.",
+    "category": "lokalni problem",
+    "draft_number": 15
+  },
+  {
+    "name": "Oslavijska–Oražnova: parkiranje onemogoča varno hojo brez pločnika",
+    "ids": [
+      61324,
+      72252,
+      75240
+    ],
+    "review_note": "Parkiranje tukaj obravnavano zaradi ponavljajočega se onemogočanja varne hoje brez pločnika in zahteve po fizični ureditvi.",
+    "category": "lokalni problem",
+    "draft_number": 16
+  },
+  {
+    "name": "Jamova 23, vrtec: previsoki robniki in manjkajoče klančine",
+    "ids": [
+      8640,
+      69627,
+      73605,
+      76835,
+      81348
+    ],
+    "review_note": "Po uporabnikovi informaciji v prejšnjem pogovoru urejeno. Ohranjeno za kontrolo združevanja, izločeno iz kandidatov za še odprte težave.",
+    "category": "navedena izvedba",
+    "draft_number": 17
+  },
+  {
+    "name": "Glinška–Oslavijska: ponavljajoča se udarna jama",
+    "ids": [
+      71524,
+      78454,
+      78529,
+      81438,
+      84715,
+      84773
+    ],
+    "review_note": "Neposredna ponovitev iste jame; 81438 izrecno opisuje slabo sanacijo. Gre za ponovno okvaro po sanaciji, ne nujno neprekinjeno odprt problem.",
+    "category": "lokalni problem",
+    "draft_number": 18
+  },
+  {
+    "name": "Glinška: luknje v vozišču",
+    "ids": [
+      4890,
+      83805
+    ],
+    "review_note": "Ista ulica in poškodovano vozišče, vendar 14-letna vrzel; ne dokazuje iste luknje ali neprekinjenega nereševanja.",
+    "category": "lokalni problem",
+    "draft_number": 19
+  },
+  {
+    "name": "Tržaška pri Dolgem mostu: poškodovano križišče z dostopom do P+R",
+    "ids": [
+      11704,
+      20480,
+      20623,
+      24102,
+      69122,
+      76047,
+      77000
+    ],
+    "review_note": "Isto križišče; pobude opisujejo razpokan in posedel asfalt. Razmejitev pristojnosti se pojavlja v novejših objavah.",
+    "category": "lokalni problem",
+    "draft_number": 20
+  },
+  {
+    "name": "Tbilisijska 114: propadajoče otroško igrišče",
+    "ids": [
+      35715,
+      36121,
+      51926,
+      79071
+    ],
+    "review_note": "Ista zanemarjena površina otroškega igrišča; poudarki vključujejo odpadke, rastje in dotrajana igrala.",
+    "category": "lokalni problem",
+    "draft_number": 22
+  },
+  {
+    "name": "Bonifacija, Tomažičeva: odstranjena oziroma neobnovljena igrala",
+    "ids": [
+      44570,
+      51993,
+      86238
+    ],
+    "review_note": "Neurejen prostor odstranjenih igral. Leta 2026 je predlagana uporaba za starejše, zato ni zgolj ponovitev zahteve po otroških igralih.",
+    "category": "lokalni problem",
+    "draft_number": 23
+  },
+  {
+    "name": "Tobačna: stoječa voda in komarji",
+    "ids": [
+      62812,
+      66179,
+      73361,
+      78108
+    ],
+    "review_note": "Isto območje stoječe vode v Tobačni. Ne gre za splošno združevanje vseh prijav komarjev.",
+    "category": "lokalni problem",
+    "draft_number": 24
+  },
+  {
+    "name": "Svoboda: odlaganje odpadkov na športnih površinah",
+    "ids": [
+      77033,
+      77758
+    ],
+    "review_note": "Iste športne površine; druga pobuda je izrecno ponovna prijava smeti.",
+    "category": "lokalni problem",
+    "draft_number": 25
+  },
+  {
+    "name": "Reška 5: smeti po taborjenju na zelenici",
+    "ids": [
+      80101,
+      81171
+    ],
+    "review_note": "Ista zelenica in ponavljajoči se odpadki po taborjenju; kasnejši odgovor ne potrdi čiščenja.",
+    "category": "lokalni problem",
+    "draft_number": 26
+  },
+  {
+    "name": "Tržaška pri Petrolu in št. 132: odpadki in listje na peš in kolesarskih površinah",
+    "ids": [
+      66077,
+      68985,
+      75529,
+      77423,
+      85863
+    ],
+    "review_note": "Pobude opisujejo širši odsek, čeprav so oznake blizu skupaj. Ponovitve čiščenja niso dokaz istih smeti skozi vsa leta.",
+    "category": "lokalni problem",
+    "draft_number": 27
+  },
+  {
+    "name": "Tržaška proti Cesti v Gorice: odpadki in pomanjkanje košev",
+    "ids": [
+      51520,
+      80373,
+      86441
+    ],
+    "review_note": "Širši pas Tržaška–Cesta v Gorice; točke se ujemajo, besedila pa opisujejo območje. Izključena pobuda 68549 o obnovi ceste.",
+    "category": "lokalni problem",
+    "draft_number": 28
+  },
+  {
+    "name": "Podhod Oražnova–Cesta v Rožno dolino: rastje ovira prehod",
+    "ids": [
+      22269,
+      86735
+    ],
+    "review_note": "Vključeni samo pobudi, ki izrecno opisujeta rastje na dostopu v isti podhod; čiščenje odtokov ni prišteto.",
+    "category": "lokalni problem",
+    "draft_number": 30
+  },
+  {
+    "name": "Podvozna pot: živa meja sega na cestišče",
+    "ids": [
+      64188,
+      65160,
+      85760
+    ],
+    "review_note": "Ponavljajoče se rastje na isti poti; novejša prijava izrecno sprašuje po rednem programu vzdrževanja.",
+    "category": "lokalni problem",
+    "draft_number": 31
+  },
+  {
+    "name": "Cesta v Gorice: rastje oži pločnik",
+    "ids": [
+      74182,
+      74946,
+      85682
+    ],
+    "review_note": "MOL je pri 74946 navedla izveden obrez 10. 10. 2024. Nova pobuda 2026 kaže ponovitev potrebe po vzdrževanju, ne dokaza, da prvotni obrez ni bil opravljen.",
+    "category": "lokalni problem",
+    "draft_number": 33
+  },
+  {
+    "name": "Aškerčeva pri Snežniški: poškodovana kolesarska površina",
+    "ids": [
+      86805,
+      86806
+    ],
+    "review_note": "Dve podobni objavi istega dne, ena o konkretnem prehodu, druga o celotni Aškerčevi. Brez potrjenega starejšega zadetka; ne dokazujeta dolgoletnega nereševanja.",
+    "category": "ista dnevna prijava",
+    "draft_number": 34
+  },
+  {
+    "name": "Aškerčeva–Prešernova–Groharjeva: preglasni nočni signali semaforja",
+    "ids": [
+      80165,
+      84082
+    ],
+    "review_note": "Isto križišče, ponovljena zahteva za manjšo glasnost; MOL sprememb ne napoveduje.",
+    "category": "lokalni problem",
+    "draft_number": 35
+  },
+  {
+    "name": "Tržaška pri Dolgem mostu, postaja Rotar: nevaren prehod brez semaforja",
+    "ids": [
+      44323,
+      81983,
+      81993
+    ],
+    "review_note": "Dve objavi istega dne opisujeta trčenje z otrokom; dogodek je navedba prijaviteljev, ni neodvisno preverjen. Starejša pobuda opisuje širši odsek in nevarne nesemaforizirane prehode.",
+    "category": "lokalni problem",
+    "draft_number": 36
+  },
+  {
+    "name": "Cesta v Gorice: izbrisane črte v ovinku",
+    "ids": [
+      18513,
+      18899,
+      19000,
+      47907,
+      49279,
+      57415,
+      83643
+    ],
+    "review_note": "Isti ovinek pri pekarni, ponovljene zahteve za sredinsko črto in navedbe neizpolnjenih obljub. Obnova oznak je ponavljajoče se vzdrževanje.",
+    "category": "lokalni problem",
+    "draft_number": 38
+  },
+  {
+    "name": "Cesta v Gorice: izbrisani prehodi za pešce",
+    "ids": [
+      39463,
+      84907
+    ],
+    "review_note": "Starejša točkovna prijava in novejša zahteva za obnovo vseh prehodov na Cesti v Gorice. Ne dokazuje neprekinjenega izbrisa od 2020.",
+    "category": "lokalni problem",
+    "draft_number": 39
+  },
+  {
+    "name": "Cesta dveh cesarjev pri paviljonu: ponavljajoča se košnja",
+    "ids": [
+      77903,
+      77966,
+      78995
+    ],
+    "review_note": "Po odgovoru MOL je bila košnja izvedena. Skupina ponovitev vzdrževanja, ne potrjeno odprta zadeva.",
+    "category": "navedena izvedba",
+    "draft_number": 41
+  },
+  {
+    "name": "Igrišče na Cesti v Gorice: preredka košnja",
+    "ids": [
+      21655,
+      53341,
+      62858,
+      78639
+    ],
+    "review_note": "Po odgovoru MOL je bila košnja izvedena 11. 7. 2025. Večletne prijave opozarjajo na pogostost vzdrževanja; zadnja prijavljena košnja ni dokazano še odprta.",
+    "category": "navedena izvedba",
+    "draft_number": 42
+  },
+  {
+    "name": "Cesta dveh cesarjev–PST: koši in odpadki ob pešpoti",
+    "ids": [
+      59699,
+      59835,
+      59994,
+      62809,
+      77902,
+      81518
+    ],
+    "review_note": "Povezan razvoj iste storitve ob pešpoti: smeti, postavitev koša, praznjenje, odstranitev med deli in ponovna potreba. Leta 2023 prijavitelj potrdi postavitev koša; ne gre za eno neprekinjeno neizvedeno obljubo.",
+    "category": "lokalni problem",
+    "draft_number": 43
+  },
+  {
+    "name": "Šestova, železniške ograje: grafiti",
+    "ids": [
+      76710,
+      84597
+    ],
+    "review_note": "Ista infrastruktura Slovenskih železnic in ponovljena zahteva za dogovor o odstranjevanju grafitov.",
+    "category": "lokalni problem",
+    "draft_number": 44
+  },
+  {
+    "name": "Nahlikova: parkiranje na pločniku",
+    "ids": [
+      80840,
+      82046
+    ],
+    "review_note": "Ista lokacija in ponovitev parkiranja na pločniku. Ni posebej ocenjena kot pomembnejša lokalna prioriteta.",
+    "category": "dodatno: parking in P+R",
+    "draft_number": 45
+  },
+  {
+    "name": "Tržaška 37b: isti neregistrirani vozili na parkirišču",
+    "ids": [
+      76665,
+      76925
+    ],
+    "review_note": "Besedilo izrecno ponovi prijavo dveh neregistriranih vozil na istem parkirišču. Kratek časovni razpon.",
+    "category": "dodatno: parking in P+R",
+    "draft_number": 46
+  },
+  {
+    "name": "Ribičičeva in Lili Novy: zapuščeni vozili",
+    "ids": [
+      83110,
+      83484
+    ],
+    "review_note": "Ista koordinata in izrecni sklic na prejšnjo prijavo; identitete premaknjenega vozila brez fotografij ni mogoče dokončno potrditi.",
+    "category": "dodatno: parking in P+R",
+    "draft_number": 47
+  },
+  {
+    "name": "P+R Dolgi most: pomanjkanje parkirnih mest",
+    "ids": [
+      76045,
+      76999,
+      84432
+    ],
+    "review_note": "Isti problem kapacitete parkirišča. Manjši pomen za lokalne prebivalce po dogovorjenih merilih.",
+    "category": "dodatno: parking in P+R",
+    "draft_number": 48
+  },
+  {
+    "name": "P+R Dolgi most: manjkajoče sanitarije",
+    "ids": [
+      67748,
+      68016,
+      68829,
+      82472
+    ],
+    "review_note": "Ista manjkajoča storitev. Manjši pomen za lokalne prebivalce po dogovorjenih merilih.",
+    "category": "dodatno: parking in P+R",
+    "draft_number": 49
+  },
+  {
+    "name": "P+R Dolgi most: prikaz zasedenosti parkirišča",
+    "ids": [
+      13184,
+      85471
+    ],
+    "review_note": "Ista potreba po informaciji o prostih mestih, a različen predlagani položaj prikazovalnika. Širša vsebinska podobnost; ni nujno isti projekt.",
+    "category": "dodatno: parking in P+R",
+    "draft_number": 50
+  },
+  {
+    "name": "OŠ Vič na Tržaški: dovažanje otrok in parkiranje na pločniku",
+    "ids": [
+      4840,
+      86903
+    ],
+    "review_note": "Ista šola in oviranje otrok oziroma pešcev z avtomobili. Ne vključuje predlogov za obnovo šolske stavbe.",
+    "category": "lokalni problem"
+  },
+  {
+    "name": "Cesta v Gorice, LPP 16: ni dopoldanskih odhodov med 8. in 12. uro",
+    "ids": [
+      74302,
+      77249
+    ],
+    "review_note": "Isti vozni red in ista vrzel v ponudbi za prebivalce naselja.",
+    "category": "lokalni problem"
+  },
+  {
+    "name": "Cesta v Gorice–Siva pot: nepregleden prehod pri levem zavijanju",
+    "ids": [
+      20615,
+      78011
+    ],
+    "review_note": "Isto križišče in isti konflikt pri levem zavijanju. To je drug problem od zbledelih oznak.",
+    "category": "lokalni problem"
+  }
+]

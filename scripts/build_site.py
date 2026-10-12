@@ -8,6 +8,7 @@ Run build_stats.py --district <id> (and for Vič build_theme_map_data.py) first.
 import json, math, re, shutil
 from datetime import datetime, timezone
 from pathlib import Path
+from check_repeat_clusters import check as check_repeat_clusters
 
 ROOT = Path(__file__).resolve().parents[1]
 T = ROOT / 'analysis/teme'
@@ -75,6 +76,42 @@ def pstat(r):
 nf = lambda n: f'{n:,}'.replace(',', '.')
 def dmy(d): y, m, dd = d.split('-'); return f'{int(dd)}. {int(m)}. {y}'
 
+def district_clusters(district, records, labels):
+    folder = ROOT / 'analysis/cetrti' / district / 'clusters'
+    selection = folder / 'selection.json'
+    if not selection.exists() and district == 'vic':
+        selection = ROOT / 'analysis/clusters_100m_2026-10-12/selection.json'
+    if not selection.exists():
+        return [], {}
+    clusters = []
+    for group in json.loads(selection.read_text()):
+        members = [records[i] for i in dict.fromkeys(group['ids'])]
+        if len(members) < 3:
+            continue
+        dates = sorted(r['reported_date'] for r in members if r.get('reported_date'))
+        marked = [labels[r['id']] for r in members if r['id'] in labels]
+        safety_count = len(set(group['safety_ids']) & set(group['ids'])) if 'safety_ids' in group else sum(l.get('varnost') == 'da' for l in marked)
+        years = (datetime.fromisoformat(dates[-1]) - datetime.fromisoformat(dates[0])).days / 365.25
+        clusters.append({
+            'name': group['name'], 'ids': [r['id'] for r in members], 'count': len(members),
+            'la': round(sum(r['geometry_wgs84']['y'] for r in members) / len(members), 6),
+            'lo': round(sum(r['geometry_wgs84']['x'] for r in members) / len(members), 6),
+            'first': dates[0], 'last': dates[-1], 'years': round(years, 1),
+            'safety_count': safety_count, 'label_count': len(members) if 'safety_ids' in group else len(marked),
+            'score': round(min(1, (len(members)-1)/19)*50 + min(1, years/10)*25 + (25 if safety_count else 0)),
+            'category': group.get('category', ''), 'note': group.get('review_note', ''),
+            'members': [{'id': r['id'], 'date': r.get('reported_date') or '', 'title': (r.get('title') or '').strip(),
+                         'la': round(r['geometry_wgs84']['y'], 6), 'lo': round(r['geometry_wgs84']['x'], 6)}
+                        for r in sorted(members, key=lambda r: (r.get('reported_date') or '', r['id']), reverse=True)]
+        })
+    clusters.sort(key=lambda c: (c['score'], c['count']), reverse=True)
+    info = json.loads((folder / 'review.json').read_text())['meta'] if (folder / 'review.json').exists() else {}
+    return clusters, info
+
+for C in CETRTI:
+    if (ROOT / 'analysis/cetrti' / C['id'] / 'clusters/review.json').exists():
+        check_repeat_clusters(C['id'])
+
 if OUT.exists():
     for p in ('d', 'fonts', 'index.html', 'cetrti.json'):
         q = OUT / p
@@ -111,7 +148,8 @@ for C in CETRTI:
     for i, b in enumerate(buckets): (OUT / 'd' / C['id'] / 'tx' / f'{i}.json').write_text(esc(b))
     meta = {k: C[k] for k in ('id', 'ime', 'kje', 'oznaka', 'zajem', 'oznake')} | {'vs': bool(labels) and not C['oznake'], 'n_tx': n_tx, 'od3': S['od3'], 'od1': S['od1'], 'do': S['do'],
                                                                                         'odvs': S['vs']['od'] if 'vs' in S else S['od1'], 'vsobd': f"{12 * C.get('oznake_let', 1)} mesecev"}
-    (OUT / 'd' / f"{C['id']}.json").write_text(esc({'meta': meta, 'D': D, 'STAT': S}))
+    clusters, cluster_info = district_clusters(C['id'], rec, labels)
+    (OUT / 'd' / f"{C['id']}.json").write_text(esc({'meta': meta, 'D': D, 'STAT': S, 'CLUSTERS': clusters, 'cluster_info': cluster_info}))
     registry.append({k: C[k] for k in ('id', 'ime')})
     odg = S['odgovorjenih']
     zajemi.append(f"<li><b>{C['ime']}</b>: zajem {dmy(C['zajem'])}, filter »{C['oznaka']}«. {nf(S['skupaj'])} pobud od {dmy(S['od'])} do {dmy(S['do'])} "

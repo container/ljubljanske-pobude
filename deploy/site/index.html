@@ -83,6 +83,33 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
 .theme:hover{background:var(--surface)}
 .theme[aria-pressed="true"]{background:var(--surface);box-shadow:inset 3px 0 0 var(--accent)}
 .theme:focus-visible{outline:2px solid var(--accent)}
+.cluster-list{display:grid;gap:5px}
+.cluster-item{all:unset;box-sizing:border-box;display:grid;grid-template-columns:12px minmax(0,1fr) auto;gap:7px;align-items:start;width:100%;padding:8px;border:1px solid var(--line);border-radius:var(--r-btn);cursor:pointer}
+.cluster-item:hover,.cluster-item[aria-pressed="true"]{background:var(--surface);border-color:var(--accent)}
+.cluster-item:focus-visible{outline:2px solid var(--accent)}
+.cluster-swatch{width:11px;height:11px;border-radius:50%;margin-top:5px}
+.cluster-item b{font-size:13.5px;font-weight:600;line-height:1.35}
+.cluster-item small{grid-column:2/-1;color:var(--muted);font-size:12px}
+.cluster-count{font:600 12px var(--f-mono);white-space:nowrap}
+.cluster-detail{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);padding:12px;margin:12px 0;scroll-margin-block:12px}
+.cluster-detail h2{font:700 19px/1.2 var(--f-display);margin:0 0 8px}
+.cluster-detail p{font-size:13px;margin:6px 0;color:var(--muted)}
+.cluster-detail .cluster-metrics{font-size:12.5px;color:var(--ink)}
+.cluster-detail .plist{max-height:280px}
+.cluster-method{font-size:12px;color:var(--muted);margin:12px 0}
+.cluster-icon,.flower-icon{background:none;border:0}
+.cluster-bubble,.flower-dot{display:grid;place-items:center;box-sizing:border-box;border:2px solid #fff;border-radius:50%;background:var(--bubble-color);color:var(--bubble-ink);font-weight:700;box-shadow:0 2px 7px rgb(0 0 0 / 22%);cursor:pointer}
+.cluster-bubble{width:100%;height:100%;font-size:13px}
+.cluster-icon.is-expanded .cluster-bubble{box-shadow:0 0 0 3px var(--accent),0 2px 7px rgb(0 0 0 / 22%)}
+.cluster-icon.is-muted .cluster-bubble{opacity:.3}
+.leaflet-tooltip.cluster-map-tip{width:max-content;max-width:min(280px,calc(100vw - 48px));white-space:normal;overflow-wrap:anywhere;line-height:1.4}
+.flower-dot{width:38px;height:38px;font-size:11px;transition:box-shadow .15s}
+.flower-icon.is-selected .flower-dot{background:#ff6b35;color:#171717;box-shadow:0 0 0 3px #fff,0 0 0 6px #ff6b35}
+.cluster-icon:focus-visible,.flower-icon:focus-visible{outline:3px solid var(--accent);outline-offset:5px;border-radius:50%}
+.flower-opening .flower-dot{animation:flower-appear .22s ease-out}
+@keyframes flower-appear{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}
+@media(prefers-reduced-motion:reduce){.flower-opening .flower-dot{animation:none}.flower-dot{transition:none}}
+#clusterDetail .pitem[aria-pressed="true"]{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
 .tname{font-weight:500;min-width:0}
 .tmeta{grid-column:1/-1;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .spark{display:flex;align-items:flex-end;gap:2px;height:20px}
@@ -303,6 +330,7 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
   <label class="cetrt"><span class="lab">Četrt</span> <select id="cetrt" aria-label="Četrt"></select></label>
   <button type="button" role="tab" id="tabPob" aria-selected="true" data-tab="pobude">Vse pobude</button>
   <button type="button" role="tab" id="tabTeme" aria-selected="false" data-tab="teme">Pobude po temah</button>
+  <button type="button" role="tab" id="tabClusters" aria-selected="false" data-tab="clusters" hidden>Ponavljajoče se težave</button>
   <button type="button" role="tab" id="tabStat" aria-selected="false" data-tab="stat">Statistika</button>
   <button type="button" role="tab" id="tabAbout" class="right" aria-selected="false" data-tab="about">O strani</button>
 </nav>
@@ -315,6 +343,11 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
 <li><b>Vič</b>: zajem 29. 9. 2026, filter »VIČ«. 2.975 pobud od 9. 12. 2008 do 27. 9. 2026 (2.952 odgovorjenih, 23 neodgovorjenih), od tega 544 v zadnjih treh letih. Za to četrt so narejene tudi teme in oznake.</li>
 <li><b>Center</b>: zajem 1. 10. 2026, filter »CENTER«. 16.529 pobud od 9. 12. 2008 do 29. 9. 2026 (16.479 odgovorjenih, 50 neodgovorjenih), od tega 2.603 v zadnjih treh letih. Pobude iz zadnjih 12 mesecev (725) imajo oznaki Vrsta in Stanje po odgovoru.</li>
 <li><b>Šiška</b>: zajem 9. 10. 2026, filter »ŠIŠKA«. 7.331 pobud od 13. 12. 2008 do 7. 10. 2026 (7.295 odgovorjenih, 36 neodgovorjenih), od tega 1.738 v zadnjih treh letih. Pobude iz zadnjih 24 mesecev (1.068) imajo oznaki Vrsta in Stanje po odgovoru.</li>
+<li><b>Golovec</b>: zajem 12. 10. 2026, filter »GOLOVEC«. 353 pobud od 12. 10. 2023 do 4. 10. 2026 (350 odgovorjenih, 3 neodgovorjenih), od tega 353 v zadnjih treh letih. Pobude iz zadnjih 12 mesecev (111) imajo oznaki Vrsta in Stanje po odgovoru.</li>
+<li><b>Bežigrad</b>: zajem 12. 10. 2026, filter »BEŽIGRAD«. 1.254 pobud od 12. 10. 2023 do 12. 10. 2026 (1.224 odgovorjenih, 30 neodgovorjenih), od tega 1.254 v zadnjih treh letih. Samo podatki portala, brez naših oznak.</li>
+<li><b>Moste</b>: zajem 12. 10. 2026, filter »MOSTE«. 552 pobud od 13. 10. 2023 do 9. 10. 2026 (546 odgovorjenih, 6 neodgovorjenih), od tega 552 v zadnjih treh letih. Samo podatki portala, brez naših oznak.</li>
+<li><b>Rudnik</b>: zajem 12. 10. 2026, filter »RUDNIK«. 897 pobud od 12. 10. 2023 do 11. 10. 2026 (880 odgovorjenih, 17 neodgovorjenih), od tega 897 v zadnjih treh letih. Samo podatki portala, brez naših oznak.</li>
+<li><b>Jarše</b>: zajem 12. 10. 2026, filter »JARŠE«. 540 pobud od 13. 10. 2023 do 8. 10. 2026 (530 odgovorjenih, 10 neodgovorjenih), od tega 540 v zadnjih treh letih. Samo podatki portala, brez naših oznak.</li>
 </ul>
 <p class="muted">Vsaka četrt je zajeta posebej in samo s filtrom četrtne skupnosti na portalu (»Vse pobude«, obdobje »Vse«, odgovorjene in neodgovorjene). Ohranili smo besedila, odgovore, datume, točke na zemljevidu in povezave do prilog. Vsak zajem smo po koncu ponovno primerjali s seznamom portala in se je ujemal. Podatki različnih četrti se ne združujejo.</p>
 
@@ -393,7 +426,7 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
       <div class="fgroup" id="fRelGroup"><span class="tlabel">Relevanca (velikost)</span><div class="chips" id="fRel"></div></div>
       <div class="frow"><span id="shown" class="fcount"></span><button type="button" class="btn" id="fReset">Ponastavi filtre</button></div>
     </div>
-    <div class="toggles" role="group" aria-label="Prikaz na zemljevidu">
+    <div class="toggles" id="togglePanel" role="group" aria-label="Prikaz na zemljevidu">
       <button type="button" id="tRecent" aria-pressed="false">Samo zadnjih 12 mesecev</button>
       <button type="button" id="tOld" aria-pressed="false">Pokaži starejše pobude</button>
     </div>
@@ -403,6 +436,10 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
       <details class="explain" id="explain"><summary>Kaj pomenijo barve in vrste?</summary><dl id="explainList"></dl></details>
     </div>
     <div id="themes" hidden></div>
+    <p class="lede" id="ledeClusters" hidden>Izhodišče so pobude brez vprašanj iz zadnjih dveh let; z njimi so povezane vsebinsko podobne pobude z bližnjih lokacij (do 100 m). Prikazujemo skupine z najmanj 3 objavami; število vključuje tudi starejše pobude. Klik na skupino razpre njene pobude v krogu.</p>
+    <div id="clusterDetail" hidden></div>
+    <div id="clusters" class="cluster-list" hidden></div>
+    <p id="clusterMethod" class="cluster-method" hidden>Tri velikosti kažejo število pobud: 3–4, 5–9 in 10 ali več. Trije odtenki CILJ oranžne kažejo indikativno perečnost: nižja (0–34), srednja (35–59) in višja (60–100). Ocena upošteva ponavljanje (50 %), časovni razpon med prvo in zadnjo pobudo (25 %) in izrecno oznako varnosti (25 %). Objave niso nujno neodvisni dogodki ali različni ljudje; barva ne potrjuje, da je težava še nerešena.</p>
     </div>
   </div>
   <div class="mapwrap">
@@ -415,7 +452,8 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
-const CETRTI = [{"id":"vic","ime":"Vič"},{"id":"center","ime":"Center"},{"id":"siska","ime":"Šiška"}];
+const CETRTI = [{"id":"vic","ime":"Vič"},{"id":"center","ime":"Center"},{"id":"siska","ime":"Šiška"},{"id":"golovec","ime":"Golovec"},{"id":"bezigrad","ime":"Bežigrad"},{"id":"moste","ime":"Moste"},{"id":"rudnik","ime":"Rudnik"},{"id":"jarse","ime":"Jarše"}];
+let CLUSTERS = [];
 const NAMES = {ceste:"Dotrajane ceste",signalizacija:"Semaforji, znaki, preglednost",pesci:"Pešci in pločniki",parkiranje:"Parkiranje",kolo:"Kolesarji",hitrost:"Hitrost in tranzit skozi soseske",sola:"Šolske poti",jpp:"Javni promet",gradbisca:"Gradbišča in zapore",
   odpadki:"Odpadki in čistoča",zelenje:"Drevesa in zelenje",igrisca:"Igrišča in druženje",javni_prostor:"Javni prostor",zimska:"Zimska služba",hrup:"Hrup in tresenje",lastnistvo:"Lastništvo zemljišč",razsvetljava:"Javna razsvetljava",vode:"Vode in poplave",azil:"Azilni dom",delo_mol:"Delovanje MOL",javni_red:"Javni red",drugo:"Drugo"};
 const TRAFFIC = new Set(["ceste","signalizacija","pesci","parkiranje","kolo","hitrost","sola","jpp","gradbisca"]);
@@ -598,6 +636,8 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {maxZoom:19, attri
 const borderLayer = L.layerGroup().addTo(map);
 const oldLayer = L.layerGroup().addTo(map);
 const layer = L.layerGroup().addTo(map);
+const clusterLayer = L.layerGroup().addTo(map);
+const flowerLayer = L.layerGroup().addTo(map);
 const markers = new Map();
 const tip = document.getElementById("tip");
 function col(name){ return css(name) || "#888"; }
@@ -631,7 +671,7 @@ function drawPoints(){
   }
 }
 function drawOld(){
-  oldLayer.clearLayers(); if (!showOld) return;
+  oldLayer.clearLayers(); if (!showOld || view==="clusters") return;
   for (const p of D.stare){
     const m = L.circleMarker([p.la,p.lo], {radius:3.5, color:"#ffffff", weight:.8, fillColor:"#8E8E8E", fillOpacity:.7});
     m.bindTooltip(`${fmt(p.d)} · ${p.n}`, {direction:"top", offset:[0,-4]});
@@ -641,12 +681,178 @@ function drawOld(){
 }
 function pulse(id){ const m = markers.get(id); if (!m) return; m.bringToFront(); const r=m.getRadius(); m.setRadius(r*2); setTimeout(()=>m.setRadius(r), 500); }
 function focusTheme(){ if (!sel) return; const g = pts.filter(p=>p.t===sel); if (g.length) map.flyToBounds(L.latLngBounds(g.map(p=>[p.la,p.lo])).pad(0.15), {maxZoom:16, duration:.6}); }
+let activeCluster = null, expandedCluster = null, selectedClusterMember = null, flowerFor = null;
+const clusterMarkers = new Map(), flowerMarkers = new Map(), flowerLegs = new Map();
+const clusterTouch = () => TOUCH || matchMedia("(max-width:860px)").matches;
+const CLUSTER_COLORS = ["#FDCDB5","#FA9A70","#FF6B35"];
+const CLUSTER_SIZES = [30,40,50];
+const clusterColor = score => CLUSTER_COLORS[score<35?0:score<60?1:2];
+const clusterSize = count => CLUSTER_SIZES[count<=4?0:count<=9?1:2];
+function selectCluster(i, fly=true){
+  if(expandedCluster!==i) selectedClusterMember=null;
+  expandedCluster=i;
+  activeCluster=i; renderClusterList(); drawClusters();
+  const c=CLUSTERS[i]; if(fly) map.flyTo([c.la,c.lo],Math.max(map.getZoom(),15),{duration:.5});
+}
+function openClusterDetails(i){
+  activeCluster=i; renderClusterList(); map.closePopup();
+  if(matchMedia("(max-width:860px)").matches) openSheet(true);
+  const detail=document.getElementById("clusterDetail"), heading=detail.querySelector("h2");
+  detail.scrollIntoView({block:"start"});
+  if(heading){ heading.tabIndex=-1; heading.focus({preventScroll:true}); }
+}
+function renderClusterList(){
+  const box=document.getElementById("clusters"); box.replaceChildren();
+  CLUSTERS.forEach((c,i)=>{
+    const b=el("button","cluster-item"); b.type="button"; b.setAttribute("aria-pressed",String(activeCluster===i));
+    const sw=el("i","cluster-swatch"); sw.style.background=clusterColor(c.score);
+    const tag=c.category==="navedena izvedba"?"MOL navaja izvedbo":c.category==="dodatno: parking in P+R"?"P+R · manj relevantno za lokalce":c.category==="širši mestni doseg"?"Širši mestni doseg":"";
+    b.append(sw,el("b",null,c.name),el("span","cluster-count",String(c.count)),el("small",null,fmt(c.first)+"–"+fmt(c.last)+(tag?" · "+tag:"")+" · ocena "+c.score+"/100"));
+    b.addEventListener("click",()=>selectCluster(i)); box.append(b);
+  });
+  const detail=document.getElementById("clusterDetail"); detail.replaceChildren(); detail.hidden=activeCluster===null;
+  if(activeCluster===null) return;
+  const c=CLUSTERS[activeCluster], card=el("section","cluster-detail");
+  card.append(el("h2",null,c.name),el("div","cluster-metrics",c.count+" pobud · "+fmt(c.first)+"–"+fmt(c.last)+" · indikativna ocena "+c.score+"/100"));
+  if(c.category==="navedena izvedba") card.append(el("p",null,"MOL v zadnjem pregledanem odgovoru navaja izvedbo. Stanje na terenu ni preverjeno."));
+  if(c.safety_count) card.append(el("p",null,"Varnost: v "+c.safety_count+" od "+c.label_count+" pregledanih označenih pobudah je bila varnost izrecno izpostavljena."));
+  else card.append(el("p",null,c.label_count?"V pregledanih oznakah varnost ni bila izrecno označena.":"Za ta grozd ni dovolj pregledanih oznak varnosti."));
+  if(c.note) card.append(el("p",null,c.note));
+  card.append(el("div","lbl","Pobude v skupini · klik označi pobudo na zemljevidu"));
+  const list=el("div","plist");
+  for(const [n,p] of c.members.entries()){
+    const b=el("button","pitem"); b.type="button";
+    b.dataset.memberId=String(p.id); b.setAttribute("aria-pressed",String(selectedClusterMember===p.id));
+    b.append(el("span","d",fmt(p.date)),el("span","st",String(n+1)),el("span","t",p.title||("Pobuda #"+p.id)));
+    const groupIndex=activeCluster;
+    b.addEventListener("click",()=>selectClusterMember(groupIndex,p.id));
+    if(!clusterTouch()){
+      b.addEventListener("mouseenter",()=>{const m=flowerMarkers.get(p.id);if(m && !m.isPopupOpen()) m.openTooltip();});
+      b.addEventListener("mouseleave",()=>flowerMarkers.get(p.id)?.closeTooltip());
+    }
+    list.append(b);
+  }
+  card.append(list); detail.append(card);
+}
+function bubbleIcon(c, text, size, member=false, animate=false){
+  const bubble=el("span",member?"flower-dot":"cluster-bubble",String(text));
+  bubble.style.setProperty("--bubble-color",clusterColor(c.score));
+  bubble.style.setProperty("--bubble-ink","#171717");
+  return L.divIcon({className:(member?"flower-icon":"cluster-icon")+(animate?" flower-opening":""),html:bubble,iconSize:[size,size],iconAnchor:[size/2,size/2]});
+}
+function clearFlower(){
+  flowerLayer.clearLayers(); flowerMarkers.clear(); flowerLegs.clear(); flowerFor=null;
+}
+function updateClusterSelection(){
+  for(const [i,m] of clusterMarkers){
+    const icon=m.getElement(); if(!icon) continue;
+    icon.classList.toggle("is-expanded",expandedCluster===i);
+    icon.classList.toggle("is-muted",expandedCluster!==null && expandedCluster!==i);
+    icon.setAttribute("aria-expanded",String(expandedCluster===i));
+  }
+  for(const [id,m] of flowerMarkers){
+    const selected=selectedClusterMember===id, icon=m.getElement();
+    icon?.classList.toggle("is-selected",selected);
+    icon?.setAttribute("aria-pressed",String(selected));
+    m.setZIndexOffset(selected?1500:1000);
+  }
+  for(const b of document.querySelectorAll("#clusterDetail [data-member-id]")) b.setAttribute("aria-pressed",String(Number(b.dataset.memberId)===selectedClusterMember));
+}
+function selectClusterMember(i,id){
+  activeCluster=i;
+  if(expandedCluster!==i){ expandedCluster=i; renderClusterList(); }
+  if(matchMedia("(max-width:860px)").matches) openSheet(false);
+  selectedClusterMember=id; drawFlower(); updateClusterSelection();
+  ensureFlowerVisible(true);
+  flowerMarkers.get(id)?.closeTooltip(); map.closePopup();
+}
+const flowerRadius = c => Math.min(Math.max(62,c.members.length*42/(2*Math.PI)),Math.max(50,(map.getSize().x-80)/2));
+function ensureFlowerVisible(animate=false){
+  if(view!=="clusters" || expandedCluster===null) return;
+  const c=CLUSTERS[expandedCluster], inset=flowerRadius(c)+28;
+  const peek=matchMedia("(max-width:860px)").matches?document.getElementById("sheetBtn").offsetHeight:0;
+  map.panInside([c.la,c.lo],{paddingTopLeft:[inset,inset],paddingBottomRight:[inset,inset+peek],animate});
+}
+function drawFlower(){
+  if(view!=="clusters" || expandedCluster===null){ clearFlower(); return; }
+  const c=CLUSTERS[expandedCluster], fresh=flowerFor!==expandedCluster;
+  if(fresh){ clearFlower(); flowerFor=expandedCluster; }
+  const center=map.latLngToContainerPoint([c.la,c.lo]), radius=flowerRadius(c);
+  c.members.forEach((p,n)=>{
+    const angle=-Math.PI/2+n*2*Math.PI/c.members.length;
+    const pos=map.containerPointToLatLng(L.point(center.x+radius*Math.cos(angle),center.y+radius*Math.sin(angle)));
+    if(!fresh){
+      flowerMarkers.get(p.id)?.setLatLng(pos);
+      flowerLegs.get(p.id)?.setLatLngs([[c.la,c.lo],pos]);
+      return;
+    }
+    const leg=L.polyline([[c.la,c.lo],pos],{color:clusterColor(c.score),weight:1.5,opacity:.7,interactive:false}).addTo(flowerLayer);
+    flowerLegs.set(p.id,leg);
+    const year=p.date.slice(0,4);
+    const m=L.marker(pos,{icon:bubbleIcon(c,year,38,true,true),zIndexOffset:1000,bubblingMouseEvents:false}).addTo(flowerLayer);
+    m.getElement().setAttribute("aria-label",year+" · "+p.title+" · "+fmt(p.date));
+    if(!clusterTouch()) m.bindTooltip(fmt(p.date)+" · #"+p.id+" · "+p.title,{direction:"top",offset:[0,-12],className:"cluster-map-tip"});
+    m.on("click",()=>{
+      selectedClusterMember=p.id; updateClusterSelection();
+      m.closeTooltip(); map.closePopup();
+      const labelled=pts.find(x=>x.id===p.id);
+      showOverlay(labelled||{id:p.id,d:p.date,n:p.title,s:"",t:""});
+    });
+    flowerMarkers.set(p.id,m);
+  });
+  updateClusterSelection();
+}
+function drawClusters(){
+  clusterLayer.clearLayers(); clusterMarkers.clear();
+  if(view!=="clusters"){ clearFlower(); return; }
+  layer.clearLayers(); oldLayer.clearLayers();
+  const sc=document.getElementById("sheetCount"); if(sc) sc.textContent=CLUSTERS.length+" grozdov · najmanj 3 pobude";
+  CLUSTERS.forEach((c,i)=>{
+    const size=clusterSize(c.count);
+    const m=L.marker([c.la,c.lo],{icon:bubbleIcon(c,c.count,size),bubblingMouseEvents:false,zIndexOffset:500}).addTo(clusterLayer);
+    m.getElement().setAttribute("aria-label",c.name+" · "+c.count+" pobud");
+    if(!clusterTouch()) m.bindTooltip(c.name+" · "+c.count+" pobud · ocena "+c.score+"/100",{direction:"top",offset:[0,-size/2],className:"cluster-map-tip"});
+    else {
+      const pop=el("div"); pop.append(el("b",null,c.name),el("div",null,c.count+" pobud · ocena "+c.score+"/100"));
+      const go=el("button","btn","Odpri podrobnosti"); go.type="button"; go.addEventListener("click",()=>openClusterDetails(i)); pop.append(go);
+      m.bindPopup(pop,{maxWidth:Math.min(320,Math.max(180,map.getSize().x-70))});
+    }
+    m.on("click",()=>{
+      selectedClusterMember=null; expandedCluster=expandedCluster===i?null:i; activeCluster=i;
+      if(matchMedia("(max-width:860px)").matches) openSheet(false);
+      renderClusterList(); drawFlower(); updateClusterSelection();
+      ensureFlowerVisible(true);
+    });
+    clusterMarkers.set(i,m);
+  });
+  drawFlower(); updateClusterSelection();
+}
+map.on("zoomend moveend",()=>{ if(view==="clusters") drawFlower(); });
+map.on("resize",()=>{ if(view==="clusters"){clearFlower();drawClusters();renderClusterList();ensureFlowerVisible();} });
+map.on("click",()=>{
+  if(view!=="clusters") return;
+  expandedCluster=null; selectedClusterMember=null; clearFlower(); updateClusterSelection();
+});
 const oldRange = () => `${STAT.od.slice(0,4)}–${(META.vs ? META.odvs : META.od3).slice(0,4)}`;
 function legend(){
   const lg = document.getElementById("legend"); lg.replaceChildren();
   const item = (inner, text, tip) => { const r=el("div"); r.innerHTML=`<svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true">${inner}</svg>`; r.append(text); if (tip) r.dataset.tip = tip; lg.append(r); };
   const c = (r,fill,op) => `<circle cx="12" cy="12" r="${r}" fill="${fill}" fill-opacity="${op}" stroke="#fff" stroke-width="1.5"/>`;
-  if (stanjeMode()){
+  if(view==="clusters"){
+    const row=(color,size,number,text)=>{
+      const r=el("div"), bubble=el("span","cluster-bubble",number);
+      bubble.style.width=bubble.style.height=size+"px"; bubble.style.flex="0 0 "+size+"px";
+      bubble.style.setProperty("--bubble-color",color); bubble.style.setProperty("--bubble-ink","#171717");
+      bubble.setAttribute("aria-hidden","true"); r.append(bubble,text); lg.append(r);
+    };
+    lg.append(el("b",null,"Barva · indikativna perečnost"));
+    ["Nižja · 0–34","Srednja · 35–59","Višja · 60–100"].forEach((t,i)=>row(CLUSTER_COLORS[i],30,"",t));
+    lg.append(el("b",null,"Velikost · število pobud"));
+    ["3–4 pobude","5–9 pobud","10 ali več pobud"].forEach((t,i)=>row(CLUSTER_COLORS[1],CLUSTER_SIZES[i],[3,7,15][i],t));
+    const h=el("div"); h.textContent="Prikazanih "+CLUSTERS.length+" skupin z vsaj 3 pobudami."; h.style.color="var(--muted)"; lg.append(h);
+    const note=el("div"); note.textContent="Razprte pobude so odmaknjene v krog za preglednost; njihov položaj v krogu ni dejanska lokacija."; note.style.color="var(--muted)"; lg.append(note);
+  }
+  else if (stanjeMode()){
     const cnt = {}; for (const p of visiblePts()) cnt[p.s]=(cnt[p.s]||0)+1;
     for (const k of SORDER) if (cnt[k]) item(c(7,SCOL[k],1), `${k} ${ST[k]} (${cnt[k]})`, `${k} ${ST[k]}|${SDESC[k]}`);
   }
@@ -665,7 +871,7 @@ function legend(){
   }
   if (showOld) item(c(3.5,"#8E8E8E",.7), `Pobude ${oldRange()}` + (LAB || META.vs ? " (brez oznak)" : ""));
 }
-function refresh(){ themeList(); detail(); legend(); drawPoints(); buildChips(); const b=document.querySelector('.theme[aria-pressed="true"]'); if (b) b.scrollIntoView({block:'nearest'}); }
+function refresh(){ themeList(); detail(); legend(); if(view==="clusters") drawClusters(); else {clusterLayer.clearLayers();clusterMarkers.clear();clearFlower();drawPoints();} buildChips(); const b=document.querySelector('.theme[aria-pressed="true"]'); if (b) b.scrollIntoView({block:'nearest'}); }
 function showLegend(on){ const lg=document.getElementById("legend"), b=document.getElementById("legBtn"); lg.hidden=!on; b.setAttribute("aria-expanded",String(on)); b.textContent = on ? "Skrij legendo" : "Legenda"; }
 document.getElementById("legBtn").addEventListener("click",()=>showLegend(document.getElementById("legend").hidden));
 map.on("click", ()=>showLegend(false));
@@ -731,6 +937,13 @@ async function setDistrict(id){
   catch(e){ picker.disabled = false; if (META) picker.value = META.id; if (sh) sh.textContent = "Podatkov četrti ni bilo mogoče naložiti."; return; }
   picker.disabled = false;
   META = j.meta; D = j.D; STAT = j.STAT; LAB = META.oznake;
+  CLUSTERS = j.CLUSTERS || [];
+  document.getElementById("tabClusters").hidden = !CLUSTERS.length;
+  const ci=j.cluster_info||{};
+  document.getElementById("ledeClusters").textContent = (ci.stage==="pilot" ? "Prvi pregledani izbor za ČS "+META.ime+"; pregled preostalih kandidatov še ni zaključen. " : "")+
+    "Izhodišče so pobude brez vprašanj iz zadnjih dveh let"+(ci.cutoff?" (od "+fmt(ci.cutoff)+", zajem "+fmt(ci.snapshot)+")":"")+
+    "; z njimi so povezane vsebinsko podobne pobude z bližnjih lokacij (do 100 m). Prikazujemo skupine z najmanj 3 objavami; število vključuje tudi starejše pobude. Klik na skupino razpre njene pobude v krogu.";
+  activeCluster = null; expandedCluster = null; selectedClusterMember = null; clearFlower();
   pts = LAB ? D.tocke.filter(p => p.k==="da" && p.lok!=="izven") : D.tocke.map(p => ({...p, ak: p.d>=META.od1 ? "aktualno" : "starejse"}));
   order = Object.entries(D.teme).sort((a,b)=>b[1].perecnost-a[1].perecnost);
   YRS = [0,1,2].map(i=>{ const a=shiftY(META.od3,i), b = i<2 ? dayBefore(shiftY(META.od3,i+1)) : META.zajem; return `${a.slice(0,4)}/${String(+a.slice(0,4)+1).slice(2)} (${fmt(a)}–${fmt(b)})`; });
@@ -760,7 +973,8 @@ async function setDistrict(id){
   const st = document.getElementById("stat"); st.replaceChildren(); if (!st.hidden) renderStats();
   drawOld();
   explain();
-  if (view==="teme" && !LAB) selectTab("pobude"); else refresh();
+  if ((view==="teme" && !LAB) || (view==="clusters" && !CLUSTERS.length)) selectTab("pobude");
+  else { refresh(); if(view==="clusters") renderClusterList(); }
 }
 
 /* ---------- tabs ---------- */
@@ -769,16 +983,20 @@ document.querySelector(".tabs").addEventListener("click", e => {
   for (const x of document.querySelectorAll(".tabs button[data-tab]")) x.setAttribute("aria-selected", String(x===b));
   const t = b.dataset.tab;
   const mapTab = t==="teme" || t==="pobude";
-  document.getElementById("map-view").hidden = !mapTab;
-  if (mapTab && view!==t){ view = t;
-    for (const [id,on] of [["ledeTeme",t==="teme"],["themes",t==="teme"],["pobInfo",t==="pobude"],["pobPanel",t==="pobude"]]) document.getElementById(id).hidden = !on;
+  const clusterTab = t==="clusters" && CLUSTERS.length>0;
+  document.getElementById("map-view").hidden = !(mapTab || clusterTab);
+  if ((mapTab || clusterTab) && view!==t){ view = t;
+    for (const [id,on] of [["ledeTeme",t==="teme"],["themes",t==="teme"],["pobInfo",t==="pobude"],["pobPanel",t==="pobude"],["togglePanel",t!=="clusters"],["ledeClusters",clusterTab],["clusters",clusterTab],["clusterMethod",clusterTab]]) document.getElementById(id).hidden = !on;
+    document.getElementById("clusterDetail").hidden = !clusterTab || activeCluster===null;
     document.getElementById("ledeNote").hidden = LAB || t!=="pobude";
-    document.getElementById("sheetLabel").textContent = t==="teme" ? "Teme" : "Filtri in razlaga";
-    drawOld(); refresh(); if (t==="pobude" && bounds) map.flyToBounds(bounds.pad(0.05), {duration:.4}); }
+    document.getElementById("sheetLabel").textContent = clusterTab ? "Ponavljajoče se težave" : t==="teme" ? "Teme" : "Filtri in razlaga";
+    drawOld(); refresh(); if(clusterTab) renderClusterList();
+    if (t==="pobude" && bounds) map.flyToBounds(bounds.pad(0.05), {duration:.4});
+    if (clusterTab && CLUSTERS.length) map.fitBounds(L.latLngBounds(CLUSTERS.map(c=>[c.la,c.lo])).pad(0.08)); }
   document.getElementById("stat").hidden = t!=="stat";
   document.getElementById("about").hidden = t!=="about";
   document.querySelector(".cetrt").style.visibility = t==="about" ? "hidden" : "";
-  if (mapTab) setTimeout(()=>{ map.invalidateSize(); if (pendingFit){ pendingFit = false; map.fitBounds(bounds.pad(0.05)); } }, 50);
+  if (mapTab || clusterTab) setTimeout(()=>{ map.invalidateSize(); if (pendingFit){ pendingFit = false; map.fitBounds(bounds.pad(0.05)); } }, 50);
   if (t==="stat" && !document.getElementById("stat").childElementCount) renderStats();
   window.scrollTo(0,0);
 });

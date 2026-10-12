@@ -19,7 +19,11 @@ import urllib.request
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://pobude.ljubljana.si/'
 PAGES = {'odgovorjena': 'PregledOdgovorjenihPobud.aspx', 'neodgovorjena': 'PregledObjavljenihPobud.aspx'}
-DISTRICTS = {'vic': ('VIČ', '15'), 'center': ('CENTER', '11'), 'siska': ('ŠIŠKA', '8')}
+DISTRICTS = {
+    'vic': ('VIČ', '15'), 'center': ('CENTER', '11'), 'siska': ('ŠIŠKA', '8'),
+    'bezigrad': ('BEŽIGRAD', '6'), 'moste': ('MOSTE', '12'),
+    'rudnik': ('RUDNIK', '17'), 'jarse': ('JARŠE', '9'), 'golovec': ('GOLOVEC', '14'),
+}
 SERVICE = BASE + 'arcgis/rest/services/MolPobudeSQL_L/MolPobudeTemePublic/MapServer/0'
 MONTHS = dict(zip('januar februar marec april maj junij julij avgust september oktober november december'.split(), range(1, 13)))
 
@@ -263,11 +267,23 @@ def main():
     parser = argparse.ArgumentParser(); parser.add_argument('--folder'); parser.add_argument('--district', choices=DISTRICTS, default='vic'); parser.add_argument('--limit',type=int); parser.add_argument('--export-only',action='store_true')
     parser.add_argument('--priority-since', type=dt.date.fromisoformat,
         help='Validate a separate capture from this reported date before downloading older details')
+    parser.add_argument('--reported-since', type=dt.date.fromisoformat,
+        help='Capture only initiatives reported on or after this date; preserve full source lists for verification')
     options = parser.parse_args()
     if options.priority_since and (options.limit or options.export_only):
         parser.error('--priority-since cannot be combined with --limit or --export-only')
+    if options.reported_since and (options.priority_since or options.limit):
+        parser.error('--reported-since cannot be combined with --priority-since or --limit')
     folder = ROOT / (options.folder or ('data/' + options.district + '_' + dt.date.today().isoformat()))
     (folder / 'raw/details').mkdir(parents=True, exist_ok=True)
+    scope_path = folder / 'capture_scope.json'
+    if not options.export_only:
+        scope = json.loads(scope_path.read_text()) if scope_path.exists() else None
+        requested_since = options.reported_since.isoformat() if options.reported_since else None
+        if scope and scope.get('reported_since_inclusive') != requested_since:
+            raise ValueError('Capture folder belongs to a different date scope; use a new folder')
+        if options.reported_since and not scope and (folder / 'index.json').exists():
+            raise ValueError('Existing full capture cannot become a period subset; use a new folder')
     started = now(); client = Client(folder, options.district); errors=[]
     metadata_path = folder / 'capture_config.json'
     config = {'district': options.district, 'district_label': client.district_label, 'district_value': client.district_value}
@@ -320,6 +336,15 @@ def main():
         save_json(folder/'geometry.json',geometry)
         print(f'GEOMETRY {len(geometry)}/{len(rows)}',flush=True)
         rows = newest_first(rows, geometry)
+        if options.reported_since:
+            full_rows = rows
+            rows = priority_rows(full_rows, geometry, options.reported_since)
+            save_json(folder / 'full_source_index.json', full_rows)
+            save_json(scope_path, {'scope': 'reported_since', 'reported_since_inclusive': options.reported_since.isoformat(),
+                'full_source_count': len(full_rows), 'selected_count': len(rows)})
+            geometry = {str(r['id']): geometry[str(r['id'])] for r in rows}
+            save_json(folder / 'geometry.json', geometry)
+            print(f'PERIOD {len(rows)}/{len(full_rows)} since {options.reported_since}', flush=True)
         save_json(folder/'index.json', rows)
         save_json(folder/'capture_order.json', {
             'order': 'DATUM_VNOSA_desc_id_desc',

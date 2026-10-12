@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bezigrad",
+    "ime": "Bežigrad",
+    "zajem_od": "2021-10-12",
+    "zajem_razsirjen": "2026-10-13",
+    "pobud": 2531,
+    "vseh_na_portalu": 7349,
+    "se_starejsih_za_celotni_zajem": 4818,
+    "prej_tri_leta": 1254,
+    "dodano_iz_dveh_starejsih_let": 1277,
+    "dodano_2021_10_12_do_2022_10_11": 705,
+    "dodano_2022_10_12_do_2023_10_11": 572,
+    "novih_novejsih": 0,
+    "spremenjeni_novejsi_ids": [],
+    "reported_date_min": "2021-10-12",
+    "reported_date_max": "2026-10-12",
+    "statusi": {
+      "odgovorjena": 2501,
+      "neodgovorjena": 30
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "moste",
+    "ime": "Moste",
+    "zajem_od": "2021-10-12",
+    "zajem_razsirjen": "2026-10-13",
+    "pobud": 1207,
+    "vseh_na_portalu": 2507,
+    "se_starejsih_za_celotni_zajem": 1300,
+    "prej_tri_leta": 552,
+    "dodano_iz_dveh_starejsih_let": 655,
+    "dodano_2021_10_12_do_2022_10_11": 263,
+    "dodano_2022_10_12_do_2023_10_11": 392,
+    "novih_novejsih": 0,
+    "spremenjeni_novejsi_ids": [],
+    "reported_date_min": "2021-10-13",
+    "reported_date_max": "2026-10-09",
+    "statusi": {
+      "odgovorjena": 1201,
+      "neodgovorjena": 6
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "rudnik",
+    "ime": "Rudnik",
+    "zajem_od": "2021-10-12",
+    "zajem_razsirjen": "2026-10-13",
+    "pobud": 1476,
+    "vseh_na_portalu": 2774,
+    "se_starejsih_za_celotni_zajem": 1298,
+    "prej_tri_leta": 897,
+    "dodano_iz_dveh_starejsih_let": 579,
+    "dodano_2021_10_12_do_2022_10_11": 177,
+    "dodano_2022_10_12_do_2023_10_11": 402,
+    "novih_novejsih": 0,
+    "spremenjeni_novejsi_ids": [],
+    "reported_date_min": "2021-10-12",
+    "reported_date_max": "2026-10-11",
+    "statusi": {
+      "odgovorjena": 1459,
+      "neodgovorjena": 17
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "jarse",
+    "ime": "Jarše",
+    "zajem_od": "2021-10-12",
+    "zajem_razsirjen": "2026-10-13",
+    "pobud": 973,
+    "vseh_na_portalu": 2307,
+    "se_starejsih_za_celotni_zajem": 1334,
+    "prej_tri_leta": 540,
+    "dodano_iz_dveh_starejsih_let": 433,
+    "dodano_2021_10_12_do_2022_10_11": 138,
+    "dodano_2022_10_12_do_2023_10_11": 295,
+    "novih_novejsih": 0,
+    "spremenjeni_novejsi_ids": [],
+    "reported_date_min": "2021-10-15",
+    "reported_date_max": "2026-10-08",
+    "statusi": {
+      "odgovorjena": 963,
+      "neodgovorjena": 10
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "golovec",
+    "ime": "Golovec",
+    "zajem_od": "2021-10-12",
+    "zajem_razsirjen": "2026-10-13",
+    "pobud": 584,
+    "vseh_na_portalu": 1243,
+    "se_starejsih_za_celotni_zajem": 659,
+    "prej_tri_leta": 353,
+    "dodano_iz_dveh_starejsih_let": 231,
+    "dodano_2021_10_12_do_2022_10_11": 60,
+    "dodano_2022_10_12_do_2023_10_11": 171,
+    "novih_novejsih": 0,
+    "spremenjeni_novejsi_ids": [],
+    "reported_date_min": "2021-10-13",
+    "reported_date_max": "2026-10-04",
+    "statusi": {
+      "odgovorjena": 581,
+      "neodgovorjena": 3
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  }
+]

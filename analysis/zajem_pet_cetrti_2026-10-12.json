@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bezigrad",
+    "ime": "Bežigrad",
+    "zajem_od": "2024-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 831,
+    "zadnje_leto": 422,
+    "statusi": {
+      "odgovorjena": 801,
+      "neodgovorjena": 30
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "moste",
+    "ime": "Moste",
+    "zajem_od": "2024-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 313,
+    "zadnje_leto": 149,
+    "statusi": {
+      "odgovorjena": 307,
+      "neodgovorjena": 6
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "rudnik",
+    "ime": "Rudnik",
+    "zajem_od": "2024-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 564,
+    "zadnje_leto": 226,
+    "statusi": {
+      "odgovorjena": 547,
+      "neodgovorjena": 17
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "jarse",
+    "ime": "Jarše",
+    "zajem_od": "2024-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 331,
+    "zadnje_leto": 186,
+    "statusi": {
+      "odgovorjena": 321,
+      "neodgovorjena": 10
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "golovec",
+    "ime": "Golovec",
+    "zajem_od": "2024-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 230,
+    "zadnje_leto": 111,
+    "statusi": {
+      "odgovorjena": 227,
+      "neodgovorjena": 3
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  }
+]

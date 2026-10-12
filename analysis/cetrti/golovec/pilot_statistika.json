@@ -1,0 +1,47 @@
+{
+  "district": "golovec",
+  "reported_since_inclusive": "2025-10-12",
+  "captured_on": "2026-10-12",
+  "n": 111,
+  "portal_status": {
+    "neodgovorjena": 3,
+    "odgovorjena": 108
+  },
+  "stanja": {
+    "S0": 3,
+    "S5": 13,
+    "S4": 16,
+    "S1": 36,
+    "S2": 5,
+    "SV": 11,
+    "S3": 26,
+    "S6": 1
+  },
+  "vrste": {
+    "V1": 16,
+    "V6": 39,
+    "V3": 14,
+    "V4": 15,
+    "V7": 11,
+    "V2": 7,
+    "V8": 2,
+    "V5": 4
+  },
+  "nizka_gotovost": 35,
+  "median_days_to_last_response": 20.5,
+  "delay_sample_n": 108,
+  "validation": {
+    "all_ids_match": true,
+    "no_duplicates": true,
+    "literal_quotes_max_25_words": true,
+    "all_dates_in_scope": true,
+    "all_labels_valid": true
+  },
+  "limitations": [
+    "Strojne oznake; brez neodvisnega človeškega pregleda.",
+    "S6 pomeni izvedbo po navedbi MOL, ne preverjanja na terenu.",
+    "Merjen je datum zadnjega odgovora, ne nujno prvega odziva.",
+    "Enota je portalni ID; enaka ali ponovljena besedila so ohranjena.",
+    "Binarne priloge niso bile analizirane."
+  ]
+}

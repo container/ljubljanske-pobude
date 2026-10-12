@@ -1,11 +1,11 @@
-# Pobude meščanov – zajemi ČS Vič, Center in Šiška
+# Pobude meščanov – zajemi ljubljanskih četrti
 [WARNING: AI GENERATED CRAP BELOW]
 
 ## Repozitorij in lokalni zagon
 
 GitHub: [container/ljubljanske-pobude](https://github.com/container/ljubljanske-pobude).
 Repozitorij vsebuje skripte, analize, oblikovne reference in pripravljeno spletno stran v `deploy/site`.
-Celotni zajemi v `data/vic_*`, `data/center_*` in `data/siska_*`, začasne datoteke ter izvozni arhivi ostanejo lokalno in so izključeni iz Gita. Spodnje povezave do zajemov zato delujejo le, če so te mape prisotne lokalno.
+Celotni in obdobni zajemi vseh četrti v `data/<četrt>_*`, začasne datoteke ter izvozni arhivi ostanejo lokalno in so izključeni iz Gita. Spodnje povezave do zajemov zato delujejo le, če so te mape prisotne lokalno.
 
 Za ogled pripravljene strani brez ponovnega zajema ali gradnje:
 
@@ -18,6 +18,14 @@ Odpri `http://localhost:8000`. Ponovna gradnja s `scripts/deploy_site.sh` potreb
 Zbirka javnih pobud s portala [pobude.ljubljana.si](https://pobude.ljubljana.si/).
 
 Skripte podpirajo zajem za **Vič** (`--district vic`), **Center** (`--district center`) in **Šiško** (`--district siska`). Vključitev določa izključno spustni filter četrtne skupnosti na portalu, ob nastavitvah »Vse pobude« in obdobje »Vse«, na obeh seznamih. Vsak zajem je shranjen v svoji mapi; podatki ene četrti se ne združujejo s podatki druge.
+
+## Bežigrad, Moste, Rudnik, Jarše in Golovec – petletni zajem
+
+Triletni zajem z 12. oktobra 2026 je bil **13. oktobra 2026** razširjen za dve starejši leti. Zdaj vsebuje **6,771 pobud od vključno 12. oktobra 2021**, od tega **3,175 dodatnih starejših pobud**. Nabori, datumske meje in izvozi so preverjeni. Register kaže na petletne zbirke; predhodni dveletni in triletni posnetki so ohranjeni. Podatki ostanejo lokalno.
+
+[Pregled in povezave do petletnih zajemov](analysis/zajem_pet_cetrti_2026-10-13.md). [Predhodni triletni zajem](analysis/zajem_pet_cetrti_2026-10-12.md). [Pilotna analiza Golovca](analysis/cetrti/golovec/README.md) ostaja omejena na 111 pobud zadnjega leta; dodatni leti še nista vsebinsko analizirani.
+
+Za omejeni zajem je na voljo `--reported-since YYYY-MM-DD`, npr. `python3 -B scripts/capture_pobude.py --district moste --reported-since 2021-10-12 --folder data/moste_2026-10-13_zadnjih_5_let`. Ob spremembi obdobja uporabi novo mapo. Podprti dodatni identifikatorji četrti so `bezigrad`, `moste`, `rudnik`, `jarse` in `golovec`.
 
 ## Šiška – zajem 9. oktobra 2026
 

@@ -1,0 +1,15 @@
+{
+  "before_timestamp": "2026-10-12T20:52:21.664Z",
+  "after_timestamp": "2026-10-12T21:04:39.650Z",
+  "delta": {
+    "input_tokens": 995606,
+    "cached_input_tokens": 930304,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 9605,
+    "reasoning_output_tokens": 659,
+    "total_tokens": 1005211,
+    "uncached_input_tokens": 65302
+  },
+  "scope": "This chat during Golovec pilot, including tools, context and concurrent capture supervision; not a subscription quota percentage.",
+  "reasoning_note": "Reasoning output tokens are a subset of output tokens, not additional to total."
+}

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 83216,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo izgradnje dodatne javne razsvetljave.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83286,
+  "vrsta": "V5",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo sprememb glede ureditve mirujočega prometa",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83295,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "uredili 77 dodatnih parkirnih mest na Parmski cesti ter 20 parkirnih mest za trgovino Lidl.",
+  "gotovost": "nizka",
+  "opomba": "Vprašanje o možnostih parkiranja; odgovor ne zagotavlja mesta vsem."
+ },
+ {
+  "id": 83363,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "Dodatnih sprememb glede ureditve mirujočega prometa na tem območju trenutno ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83411,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "predlagamo, da v sodelovanju s četrtno skupnostjo izvedete raziskavo oziroma anketo",
+  "gotovost": "nizka",
+  "opomba": "Anketo predlagajo pobudniku; MOL se ne zaveže k izvedbi."
+ },
+ {
+  "id": 83679,
+  "vrsta": "V1",
+  "stanje": "S5",
+  "dokaz": "si bo vadbeno napravo na navedeni lokaciji ogledal in popravil poškodovan del.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83757,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Za obravnavo tovrstnih kršitev je pristojna Policija",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83819,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo spremembe obstoječe prometne ureditve na Parmski cesti.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 83893,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "V okviru rednega letnega vzdrževanja bomo navedene površine na Litijski cesti dodatno preverili ter po potrebi izvedli čiščenje",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84092,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "Načrtujemo, da se bodo vselitve v novo sosesko pričele v mesecu avgustu letošnjega leta.",
+  "gotovost": "nizka",
+  "opomba": "Odgovorjen je začetek vselitev, ne sestava gospodinjstev."
+ },
+ {
+  "id": 84167,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in razpoložljivih kadrovskih zmožnosti opravili nadzor",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84170,
+  "vrsta": "V3",
+  "stanje": "S5",
+  "dokaz": "bomo na navedeni lokaciji opravili nadzor nad kršitvami iz naše pristojnosti.",
+  "gotovost": "nizka",
+  "opomba": "Meritev hitrosti ne morejo izvajati; napovedan je drugi nadzor."
+ },
+ {
+  "id": 84389,
+  "vrsta": "V1",
+  "stanje": "S1",
+  "dokaz": "trenutno zadržane zaradi potekajočega sodnega postopka.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84416,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "se javna najemna stanovanja dodeljujejo prosilcem, ki kandidirajo na javnih razpisih",
+  "gotovost": "nizka",
+  "opomba": "Pojasnilo sedanjega postopka, brez zaveze glede predlagane prednosti zdravstvenim delavcem."
+ },
+ {
+  "id": 84439,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtuje sprejema posebnega odloka",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84559,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "niso namenjena splošni javni uporabi.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84610,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "v primeru ugotovljenih nepravilnosti zagotovili ponovno namestitev in ustrezno pritrditev stojala za kolesa",
+  "gotovost": "nizka",
+  "opomba": "Ponovna pritrditev je pogojena z ogledom."
+ },
+ {
+  "id": 84612,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "trenutno zadržane zaradi potekajočega sodnega postopka",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84658,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo uvedbe dodatnih ukrepov za umirjanje prometa.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84777,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "predvidena sprememba navedenega odloka, ki pa je bila naknadno umaknjena in zato ni stopila v veljavo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84804,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84863,
+  "vrsta": "V5",
+  "stanje": "S4",
+  "dokaz": "dolgoročno načrtuje razvoj novih stanovanjskih sosesk z javnimi najemnimi stanovanji.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 84910,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "trenutno zadržane zaradi potekajočega sodnega postopka v zvezi z ureditvijo lastništva zemljišč.",
+  "gotovost": "nizka",
+  "opomba": "Pojasnjen vzrok zastoja; datuma naslednje košnje ni."
+ },
+ {
+  "id": 84911,
+  "vrsta": "V7",
+  "stanje": "SV",
+  "dokaz": "trenutno zadržane zaradi potekajočega sodnega postopka v zvezi z ureditvijo lastništva zemljišč.",
+  "gotovost": "nizka",
+  "opomba": "Enako besedilo kot 84910; ločen portalni ID ohranjen."
+ },
+ {
+  "id": 85074,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "po potrebi izvedli nadomestno zasaditev drevesa",
+  "gotovost": "nizka",
+  "opomba": "Pogojna nadomestna zasaditev v rednem vzdrževanju."
+ },
+ {
+  "id": 85087,
+  "vrsta": "V2",
+  "stanje": "S1",
+  "dokaz": "trenutno zadržane zaradi potekajočega sodnega postopka",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85124,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi določil ustrezne strokovne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85297,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "spremembe obstoječega načina delovanja prometne signalizacije na predmetnem križišču trenutno ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85303,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85304,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "možnost ponovne namestitve koša za pasje iztrebke na navedeni lokaciji preverili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85313,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne sanacijske oziroma vzdrževalne ukrepe.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85692,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "preverili možnosti za zamenjavo oziroma nadgradnjo obstoječega smetnjaka",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85731,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Inšpektor/inšpektorica bo ukrepal v skladu z zakonskimi pooblastili.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85840,
+  "vrsta": "V6",
+  "stanje": "S4",
+  "dokaz": "v okviru razpoložljivih možnosti po potrebi tudi namestili",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 85946,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili",
+  "gotovost": "nizka",
+  "opomba": "Odvoz ni konkretno obljubljen."
+ },
+ {
+  "id": 86024,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "gre za zemljišče v lasti Republike Slovenije",
+  "gotovost": "nizka",
+  "opomba": "Odgovor napoti na državno okoljsko inšpekcijo."
+ },
+ {
+  "id": 86090,
+  "vrsta": "V2",
+  "stanje": "S3",
+  "dokaz": "na podlagi ugotovitev po potrebi izvedli ustrezne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86167,
+  "vrsta": "V1",
+  "stanje": "S4",
+  "dokaz": "vključno z njeno zamenjavo oziroma ponovno namestitvijo.",
+  "gotovost": "nizka",
+  "opomba": "Pogojni konkreten ukrep po ogledu."
+ },
+ {
+  "id": 86225,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "omejitev hitrosti poenotena na 50 km/h",
+  "gotovost": "nizka",
+  "opomba": "Zvišanje hitrosti ni sprejeto; odgovor utemeljuje obstoječo omejitev."
+ },
+ {
+  "id": 86254,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne vzdrževalne ukrepe",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86256,
+  "vrsta": "V5",
+  "stanje": "S2",
+  "dokaz": "pristojna Direkcija Republike Slovenije za infrastrukturo (DRSI).",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86301,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "omejitev hitrosti poenotena na 50 km/h",
+  "gotovost": "nizka",
+  "opomba": "Odgovor utemeljuje ohranitev omejitve, brez izrecne zavrnitve."
+ },
+ {
+  "id": 86341,
+  "vrsta": "V8",
+  "stanje": "S3",
+  "dokaz": "posredujete fotografijo predmetnega droga javne razsvetljave.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86370,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "omejitev hitrosti poenotena na 50 km/h",
+  "gotovost": "nizka",
+  "opomba": "Predlog zvišanja ni sprejet; raziskava ni priložena."
+ },
+ {
+  "id": 86383,
+  "vrsta": "V4",
+  "stanje": "S3",
+  "dokaz": "pripravili bomo oceno stroškov in izvedljivosti povišanja ograje oziroma namestitve zaščitne mreže",
+  "gotovost": "nizka",
+  "opomba": "Obljubljena ocena, ne izvedba povišanja ograje."
+ },
+ {
+  "id": 86444,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "Popolne prepovedi iger z žogo ne načrtujemo",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86551,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "trenutno ne načrtujemo postavitve dodatnih stojal",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86555,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86573,
+  "vrsta": "V3",
+  "stanje": "S3",
+  "dokaz": "Situacijo bomo preverili",
+  "gotovost": "nizka",
+  "opomba": "Odstranitev ni konkretno obljubljena."
+ },
+ {
+  "id": 86586,
+  "vrsta": "V4",
+  "stanje": "S1",
+  "dokaz": "ureditve dodatne klančine na predmetni lokaciji trenutno ne načrtujemo.",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

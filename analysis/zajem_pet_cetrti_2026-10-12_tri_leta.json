@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bezigrad",
+    "ime": "Bežigrad",
+    "zajem_od": "2023-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 1254,
+    "dodano_iz_tretjega_leta": 423,
+    "novejsa_besedila_nespremenjena": true,
+    "zadnje_leto": 422,
+    "statusi": {
+      "odgovorjena": 1224,
+      "neodgovorjena": 30
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "moste",
+    "ime": "Moste",
+    "zajem_od": "2023-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 552,
+    "dodano_iz_tretjega_leta": 239,
+    "novejsa_besedila_nespremenjena": true,
+    "zadnje_leto": 149,
+    "statusi": {
+      "odgovorjena": 546,
+      "neodgovorjena": 6
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "rudnik",
+    "ime": "Rudnik",
+    "zajem_od": "2023-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 897,
+    "dodano_iz_tretjega_leta": 333,
+    "novejsa_besedila_nespremenjena": true,
+    "zadnje_leto": 226,
+    "statusi": {
+      "odgovorjena": 880,
+      "neodgovorjena": 17
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "jarse",
+    "ime": "Jarše",
+    "zajem_od": "2023-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 540,
+    "dodano_iz_tretjega_leta": 209,
+    "novejsa_besedila_nespremenjena": true,
+    "zadnje_leto": 186,
+    "statusi": {
+      "odgovorjena": 530,
+      "neodgovorjena": 10
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  },
+  {
+    "id": "golovec",
+    "ime": "Golovec",
+    "zajem_od": "2023-10-12",
+    "zajem_do": "2026-10-12",
+    "pobud": 353,
+    "dodano_iz_tretjega_leta": 123,
+    "novejsa_besedila_nespremenjena": true,
+    "zadnje_leto": 111,
+    "statusi": {
+      "odgovorjena": 350,
+      "neodgovorjena": 3
+    },
+    "raw_details_exact_scope": true,
+    "gis_selection_matches": true,
+    "newest_first": true
+  }
+]

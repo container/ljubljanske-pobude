@@ -1,0 +1,66 @@
+[
+ {
+  "id": 86666,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "trenutno ni predvidena.",
+  "gotovost": "nizka",
+  "opomba": "Dopolnitev manjkajoče signalizacije je pogojna; glavna zahteva je zvišanje hitrosti."
+ },
+ {
+  "id": 86705,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "sprememba obstoječe prometne ureditve oziroma predpisane najvišje dovoljene hitrosti na predmetnem odseku trenutno ni predvidena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86742,
+  "vrsta": "V2",
+  "stanje": "S4",
+  "dokaz": "z namenom čimprejšnje odstranitve ovire",
+  "gotovost": "nizka",
+  "opomba": "Odstranitev ovire je konkreten, a pogojen ukrep brez roka."
+ },
+ {
+  "id": 86810,
+  "vrsta": "V6",
+  "stanje": "S1",
+  "dokaz": "sprememba veljavne prometne ureditve oziroma predpisane omejitve hitrosti na Litijski cesti trenutno ni predvidena.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86816,
+  "vrsta": "V1",
+  "stanje": "S3",
+  "dokaz": "po potrebi izvedli ustrezne sanacijske ukrepe na vozišču",
+  "gotovost": "nizka",
+  "opomba": "Za luknje splošna sanacija; za drugi del je konkretno navedena obnova oznak."
+ },
+ {
+  "id": 86860,
+  "vrsta": "V6",
+  "stanje": "S3",
+  "dokaz": "pridobite podpise oziroma soglasja čim večjega števila stanovalcev",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 86979,
+  "vrsta": "V3",
+  "stanje": "S2",
+  "dokaz": "Predlagamo, da se s pobudo obrnete neposredno na Plezalni center Ljubljana.",
+  "gotovost": "visoka",
+  "opomba": ""
+ },
+ {
+  "id": 87009,
+  "vrsta": "V3",
+  "stanje": "S4",
+  "dokaz": "v okviru rednih delovnih nalog in kadrovskih zmožnosti opravili nadzor lokacije",
+  "gotovost": "visoka",
+  "opomba": ""
+ }
+]

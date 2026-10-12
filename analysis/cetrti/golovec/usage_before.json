@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-12T20:52:21.664Z",
+  "usage": {
+    "input_tokens": 11152806,
+    "cached_input_tokens": 10747392,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 44166,
+    "reasoning_output_tokens": 11726,
+    "total_tokens": 11196972
+  }
+}

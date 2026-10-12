@@ -1,0 +1,29 @@
+[
+ {
+  "id": 81975,
+  "vrsta": "",
+  "stanje": "S0",
+  "dokaz": "",
+  "gotovost": "visoka",
+  "opomba": "neodgovorjena na portalu",
+  "vir": "samodejno"
+ },
+ {
+  "id": 86967,
+  "vrsta": "",
+  "stanje": "S0",
+  "dokaz": "",
+  "gotovost": "visoka",
+  "opomba": "neodgovorjena na portalu",
+  "vir": "samodejno"
+ },
+ {
+  "id": 87027,
+  "vrsta": "",
+  "stanje": "S0",
+  "dokaz": "",
+  "gotovost": "visoka",
+  "opomba": "neodgovorjena na portalu",
+  "vir": "samodejno"
+ }
+]
