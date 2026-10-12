@@ -1,4 +1,5 @@
 # Pobude meščanov – zajemi ČS Vič, Center in Šiška
+[WARNING: AI GENERATED CRAP BELOW]
 
 ## Repozitorij in lokalni zagon
 
