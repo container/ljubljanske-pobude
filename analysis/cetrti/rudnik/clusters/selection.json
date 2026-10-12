@@ -1,0 +1,746 @@
+[
+ {
+  "name": "Ilovški štradon: razpadajoče bankine",
+  "ids": [
+   76936,
+   76935,
+   76266,
+   76064,
+   76057,
+   76023,
+   75567,
+   75337,
+   75137,
+   74879,
+   74348,
+   73136,
+   71831,
+   70609,
+   70137,
+   69852,
+   69438,
+   64196,
+   60042
+  ],
+  "safety_ids": [
+   75567,
+   76064,
+   76936,
+   76935
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se ponavljajo pobude za luknje v bankinah ozke ulice, kamor se umikajo pešci in kolesarji. MOL odgovarja, da je sanacija naročena ali da bo urejena ob prenovi; pobudniki trdijo, da popravila ni.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "76936": "4a9914ea9b4089f5169091a53b354f0afa62142ddce29369d540be18631558df",
+   "76935": "99ec28d7617de0763665c65bd29891e0da08e81796e651b73e3de3a19dec0481",
+   "76266": "9d5ab02e3a56142389a896727f1c7abc39c19fb2de2a3d30b9aebeb7adfbfc7c",
+   "76064": "cf50f4d51a571e6812faa7e247d55709922b84f8cfb52f4af7925c616d02465c",
+   "76057": "b969f79207b3a576caa974f0ef67b3b5edd4bc4714319bd54a2d9bdf995ce210",
+   "76023": "69f280c99a47c72fa311d10081207f43f3a2f1ab36de1de839445bb762bc874e",
+   "75567": "59aa55fba4badd257f146f04c299606ab1f7c4b8866f022cd21910c9be2bae01",
+   "75337": "6c4036ef3665074444aad057d9cb58aac8d61aacc50e7db651b6fa1775b0e774",
+   "75137": "76d0249524c0078b8b58cd7d0e69172f6cbc434096f2cfed087a8e16133b641d",
+   "74879": "3df72491dfddb8274230cbbd408461fca060e7136aee5842765b8d66d56717a2",
+   "74348": "c6c5ef3efab4d5befa0fb08e64aac4806866ee8a69e539d7baa92f7c7d78fe8e",
+   "73136": "15048e97f3374ea06847cf3cc187c28631d96b909e6de12a666e4c55b014da6f",
+   "71831": "c1e108bca2803c4905daa41f7f235f42e7298f7e1429a88f0f88ba68cecce1cc",
+   "70609": "51454de477f7aaceb767a35857e756c34ad1f0449286281f74f93d33298129df",
+   "70137": "3cb178791acf5b519fe3c63aa3a59b6ceb8843e56cd6cf423687da4d273bdf2d",
+   "69852": "a6028129897a6f5a8871b6c7bf9c3333becc3d704a0019aab9fc741d24ae03d6",
+   "69438": "0de3ab0f878ba24084ab7cbd8cbbac38dc6badb42544811a5a6e7a70818eabdf",
+   "64196": "2873de7a581046f814433ff6000012742835d97edb776b437fbea18da29efd40",
+   "60042": "0db9c9575980c56b0ca88414e278ff775ee6d74473d28409f7afebe242b4ed60"
+  }
+ },
+ {
+  "name": "Ilovški štradon: prehitra vožnja, ležeči policaji in nadzor",
+  "ids": [
+   86814,
+   85904,
+   85387,
+   85384,
+   80174,
+   79228,
+   77318,
+   75810,
+   74960,
+   73677,
+   72967,
+   69496,
+   69505,
+   69042,
+   64925,
+   63052,
+   60127,
+   60126,
+   60125,
+   53529,
+   53125,
+   75634,
+   75175,
+   69504,
+   69394,
+   69393,
+   79888,
+   63720,
+   63459,
+   70197
+  ],
+  "safety_ids": [
+   69042,
+   74960,
+   77318,
+   80174
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 stanovalci zahtevajo umiritev prometa (ležeči policaji, omejitev, nadzor) zaradi tovornjakov. MOL ležečih policajev ne postavlja do prenove; redarstvo odgovarja z nadzorom ali pove, da podatkov o nadzoru nima. Besedila dela več istih avtorjev.",
+  "source_candidates": [
+   1,
+   9,
+   22,
+   29
+  ],
+  "reviewed_hashes": {
+   "86814": "3b5c3f015e276b50e7c5313af25a1495b06387a501a496585f116e82d95e62a9",
+   "85904": "4d3f5bfd55fb16d13095f6acfc416552ceffbb3602073e076eaf05859e905929",
+   "85387": "c8cdd657c02109dd8d84976595fa426aa9f29bc9107ddfdf034cf85287ecae39",
+   "85384": "b6abc24d3a457ed423207e519e945f438a3a7b8828cccf24b9c25396b00352a7",
+   "80174": "3113245f7ed74503e272c554e57a0eed4203dc623c975300ced31544bbe780ea",
+   "79228": "42429d9f980bc0602d598e4d1ea4115ac2bb79d198eff91f9017723b7da42d3d",
+   "77318": "ce1f213a619372e34b27a6e2520e6181a3cad9143e566815694f8c40aa750380",
+   "75810": "c599ad26942f4a18a549375cb900e90a3161a24f11ab069e0471b5d8a964aaa6",
+   "74960": "a7d581c9c12364cd4209331e2d70c49e11820b4467abf9b19b32ad36186a5312",
+   "73677": "464ec29fc6e073bc1d35a69d9035d83646acb8cc8c3a57cd16e9713707338bcf",
+   "72967": "bb91abff806cf8b5d24b440277114a8e6584f7ede9129eafd107cf96c3618bf3",
+   "69496": "00bfd1e4902fad528949d1e6d75010d2e234276a10f1641995ed7572f799b3a3",
+   "69505": "96e7417ddbe9ffcea31d3ffd63ba8519f5326396ea8d5eb380d6ac675dd0cda1",
+   "69042": "ec88b768186740e898760262c3bccb1e1a6ede7d3b4263d90504637b87558f8d",
+   "64925": "f9c5404909680cc4e4ad2a13ffbcd3b86b7c549d4816f639fb38ab3bd3081930",
+   "63052": "f6e0a2c39dd29af906c559aed858d965c468acb204820178e7c681baeecaad3d",
+   "60127": "6dead45c3b9afd8199e060271c3ccd0a680e521a24304d7dc5db381bf1759666",
+   "60126": "373d7aa1ee3863dfa106ae242933147b9e078dca9153f7f4844e228b61d56868",
+   "60125": "718f8aaf65ed80753160c31db68a953672aeee0ca1aa931f2db0dff1c888f5ed",
+   "53529": "4df1bb87ea007f1c61d0cd784a96d3475087d25a29bd119838d27ecb3028bbe8",
+   "53125": "3db0c6dccc1080122837a13c6d7abf7df86cc939e1731cd131f6ef431b4df081",
+   "75634": "f52ed5c78ee924d44598dc694a5cc7fece0436e74be91a96fe0bd4c818774b06",
+   "75175": "f7a2173cc68c2c08d36eee1e5f6aea920b689addc4f7b8cdfe72cfd8ce0d07c0",
+   "69504": "0210f7b567c4201950bc7d733a1be7f037837f6b45e7140e63ac5e46cdef89bc",
+   "69394": "9e1d62afa97c902e5036a7aa3fb283d997cf25dbecf7771bcc2acca310d642c8",
+   "69393": "7ba0a170f4972c9a5045e002f754bdc857534eb75fc96671c0178a415f7543f2",
+   "79888": "160cd1c516d73a65eceaad13f3cfb82a57e629f1845bddf4b6cd9d762bf503fa",
+   "63720": "a4fede4264a8591c9a6b5f1735b977a536d23c0968977f2b4085b511df7304dc",
+   "63459": "d08759d8f932d473b30df9319c81ca18ef2e7be7cc38a52440567775d6b99460",
+   "70197": "02102b9c83f652b42b8d4faa7fde9e5d65e98227d63d750dcde06ce9c7cb8c49"
+  }
+ },
+ {
+  "name": "Ilovški štradon: zamude in nepredvidljivost prenove",
+  "ids": [
+   85047,
+   84505,
+   81650,
+   80946,
+   80708,
+   80690,
+   80646,
+   80486,
+   80417,
+   80172,
+   79227,
+   78460,
+   78402,
+   78034,
+   77463,
+   77421,
+   77299,
+   77287,
+   75338,
+   73575,
+   72928,
+   72694,
+   68929,
+   29168,
+   24375,
+   63328,
+   82021,
+   81641,
+   81350,
+   86503,
+   86485
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 se ponavljajo vprašanja o času prenove, od 2024 pa pritožbe, da so roki (marec 2025, avgust 2025, november 2025) zamikani, zapore brez najave in dela brez nadzora. MOL napoveduje prenovo, a se roki spreminjajo; leta 2026 se dela še izvajajo. Besedila dela več istih avtorjev.",
+  "source_candidates": [
+   1,
+   24,
+   29
+  ],
+  "reviewed_hashes": {
+   "85047": "f9811c9789f9017d28fdfa482632d91154047239ba0e71e379981b2dd65750d0",
+   "84505": "826705f5111a7421f11c0310da33c00c091f5f10e93b59f7d532cfd2b9d91ea1",
+   "81650": "36d3c672f487eda4767c1641803c602cf18befdc3c42e20734a0374e85371222",
+   "80946": "c26fcaa14d9c65c1c7f11650811eb51353bf241b1fdc1ce8128a426f4d2ed127",
+   "80708": "74b65265f728a8ad2c2055e571baf0421ba29190209ce04e19d9fff821fb2359",
+   "80690": "0f746604220ce77276146e20fd0a88726c9cb984bbe46f77c6aba5c5ffd04467",
+   "80646": "392ee1a5b958abad0971c0315192d8e6252f2bc02af34c04d9dc1a55c9094d91",
+   "80486": "1dd44220bcddfbdca96668dac083dfb53868d44bd43048e4c50106f5b4112744",
+   "80417": "0809f50d418c718267f366fb0091eaead560fa3f541190951492638adb7b7fab",
+   "80172": "e409166807d1e62abdd7911250a208411935c9d3a4abb24958eb5d2cc1345515",
+   "79227": "9fda109555f51775ca4a2d7d60c4b9d77b690f3f6e4f7a6c1357180a651884cc",
+   "78460": "74230ac086635f8d20b84d1a6e62a93f1f106fb67107520c23317a57b1c30528",
+   "78402": "0f1da19cb96a6b4912c09b48651a36ce322c639ed9fbe79fc56a7da4ac9db684",
+   "78034": "660a7c268fdec81ae3769e2707aa906b11574e5cb11c25532bfbce1b3c05e3d6",
+   "77463": "50b5caf1747a33f348beda3903e40c3db30eee56ff346b352b8d7a5a1a81d9cb",
+   "77421": "a41684eb4c528a0704f9d22f6e2eec8b54af21c3de15206dabc2f337f32ba532",
+   "77299": "c7100042bae6e8feee6298f6cb000064fda110cae4d1e9672e08d3baf4c80bba",
+   "77287": "c65dbf6d4893e2b8caee67bc3587f970f9135b74743909cf3e0987c6e1bda9d0",
+   "75338": "7485b03fe4ebbd3d28452b1b85cc2386af3af555049a5dc97236956d8bd2b9e8",
+   "73575": "8679298d4671458c48edb1381f2c8d6124ade5174bae54e5e0e520b69fba1694",
+   "72928": "c65ccd67b4de6ac1836e9c9a6c6d2b37e12a576de8f3276f82e34c711a2f55e6",
+   "72694": "0625a4d61a8dd9d84854c3b289563d014e230643a580d5b332c3cd1a3dab96af",
+   "68929": "31fbdcd77a302118f04ebb40694162003b0f37904702d89a5fe3499f467f120c",
+   "29168": "e41dd5fe47087f10b948c3432e2237e17bccca9840ed6c5a96bc86c9a9a4332c",
+   "24375": "04a88eb3fcbfa4969cf2b70c93cded422718f627fe315cc85ecf1fa98fec6c63",
+   "63328": "375e4382c790e9d32fdb7aed32a33107d2f0adbd3461169e8bef1c9c5119db2f",
+   "82021": "e0333488f9ed6c64b7079850913f6c1f452a10d408499f407bbf6c23fbc5e6c6",
+   "81641": "c36917494ad3ba1fbe010b8663e8902905f512da952249254499532b256ebfa0",
+   "81350": "9e7c3719fa9c1e12b3db653c50869fb6a423463b0bc05a0ab532716a35dff7f3",
+   "86503": "425159950418c580871a2df50849762925dc66b7ec0a000e56861ba54758914f",
+   "86485": "71ddf79fa699cdb909510fd53d01506bf53ab7b3359bccbfee938288d9c88338"
+  }
+ },
+ {
+  "name": "Ilovški štradon–Jurčkova: vožnja čez rdečo luč",
+  "ids": [
+   77089,
+   77008,
+   74961,
+   75176
+  ],
+  "safety_ids": [
+   77008,
+   74961
+  ],
+  "category": "lokalni problem",
+  "review_note": "Štiri pobude (2024, 2025) o vozilih, ki vozijo čez rdečo luč. Redarstvo ob nadzoru kršitev ni zaznalo in navaja omejitve zakona.",
+  "source_candidates": [
+   1,
+   9,
+   25
+  ],
+  "reviewed_hashes": {
+   "77089": "348293a33708fe449a65be5aca45de94a8ec945fe88c8422423ff41b166a372c",
+   "77008": "6908badd9af4de3f9baff527c838ac7a23c2ebdefa54f39ad204322864e611ed",
+   "74961": "dd08d162aafce4d6e45ab92c53c06b8101a914241345edc9c89dcffdabd70ce2",
+   "75176": "a967f2a3c7cc68b80a0876faa72acfaffced32b343fefc0d02539f72d46c5619"
+  }
+ },
+ {
+  "name": "Peruzzijeva–Jurčkova: zelena puščica za desni zavoj, nevarna za pešce",
+  "ids": [
+   84307,
+   84231,
+   84033,
+   80399,
+   78222,
+   77906,
+   77703,
+   77471,
+   77210,
+   76680
+  ],
+  "safety_ids": [
+   77906,
+   84231,
+   84307,
+   77471,
+   76680
+  ],
+  "category": "lokalni problem",
+  "review_note": "Pobude od 2025 opisujejo skoraj nesreče, ker vozniki z zeleno puščico ne gledajo pešcev. MOL je puščico odstranil, leta 2026 jo je ponovno postavil in ta jo pobudniki znova označujejo kot nevarno.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "84307": "8db95dcce40e23f4036317e25884cb2a610b9c7397d521390e871796c15af3c9",
+   "84231": "4f4008cf5a76d25a1d0c2c48b7bbe040c9aceb3acc1ae453c2715d1c3bf7db3d",
+   "84033": "aa9d0440301b68078158a758720cea39deeef58b8c10a1b785598732c9227080",
+   "80399": "646b53d43a958cece318b06538b606e69adfbc6dcf3c55e4a736e538b13131c3",
+   "78222": "13aa0746ac28105f320531f12db420c468c49f49513f360f6be19efa26bebe96",
+   "77906": "f878006cbdd09ce187826ac78b3cdead8dc4b8ad58b7babc53dd943d3bf73220",
+   "77703": "d5dd8601736448120d2d0a0b29cc2facdd485321e569d63ac872c00281275067",
+   "77471": "477be2cd728012445f4cd3f232dc25c0cfc614bfc9048d990e4befc332b7c43d",
+   "77210": "0e4a4dd3a465f8451d37e3ce0d48dbfaee05c41ed92a9c65293d8fd54f7e5c52",
+   "76680": "3fa0443c5ce600f377ed53e614cb9ed14de505d12ca687a4993f82368d1ec720"
+  }
+ },
+ {
+  "name": "Ižanska: luči na postajališčih Lahova pot in Iški most",
+  "ids": [
+   84359,
+   82889,
+   80100,
+   79408,
+   14533
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2016 se ponavlja, da na postajališčih ne gori razsvetljava. Leta 2026 delujejo luči samo na enem postajališču, drugo ostaja neosvetljeno.",
+  "source_candidates": [
+   3
+  ],
+  "reviewed_hashes": {
+   "84359": "54bb50d8d3cb20e91eab352dbf3cdf5b2dc307aff56e189f066282c7024e15b2",
+   "82889": "2b7f78409dfc1ea8464f433393a6eb5102a835e0cb08354696073f6f476c980e",
+   "80100": "251f959a73150ce8349e5f5b4da63c56af64a9d2f3c78eccf29c3900d9a0511d",
+   "79408": "8984841d16c0dce62dd87d39d12b0a8230380c2184a872c86072d7d7f9e02b67",
+   "14533": "9b445cec95d2f68e24490eabfaef99d566e8afb3b30ac7703bb5cbc1afc67952"
+  }
+ },
+ {
+  "name": "Ižanska: manjkajoče nadstrešnice LPP",
+  "ids": [
+   76035,
+   76034,
+   75895,
+   72704,
+   19174,
+   13618
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2015 se ponavljajo zahteve za nadstrešek in klop na postajališču; MOL je obljubljal ureditev ob prenovi, po prenovi 2024 nadstrešnice ni, ker naj ne bi bilo prostora.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "76035": "900a5e8bd1ba4da5721c59ef0fa917c9562ceec948e352e21c1091c9f14379e8",
+   "76034": "6471c297ee7ba4454c8be47bf6a359ac1b0170355aefa65daa6b605d480cf1a8",
+   "75895": "be504f01101e1a5d8e0a56762df0378cef6f0e31fc480d21cf9a79b5e1d5c8ee",
+   "72704": "3fe5f180f5eac8a23fa812007cd2cdd5aa4e9a7837df76ee28c56ab1e29e2436",
+   "19174": "c2443ea0e16d3b2d3342f03cbd412479f8206781905c13c014efd32dbb2bde26",
+   "13618": "b62f0bd2851268d9b9cde264578889b08f840bbb03d3fb9c0c45c02b0963df8c"
+  }
+ },
+ {
+  "name": "Jurčkova–Peruzzijeva: kratek zeleni signal za pešce in predolg za vozila",
+  "ids": [
+   77893,
+   77732,
+   77674,
+   76874,
+   76765,
+   76544,
+   76437
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Sedem pobud v 2025 o neprimernem intervalu semaforja. MOL odgovarja s sklicevanjem na varovalni čas in koordinacijo, besedila je pisal verjetno en avtor.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "77893": "c2b056fadd538adf117cbfc6df3cbbf2cd96dc72ed9afc438ffc52b7e5924e68",
+   "77732": "887d72e31ab4690351395bcb4b07beec3dc75e1cc095d04beeabdeab227ca06b",
+   "77674": "025dda38e5d134f82abdb2adc59e251c9f9678f8d2e900cb1666c9c2b22bbf91",
+   "76874": "a3ad2714f173a57c608efe687131bb5d3c8623522f6cebf539e0ae2a52ce648e",
+   "76765": "2383094bce0c0c9b577cc62ce2fd5151cd9a1b8d6491e8e743450f69ffa61494",
+   "76544": "822c3ca5386e3f9b661056244df557cf31ad7fa668b9a5c1c0b480c7809a063f",
+   "76437": "ed9274073667879f0588c5627dddc8c9ca1c8307358a83375eb93e60d0a1aca6"
+  }
+ },
+ {
+  "name": "Galjevica: avtobus 27 ne ustavi na postaji",
+  "ids": [
+   82386,
+   81815,
+   78285,
+   77209,
+   77090,
+   76648,
+   70068
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Sedem pobud o tem, da avtobus 27 odpelje mimo postaje Galjevica. LPP odgovarja, da so z voznikom opravili pogovor.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "82386": "d874387d504e243583d77f08401f4215838caa687d1e0bfa55376f30dc1860dc",
+   "81815": "7d69487ee4ce7b93cf9230b73df1b34f79fac8be59cf3178e43004f17956e075",
+   "78285": "43d1cbe5d54f651c4335cf283e32c826e1d07024d62d92978dbcedae66a0c19d",
+   "77209": "13521e4bb4f4c7a6df70340197fc9a0599fcbfdda3c635ec472b4f47556e6084",
+   "77090": "5dac3234f13fa0fd8ff9cd8c96f70d4b7d6ff21b0e4850eff103d19e13a02f78",
+   "76648": "403c6c78a5b58b4139eee1b14d0a324287e1bb625df0efa471f225fda7d72c08",
+   "70068": "d602026bcefb420fbc13c766b11864dc86dc03372d7a6e4e2aab924605ee4da9"
+  }
+ },
+ {
+  "name": "Rakovniška in ZD Rudnik: obledel prehod za pešce",
+  "ids": [
+   78882,
+   75872,
+   65443,
+   57636,
+   55959,
+   49511,
+   47911
+  ],
+  "safety_ids": [
+   78882
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 se ponavlja zahteva za obnovo prehoda pri zdravstvenem domu in znak. MOL pri vsaki pobudi napoveduje preverjanje; odprava ni potrjena.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "78882": "a6ef0a79a6b8a08f3157fa1d25f0fe94a026f77bda454935d1dc256dac7253a4",
+   "75872": "297042949ef276b0f4fc077f786ed18bd0f7e3c6ad846b516d107eb00aeaa6ec",
+   "65443": "ff13dd131e9da944e6de7e05d59211e74d6f3757900966e9fe8384bccebf743d",
+   "57636": "e554548cbc72ea09ffbd87fdd83229fd56d751a81881799b7c9622ffae849949",
+   "55959": "bad5300b9ef344c1a5935e82c47a09ed5577180ea619f22efa18024713856c94",
+   "49511": "c83ca64138ffb129aa3928e435f69161133d40ac5394355b0711bca77fa6212b",
+   "47911": "0b0a837d6dcf12019dbb36082cf3a748a412a5189824e7f3f9fbeaee963ca96d"
+  }
+ },
+ {
+  "name": "Malova–Ižanska: nepregleden izvoz zaradi ograje",
+  "ids": [
+   80770,
+   79576,
+   76104,
+   76102,
+   76059,
+   76031
+  ],
+  "safety_ids": [
+   76104,
+   76102,
+   76059,
+   76031,
+   80770,
+   79576
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od odprtja prenovljene ceste 2024 stanovalci opozarjajo na nepreglednost za kolesarje in pešce. MOL leta 2025 ogledala ne postavlja.",
+  "source_candidates": [
+   7
+  ],
+  "reviewed_hashes": {
+   "80770": "4b7b800717a797dfecd533810b59dfb33ddd3073d60cc4a1176fe4701ca33dbf",
+   "79576": "2cc81243caca8179e155583482d19f84612c4d63a656983976dc30a4bc403116",
+   "76104": "932ff42c06078feeaa080c59f9e59e81732d4f2d37b623d4e93ad15d79698b8d",
+   "76102": "4958faa15a39162c58cf0aba2a0aa673dff226cf6ff9e2de1e56df22b08ba679",
+   "76059": "13bf6ba60bfea69074b67d3eedcdc771e88b7d46b12fab50c64669cfccd2eb5e",
+   "76031": "2924c0c25f655e66b3f5f09729c5073b402195ee8eb37bfb5fa4be2378e912e8"
+  }
+ },
+ {
+  "name": "Lahova pot: avtobus 19 ne ustavi na postaji",
+  "ids": [
+   85320,
+   85319,
+   82101,
+   80707,
+   78284,
+   76583
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Šest pobud (2025, 2026) o tem, da avtobus 19 zjutraj odpelje mimo postaje. LPP odgovarja, da so z voznikom opravili pogovor.",
+  "source_candidates": [
+   10
+  ],
+  "reviewed_hashes": {
+   "85320": "19ffe7d02a574cfa00da5105a6a5543216829c5a1aeb2c3d5027261bf75d024e",
+   "85319": "c5ca1187c85848e5d7c2076006799432e926edc4dbb347175c0fb8a35c8a0452",
+   "82101": "61fe8166b69a90799c3f0a3403ba003ac2fea526076b219a91c6d727847742b9",
+   "80707": "d7b766e87d157a3d5cfa52a017caee2f4f76b337c63428492543774f667cff18",
+   "78284": "f01d744c2da4dd192008f0b2c67667fe1cf6e530b269d02a6e4521d1724e649d",
+   "76583": "b532b6404b57ef15959979e347dda862c52a5761edb93bc181eaefe8df7de954"
+  }
+ },
+ {
+  "name": "Ižanska–Črna vas–Peruzzijeva: nastavitev semaforja",
+  "ids": [
+   79740,
+   74857,
+   67920,
+   33351,
+   27830,
+   24023,
+   75597,
+   64037,
+   36153
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 se ponavljajo pritožbe zaradi predolge rdeče na Ižanski v konicah (zastoji), leta 2025 pa prošnja, naj se pešcem zelena prižge brez tipke. MOL odgovarja, da so krmilne programe prilagodili.",
+  "source_candidates": [
+   11,
+   28
+  ],
+  "reviewed_hashes": {
+   "79740": "a9f6b3535d78690294d6f0eafb143e0b0c952aea163f9763eacaafb8cb320355",
+   "74857": "aed015d9f7b49ea2dd49f4e62cd1218086286758e07c1e2caf42c2433f9f5a7f",
+   "67920": "96b3dacd79317c1b1fabd888040118a0d453ccb66c261c142c6c0c2f74f6eec6",
+   "33351": "2565711d1c5d31adb0ac2b6f52e1afd25249c3854fb74f68624de9e75ffacd2b",
+   "27830": "fde83212e9aee11c118d318b6eae22f3d8881b49894b0a61e92c6dcd4cf9dade",
+   "24023": "84f7fdafc66b1ceb6c5e01cc15e723a6ac4555e6ed30b0dd39ff6ab2aad110ae",
+   "75597": "8c2229c2304f51755c6d44af815398163c32b854229b6d7340f7ba503a3c2e0c",
+   "64037": "b90d1dcc5450bc9331c5d36e9803e5dbf72fa6479bd45550ad450fe5158f5ece",
+   "36153": "acfa0d650c3f2028b1400b8613b5bf342912f7a4c1e9975784514d195c34a98b"
+  }
+ },
+ {
+  "name": "Golouhova: avtobus ne ustavi na postaji",
+  "ids": [
+   76722,
+   75952,
+   74775,
+   73761,
+   65655
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 pet pobud o neustavljanju avtobusa na postaji Golouhova proti nakupovalnemu središču.",
+  "source_candidates": [
+   12
+  ],
+  "reviewed_hashes": {
+   "76722": "53ce25bca85ae2e8ad88e277628ee0f4fc186a66c69d0041b1f8388ffafea120",
+   "75952": "cc51aefdcb60308d17504f61abc6555c700ab501e8f7ca016e94db84b9594660",
+   "74775": "2761b02f131ba03905a630f94967bfafb242bc74f386292e9ff89ad8e1072339",
+   "73761": "853f47bf4142f8b8994ad2d58f55be6d268d15435dad03e17b0de93c4518dfca",
+   "65655": "2bec53556d83c4d82693d9b8e2f34edf0d4a4fc16ba3c844543191b3f8a2867f"
+  }
+ },
+ {
+  "name": "Prenovljena Ižanska: ropotajoči in posedeni pokrovi jaškov",
+  "ids": [
+   80360,
+   80305,
+   75867,
+   74629,
+   78079,
+   77917,
+   71182,
+   82236,
+   78921,
+   78046
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 več pobud o glasnih pokrovih jaškov na novi cesti. MOL odgovarja, da je izvajalec opozorjen; stanovalci poročajo, da hrup ostaja.",
+  "source_candidates": [
+   13,
+   23,
+   27
+  ],
+  "reviewed_hashes": {
+   "80360": "61a1fd119187cf7bdefee08ba79195cde73f7e0a572b92958fb994e2f8adf476",
+   "80305": "aa7dd85b18f571c1faaf3fd150fe9fcbda4c2185e47242ff4e3cc8ea2e6d5b06",
+   "75867": "ae910ef50b83abb996d28aeaeb6119862dba668518c2813c1a02a0aef8573026",
+   "74629": "ec3fadf1927e126c3f9f8128ac721586859e2712fa823c579c0cab4b25e139e5",
+   "78079": "60c7066579cade54a0d8d60adba864da97fba1bef8f56ace57c50e5e706fdf99",
+   "77917": "a4f20b8b51dd26a6755b5bdef3991dd2492fceae08aa334296cb0920c2b33f6d",
+   "71182": "ab3b99e64935c8b231eb16fd9641387ce9e60e55fcf24c4dc67161937232114b",
+   "82236": "b61f2306a3503cdbf42b71b085f3723365e4fcdfbd2900536e226494399251d2",
+   "78921": "734e758e1c5661e63058bfdf95fc2671594f09d7ffd1df70118cf5d3749bc4d2",
+   "78046": "614b6050f7d123081b0273956ed332c11235d25ba92998efb8c9638c672885a1"
+  }
+ },
+ {
+  "name": "Peruzzijeva–Knezov štradon: porušen dvignjen prehod za pešce",
+  "ids": [
+   85812,
+   84931,
+   84726,
+   46640
+  ],
+  "safety_ids": [
+   85812,
+   84931,
+   84726
+  ],
+  "category": "lokalni problem",
+  "review_note": "Po prenovi Peruzzijeve je prehod izginil; tri pobude 2026 prosijo za ponovno postavitev.",
+  "source_candidates": [
+   15
+  ],
+  "reviewed_hashes": {
+   "85812": "8b9fead931658d95ef1dd0489d83eed1a7a3e700b2f06dfedd647e0abc12c47b",
+   "84931": "02434840523ef0df3ca3de27cf2a9bb2de22f0b7b9534ca10d88741a367d986f",
+   "84726": "0f4c44354314681b91fa436eb7c7b4076c3bd89c04ef5d8f50b19c23fce2a9e2",
+   "46640": "010e5db7dbebd948eb0762b881a908111ed2f272fecc7cdc20b072ba24534ad8"
+  }
+ },
+ {
+  "name": "Lorenzova ob železnici: manjkajoč prehod za pešce in kolesarje",
+  "ids": [
+   85159,
+   85154,
+   24135,
+   4878
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2012 se ponavlja zahteva za prehod; 2018 in 2012 MOL zarisa ni načrtoval.",
+  "source_candidates": [
+   16
+  ],
+  "reviewed_hashes": {
+   "85159": "4f8e9ff35547e28476fdcbdeefa7a36911d4afa4f748d2e9da7b2a85d3ce2b9e",
+   "85154": "21396e7515e31309ed5bf1368c77bd9ecf3a364fbc07b037a0960c723bc1fedf",
+   "24135": "865c10bcb261bb7f61b17c1d6d7e5c284219517e73ebf218c52fdfb0bc78d467",
+   "4878": "0604b41f6e0c21ea6719d12f978b234462bdec092c160f6a0207ffbf13e7b699"
+  }
+ },
+ {
+  "name": "Jurčkova in Peruzzijeva: manjkajoča postaja BicikeLJ",
+  "ids": [
+   85294,
+   74919,
+   64223,
+   56845
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se ponavlja prošnja za postajo; MOL navaja, da je širitev ustavljena.",
+  "source_candidates": [
+   17
+  ],
+  "reviewed_hashes": {
+   "85294": "cddafdf64b2a6c9899d484d5ff267551f556e54862ee9d4fccbb43fcb773bfda",
+   "74919": "794bcfb1bd51ab0376e1323bd8f6d603aa0b797ffe640f8a1f317b35d5a41319",
+   "64223": "8b68d9dff370e1dfe4fddad2644763d0786b493ec27fd0cf2578e173299c6595",
+   "56845": "c7e6f53acab860a1f085d3f91d7891a0df860876472259a6cca060eb09f3405a"
+  }
+ },
+ {
+  "name": "Ižanska: semaforji na tipko",
+  "ids": [
+   79886,
+   79580,
+   78884
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Tri zaporedne pobude (2025) istega pobudnika o semaforjih na tipko na prenovljenih križiščih.",
+  "source_candidates": [
+   18
+  ],
+  "reviewed_hashes": {
+   "79886": "d51c8a1e41dbc161af1574cffef5932dfea2ffa515a290b28fda27076b41596d",
+   "79580": "97fc2106479ab1f2e0ca81b152571558d4b323b6ea92f579f3f378b206920136",
+   "78884": "7156830f45d6c8256d916cf740b2b9ef742ee3ce5f69fa7f8ffcb4aba2ddffd1"
+  }
+ },
+ {
+  "name": "Pot ob Galjevcu: zamikanje začetka del",
+  "ids": [
+   78648,
+   71071,
+   70599
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Tri pobude 2024 in 2025 o obljubljenem začetku del na poti; MOL navaja odkup zemljišč.",
+  "source_candidates": [
+   19
+  ],
+  "reviewed_hashes": {
+   "78648": "ab3b46e0fa11198f827fa5d331c407404bd13d0c05c43abe4466e786cb12ebfd",
+   "71071": "ca8047eb85cf10412f36f243fb7f08a9709981354a7d7bdf6f740e25d3ae575d",
+   "70599": "9be2db6f6c69ac0a0a5cb28ac844457a1458515b5b70af2a3a156802fa429b18"
+  }
+ },
+ {
+  "name": "Hladnikova: živa meja na pločniku",
+  "ids": [
+   81588,
+   14660,
+   9250
+  ],
+  "safety_ids": [
+   81588
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2014 se ponavlja ista živa meja, ki zožuje pločnik.",
+  "source_candidates": [
+   20
+  ],
+  "reviewed_hashes": {
+   "81588": "0321059556a6bade161b784bcabd7dd9fe321ea5bb0c7453e12221fcc955d2ed",
+   "14660": "53751118560c46b9aa8b75be4b95a2e9eb1b05ca04a1f540d6c39198a31d638b",
+   "9250": "dd41bd665f4ba39d293c96988f6c0836fedcb009166fe74a9000b980efb917a2"
+  }
+ },
+ {
+  "name": "Galjevica, Stari Kruhek: manjkajoči količki pri semaforju",
+  "ids": [
+   81932,
+   74523,
+   72327
+  ],
+  "safety_ids": [
+   81932,
+   74523,
+   72327
+  ],
+  "category": "lokalni problem",
+  "review_note": "Tri pobude (2024, 2025, tretjič) za dodatne količke zaradi zavijajočih vozil.",
+  "source_candidates": [
+   21
+  ],
+  "reviewed_hashes": {
+   "81932": "152e894aff2c7fc20a5164db7e6b05b7c060a7f5fdbb7127b11f7766ba5264e9",
+   "74523": "82544be50f3cdb238490c5beb70c00bba16696477bfc07eded447d306547d516",
+   "72327": "653a65d39b287cf50409dc879d1823042a041634806acce9a32a34da7244b074"
+  }
+ },
+ {
+  "name": "Kolesarska pot Viator–Cvetkova: zaraščeno zelenje",
+  "ids": [
+   85895,
+   65004,
+   55850
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se vsako leto ponavlja obrez zelenja na isti kolesarski poti.",
+  "source_candidates": [
+   26
+  ],
+  "reviewed_hashes": {
+   "85895": "2cd0901ecdaf734b32200ff47ee29e47d2de4f3060f9d1507ed05fe945d7b35b",
+   "65004": "7105464741388d0470d0168d96ebe1839d34e75276c48754b495380cd39b03a2",
+   "55850": "84aff2e9d6663f1636c1331b9d40e6563c7c60ed2d99bb755777bcc5d33c68f0"
+  }
+ },
+ {
+  "name": "Ulica Gubčeve brigade: odpadki",
+  "ids": [
+   85847,
+   60762,
+   41030
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 se ponavlja nedovoljeno odlaganje odpadkov in smetišča.",
+  "source_candidates": [
+   30
+  ],
+  "reviewed_hashes": {
+   "85847": "0e8676f13a876a43ac5941fa609d6328a031695dbd7f4728ba0da81973eade81",
+   "60762": "eda5068b936a0f9da454ecb2fd40cf849e32ea332c460cc75f0bd560b3928905",
+   "41030": "a427123d60b1871d3c8f073ccfd02b1df560d7cc6e0e4b27e93992c0ad21aaf5"
+  }
+ }
+]

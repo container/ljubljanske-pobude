@@ -1,0 +1,568 @@
+{
+ "meta": {
+  "district": "moste",
+  "snapshot": "2026-10-12",
+  "cutoff": "2024-10-13",
+  "radius_m": 100,
+  "records": 2507,
+  "seeds": 313,
+  "missing_seed_types": [
+   87156,
+   87061,
+   86983,
+   86952,
+   86942,
+   86923,
+   86899,
+   86875,
+   86867,
+   86865,
+   86837,
+   86804,
+   86759,
+   86733,
+   86701,
+   86671,
+   86665,
+   86658,
+   86572,
+   86538,
+   86537,
+   86536,
+   86517,
+   86516,
+   86481,
+   86477,
+   86428,
+   86375,
+   86289,
+   86207,
+   86181,
+   86166,
+   86161,
+   86160,
+   86023,
+   86014,
+   85988,
+   85978,
+   85960,
+   85954,
+   85952,
+   85940,
+   85838,
+   85793,
+   85783,
+   85593,
+   85551,
+   85550,
+   85486,
+   85485,
+   85484,
+   85449,
+   85441,
+   85417,
+   85393,
+   85392,
+   85364,
+   85283,
+   85242,
+   85198,
+   85156,
+   85145,
+   84972,
+   84930,
+   84929,
+   84922,
+   84855,
+   84854,
+   84769,
+   84765,
+   84723,
+   84657,
+   84647,
+   84611,
+   84604,
+   84453,
+   84406,
+   84385,
+   84381,
+   84272,
+   84168,
+   84151,
+   84137,
+   84099,
+   84032,
+   83975,
+   83917,
+   83914,
+   83694,
+   83659,
+   83635,
+   83553,
+   83539,
+   83530,
+   83513,
+   83509,
+   83436,
+   83413,
+   83409,
+   83406,
+   83388,
+   83359,
+   83356,
+   83288,
+   83268,
+   83224,
+   83208,
+   83185,
+   82934,
+   82913,
+   82893,
+   82881,
+   82753,
+   82616,
+   82552,
+   82550,
+   82549,
+   82539,
+   82475,
+   82434,
+   82429,
+   82422,
+   82417,
+   82400,
+   82377,
+   82358,
+   82292,
+   82114,
+   81995,
+   81980,
+   81979,
+   81976,
+   81949,
+   81848,
+   81846,
+   81811,
+   81775,
+   81773,
+   81772,
+   81771,
+   81742,
+   81670,
+   81631,
+   81627,
+   81511,
+   81457,
+   81442,
+   81416,
+   81414,
+   81381,
+   81339,
+   81322,
+   81292,
+   81255,
+   81214,
+   81166,
+   81032,
+   80993,
+   80992,
+   80780,
+   80768,
+   80712,
+   80578,
+   80367,
+   80334,
+   80328,
+   80180,
+   80163,
+   80106,
+   80098,
+   80066,
+   80064,
+   80016,
+   79999,
+   79987,
+   79914,
+   79825,
+   79784,
+   79726,
+   79712,
+   79698,
+   79664,
+   79642,
+   79640,
+   79608,
+   79603,
+   79561,
+   79516,
+   79397,
+   79370,
+   79333,
+   79271,
+   79202,
+   79200,
+   79134,
+   78913,
+   78863,
+   78703,
+   78675,
+   78642,
+   78620,
+   78598,
+   78555,
+   78502,
+   78501,
+   78492,
+   78480,
+   78459,
+   78367,
+   78329,
+   78293,
+   78234,
+   78224,
+   78131,
+   78056,
+   78021,
+   77959,
+   77949,
+   77939,
+   77789,
+   77788,
+   77726,
+   77724,
+   77636,
+   77630,
+   77629,
+   77626,
+   77590,
+   77572,
+   77563,
+   77561,
+   77558,
+   77488,
+   77481,
+   77480,
+   77399,
+   77380,
+   77325,
+   77313,
+   77272,
+   77248,
+   77247,
+   77245,
+   77231,
+   77229,
+   77202,
+   77127,
+   76986,
+   76869,
+   76827,
+   76684,
+   76681,
+   76666,
+   76663,
+   76649,
+   76646,
+   76549,
+   76546,
+   76527,
+   76501,
+   76483,
+   76467,
+   76409,
+   76406,
+   76358,
+   76351,
+   76348,
+   76328,
+   76308,
+   76228,
+   76219,
+   76218,
+   76212,
+   76207,
+   76206,
+   76163,
+   76100,
+   76030,
+   76028,
+   76025,
+   75829,
+   75797,
+   75786,
+   75785,
+   75784,
+   75783,
+   75778,
+   75751,
+   75706,
+   75702,
+   75690,
+   75688,
+   75669,
+   75613,
+   75605,
+   75534,
+   75507,
+   75493,
+   75452,
+   75451,
+   75426,
+   75413,
+   75409,
+   75327,
+   75322,
+   75321,
+   75320,
+   75308,
+   75286,
+   75225,
+   75224,
+   75183,
+   75182
+  ],
+  "spatial_pairs": 13135,
+  "strong_pairs": 181,
+  "candidate_groups": 31,
+  "ranking": "stemmed title + full initiative TF-IDF cosine; candidate discovery only",
+  "notice": "Prvi ročno pregledani izbor za Moste (nedavne pobude od 13. 10. 2024). Ne gre za popoln seznam težav; šibkejše povezave ostajajo za nadaljnji pregled.",
+  "stage": "pilot",
+  "reviewed_candidates": 31,
+  "accepted_clusters": 22,
+  "accepted_reports": 127
+ },
+ "decisions": [
+  {
+   "candidate": 1,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Rusjanov trg: zapuščena vozila na parkirišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 2,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zaloška–Pokopališka: zelena puščica za desni zavoj in manjkajoča razvrstilna tabla"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 3,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Chengdujska cesta: zapuščena in karambolirana vozila na parkirišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 4,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Preglov trg 3 in 4: dotrajano otroško igrišče in peš pot"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 5,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Osenjakova 2–6: neregistrirana vozila na parkirišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 6,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Društvena ulica: tovorni kombiji zasedajo parkirna mesta"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 7,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zapuščena vozila na označenem parkirišču (46.0545 N, 14.5510 E)"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 8,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kajuhova proti obvoznici: signalizacija in desni zavoj"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 9,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Tovarniška ulica pod železnico: japonski dresnik in blatna pot"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 10,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Društvena ulica: vozila brez tablic"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 11,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Proletarska–Partizanska: nepregledno križišče, ogledalo"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 12,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Društvena–Partizanska: vozila v križišču pred prehodom za pešce"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 13,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Puterlejeva ulica: parkiranje na obeh straneh ceste"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 14,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Samo dve pobudi o parkiranju pri kopališču Kodeljevo; ostali dve govorita o prenovi in ograji."
+  },
+  {
+   "candidate": 15,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Chengdujska cesta: zapuščena in karambolirana vozila na parkirišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 16,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Vprašanja o lastništvu različnih parkirišč."
+  },
+  {
+   "candidate": 17,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Vprašanja o parkirišču gostišča Portal; nejasna lokacija."
+  },
+  {
+   "candidate": 18,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne okvare javne razsvetljave na Brodarjevem trgu."
+  },
+  {
+   "candidate": 19,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Dve pobudi o igralih; tretja je parkiranje na zelenici."
+  },
+  {
+   "candidate": 20,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Društvena–Partizanska: manjkajoče in zakrito ogledalo za levi izvoz"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 21,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kajuhova–Moškričeva: zarjavel zabojnik na vhodu v Kodeljevo"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 22,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Vprašanja o časovnem okviru gradnje mostu."
+  },
+  {
+   "candidate": 23,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Klimatska naprava na fasadi: kondenz zmrzuje na pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 24,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zaloška: dotrajana protihrupna ograja"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 25,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Pokopališka ulica: hitrost in umirjanje prometa pri križišču Vide Pregarčeve"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 26,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Chengdujska in Fužinski grad: prehitra vožnja, predlog ležečega policaja"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 27,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Park Muste: ograja med igriščem in cesto"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 28,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Potrčeva–Pod ježami: zelena puščica za desni zavoj"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 29,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Teniška igrišča: odlaganje peska na travnik"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 30,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Dve pobudi o odstranjenih igralih; tretja govori o parkiriščih."
+  },
+  {
+   "candidate": 31,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Ena nova pobuda o semaforju; starejši dve sta vprašanji o krožišču."
+  }
+ ]
+}

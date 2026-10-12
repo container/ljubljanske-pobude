@@ -1,597 +1,609 @@
 {
-  "meta": {
-    "district": "siska",
-    "snapshot": "2026-10-09",
-    "cutoff": "2024-10-13",
-    "radius_m": 100,
-    "records": 7331,
-    "seeds": 983,
-    "missing_seed_types": [],
-    "spatial_pairs": 67886,
-    "strong_pairs": 737,
-    "candidate_groups": 88,
-    "ranking": "stemmed title + full initiative TF-IDF cosine; candidate discovery only",
-    "notice": "Prvi ročno pregledani izbor. Ne gre za popoln seznam težav Šiške; neobravnavani kandidati in šibkejše povezave ostajajo za nadaljnji pregled.",
-    "stage": "pilot",
-    "reviewed_candidates": 33,
-    "accepted_clusters": 24,
-    "accepted_reports": 168
+ "meta": {
+  "district": "siska",
+  "snapshot": "2026-10-09",
+  "cutoff": "2024-10-13",
+  "radius_m": 100,
+  "records": 7331,
+  "seeds": 983,
+  "missing_seed_types": [],
+  "spatial_pairs": 67886,
+  "strong_pairs": 737,
+  "candidate_groups": 88,
+  "ranking": "stemmed title + full initiative TF-IDF cosine; candidate discovery only",
+  "notice": "Prvi ročno pregledani izbor. Ne gre za popoln seznam težav Šiške; neobravnavani kandidati in šibkejše povezave ostajajo za nadaljnji pregled.",
+  "stage": "pilot",
+  "reviewed_candidates": 39,
+  "accepted_clusters": 30,
+  "accepted_reports": 207
+ },
+ "decisions": [
+  {
+   "candidate": 1,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Černetova pri pekarni: neprehodna in nevarna šolska pot"
+   ],
+   "reason": ""
   },
-  "decisions": [
-    {
-      "candidate": 1,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Černetova pri pekarni: neprehodna in nevarna šolska pot"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 2,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Vodnikova pri Acapulcu in ŠUS: pločnik brez učinkovite zaščite pred vozili"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 3,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Maurerjeva pri Drenikovi: zaparkiran prehod na šolski poti"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 4,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Različni avtobusi, vozniki in okvare; skupna koordinata je sedež LPP, ne lokacija istega problema."
-    },
-    {
-      "candidate": 5,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Grošljeva pri Bobi baru: ponavljajoče se poškodbe vozišča",
-        "Šišenska 12: globoke luknje na dovozu"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 6,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Podhod pri Kinu Šiška: razpadajoče stopnice"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 7,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Različna zapuščena vozila niso ena lokalna težava; primeri za ločeno sistemsko analizo."
-    },
-    {
-      "candidate": 8,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Pasji park Koseze: poškodovana ograja in vrata"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 9,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Podhod pri Aleji: zaprt in dotrajan prehod čez Celovško"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 10,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Parkiranje, zelenica, odpadki, hladilnik in lastništvo niso ena težava; za pilot izločeno."
-    },
-    {
-      "candidate": 11,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Koseški bajer: ponavljajoče se nepluženje kolesarske povezave"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 12,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "ZD Šiška: parkirišče ne zagotavlja dostopa pacientom"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 13,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Litostrojska–Celovška: zastoji zaradi skupnega pasu naravnost in desno"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 14,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Dva različna problema (invalidsko mesto in intervencijska površina); premalo konkretne identifikacije odseka."
-    },
-    {
-      "candidate": 15,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Litostrojska: zaparkiran pločnik na šolski poti"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 16,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Različna vozila v različnih letih; ne isti predmet in ne infrastrukturna rešitev."
-    },
-    {
-      "candidate": 17,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Obirska–Hotimirova: vozila zakrivajo prehod in preglednost"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 18,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Mostec pri Večni poti: avtomobili na poti za pešce in kolesarje"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 19,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Različna zapuščena vozila."
-    },
-    {
-      "candidate": 20,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Pometanje, bolnišnični uvoz, cona 30 in parkiranje pri domačiji; ne ena težava."
-    },
-    {
-      "candidate": 21,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Celovška 163: blokiran dostop intervencijskih vozil"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 22,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Mazijeva pri OŠ Spodnja Šiška: neuporabno območje Poljubi in odpelji"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 23,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "PST ob Litostrojski: vožnja avtomobilov in parkiranje v drevoredu"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 24,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Podutiška pri prehodu za pešce: neuporabno prometno ogledalo",
-        "Podutiška–Ulica bratov Učakar: nepregleden izvoz pri garažah"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 25,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Različne smeri in različni problemi semaforjev; konkretni problem nevarnega zaporedja za pešce ima v tej skupini le dve objavi."
-    },
-    {
-      "candidate": 26,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Podhod pri Aleji: zaprt in dotrajan prehod čez Celovško",
-        "Celovška–Rakuševa: varnost levega zavoja in režim opozorilne puščice"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 27,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 28,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 29,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 30,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 31,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 32,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 33,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 34,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 35,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 36,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 37,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 38,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 39,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 40,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 41,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 42,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 43,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 44,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 45,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 46,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 47,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 48,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 49,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 50,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 51,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 52,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 53,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 54,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Več križišč in ulic cone 30; pred objavo potrebno potrditi, da novejši zapisi zadevajo isti odsek."
-    },
-    {
-      "candidate": 55,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 56,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 57,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 58,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 59,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 60,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 61,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 62,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 63,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 64,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 65,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 66,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Na jami–Derčeva in Na jami–Celovška nista samodejno isti manjkajoči količek; potrebna potrditev pred združitvijo."
-    },
-    {
-      "candidate": 67,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 68,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 69,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 70,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Scopolijeva–Sternenova: pešci in šolarji prisiljeni na vozišče"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 71,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 72,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Kolesarska pot ob gradnji Corwin: nesanirana poškodovana povezava"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 73,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 74,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 75,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 76,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 77,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 78,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Večna pot pri bajerju: manjkajoč varen prehod za pešce"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 79,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 80,
-      "status": "reviewed_selection",
-      "selected_groups": [
-        "Zatišje: manjkajoč pločnik med Adamičevo in Kavadarsko"
-      ],
-      "reason": ""
-    },
-    {
-      "candidate": 81,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 82,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 83,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 84,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 85,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 86,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 87,
-      "status": "not_reviewed",
-      "selected_groups": [],
-      "reason": ""
-    },
-    {
-      "candidate": 88,
-      "status": "reviewed_excluded_or_pending",
-      "selected_groups": [],
-      "reason": "Luknja pri vrtcu ni ista težava kot manjkajoč pločnik; različni opisi odsekov. Izločeno."
-    }
-  ]
+  {
+   "candidate": 2,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Vodnikova pri Acapulcu in ŠUS: pločnik brez učinkovite zaščite pred vozili"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 3,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Maurerjeva pri Drenikovi: zaparkiran prehod na šolski poti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 4,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različni avtobusi, vozniki in okvare; skupna koordinata je sedež LPP, ne lokacija istega problema."
+  },
+  {
+   "candidate": 5,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Grošljeva pri Bobi baru: ponavljajoče se poškodbe vozišča",
+    "Šišenska 12: globoke luknje na dovozu"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 6,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podhod pri Kinu Šiška: razpadajoče stopnice"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 7,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Ob Žici: zapuščena vozila na parkirišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 8,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Pasji park Koseze: poškodovana ograja in vrata"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 9,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podhod pri Aleji: zaprt in dotrajan prehod čez Celovško"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 10,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Parkiranje, zelenica, odpadki, hladilnik in lastništvo niso ena težava; za pilot izločeno."
+  },
+  {
+   "candidate": 11,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Koseški bajer: ponavljajoče se nepluženje kolesarske povezave"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 12,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "ZD Šiška: parkirišče ne zagotavlja dostopa pacientom"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 13,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Litostrojska–Celovška: zastoji zaradi skupnega pasu naravnost in desno"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 14,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Dva različna problema (invalidsko mesto in intervencijska površina); premalo konkretne identifikacije odseka."
+  },
+  {
+   "candidate": 15,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Litostrojska: zaparkiran pločnik na šolski poti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 16,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zapuščena vozila na označenem parkirišču (46.0704 N, 14.4889 E)"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 17,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Obirska–Hotimirova: vozila zakrivajo prehod in preglednost"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 18,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Mostec pri Večni poti: avtomobili na poti za pešce in kolesarje"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 19,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Milana Majcna in Kavškova ulica: zapuščena vozila"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 20,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Pometanje, bolnišnični uvoz, cona 30 in parkiranje pri domačiji; ne ena težava."
+  },
+  {
+   "candidate": 21,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Celovška 163: blokiran dostop intervencijskih vozil"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 22,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Mazijeva pri OŠ Spodnja Šiška: neuporabno območje Poljubi in odpelji"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 23,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "PST ob Litostrojski: vožnja avtomobilov in parkiranje v drevoredu"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 24,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podutiška pri prehodu za pešce: neuporabno prometno ogledalo",
+    "Podutiška–Ulica bratov Učakar: nepregleden izvoz pri garažah"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 25,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne smeri in različni problemi semaforjev; konkretni problem nevarnega zaporedja za pešce ima v tej skupini le dve objavi."
+  },
+  {
+   "candidate": 26,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podhod pri Aleji: zaprt in dotrajan prehod čez Celovško",
+    "Celovška–Rakuševa: varnost levega zavoja in režim opozorilne puščice"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 27,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 28,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 29,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 30,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 31,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 32,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Šišenska cesta: zapuščeno vozilo na parkirišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 33,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 34,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 35,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 36,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 37,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 38,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 39,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 40,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 41,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 42,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 43,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 44,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 45,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 46,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 47,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 48,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 49,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 50,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 51,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 52,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 53,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Martina Krpana in Šišenska: zapuščena vozila ob blokih"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 54,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Več križišč in ulic cone 30; pred objavo potrebno potrditi, da novejši zapisi zadevajo isti odsek."
+  },
+  {
+   "candidate": 55,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 56,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 57,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 58,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 59,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 60,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 61,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 62,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 63,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 64,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 65,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 66,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Na jami–Derčeva in Na jami–Celovška nista samodejno isti manjkajoči količek; potrebna potrditev pred združitvijo."
+  },
+  {
+   "candidate": 67,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 68,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 69,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zapuščena vozila na označenem parkirišču (46.0753 N, 14.4822 E)"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 70,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Scopolijeva–Sternenova: pešci in šolarji prisiljeni na vozišče"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 71,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 72,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kolesarska pot ob gradnji Corwin: nesanirana poškodovana povezava"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 73,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 74,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 75,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 76,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 77,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 78,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Večna pot pri bajerju: manjkajoč varen prehod za pešce"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 79,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 80,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zatišje: manjkajoč pločnik med Adamičevo in Kavadarsko"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 81,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 82,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 83,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 84,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 85,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 86,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 87,
+   "status": "not_reviewed",
+   "selected_groups": [],
+   "reason": ""
+  },
+  {
+   "candidate": 88,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Luknja pri vrtcu ni ista težava kot manjkajoč pločnik; različni opisi odsekov. Izločeno."
+  }
+ ]
 }

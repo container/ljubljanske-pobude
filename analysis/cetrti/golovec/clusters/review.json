@@ -137,8 +137,8 @@
   "notice": "Prvi ročno pregledani izbor za Golovec (nedavne pobude od 13. 10. 2024). Ne gre za popoln seznam težav; šibkejše povezave ostajajo za nadaljnji pregled.",
   "stage": "pilot",
   "reviewed_candidates": 9,
-  "accepted_clusters": 5,
-  "accepted_reports": 18
+  "accepted_clusters": 7,
+  "accepted_reports": 28
  },
  "decisions": [
   {
@@ -149,9 +149,11 @@
   },
   {
    "candidate": 2,
-   "status": "reviewed_excluded_or_pending",
-   "selected_groups": [],
-   "reason": "Različna zapuščena vozila (različne znamke) na parkirišču ob Pesarski; primer za ločeno sistemsko analizo, ne ena lokalna težava. Dve pobudi (#78328, #79481) govorita o istem vozilu."
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Pesarska cesta: zapuščena vozila na parkirišču"
+   ],
+   "reason": ""
   },
   {
    "candidate": 3,
@@ -201,9 +203,11 @@
   },
   {
    "candidate": 9,
-   "status": "reviewed_excluded_or_pending",
-   "selected_groups": [],
-   "reason": "Različna zapuščena vozila ob Parmski; ni ena lokalna težava."
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Parmska cesta: neregistrirana vozila na parkirišču"
+   ],
+   "reason": ""
   }
  ]
 }

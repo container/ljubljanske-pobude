@@ -28,5 +28,29 @@
   "vrsta": "V6",
   "gotovost": "visoka",
   "opomba": "Predlog enosmerne ceste in dodatnih parkirišč (sprememba režima)."
+ },
+ {
+  "id": 79481,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78328,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77341,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79707,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
  }
 ]

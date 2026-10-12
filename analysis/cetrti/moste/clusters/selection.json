@@ -1,0 +1,568 @@
+[
+ {
+  "name": "Zaloška–Pokopališka: zelena puščica za desni zavoj in manjkajoča razvrstilna tabla",
+  "ids": [
+   83539,
+   83436,
+   83413,
+   81980,
+   81979,
+   73300,
+   73180,
+   65607,
+   48531,
+   48530,
+   20869
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 se ponavljata dva predloga na istem križišču: ponovna namestitev razvrstilne table in dovoljenje za desni zavoj ob rdeči (zelena puščica). MOL je puščico zavračal zaradi pešcev in prometa, leta 2026 napoveduje preučitev predloga.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "83539": "ef99bdcfeade1e0a3e4fbb2266f3cb4500964374ec1f9e26f49864677798df69",
+   "83436": "b56ba2e32092478f18af21a0667d2418e3e884c21c0189fda7684362c5bba3ef",
+   "83413": "7dc461d875b4e2322b1b65c0052a7e2a163e15cb2e86312b507a1ce10aa52274",
+   "81980": "271861c655d0e0c9c9910c58d26d6f9a3e779cca0783bfcda202ecf9230ef036",
+   "81979": "ec9e882f3a3c07c7895432fc5c49e9efc7729b9f3737c3d30e485cf6beabd9a7",
+   "73300": "4fc8d2c0bd9e02ac6ee9e9d97c9373e1764a315d850b36b36b3fba80ac35aaa7",
+   "73180": "7345e28825ef1c27a9ac7c889503f66365b4a8294abae958923ef4c7fe97f022",
+   "65607": "f931189c19ab65982d6454954df974f2ccb465765a9705f03b974e41d3593c47",
+   "48531": "787fb20b617fc5ed05c6c5cba377c76b4ed438c302a4b52e1698bf59bb326db3",
+   "48530": "d7df7b970af9677360417c3da4561233b449a4d0d89436eb52f38571d33f849c",
+   "20869": "01d030075f5789d77aa25d1a5143b72ca47f57b9c9b6cc8f3b8ec4f7ac00482f"
+  }
+ },
+ {
+  "name": "Preglov trg 3 in 4: dotrajano otroško igrišče in peš pot",
+  "ids": [
+   84647,
+   83409,
+   81381,
+   72231,
+   72112,
+   68769,
+   63428,
+   61640,
+   57821
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se ponavljajo pobude za prenovo, vzdrževanje in dopolnitev igral. MOL se sklicuje na postopke določitve pripadajočega zemljišča po ZVEtL in na redno vzdrževanje; večje prenove ni.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "84647": "119795427c300fe6fffb8b688d63d7e8741aae4f45b73ef0720cc72cbd985ff7",
+   "83409": "b78c8ccbdd4cf72e70713b60afeb25ecbfcd62d2aa82e40dcfd1606d32cb6caf",
+   "81381": "c1e79749a356b521f1d052c20285061d1ec60c8061d5e85eb99edf804081363a",
+   "72231": "ba78ea39459d4d797d9fc2d4020cefd09096bc9d5af299732b3d417c473f6a1e",
+   "72112": "7212ded786638e1cec3fa0ab9af2f6f29af5d461c17c16f6cd2cb386d6fc0336",
+   "68769": "386753c50e4bc36974cf1b51f6c0a32f205eed68a99b0061efdf929d605e079d",
+   "63428": "bbf3263636a6fc2053db0964a9ffe8e6873b3b53cf4db7dec288792e93b97093",
+   "61640": "ded3cc601886bb07fdcfd321a0021ffad21c75039bfb26f602fe980920976c26",
+   "57821": "6df6382284093190b41bcba10ceb444fe3a33a0c6c9da416da9ea88d046de85c"
+  }
+ },
+ {
+  "name": "Društvena ulica: tovorni kombiji zasedajo parkirna mesta",
+  "ids": [
+   80016,
+   75613,
+   75605,
+   75327,
+   70460,
+   57908
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se ponavlja zasedanje parkirnih mest in pločnika z velikimi kombiji brez plačane parkirnine. MOL odgovarja z rednim nadzorom, hkrati pa se pristojnost redarstva in JP LPT med odgovori razlikuje.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "80016": "a2948a119b37714413a0975f36bb82c49e89e5325c9f4f413bc91b436ae77635",
+   "75613": "2f6a7a34f0809ba3fffb8ec3478783027df749d4ab2f4c1f63945c1e80ab4b9a",
+   "75605": "445bdaca03153ed5f3b183de3f841081becb25b53fd34105dc3055e3e8b24326",
+   "75327": "f48dfc06d84b99ace1060e63ba890bb4491ae3dcbfa65c722361179ec478b810",
+   "70460": "02d64488cbfe04d0b6017d5e4274727f5d17954fe2de00ec4022f10c121bf9bb",
+   "57908": "73503b55bcbfefd0defbb486bc8827e600dd99dc0f9fbf730242119f86fe5601"
+  }
+ },
+ {
+  "name": "Kajuhova proti obvoznici: signalizacija in desni zavoj",
+  "ids": [
+   76212,
+   76207,
+   76206,
+   69635,
+   69634
+  ],
+  "safety_ids": [
+   69634
+  ],
+  "category": "lokalni problem",
+  "review_note": "Pet pobud (2023, 2024) predlaga spremembo signalizacije, dodatni pas in znak za pogojni desni zavoj. Besedila so si zelo podobna in verjetno so jih poslali isti avtorji; to ni preverjeno. Odgovori MOL so splošni, brez zaveze.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "76212": "6ea12b70c7c1f3c2fd89baaabd4ab3ad3420e8d9dfc3e1c97d93de8b33920227",
+   "76207": "28c10e82487b8a5cb20c15dcf5e396b4329a9c5666feedcb12c0edfbb3c653c3",
+   "76206": "6d157645d10b73d0cf2723310e29bc7b6e2148c0b12280caf604d34f5c8102a6",
+   "69635": "e9870f5fc9cc1daaef0859230ab0d49c970cd2ce263640840c3b5dba2db5815a",
+   "69634": "0a0853af2c156a08e398f915cdc1f0b45f9fb9082ac5300596e61c4729e88af4"
+  }
+ },
+ {
+  "name": "Tovarniška ulica pod železnico: japonski dresnik in blatna pot",
+  "ids": [
+   78502,
+   78501,
+   77572,
+   73368,
+   73070
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 se vsako leto ponavlja zaraščenost poti z japonskim dresnikom in blatna makadamska pot. MOL napotuje na Slovenske železnice za brežino in je enkrat obljubil nasutje; trajne rešitve ni.",
+  "source_candidates": [
+   9
+  ],
+  "reviewed_hashes": {
+   "78502": "c1f0a00028c8c173c7403d699b4ae6b545e829caa96cfd8a2c6aa3a1ecf4de14",
+   "78501": "8c1360f8a51e0c548d930d7251b8fd917703930c516ac730cd07300bf6fff439",
+   "77572": "e8aee915e20a3a373b55a7eecdfd02bf54e493eeb627fc56fb1f74ff57b9d614",
+   "73368": "320b1995ff68fd02729ab0e8c63004a27881cf668565fbcd906fe7641d11c9d2",
+   "73070": "62876cc6e9630ef6690aca8e0d545484eac680351356ff3dc30029997753f0d4"
+  }
+ },
+ {
+  "name": "Proletarska–Partizanska: nepregledno križišče, ogledalo",
+  "ids": [
+   82377,
+   81775,
+   50337,
+   28649,
+   16018
+  ],
+  "safety_ids": [
+   82377,
+   81775,
+   16018
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2016 se ponavlja zahteva za ogledalo zaradi hiše ob križišču. MOL je leta 2016 odgovoril, da ogledalo ni potrebno zaradi prednostne ceste, leta 2025 postavitve ne načrtuje.",
+  "source_candidates": [
+   11
+  ],
+  "reviewed_hashes": {
+   "82377": "3d738fdcb67aadfcb99b27d1161e49885682cb763b7d9b39cbc26319d86716dc",
+   "81775": "e261c65f5d91be6e0c559f0234e8d68386febbf87f74dfc38365ab5848fb559f",
+   "50337": "c3625b127c3ffd8f653055a953867ae97857793e10e36c603a035541cd947291",
+   "28649": "ddb42c03fa8a4b28c1991a081ec8db692dfef9d664a573b5191b15fbc0312b35",
+   "16018": "cc9c21cd0829fac5d2e29fdecdd1898ba6cc0ea3b9efba0b60a25da5c67bc4bd"
+  }
+ },
+ {
+  "name": "Društvena–Partizanska: vozila v križišču pred prehodom za pešce",
+  "ids": [
+   87061,
+   86733,
+   86658,
+   60077
+  ],
+  "safety_ids": [
+   86658
+  ],
+  "category": "lokalni problem",
+  "review_note": "Tri novejše pobude (2026) opisujejo isto vozilo pred prehodom, ki ga je lastnik po odstranitvi ponovno parkiral; pobuda iz 2023 je drug primer na istem križišču. Redarstvo odgovarja z nadzorom v okviru kadrovskih zmožnosti.",
+  "source_candidates": [
+   12
+  ],
+  "reviewed_hashes": {
+   "87061": "6ea45e9a44c805147f0f701fde30506bb90baa90f3b2c6e01a67714d41e4ceb7",
+   "86733": "a51fb458568b54e7fcb890d91de96110188011ddd75fbb319494d510b408bfc1",
+   "86658": "8604ade442556079e53e8c752017ef681dbd09e96bf97d78e052a7d3a65b4a82",
+   "60077": "30e1c575fc89162ac1b7186b119866f47800a962fd565a623247b58e6a3baa9c"
+  }
+ },
+ {
+  "name": "Puterlejeva ulica: parkiranje na obeh straneh ceste",
+  "ids": [
+   75225,
+   75224,
+   72898,
+   50147
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 prebivalci opisujejo parkiranje na obeh straneh, kjer se avto komaj prebije. Redarstvo ne zazna kršitev, ker je parkiranje po signalizaciji dovoljeno; to je vprašanje ureditve ulice, ne nadzora.",
+  "source_candidates": [
+   13
+  ],
+  "reviewed_hashes": {
+   "75225": "806edf560c76cb90f439fc0101b4c24253c874f1958239b1742d961940998913",
+   "75224": "52335356ace0a643a22886f7dcbb80d3c3cdd53f77a02e22c16aa1cc7fa6b00d",
+   "72898": "983ac198d30c2215a0f97e3241a99e8720b75787084a6867d7aa7f067db77b83",
+   "50147": "f1f790a59b90fd42f75abb80fe1a04aed9436d8197c36eb62fad80b77cddaa76"
+  }
+ },
+ {
+  "name": "Društvena–Partizanska: manjkajoče in zakrito ogledalo za levi izvoz",
+  "ids": [
+   86671,
+   85486,
+   70191
+  ],
+  "safety_ids": [
+   86671,
+   85486,
+   70191
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 se ponavlja, da ogledalo pokriva samo desno stran, leva je zaradi hiše in žive meje nepregledna. MOL leta 2026 napoveduje pregled na terenu.",
+  "source_candidates": [
+   20
+  ],
+  "reviewed_hashes": {
+   "86671": "7dadf78577535c0a5f41a2305d746d574a298754785222a63de363429c53aa76",
+   "85486": "d52aab923fd67d73b92820580f84f461b0655ae35f38b8c4501fa0bf32c50e6d",
+   "70191": "dfcc9f7061e6725060ef1526378af0262f3fd03d5cbf26df25c1b3af429f0cb5"
+  }
+ },
+ {
+  "name": "Kajuhova–Moškričeva: zarjavel zabojnik na vhodu v Kodeljevo",
+  "ids": [
+   84723,
+   83208,
+   73068
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 (po besedilu že desetletje) isti zarjavel zabojnik na zasebnem zemljišču; vse tri prijave obravnava inšpektorat v postopku, odprave ni.",
+  "source_candidates": [
+   21
+  ],
+  "reviewed_hashes": {
+   "84723": "38221decab5ef30c5e31d3654177320d57db777de233b80f8a6aaa8156ec5765",
+   "83208": "74e77465a76f2a8fe9ff079d6951860d3e7d29567aae927fdfd4516210c07e5a",
+   "73068": "a77fbb02e490c5a47f21fdf2bdb6572726d8fc472a1f7ae855c29e7efa13667c"
+  }
+ },
+ {
+  "name": "Klimatska naprava na fasadi: kondenz zmrzuje na pločniku",
+  "ids": [
+   77563,
+   76869,
+   70515
+  ],
+  "safety_ids": [
+   76869
+  ],
+  "category": "lokalni problem",
+  "review_note": "Tri pobude (2024, 2025) o ledu na pločniku zaradi kapljanja kondenza. Inšpekcijski postopek teče; pri #76869 je starejši pešec spodrsnil.",
+  "source_candidates": [
+   23
+  ],
+  "reviewed_hashes": {
+   "77563": "0e19f24443ef0054423b66aa87418172620ed10f2fdd69fe7b7a3959c40556a7",
+   "76869": "6440be3ad714c6caf44a22326610cfa29268e067341b9f3c07a0ed5b35d4d560",
+   "70515": "e4e037f7ef198f9d480e26799f69940adb5dcb372368a80e6e81f342bca04416"
+  }
+ },
+ {
+  "name": "Zaloška: dotrajana protihrupna ograja",
+  "ids": [
+   75786,
+   24690,
+   18281
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2010 (omenja se v pobudah 2017, 2018, 2024) si MOL in DARS prelagata odgovornost. DARS je svoj del obnovil, MOL leta 2024 še preučuje zasnove in možnosti obnove.",
+  "source_candidates": [
+   24
+  ],
+  "reviewed_hashes": {
+   "75786": "3c63a367b364dead0afceee5242cb9a7feb052632d7fc05f3894ec5e9dd14472",
+   "24690": "2858ad084c2a51fdaf46728e6cae478d5d3be6aa9ccd7000d57d57334f4d7266",
+   "18281": "d00b8edf977def419411dc6d47f6dcae4efc6f905aa7cf4341ef842a6ebde171"
+  }
+ },
+ {
+  "name": "Pokopališka ulica: hitrost in umirjanje prometa pri križišču Vide Pregarčeve",
+  "ids": [
+   76649,
+   40304,
+   15786
+  ],
+  "safety_ids": [
+   76649,
+   40304,
+   15786
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2016 se ponavljajo predlogi za ležeče policaje, dvignjen prehod in omejitev hitrosti. MOL ukrepov ni uvedel; pri #40304 navaja, da dvignjen prehod ni na seznamu del.",
+  "source_candidates": [
+   25
+  ],
+  "reviewed_hashes": {
+   "76649": "eaa96c19cd8196220f3361c5e9f506051ee231a0f47d1107967d72663f1f015c",
+   "40304": "4ebf19019e3ec2ac8f04e07974618d2b7ee5c988b6dc7dbe282b8327a7aa08c6",
+   "15786": "c5493f0453bca9009e15280bfe5975aea9175aa1321ada69cba789465aaf46cf"
+  }
+ },
+ {
+  "name": "Chengdujska in Fužinski grad: prehitra vožnja, predlog ležečega policaja",
+  "ids": [
+   84929,
+   75321,
+   55406
+  ],
+  "safety_ids": [
+   84929,
+   75321
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se ponavljajo predlogi za umirjanje prometa pri križišču. MOL leta 2026 grbine ne načrtuje. Lokacije so v okolici 31 m.",
+  "source_candidates": [
+   26
+  ],
+  "reviewed_hashes": {
+   "84929": "2ad0baca72d9ed9f298091928c3d64da11922953e0a5047bd7b2d5ce4a5d152a",
+   "75321": "8ea0aa3449e9ad4fed62c6c97b5cdcb7358b057519450e85c56a4a2c855e60d5",
+   "55406": "11614f95b73ea9a8a3deea46d589f16d1cdf88fc7eb0263b86cf116778dbfe2b"
+  }
+ },
+ {
+  "name": "Park Muste: ograja med igriščem in cesto",
+  "ids": [
+   81631,
+   68951,
+   65156
+  ],
+  "safety_ids": [
+   81631,
+   68951,
+   65156
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 se trikrat ponavlja zahteva za ograjo zaradi varnosti otrok ob cesti. MOL odgovarja, da ograja ni predvidena in da povečanega prometa ni.",
+  "source_candidates": [
+   27
+  ],
+  "reviewed_hashes": {
+   "81631": "7a2a69702cfb58601d1f546e465d0912ea369fe5493aacdc0c73c77349473a9e",
+   "68951": "827adce649b6ff6cdb539df0962bbb3b9aaa01b4f5a6a7ac6a3a659be1da9537",
+   "65156": "ae6da525e48de20b7d5385af75c0ad19c9cedd785132092a87d85e5e7908e4aa"
+  }
+ },
+ {
+  "name": "Potrčeva–Pod ježami: zelena puščica za desni zavoj",
+  "ids": [
+   82539,
+   77325,
+   71881
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 se ponavlja predlog; MOL ga zavrača zaradi omejene preglednosti, pobudnik pa navaja anketo o vidljivosti. Leta 2025 MOL ostaja pri zavrnitvi.",
+  "source_candidates": [
+   28
+  ],
+  "reviewed_hashes": {
+   "82539": "d42f381a67285acc187fb86bf3f892e0914fa99df03532914871df3c38cfd503",
+   "77325": "3e574595fb9c18c8f6482a826a2195bf48e039265142dac6db0d1825facd8578",
+   "71881": "5cd8d9337791e3589fa3f00cf6dbd3da37a6f4f491d340f4076cd36d39438022"
+  }
+ },
+ {
+  "name": "Teniška igrišča: odlaganje peska na travnik",
+  "ids": [
+   84406,
+   84272,
+   51998
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se ponavlja odlaganje teniškega peska ob drevesu; leta 2022 ga je najemnik odstranil, leta 2026 se ponavlja in se obravnava v inšpekcijskem postopku.",
+  "source_candidates": [
+   29
+  ],
+  "reviewed_hashes": {
+   "84406": "5b484823fea67b4c9b82001b49d754d75d5d1d93f10e1ae6624b4516f98a7b63",
+   "84272": "b9afdfc90e0655df4f894a5178229f0f94e18eb66873e67f64e5deb1b787536d",
+   "51998": "4ad06acdd5793dc9931d877a3f1afe6986984b1a60006ce32f7a4ed8d7e6e4b4"
+  }
+ },
+ {
+  "name": "Rusjanov trg: zapuščena vozila na parkirišču",
+  "ids": [
+   86572,
+   83406,
+   76527,
+   69933,
+   69413,
+   64776,
+   64769,
+   44301,
+   43611,
+   42780,
+   38223,
+   32894,
+   29223,
+   29097,
+   26705,
+   22908,
+   19779,
+   17370,
+   3078
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2011 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (19 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "86572": "d3c0a2a7e377c22a20c758eabca5123074d521f1470284943e800fe18d94072d",
+   "83406": "3d39e941df1956acdc3bae00699b9a25c76dacd13f0c0f796ad0d36fe30d6cec",
+   "76527": "48cc2b8f58f2aac5350ca3eba42b12b3432186e3a8e0c2602d6635a273023e69",
+   "69933": "a04f1f874dc614e59299128a60493559b34dccce639bc8d929b1f7ccfd0f245c",
+   "69413": "56f402a2490dc6b7929dc8452864e2a1e57507310527f6b10b7ed015a10f15e1",
+   "64776": "6ea41ba866843cfe92f09c985af7dce34e777a547234a10bc3771b66e0b7a4ff",
+   "64769": "aa0c88ddfb0b95e99fea12520f2ab84252b47399b4f12df3e16d9f9a0c636f39",
+   "44301": "2f542c142f6de0940bded15e73a76311ec9f17edbfc373428c1388486fab824a",
+   "43611": "39dfbc69798060cb39acbba577eccdb4f07cb681ba035077777a8c200da174dd",
+   "42780": "ef4c2c7c3d321f9382fa410fe991f324ddb00bdb32925e694e1aa099a55dca00",
+   "38223": "b7bacb14d7f5cb612e0d433d85000e39dd42257fb8df6b4a23e901bc420972ac",
+   "32894": "37c0c0bad2f8a09620c0cb7a4d6a8998bc3f118521b716110252a67f7c94d1dd",
+   "29223": "8bce83a351ea2f4d46d0165629ba2614ed04a4f035c91fd33af6065725344706",
+   "29097": "36c2302e2aa854016e3b2982f3de4012624bc96d181b65e17fc40d153e494366",
+   "26705": "75dc19c8515159bd50f01594769ee5b07175ebda97adbb34d1fcf2f4b0520979",
+   "22908": "5c5a02a1a2f1cd2b082ac2fb413144db552788edc8b50d1991dbfa1148dab686",
+   "19779": "7da4dfd9cdae6d9c2867da8c430658a8fe060645034bf3e32418679b0dbf291f",
+   "17370": "b59b79925494e2a9f944955d6067764bc641639d5173caf685d2a6ee897a94b6",
+   "3078": "d2a37d1e4751613cf8db21009f81951d547faf50b0831abcdda9064442506b31"
+  }
+ },
+ {
+  "name": "Chengdujska cesta: zapuščena in karambolirana vozila na parkirišču",
+  "ids": [
+   82549,
+   79640,
+   79202,
+   78620,
+   78224,
+   68634,
+   60367,
+   52385,
+   50707,
+   47263,
+   6886,
+   83288,
+   74740,
+   73767
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2013 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (14 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   3,
+   15
+  ],
+  "reviewed_hashes": {
+   "82549": "cc588e3e1999a348f0077fde0bdb69a3e554f55adb048a116bb5630661c91c6c",
+   "79640": "c2a6fd6ce35194bce83cdcc3a65dbf0cf9c6c35e92cbf0227b3667011f7cdbf2",
+   "79202": "5e06fd6ceac0c67b896a347768887ae9f8adbbe5c9da6c025c3d9ee97772b513",
+   "78620": "1716a6a59eb43ba4edd6dd7799a4bd5c51389d0f09a27609e78af0c90ee64403",
+   "78224": "7f17d939804bc3fdf167f6ac5d14d48c0069bda2a39e83bf3039297887ac3165",
+   "68634": "78aa8bc001a355f7e7ad33e3850705714e611190ee6ee7a029849614610aa2a9",
+   "60367": "a64a2a6304763171a3b423ee763f668d0797cd14796d69818cc5d8f246839a91",
+   "52385": "f935c9c3c649460e713d5e7caaadbd2b05ef86f92224880c5766ef67bb0e6e6f",
+   "50707": "8b20d2dc228bc606f3e0822e15ffd9f0336a9cf5d5055ef796e5e5736408f733",
+   "47263": "22cf56f363f9fe8d4f5070c6fcb413b4e3bd27df7190ad9bd8425f2565211715",
+   "6886": "673ccee08b767a6556f02f7b29d5d10a3f1abbeec22667906c80fab0a27052dd",
+   "83288": "3cf1ea7f2f7c429d41aaac446dc1e7cfa17d651cbb767525c1b002052a424dd7",
+   "74740": "8c1fd4d4f4d64636ca9d57d89a2b9394b24e9c34da0baf6f5c506b5e8529345e",
+   "73767": "91924b2c6006177a8e914a887e00487f098ab4f8af411ddbe86027a01f264fa6"
+  }
+ },
+ {
+  "name": "Osenjakova 2–6: neregistrirana vozila na parkirišču",
+  "ids": [
+   79134,
+   78056,
+   42971,
+   38637,
+   22493,
+   20990,
+   19781
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2017 do 2025 ponavljajo prijave neregistriranih ali zapuščenih vozil (7 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "79134": "7d6eb307094532ffc7df8d1d326b283c00470fba5a3ffb55d2244637a14e39dc",
+   "78056": "e15a0aa02ad5a0d31ee07c357714409e5f8ce8127b814a368ef4204635d0aca4",
+   "42971": "0ee545eab07482a2e1518b8ffa93578d00902b80c175e80ddd8e9371bcceec81",
+   "38637": "d46da3f76cd0c788a26384fd74a331ce6abae90328782d7a3f0dc7e7e8a2c63d",
+   "22493": "b9daeb5a642e4e64cbcb8ecc0c5e8774983c061e551fa8db1643f8f87baa4ff3",
+   "20990": "02617a8e37f397173b3c1a42b5aab0c0796f8cdabf8b5e9a3136d333b19ee144",
+   "19781": "797489a32a55291cdd69cfb6e643a4e443ffaee4c8c011c494f590851dd46490"
+  }
+ },
+ {
+  "name": "Zapuščena vozila na označenem parkirišču (46.0545 N, 14.5510 E)",
+  "ids": [
+   79516,
+   67741,
+   61301,
+   26756,
+   26755,
+   21162
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2018 do 2025 ponavljajo prijave neregistriranih ali zapuščenih vozil (6 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   7
+  ],
+  "reviewed_hashes": {
+   "79516": "6cb8aeadfa54552464989f1c358fb8fae878bac6dd55da2c7a1daf60517e4b56",
+   "67741": "2cf9be0f090fa1f4887d785d0aed5519da1cfecf90cc6c7c7f28d4787cc82d16",
+   "61301": "2583ba703f86312dcb3feffc9b8e8de4bf1d7b998e38f05b2b1ed8783df25b1e",
+   "26756": "e449c3762d27db742e0a414f65a371fa6d23d8d71d8779b50c324bb864bebbac",
+   "26755": "a56d5c57bde85f593dc30d6487005967fb92e9764265c624cb0c451ed59cf6f3",
+   "21162": "5d0baad22442ba1075dc144e87bc10ffd6bcddf6781cbaeba019ca28af9afe5d"
+  }
+ },
+ {
+  "name": "Društvena ulica: vozila brez tablic",
+  "ids": [
+   86875,
+   76028,
+   69061,
+   57990,
+   57816
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2022 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (5 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   10
+  ],
+  "reviewed_hashes": {
+   "86875": "86c1ccde52e843dd807a59890d8d28b9e55ea38563fb93977cccf54e93ecfa52",
+   "76028": "0b939078ebce59bf38eb041c5b1d77165410d4085da38953abaf34e12f390c96",
+   "69061": "5d844ee9e86ae7fdf715fc65f838e8b59b7d8fc72b5fb275c1aef360837a338f",
+   "57990": "1d524cb0991ae4aa26e0a678ab7936564346eec20f4e17b8de492f0c9cd10607",
+   "57816": "e28d18e17fe0896a50231e52b8d2134875cc80a68a484ca49b6bbad0eab743ab"
+  }
+ }
+]

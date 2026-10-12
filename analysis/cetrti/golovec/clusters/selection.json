@@ -101,5 +101,51 @@
    "82979": "d0669c4aaa7a53f832551e4496e84ea6fe173a67d2f0c359f130c43e4a530aaf",
    "79032": "d265f07b954040560190310d23c1338486585a687b122961b9ca14519346c58a"
   }
+ },
+ {
+  "name": "Pesarska cesta: zapuščena vozila na parkirišču",
+  "ids": [
+   79481,
+   78328,
+   77341,
+   74512,
+   53077,
+   52015,
+   46664
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2021 do 2025 ponavljajo prijave neregistriranih ali zapuščenih vozil (7 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "79481": "f6e7d842d9922665a97791428513f08f21296661a98c3bacb21a14044ad32857",
+   "78328": "1f24e2a7c38220d0f419667318b89ed70ed761fc0436b7627cb2592f9e858c7b",
+   "77341": "a2c267c41326e767c7d7149b0f2fcdf3470a8bbb7e23b1b960da87e8d24b6ece",
+   "74512": "32a98ce02f14e088c821c0deead75367e591339a1d256cf7e79d61085e53ce5e",
+   "53077": "75968d202d343f2600057003190e726eaa142aab015e01d40b17b82b8f55aa9e",
+   "52015": "7b882a59c459442be6738f5b17ce966c00068c3106179fc7022480e098ec0edc",
+   "46664": "baacfb99c1e02d9978ae2e167270004d4a0d79bed84e6a2af84f4b2bf59fe119"
+  }
+ },
+ {
+  "name": "Parmska cesta: neregistrirana vozila na parkirišču",
+  "ids": [
+   79707,
+   67173,
+   63953
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2023 do 2025 ponavljajo prijave neregistriranih ali zapuščenih vozil (3 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   9
+  ],
+  "reviewed_hashes": {
+   "79707": "bb96fd7e9164805990330471c319227eabcdb8276a160c843f5d7d83162c509f",
+   "67173": "50f29103847a26989abdb81223e633e55c5d2e2931e4c5c0da8084c9b6e3a991",
+   "63953": "480c567ea7f487f8f57c782ae751b8202a64dc651e52ae60e64c9946a288bbe9"
+  }
  }
 ]

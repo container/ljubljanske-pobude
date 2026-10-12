@@ -1,10 +1,10 @@
 {
- "vse_zamujeno_pct": 59,
- "vse_z_rokom": 880,
- "vse_mediana": 13.0,
- "skupaj": 897,
- "odgovorjenih": 880,
- "od": "2023-10-12",
+ "vse_zamujeno_pct": 46,
+ "vse_z_rokom": 1996,
+ "vse_mediana": 7,
+ "skupaj": 2774,
+ "odgovorjenih": 2757,
+ "od": "2009-01-24",
  "do": "2026-10-11",
  "od3": "2023-10-12",
  "od1": "2025-10-12",
@@ -23,122 +23,122 @@
   },
   {
    "leto": 2009,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 11,
+   "odgovorjenih": 11,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 3
   },
   {
    "leto": 2010,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 53,
+   "odgovorjenih": 53,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 4
   },
   {
    "leto": 2011,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 34,
+   "odgovorjenih": 34,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 2.0
   },
   {
    "leto": 2012,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 32,
+   "odgovorjenih": 32,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 4.0
   },
   {
    "leto": 2013,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 60,
+   "odgovorjenih": 60,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 4.5
   },
   {
    "leto": 2014,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 91,
+   "odgovorjenih": 91,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 4
   },
   {
    "leto": 2015,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 108,
+   "odgovorjenih": 108,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 6.0
   },
   {
    "leto": 2016,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 148,
+   "odgovorjenih": 148,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 4.0
   },
   {
    "leto": 2017,
-   "n": 0,
-   "odgovorjenih": 0,
+   "n": 136,
+   "odgovorjenih": 136,
    "z_rokom": 0,
    "zamujeno_pct": null,
-   "mediana_dni": null
+   "mediana_dni": 3.0
   },
   {
    "leto": 2018,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 158,
+   "odgovorjenih": 158,
+   "z_rokom": 70,
+   "zamujeno_pct": 41,
+   "mediana_dni": 5.0
   },
   {
    "leto": 2019,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 133,
+   "odgovorjenih": 133,
+   "z_rokom": 133,
+   "zamujeno_pct": 41,
+   "mediana_dni": 7
   },
   {
    "leto": 2020,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 174,
+   "odgovorjenih": 174,
+   "z_rokom": 174,
+   "zamujeno_pct": 48,
+   "mediana_dni": 8.0
   },
   {
    "leto": 2021,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 183,
+   "odgovorjenih": 183,
+   "z_rokom": 183,
+   "zamujeno_pct": 34,
+   "mediana_dni": 6
   },
   {
    "leto": 2022,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 208,
+   "odgovorjenih": 208,
+   "z_rokom": 208,
+   "zamujeno_pct": 28,
+   "mediana_dni": 5.5
   },
   {
    "leto": 2023,
-   "n": 112,
-   "odgovorjenih": 112,
-   "z_rokom": 112,
-   "zamujeno_pct": 44,
+   "n": 460,
+   "odgovorjenih": 460,
+   "z_rokom": 460,
+   "zamujeno_pct": 37,
    "mediana_dni": 7.0
   },
   {
@@ -482,5 +482,16 @@
    "leto12": 0,
    "neodgovorjenih": 0
   }
- ]
+ ],
+ "vs": {
+  "n": 0,
+  "od": "2025-10-12",
+  "stanja": {},
+  "zavrnjeno_pct": null,
+  "brez_zaveze_pct": null,
+  "zaveza_pct": null,
+  "zamujeno_pct": null,
+  "vrste": [],
+  "sluzbe": []
+ }
 }

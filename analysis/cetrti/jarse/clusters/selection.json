@@ -1,0 +1,395 @@
+[
+ {
+  "name": "Letališka cesta: manjkajoča postaja BicikeLJ",
+  "ids": [
+   86825,
+   85846,
+   73389,
+   31510,
+   23297
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 se ponavlja prošnja za postajo na industrijskem območju; MOL navaja, da je širitev sistema vezana na pogodbo.",
+  "source_candidates": [
+   3
+  ],
+  "reviewed_hashes": {
+   "86825": "fbb7ada0989aae7d66f2b47a7db6b717fb4840f23d4576e4be55313689cd0e38",
+   "85846": "b2c100035fa6b09d178e3cd42dc08ac709d76a793b5da40a5570bd63d0a357b0",
+   "73389": "40381ac05e25eaea3da666423ec278d53156262cb3edf394b3a65c11f5a7abb2",
+   "31510": "a85d3368b8fb06a27c1039ec172daefe4d6f6ec1af4d699ee74ae4d750a8c7f6",
+   "23297": "ad3bc17e86dc72ba501f01114db432a71b1a4954309cba23ecff4fcbd551f746"
+  }
+ },
+ {
+  "name": "Flajšmanova–Šmartinska–Pokopališka: počasnejši promet po novi enosmerni ureditvi",
+  "ids": [
+   84188,
+   83755,
+   83742,
+   83153,
+   82518,
+   8153,
+   8109
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od decembra 2025 prebivalci opisujejo zastoje po prenovi in prosijo za spremembo intervala semaforja; podobna prošnja je že iz 2013.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "84188": "9127fc4dec5af9df4c507aaf2318d173708ff071a913c9944e8d289a72c777cb",
+   "83755": "efbaf7c2ae136034e852a93404d9b6e76ff9671d1d83351b8d616155127ad053",
+   "83742": "d3dab8e07008b292d730de93e58d550a1d2ae036ac777c62b1df32e87d96fb67",
+   "83153": "ab3cd0ab4a843e8947b09836b33a956ac78e7def2c53f6d63c7a719e7153b160",
+   "82518": "33ca8a40d5c44109b620bc7d4eba51861f31f413058c30fc909a73ab127350a1",
+   "8153": "19db4b00268ad1e6cb3ff95e2023a83c1073b8e8d30177cec124a212e3d61e28",
+   "8109": "09c3f3aec4769277b4ed3ae27d9f6ec75a8915ae77454fdef5e96d69c84d4018"
+  }
+ },
+ {
+  "name": "Šmartinska 149–153: neočiščena slepa ulica po košnji",
+  "ids": [
+   80750,
+   78671,
+   73643,
+   66769,
+   66698,
+   47166
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 se pet let ponavlja prošnja za pometanje in čiščenje robnika.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "80750": "b19c95132cb3818cbdaa3b7be6563afb89ae70e45da3b99322848351fc4afb9f",
+   "78671": "f70b8fec2174b11f98c8dfb0331778e2a68e507761d78bd270acab0bbf69ba37",
+   "73643": "5bea1e062bf7d1ca482f0ea2a6c0b3d3fd52776c65cf7355afc13d7f044a72a4",
+   "66769": "dc52cb480373a84a2d875a1392ee61db9b25d7b2a4d3147e11b69ceeb790dd26",
+   "66698": "e43d6f097c020ef1410baeb6508ffc22b5c0562f2296dc73523cf327772895d9",
+   "47166": "0c9f700bf34a8db7e13797a231bc7528ed1b0c338caf64b376408eb56d10e090"
+  }
+ },
+ {
+  "name": "Žalsko krožišče: predlogi spremembe signalizacije",
+  "ids": [
+   82935,
+   81441,
+   79689,
+   79604,
+   79257,
+   78996
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Šest pobud (2025, 2026) o spremembi signalizacije; besedila so podobna in verjetno od istega pobudnika, kar ni preverjeno.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "82935": "fa543da7723457cf0b8f8e84b0799707c88d2110d527dd86f723c1aff200757b",
+   "81441": "20d86c1fc059fb260e61f600390b474d92f7e9d01b99b8083b06afe306ba9cd7",
+   "79689": "61304ef7535f2c166f2db838f58acd88ed5c60b11ad8a41f89334ea6f1fe38d0",
+   "79604": "3ac27dc4c6f883dbf46102a374c82efeb3394fc68f4cbede8f61ae1e0a8b789f",
+   "79257": "01bafae0ac8829e5364868ab7d37bac7a45a930e0965d12bfca56b9f3186afff",
+   "78996": "5c32add045b9b3fef0ddb71f2fcd54578994f71dda1ec6fc2cd666d74faa1a03"
+  }
+ },
+ {
+  "name": "Šmartinska cesta 72: ropotajoč pokrov jaška",
+  "ids": [
+   86984,
+   85814,
+   85454,
+   68867,
+   22183
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 se ponavlja hrup pokrovov jaška pri bloku; po sanaciji se je hrup vrnil.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "86984": "0b206c3516ae6a87adbdd0e0fde40eaae76e00e59027a0289ffbdec20d9bbcc3",
+   "85814": "44de354acba7dbda026cce74491e9163a2b0f86fbef4e518326755b9cdc0fe30",
+   "85454": "0c839b46e8a424efe4287f63b05116474aae944c60dd48aa53e4d141658d7744",
+   "68867": "4fcb415bb14f4c9b90cbb508fc64a4be94e420d21c67c177310ca085310fc43f",
+   "22183": "44146621014119e6786a3ee4b91ebe45ceb9e87f598bea33181fb43c49db31d3"
+  }
+ },
+ {
+  "name": "Ulica Hermana Potočnika: otroško igrišče in igrala",
+  "ids": [
+   79842,
+   72122,
+   63338,
+   57098,
+   42166
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 se ponavljajo pobude za popravilo in dopolnitev igral; zamenjava igral je bila večkrat odložena.",
+  "source_candidates": [
+   9
+  ],
+  "reviewed_hashes": {
+   "79842": "baa096a61a94aed4df2b7d5de419a1a36719346f2a9fda77304db31ea279502a",
+   "72122": "92a4db6e549ba0c96c57e9a724c38320185a0fe55656fe00ccd45bc2411b2134",
+   "63338": "cecc8973e17a2618de47d4bea81cc601b9133b26039b828ce8ddd83db04428f3",
+   "57098": "93a280701f054d7cb017508d4f59419e0da4142f093b5e4affe7c53d447163e1",
+   "42166": "a734789f95c6448f6f8c8c402e6fa9ecec84a37d3a85bab0d457002cc00a1aae"
+  }
+ },
+ {
+  "name": "OŠ Nove Jarše: nesanirana pešpot",
+  "ids": [
+   79268,
+   78504,
+   62221
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 se ob dežju ponavlja poškodba pešpoti pred šolo.",
+  "source_candidates": [
+   10
+  ],
+  "reviewed_hashes": {
+   "79268": "3f8fd13f9b6439a74940bd0c35c167a38421758bc2ea6d4d8e9c61928fcba263",
+   "78504": "2b96dfeac066ec88d35520d724ba41487be293739384e39d48074549fad038f2",
+   "62221": "945025501a3612cac2362b78d2748cab94d17d3ad2683505235a8ea8bca1e259"
+  }
+ },
+ {
+  "name": "Clevelandska 23: luknje na cesti in zamašeni odtoki",
+  "ids": [
+   78301,
+   76236,
+   64574
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 se ponavljajo luknje z vodo pred vrtcem in neočiščen odtok.",
+  "source_candidates": [
+   14
+  ],
+  "reviewed_hashes": {
+   "78301": "cab7333bbb52bde761b029f7595a80277523173deffb9b4b7c3ff9ef169fd0a6",
+   "76236": "4b678159c90c2e0d7641d78ed3db601f5430a4cc584db96c596819243a2a2f23",
+   "64574": "84734be28d3cf9fa23847cb335adaf09e08a0dbfaca3d5f3c86eb86dbd7b999a"
+  }
+ },
+ {
+  "name": "Šmartinska–Bratislavska: nepregleden desni zavoj za pešce in kolesarje",
+  "ids": [
+   83588,
+   69225,
+   50145
+  ],
+  "safety_ids": [
+   83588,
+   69225,
+   50145
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 se ponavlja nepreglednost in hitrost avtomobilov pri zavijanju.",
+  "source_candidates": [
+   17
+  ],
+  "reviewed_hashes": {
+   "83588": "9ee4edfd7717b19e224d3866cae463da4ea10d598cfcaf432f4deca47a509311",
+   "69225": "5d777c7b46adeba99c37b76a3556af25eace01e9dcee3d85f532589f1f6e85fc",
+   "50145": "a72f52a651761282829cc6dbf7e907cc0bb6581c88a5a98a62e6e61bf106da0f"
+  }
+ },
+ {
+  "name": "Ropotajoč pokrov kanala ob cesti: hrup ob prehodu vozil",
+  "ids": [
+   86527,
+   25064,
+   19387
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 se ponavlja hrup pokrova kanalizacije; leta 2026 prebivalec poroča, da ne spi.",
+  "source_candidates": [
+   19
+  ],
+  "reviewed_hashes": {
+   "86527": "a25c95d673b2c5b207359861ddc85a24a91444cad063c47f218d6c379f911c09",
+   "25064": "c48cf480daef7f1b8ba2d84865bf61735082a4a4f5d88c16baa2ce6564d71377",
+   "19387": "d695a5f74a18fd8134b56ebf59ab975ca9f7dad0ac54589da09e8d612a6c5b1f"
+  }
+ },
+ {
+  "name": "Clevelandska ulica: neregistrirana vozila na parkirišču",
+  "ids": [
+   86602,
+   86177,
+   86172,
+   85747,
+   85746,
+   85515,
+   85514,
+   85442,
+   85429,
+   85426,
+   84452,
+   84451,
+   84450,
+   83960,
+   81636,
+   81614,
+   81613,
+   81612,
+   81236,
+   81235,
+   79885,
+   79234,
+   79233,
+   78045,
+   78044,
+   77710,
+   77157,
+   77007,
+   77006,
+   76828,
+   76771,
+   74856,
+   74855,
+   74854,
+   74252,
+   74065,
+   74064,
+   74045,
+   74022,
+   74021,
+   74020,
+   67095,
+   66848,
+   66289,
+   65797,
+   62875,
+   62524,
+   62443,
+   62442,
+   62435,
+   62434,
+   62432,
+   30313
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2019 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (53 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "86602": "84aed75994bba2709fd02033c1d78e6712c6787aa4ecf89f231fb50e5d5f66fc",
+   "86177": "ab06209a04ec9b1fb1e20039aa745aa96a3d832af93a7258f2cee3e0445b21bb",
+   "86172": "f7b944742bde725bc7087c490348883a0de0923834e36e4bfa16cfdfb62b6544",
+   "85747": "d8ec2414833dd9164e4d835ef64aef03fb4f0f27537ef9b5f11ac92ef8a61990",
+   "85746": "76626bb148c31cde3eaedf567a3c55dff864a820142c2099c3647c159401c162",
+   "85515": "6bbf04d4c22d7e39932892f4bb9a26e6707bf8d47c884b4ff8af0ad1edb71f03",
+   "85514": "999c265d5e7e25d3d66748f12a7aa4236dedb707b4f759bf2f9a39f558e648ae",
+   "85442": "0f5565ce45313178c1d279096752ef7c9600162d4102ae688ddda3c20ff44fc6",
+   "85429": "9fdf14efc6391a1a9ee829e6526e53a87408c2ee05e852afbd74f46416ca8ff8",
+   "85426": "cdf9d969bab805785530d787ff9cd5ba4e47433031e147790ee25202d59e8ba3",
+   "84452": "06949b946126e3efde03e5a42761df88d07ef1eef0cccbf1ce04ce0f597973d6",
+   "84451": "b8253276f57c55de642fdbedbfaae2c233dbea850cd2779cc6e3c988a8c7ec67",
+   "84450": "eaa0441c33d61eb2be94bcde9190f67f46ff26552e270ed7552f52096daeb750",
+   "83960": "9ce0d41860ed1eb07f3552cc82b51d533ba5d5a45371e31b15dd6db7ff96efee",
+   "81636": "636c22bfd4c8b14bc35eed3cd78a35615f3d5d738ad084c65becfd3c2bd56d34",
+   "81614": "97739f5e3acaa204f6f34e47cc8b4527a8612c053bd1d2cd351f12c6061fc3c3",
+   "81613": "65292bf50189c80dd04a65258b04e4c0ed6c311414e5f72dfaaca6fffb20a998",
+   "81612": "b142b3854ad81efec8b95de7354a3b8c51593c9ed2cb6bb6e6da4175dcce59f9",
+   "81236": "b59edb44d3f88d5902a9814181672f2cadc885d509e262d1db593cd49d777e92",
+   "81235": "b87dc31c43bb07b736ee2eaf8b3072e89264758b2beb5c545893c0a4e465b692",
+   "79885": "71a4d7c7a20e4044920d5a2d570a76cabec9d564138a9904b7773825621382a4",
+   "79234": "beda36d45981ded373eea707e81ab472c8408f67bdf148134bf26f30579163c6",
+   "79233": "8dc83671751225e1fe4007a6263231db1b5610f28a6618f59c5278d8d8c6d71d",
+   "78045": "94d7ec0562ce56f39d13e2d89538faf2cb2d52e331ef4ba0174735b4763626a8",
+   "78044": "a7ac08a7c681e644e8b6a6e9ad3d637df77e26e80bcb890907f2dcb8155338b9",
+   "77710": "44914de2d527b74f45cbbe9b8c3c9bb8bc3f7b6eab72f7b0acd56edb03e680dd",
+   "77157": "082df2a8237f701ff8465b9989b51d83e9d4ee2d93eb7655f904a2154cc69277",
+   "77007": "7142ea6d2c1414dfedd018a9fb79d02f64aa187e23e23e34b06f3337771184e5",
+   "77006": "70031a476696d29d8bb360c3fde5e76e3e6c975459606e766794d972690ba5f8",
+   "76828": "588623779df284586bf113a6ece01ea2b8f4a2e5ca64824a639b02deae4a307d",
+   "76771": "40a91e738fe9641931a6779c9ffc07b52d9b9fe0d6501d479bc4cb5a2ff76c67",
+   "74856": "80ec0a6df535c17e5a7f8fb70358d2eff2c4bd1ab95ba3624d2062e5e71bf6da",
+   "74855": "187e27d37afab51f7c1f653676cfbb834e5c317bc04225a194215da6eac25ae2",
+   "74854": "44f406d79557c15ffef1c0463558d32cd89a3466310212cbabf7853b4d8b224b",
+   "74252": "db0ee21c3a002b927b56d55c036cb08d1b810218804fa3573dde58279715d7b1",
+   "74065": "472cd70b0286ca11886244ea142409e18ee831e4984287db5dd3d1da8bff572c",
+   "74064": "77d45a99a3bbaa27c84ca99f76b980de180ca903e279c7703c6c28bdf5414594",
+   "74045": "6e60330ff79de7edd973cd02c8d5f613339274fbaaa6b08e9762a55bbf9e1041",
+   "74022": "9461b1b175197eb1431e0623eb602c792c2cf6b88862edd00f0c12aa2952b4af",
+   "74021": "2d24e0a35b8ea20de510eff40ffd98917a84a56b90568dd8a000e67ddbf44517",
+   "74020": "5caa1bde5d1f15161ecd183d7d9374c30ee24e2830215ec2e64e4ad4d283b69b",
+   "67095": "f8b3f6bbd4d9c688eacaa702a2c2ab640808711f7726be0488afd29e47588927",
+   "66848": "126022c056c37311d95d0f5fb0f1079f365e1a3be60563fad81004ccb9e9b293",
+   "66289": "952126c501f51756ce6c689a54e02b569a92f601dfd999b42ab29fc8e28f40d6",
+   "65797": "da4ea4dd20d96f40df9353b9f14c2c5eef97a05b620eff93ee59988ab69274f9",
+   "62875": "882e1c52a667cf9666918fb1b41e37b61c9b9562bd5dc9b5933ea72ddb9c8ea2",
+   "62524": "beaa29fb58a78dd6822a27f45371d508dd02ac375d48f78b3fe0d164122e84d1",
+   "62443": "510671b0cbceaee82bd6939f8142ec7648e0dbd7fcc4427240911226d4df7de1",
+   "62442": "40f0baaeddf351bdd935848c1802e217ceb80316b1c9ad24e9c2aaaf390baee5",
+   "62435": "fbedca75ba0a059216a206eb4afd07bafa632dee4cb1477b344ce30992807c0f",
+   "62434": "1f04ce5fd29173bee1cb5471198745622014317ff962125ab9c9d373424bc44a",
+   "62432": "4296424335e6051d0e44a61eeebe9b8a9099e2e2dc0d004a0f1a6369643309fb",
+   "30313": "75a4dee13688f4d925884d3abc4fb9cd84309af2fe2053e31d75edae342ae47c"
+  }
+ },
+ {
+  "name": "Kvedrova 1: zapuščena vozila na parkirišču",
+  "ids": [
+   79560,
+   75027,
+   60281,
+   50550,
+   50024,
+   45182,
+   43904,
+   40668
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2020 do 2025 ponavljajo prijave neregistriranih ali zapuščenih vozil (8 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "79560": "9b45dadf685dfd1b2580426ce60961be3d072a03c4506a59a610fd18b4321c5b",
+   "75027": "07f8feb00e1dbca5dcea69c5228e7aee4930a5f28f96867fc6fbe2dfcca3a6f0",
+   "60281": "fb360d7661ebaff5aba5a08a46ce8e52236d8c0c77e4fbcacdc6fdf85e932789",
+   "50550": "109cb15aaa28db6ba14646600a4ff4efe5721ee3f64b1a14495a418c7c1b0b59",
+   "50024": "6298d8493af012862ef785dd1dfd17a3af8fd92c8f9af9a92be4622ed167518e",
+   "45182": "c374311811df032494e93759a7ac7d73840628564d5ba16cf61056e2a540ae0c",
+   "43904": "93473d91809720e35b56ac13aa796eb7ecd87ed55f788284741cf9f179944a5f",
+   "40668": "1da860f71da6c053abe0be8937c79b137eb50d88ee1e4006b57cedfbdfabc1a7"
+  }
+ },
+ {
+  "name": "Ulica Hermana Potočnika: vozila brez tablic na parkirišču",
+  "ids": [
+   87015,
+   78630,
+   75080
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2024 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (3 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   16
+  ],
+  "reviewed_hashes": {
+   "87015": "dfba4ee6775b87e5d5414ca1fc2e0b06a9028a4818f019582fb339da2e3e05c8",
+   "78630": "9dea4552710424ee40f4d2fd5c18db661faf744ce7bda8e3ec2841fdb21cafb0",
+   "75080": "90aaec021ddd27f1bb4af3d92949b8c13bc0e1fee65116226dfc42136056f2c3"
+  }
+ }
+]

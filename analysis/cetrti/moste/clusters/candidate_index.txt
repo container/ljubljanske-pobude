@@ -1,0 +1,214 @@
+
+GROUP 1: 19 records, 3 recent seeds, 2011-03-24–2026-09-10
+86572* 2026-09-10 Odstranitev zapuščenega vozila
+83406* 2026-02-18 Zapuščeno vozilo
+76527* 2025-01-20 Neregistrirano vozilo
+69933  2024-01-03 Zapuščeno vozilo
+69413  2023-12-09 Zapuščeno vozilo
+64776  2023-07-11 Neregistrirano vozilo
+64769  2023-07-11 Neregistrirano vozilo
+44301  2021-05-26 Zapuščeno vozilo
+43611  2021-05-04 Zapuščeno vozilo, tretjič
+42780  2021-03-31 Zapuščeno vozilo
+38223  2020-08-31 Odstranitev zapuščenega vozila
+32894  2019-11-02 Vozilo MERCEDES  srebrne barve
+29223  2019-06-05 Zapuščeno vozilo 2
+29097  2019-05-30 Zapuščeno vozilo
+26705  2019-02-09 Zapuščeno vozilo
+22908  2018-08-13 Zapuščeno vozilo
+19779  2017-11-08 VOZILA BREZ TABLIC IN PRAZNE PNEVMATIKE
+17370  2017-02-24 Rover - Bordo rdeče barve
+3078  2011-03-24 Zapuščeno vozilo Fiat 
+
+GROUP 2: 11 records, 5 recent seeds, 2018-03-16–2026-02-28
+83539* 2026-02-28 Zelena puščica - prehod čez rdečo luč
+83436* 2026-02-20 Zavijanje desno pri rdeči
+83413* 2026-02-19 Zelena puscica za zavijanje
+81980* 2025-11-17 Namestitev razvrstilen table
+81979* 2025-11-17 Puščica za zavijanje v desno
+73300  2024-06-21 Manjkajoča tabla za razvrščanje
+73180  2024-06-14 Desno ob rdeci luci na pokopaliska-zalos
+65607  2023-08-04 Prometni znaki na križišču
+48531  2021-11-02 Zavijanje desno pri rdeči luči
+48530  2021-11-02 Zavijanje desno pri rdeči luči 1. del
+20869  2018-03-16 Manjkajoča tabla za razvrščanje
+
+GROUP 3: 11 records, 5 recent seeds, 2013-05-16–2025-12-28
+82549* 2025-12-28 Neregistrirani avtomobili
+79640* 2025-07-01 Zapuščen avtomobil
+79202* 2025-06-09 Avtomobilni brez registrskih tablic
+78620* 2025-05-14 Avtomobil brez registrske
+78224* 2025-04-19 Neregistrirani avtomobili
+68634  2023-11-11 Zapuščeni avtomobili
+60367  2023-01-21 Neregistriran avtomobil
+52385  2022-04-07 Neregistriran avtomobil
+50707  2022-02-06 Neregistriran avtomobil
+47263  2021-09-20 Avto brez registrske
+6886  2013-05-16 Neregistrirana vozila
+
+GROUP 4: 9 records, 3 recent seeds, 2022-10-10–2026-05-16
+84647* 2026-05-16 Peš pot 
+83409* 2026-02-18 Smeti na otroškem igrišču 
+81381* 2025-10-10 Otroško igrišče 
+72231  2024-04-21 Otrosko igrisce 
+72112  2024-04-16 Otroško igrišče - zaraščena trava
+68769  2023-11-16 Otroško igrišče
+63428  2023-05-29 Otroško igrišče
+61640  2023-03-20 Otroško igrišče Preglov trg 3
+57821  2022-10-10 Otroško igrišče Fužine (Preglov trg)
+
+GROUP 5: 7 records, 2 recent seeds, 2017-11-08–2025-06-06
+79134* 2025-06-06 Zapuščeni vozili
+78056* 2025-04-10 Vozilo brez registrske oznake
+42971  2021-04-08 Zapuščeno vozilo
+38637  2020-09-14 Zapuščeno vozilo
+22493  2018-07-20 Vozilo brez registrskih oznak
+20990  2018-03-29 Zapuščeno vozilo
+19781  2017-11-08 Zapuščeno vozilo
+
+GROUP 6: 6 records, 4 recent seeds, 2022-10-12–2025-07-25
+80016* 2025-07-25 LPT ne pregleduje več  Društvene ulice
+75613* 2024-11-14 Odgovor na odgovor pobude; 75605
+75605* 2024-11-14 Tovorni kombiji zavzemajo 2 boksa
+75327* 2024-10-27 Velik tovorni bel kombi  ovira 
+70460  2024-01-22 Bel kombi ovira brez plačila 
+57908  2022-10-12 Bel kombi na pločniku brez reg. tablic
+
+GROUP 7: 6 records, 1 recent seeds, 2018-04-15–2025-06-23
+79516* 2025-06-23 Zapuščena vozila
+67741  2023-10-11 Zapuščeno vozilo
+61301  2023-03-07 Odstranitev vozila
+26756  2019-02-12 Zapuščeno vozilo
+26755  2019-02-12 Zapuščeno vozilo
+21162  2018-04-15 Vozilo brez tablic
+
+GROUP 8: 5 records, 3 recent seeds, 2023-12-18–2024-12-25
+76212* 2024-12-25 Ureditev signalizacije
+76207* 2024-12-24 Postavitev znaka
+76206* 2024-12-24 Križišče- signalizacija
+69635  2023-12-18 Dodatni pas
+69634  2023-12-18 Signalizacija
+
+GROUP 9: 5 records, 3 recent seeds, 2024-06-06–2025-05-08
+78502* 2025-05-08 Košnja japonskega dresnika
+78501* 2025-05-08 Košnja brega
+77572* 2025-03-19 Nasutje cestišča
+73368  2024-06-29 Košnja japonskega dresnika
+73070  2024-06-06 Ureditev cestisca
+
+GROUP 10: 5 records, 2 recent seeds, 2022-10-10–2026-09-24
+86875* 2026-09-24 Zapuščen Passat limuzina brez tablic
+76028* 2024-12-07 Prodajani avtomobil ovira brez tablic 
+69061  2023-11-26 Avtomobili brez tablic
+57990  2022-10-17 Golf brez tablic in brez parkirnine
+57816  2022-10-10 Ponovno avtomobil brez tablic na pločnik
+
+GROUP 11: 5 records, 2 recent seeds, 2016-09-22–2025-12-15
+82377* 2025-12-15 Instalacija ogledal
+81775* 2025-11-03 Postavitev ogledala
+50337  2022-01-18 Ogledalo
+28649  2019-05-08 Namestitev ogledala
+16018  2016-09-22 Postavitev ogledala v križišču
+
+GROUP 12: 4 records, 3 recent seeds, 2023-01-11–2026-10-06
+87061* 2026-10-06 Beli Clio znova v križišču
+86733* 2026-09-17 Vozilo še vedno nepravilno parkirano
+86658* 2026-09-15 Nepravilno parkirano vozilo v križišču
+60077  2023-01-11 Vozilo ovira v križišču 
+
+GROUP 13: 4 records, 2 recent seeds, 2022-01-08–2024-10-21
+75225* 2024-10-21 Parkirana vozila na obeh straneh ceste
+75224* 2024-10-21 Parkirana vozila na obeh straneh ceste
+72898  2024-05-28 Zaparkirana ulica
+50147  2022-01-08 Ni prostora za parkiranje na Puterlejevi
+
+GROUP 14: 4 records, 2 recent seeds, 2019-10-08–2026-09-07
+86517* 2026-09-07 Prenova kopališče Kodeljevo
+86516* 2026-09-07 Kopališče Kodeljevo in parkiranje
+68135  2023-10-23 Kopališče Kodeljevo 5.
+32235  2019-10-08 Urejanje okolice kopališča Kodeljevo
+
+GROUP 15: 3 records, 1 recent seeds, 2024-07-28–2026-02-11
+83288* 2026-02-11 Karamboliran avtomobil
+74740  2024-09-24 Karamboliran avtomobil
+73767  2024-07-28 Karamboliran avtomobil
+
+GROUP 16: 3 records, 1 recent seeds, 2014-05-25–2024-12-12
+76100* 2024-12-12 Parkirišče
+67133  2023-09-22 Parkirišče
+9457  2014-05-25 Parkirišče
+
+GROUP 17: 3 records, 2 recent seeds, 2023-07-06–2025-05-19
+78703* 2025-05-19 Parkiranje
+78492* 2025-05-08 VPRAŠANJE - PARKIRANJE
+64635  2023-07-06 Ureditev parkiranja
+
+GROUP 18: 3 records, 1 recent seeds, 2023-11-27–2026-05-28
+84922* 2026-05-28 Javna razsvetljava
+69096  2023-11-27 Zamenjava javne razsvetljave
+69095  2023-11-27 Nedelujoča javna razsvetljava
+
+GROUP 19: 3 records, 3 recent seeds, 2024-11-03–2025-07-23
+79987* 2025-07-23 Igrišče v parku Muste - drugič
+79914* 2025-07-19 Igrišče v parku Muste
+75413* 2024-11-03 Parkiranje na zelenici parka Muste
+
+GROUP 20: 3 records, 2 recent seeds, 2024-01-10–2026-09-15
+86671* 2026-09-15 Ogledalo zakrito, križišče Društvena
+85486* 2026-07-04 Ogledalo Društvena in Partizanska
+70191  2024-01-10 Ogledalo je potrebno tudi za levo stran
+
+GROUP 21: 3 records, 2 recent seeds, 2024-06-06–2026-05-19
+84723* 2026-05-19 Zapuscen zabojnik - vnovic
+83208* 2026-02-07 Zarjavel zabojnik ob vstopu v Kodeljevo
+73068  2024-06-06 Zabojnik
+
+GROUP 22: 3 records, 1 recent seeds, 2022-03-04–2025-11-18
+81995* 2025-11-18 Most čez ljubljanico
+71154  2024-02-26 Doživljajski most
+51386  2022-03-04 Doživljajski most Muste
+
+GROUP 23: 3 records, 2 recent seeds, 2024-01-23–2025-03-19
+77563* 2025-03-19 Kondenz iz klime, zmrzuje na pločniku 
+76869* 2025-02-06 Zmrznjen kondenz klime na pločniku
+70515  2024-01-23 Od klime nastaja drsalnica 
+
+GROUP 24: 3 records, 1 recent seeds, 2017-05-30–2024-11-25
+75786* 2024-11-25 Prenova protihrupne ograje
+24690  2018-10-17 Sanacija protihrupne ograje
+18281  2017-05-30 Protihrupna ograja III.
+
+GROUP 25: 3 records, 1 recent seeds, 2016-08-31–2025-01-23
+76649* 2025-01-23 UMIRITEV PROMETA-LEŽEČI POLICAJ
+40304  2020-11-27 LEŽEČI POLICAJI IN STEBRIČKI NA PLOČNIKU
+15786  2016-08-31 Divjanje po Pokopališki proti Zaloški
+
+GROUP 26: 3 records, 2 recent seeds, 2022-07-22–2026-05-28
+84929* 2026-05-28 Ležeči policaj
+75321* 2024-10-27 Ležeči policaji
+55406  2022-07-22 Ležeči policaji
+
+GROUP 27: 3 records, 1 recent seeds, 2023-07-21–2025-10-24
+81631* 2025-10-24 Park Muste - posatvitev ograje
+68951  2023-11-22 Panelna ograja
+65156  2023-07-21 Park Muste
+
+GROUP 28: 3 records, 2 recent seeds, 2024-04-05–2025-12-24
+82539* 2025-12-24 Zelena puščica za zavijanje desno
+77325* 2025-03-07 Zelena puščica
+71881  2024-04-05 Zelena puščica
+
+GROUP 29: 3 records, 2 recent seeds, 2022-03-25–2026-04-28
+84406* 2026-04-28 Degradacija travnika in drevesa
+84272* 2026-04-20 Teniški pesek na travniku!! Trajni ukrep
+51998  2022-03-25 Ureditev travnika ob teniškem igrišču
+
+GROUP 30: 3 records, 2 recent seeds, 2022-03-17–2026-09-15
+86665* 2026-09-15 Otroško igrišče v Parku Kodeljevo
+79726* 2025-07-07 Obnova fitnesa na prostem, igrišče
+51715  2022-03-17 Ukinitev parkirišč ob parku Kodeljevo??
+
+GROUP 31: 3 records, 1 recent seeds, 2013-01-03–2025-09-22
+81032* 2025-09-22 Delovanje semaforja
+10193  2014-09-08 Križišče Chengdujska - Ulica Nove Fužine
+6100  2013-01-03 Semafor na križišču chengdujske 

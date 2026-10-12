@@ -1,10 +1,10 @@
 {
- "vse_zamujeno_pct": 62,
- "vse_z_rokom": 1224,
- "vse_mediana": 16.0,
- "skupaj": 1254,
- "odgovorjenih": 1224,
- "od": "2023-10-12",
+ "vse_zamujeno_pct": 44,
+ "vse_z_rokom": 2501,
+ "vse_mediana": 7,
+ "skupaj": 2531,
+ "odgovorjenih": 2501,
+ "od": "2021-10-12",
  "do": "2026-10-12",
  "od3": "2023-10-12",
  "od1": "2025-10-12",
@@ -119,27 +119,27 @@
   },
   {
    "leto": 2021,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 168,
+   "odgovorjenih": 168,
+   "z_rokom": 168,
+   "zamujeno_pct": 17,
+   "mediana_dni": 4.0
   },
   {
    "leto": 2022,
-   "n": 0,
-   "odgovorjenih": 0,
-   "z_rokom": 0,
-   "zamujeno_pct": null,
-   "mediana_dni": null
+   "n": 649,
+   "odgovorjenih": 649,
+   "z_rokom": 649,
+   "zamujeno_pct": 25,
+   "mediana_dni": 5
   },
   {
    "leto": 2023,
-   "n": 97,
-   "odgovorjenih": 97,
-   "z_rokom": 97,
-   "zamujeno_pct": 51,
-   "mediana_dni": 8
+   "n": 557,
+   "odgovorjenih": 557,
+   "z_rokom": 557,
+   "zamujeno_pct": 37,
+   "mediana_dni": 6
   },
   {
    "leto": 2024,

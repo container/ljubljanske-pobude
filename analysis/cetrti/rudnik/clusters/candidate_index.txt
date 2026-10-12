@@ -1,0 +1,262 @@
+
+GROUP 1: 66 records, 36 recent seeds, 2018-10-07–2026-09-21
+86814* 2026-09-21 Ilovški štradon divjanje 3
+85904* 2026-08-03 Divjanje še pred prenovo
+85387* 2026-06-29 Ležeči policaji
+85384* 2026-06-29 Ležeči policaji
+85047* 2026-06-04 Dela ilovški štradon
+84505* 2026-05-06 Dela ilovški štradon
+81650* 2025-10-26 Ilovški štradon dela
+80946* 2025-09-18 Prenova ilovškega štradona in norčevanje
+80708* 2025-09-05 Ilovški prenova
+80690* 2025-09-04 Ilovški štradon
+80646* 2025-09-02 Ilovški štradon KDO BO ODGOVARJAL
+80486* 2025-08-25 Zapora Ilovškega štradona norčevanje 
+80417* 2025-08-21 Ilovški štradon prenova norčevanje
+80174* 2025-08-06 Divjanje ilovški, ponovno
+80172* 2025-08-06 Ilovški štradon
+79228* 2025-06-10 Kdaj bo red na ilovškem štradonu
+79227* 2025-06-10 Ilovški štradon prenova marca 2025?
+78460* 2025-05-06 Ilovški štradon
+78402* 2025-05-01 Ilovški štradon
+78034* 2025-04-09 Ilovški štradon norčevanje
+77463* 2025-03-13 Ilovški štradon zavajanje in neodgovarja
+77421* 2025-03-11 KDAJ PRENOVA
+77318* 2025-03-07 Promet na Ilovškem štradonu
+77299* 2025-03-05 Ilovški štradon
+77287* 2025-03-05 Razlog?
+76936* 2025-02-10 Ilovški krater v bankini
+76935* 2025-02-10 Ilovški  bankine odgovornost ?
+76266* 2025-01-02 Ilovški štradon spet
+76064* 2024-12-09 Bankine Ilovški n tič
+76057* 2024-12-09 Ilovški štradon ureditev
+76023* 2024-12-07 Ilovški štradon ureditev
+75810* 2024-11-26 ILOVŠKI ŠTRADON
+75567* 2024-11-12 Neurejena bankine Ilovško so nevarne
+75338* 2024-10-27 Priprave na prenovo Ilovškega štradona
+75337* 2024-10-27 Ilovški štradon pravljice ?
+75137* 2024-10-15 Bankine ilovški štradon še kar nič
+74960  2024-10-04 Divjanje na ulici MILJONTIČ
+74879  2024-09-30 Bankine Ilovški štradon norčevanje ?
+74348  2024-09-02 Bankine Ilovški štradon nujno!
+73677  2024-07-22 Ilovški štradon umiritev prometa
+73575  2024-07-15 Prenova Ilovški štradon
+73136  2024-06-11 Bankine Ilovški štradon
+72967  2024-06-01 Ilovški štradon prenovitev
+72928  2024-05-29 Llovški štradon prenovitev 2
+72694  2024-05-17 Ilovški štradon prenovitev
+71831  2024-04-03 Bankine Ilovški štradon razpadajo
+70609  2024-01-25 Bankine Ilovški štradon
+70137  2024-01-09 Slike bankin ILOVŠKI ŠTRADON 1
+69852  2023-12-27 Bankine Ilovški štradon NORČEVANJE
+69505  2023-12-12 Ilovški štradon ponovno
+69496  2023-12-12 Divjanje pa še na mobitelu!
+69438  2023-12-10 Bankine Ilovški štradon katastrofa
+69042  2023-11-24 Divjanje po Ilovškem štradonu
+68929  2023-11-21 Kdaj prenova Ilovškega štradona
+64925  2023-07-15 Umiritev prometa na Ilovškem štradonu
+64196  2023-06-20 Popravilo bankin Ilovški štradon
+63328  2023-05-25 Obvoz po Ilovškem štradonu
+63052  2023-05-17 Ilovški štradon ležeči policaji ZADNJIČ
+60127  2023-01-12 Ilovški štradon prehitri vozniki
+60126  2023-01-12 Ležeči policaji na Ilovškem štradonu
+60125  2023-01-12 Ležeči policaji na Ilovškem štradonu
+60042  2023-01-09 Bankine Ilovški štradon
+53529  2022-05-19 Postavitev ležečih policajev
+53125  2022-05-07 Namestitev ležečih policajev oz. ovir
+29168  2019-06-03 Kanalizacija -  Ilovški štradon
+24375  2018-10-07 ILOVŠKI štradon kanalizacija in optika
+
+GROUP 2: 10 records, 10 recent seeds, 2025-01-26–2026-04-22
+84307* 2026-04-22 Peruzzijeva, zavijanje desno
+84231* 2026-04-16 Nevarna puščica
+84033* 2026-04-03 Spet zelena puščica
+80399* 2025-08-20 Zelena puščica za desno zavijanje
+78222* 2025-04-18 Odstranitev zelene puščice
+77906* 2025-04-03 Spet skoraj nesreča
+77703* 2025-03-25 Odstranitev puščice
+77471* 2025-03-13 Nevarno križišče
+77210* 2025-02-27 Odstranite puščico!
+76680* 2025-01-26 Odstranitev zelene puščice
+
+GROUP 3: 10 records, 4 recent seeds, 2013-11-26–2026-04-23
+84359* 2026-04-23 Luči na postaji
+82889* 2026-01-20 Luči napostaji
+80100* 2025-07-31 Ižanka, ponovno
+79408* 2025-06-18 Ižanska
+14978  2016-06-07 Ižanska
+14533  2016-04-21 Luči na postajališčih
+13631  2015-12-04 Ižanska cesta
+11890  2015-04-28 Ižanska cesta
+8489  2014-01-08 Ižanska cesta
+8298  2013-11-26 Ižanska cesta
+
+GROUP 4: 8 records, 7 recent seeds, 2016-04-04–2025-04-03
+77893* 2025-04-03 Semafor Jurčkova Peruzzijeva
+77732* 2025-03-26 Neprimeren interval semaforja, 5.
+77674* 2025-03-24 Semafor Jurčkova  peruzzijeva interval
+76874* 2025-02-06 Neprimeren interval semaforja, 4.
+76765* 2025-01-31 Neprimeren interval semaforja, 3.
+76544* 2025-01-21 Neprimeren interval semaforja, 2.
+76437* 2025-01-14 Neprimeren interval semaforja
+14390  2016-04-04 Interval semaforja 5 min in več
+
+GROUP 5: 7 records, 6 recent seeds, 2024-01-06–2025-12-15
+82386* 2025-12-15 Avtobus 27
+81815* 2025-11-05 Avtobus 27
+78285* 2025-04-23 Neustavjanje avtobusa 27 spet
+77209* 2025-02-27 Več voznih redov? Napačna postajališča?
+77090* 2025-02-19 Spet avtobus !!!
+76648* 2025-01-23 Avtobus
+70068  2024-01-06 Avtobus ni ustavil
+
+GROUP 6: 7 records, 2 recent seeds, 2021-10-12–2025-05-27
+78882* 2025-05-27 Ureditev poti in prehoda za pešce
+75872* 2024-11-29 Postavitev znaka za prehod za pešce
+65443  2023-07-31 Prehod za pešce
+57636  2022-10-03 Prehod za pešce
+55959  2022-08-09 Prehod za pešce
+49511  2021-12-07 Prehod za pešce
+47911  2021-10-12 Prehod za pešce
+
+GROUP 7: 6 records, 6 recent seeds, 2024-12-08–2025-09-09
+80770* 2025-09-09 Postavitev ogledala
+79576* 2025-06-26 Varnostno ogledalo
+76104* 2024-12-12 Nevaren odsek, nevarnost naleta
+76102* 2024-12-12 Nevarni odsek
+76059* 2024-12-09 Nevaren odsek
+76031* 2024-12-08 Nevaren odsek
+
+GROUP 8: 6 records, 3 recent seeds, 2015-12-02–2024-12-08
+76035* 2024-12-08 Stara postaja LPP je bila bolj prijazna
+76034* 2024-12-08 Laganje o nadstrešnicah Ižanka
+75895* 2024-12-01 Nova Ižanka, zakaj ni nadstrešnice LPP ?
+72704  2024-05-19 Ižanka nadstrešnice postaje LPP ?
+19174  2017-09-06 Oznaka postaje LPP
+13618  2015-12-02 Postajališče LPP Ižanska cesta 2
+
+GROUP 9: 6 records, 3 recent seeds, 2023-12-08–2024-11-15
+75634* 2024-11-15 Podatki o nadzorih
+75176* 2024-10-17 Vožnje čez rdečo - nadzor???
+75175* 2024-10-17 Nadzori na Ilovškem štradonu
+69504  2023-12-12 Ilovški štradon nadzor 2.
+69394  2023-12-08 Ilovški štradon nadzor
+69393  2023-12-08 Podatki o opravljenem nadzoru
+
+GROUP 10: 6 records, 6 recent seeds, 2025-01-22–2026-06-23
+85320* 2026-06-23 Bus ni ustavil spet
+85319* 2026-06-23 Avtobus mimo
+82101* 2025-11-25 Avtobus
+80707* 2025-09-05 Spet avtobus
+78284* 2025-04-23 Avtobus mi ni ustsavil
+76583* 2025-01-22 Avtobus 19
+
+GROUP 11: 6 records, 1 recent seeds, 2018-09-24–2025-07-07
+79740* 2025-07-07 Semafor
+74857  2024-09-30 Semafor na Ižanski
+67920  2023-10-17 Semafor
+33351  2019-11-20 Semafor
+27830  2019-03-29 Semaforizacija
+24023  2018-09-24 Semafor
+
+GROUP 12: 5 records, 2 recent seeds, 2023-08-07–2025-01-28
+76722* 2025-01-28 Oh, ta Golouhova!
+75952* 2024-12-03 Neustavljanje avtobusa
+74775  2024-09-25 Neustavljanje avtobusa
+73761  2024-07-27 Avtobus 27 ni ustavil
+65655  2023-08-07 Avtobus ni ustavil
+
+GROUP 13: 4 records, 3 recent seeds, 2024-09-17–2025-08-19
+80360* 2025-08-19 Ropotajoč Cestni pokrov
+80305* 2025-08-13 Ropot cestnega pokrova
+75867* 2024-11-29 Ropotajoč pokrov
+74629  2024-09-17 Cestni pokrivi na prenovljenem cestišču 
+
+GROUP 14: 4 records, 2 recent seeds, 2014-02-27–2025-02-06
+76876* 2025-02-06 Lahova pot 2
+75530* 2024-11-11 Lahova pot
+9101  2014-04-01 Lahova pot - smeti
+8803  2014-02-27 Pločnik ob postaji Lahova pot
+
+GROUP 15: 4 records, 3 recent seeds, 2021-08-31–2026-07-25
+85812* 2026-07-25 Prehod za pešce - Peruzzijeva 
+84931* 2026-05-28 Ponovna postavitev prehoda za pešce
+84726* 2026-05-19 Prehod za pešce Peruzzijeva
+46640  2021-08-31 Prehodi za pešce na Peruzzjevi
+
+GROUP 16: 4 records, 2 recent seeds, 2012-04-06–2026-06-12
+85159* 2026-06-12 Lorenzova - prehod za kolesarje
+85154* 2026-06-12 Stanje kolesarske steze
+24135  2018-09-27 Označitev prehoda za pešče
+4878  2012-04-06 Prehod za pešce na Lorenzovi c. -pobuda
+
+GROUP 17: 4 records, 1 recent seeds, 2022-09-06–2026-06-22
+85294* 2026-06-22 BicikeLJ postajališče
+74919  2024-10-02 BicikeLJ postajališče
+64223  2023-06-21 Postaja bicikeLJ
+56845  2022-09-06 Postaja bicikeLJ
+
+GROUP 18: 3 records, 3 recent seeds, 2025-05-27–2025-07-16
+79886* 2025-07-16 Semafor na tipke, 3
+79580* 2025-06-26 Semafor na tipko, 2
+78884* 2025-05-27 Semafor na tipko
+
+GROUP 19: 3 records, 1 recent seeds, 2024-01-25–2025-05-15
+78648* 2025-05-15 Pričetek z deli na poti ob Galjevcu
+71071  2024-02-21 Pot ob Galjevcu
+70599  2024-01-25 Pot ob Galjevcu 3
+
+GROUP 20: 3 records, 1 recent seeds, 2014-05-01–2025-10-22
+81588* 2025-10-22 Živa meja se razrašča na pločnik
+14660  2016-05-05 Živa meja ovira pešce
+9250  2014-05-01 Živa meja do sredine pločnika
+
+GROUP 21: 3 records, 1 recent seeds, 2024-04-25–2025-11-14
+81932* 2025-11-14 Postavitev dodatnih količkov - tretjič!!
+74523  2024-09-11 Postavitev dodatnih količkov
+72327  2024-04-25 Postavitev dodatnih količkov
+
+GROUP 22: 3 records, 1 recent seeds, 2023-05-29–2025-07-16
+79888* 2025-07-16 Znak za omejitev hitrosti
+63720  2023-06-05 Ne viden zna omejitev 30
+63459  2023-05-29 Omejitev hitrosti na Ilovškem štradonu
+
+GROUP 23: 3 records, 2 recent seeds, 2024-02-27–2025-04-10
+78079* 2025-04-10 Nova Ižanka, pokrov jaška se v greza
+77917* 2025-04-03 Posedeni jaški na novi Ižanki
+71182  2024-02-27 Novi pokrov že ropota
+
+GROUP 24: 3 records, 3 recent seeds, 2025-10-09–2025-11-19
+82021* 2025-11-19 Ilovški štradon študije zacevitve
+81641* 2025-10-25 Ilovški štradon pojasnila 2.
+81350* 2025-10-09 Ilovški štradon pojasnila
+
+GROUP 25: 3 records, 2 recent seeds, 2024-10-04–2025-02-19
+77089* 2025-02-19 Ilovški štradon vožnja čez rdečo 2
+77008* 2025-02-13 Ilovški štradon vožnja čez rdečo
+74961  2024-10-04 Vožnje čez rdečo
+
+GROUP 26: 3 records, 1 recent seeds, 2022-08-04–2026-08-03
+85895* 2026-08-03 Obrezovanje zelenja
+65004  2023-07-17 Vzdrzevanje kolesarske poti zelenje
+55850  2022-08-04 Svetli profil kolesarske poti
+
+GROUP 27: 3 records, 3 recent seeds, 2025-04-09–2025-12-05
+82236* 2025-12-05 Popravilo jaška!!!
+78921* 2025-05-28 Popravilo jaškov
+78046* 2025-04-09 Popravilo jaskov
+
+GROUP 28: 3 records, 1 recent seeds, 2020-05-27–2024-11-14
+75597* 2024-11-14 Interval semaforja
+64037  2023-06-14 Interval semaforja
+36153  2020-05-27 Interval semaforja
+
+GROUP 29: 3 records, 2 recent seeds, 2024-01-10–2026-09-06
+86503* 2026-09-06 Ilovški štradon kako danes v službo ?
+86485* 2026-09-05 Ilovški štradon to ni več normalno!
+70197  2024-01-10 Ilovški štradon 10.1. A STE NORMALNI?!?!
+
+GROUP 30: 3 records, 1 recent seeds, 2021-01-18–2026-07-28
+85847* 2026-07-28 Ureditev smeti
+60762  2023-02-12 Smeti
+41030  2021-01-18 Smeti

@@ -1,743 +1,899 @@
 [
-  {
-    "name": "Černetova pri pekarni: neprehodna in nevarna šolska pot",
-    "ids": [
-      84786,
-      84220,
-      82173,
-      81998,
-      81226,
-      78095,
-      77595,
-      76825,
-      75724,
-      67263,
-      61932,
-      46484,
-      38676
-    ],
-    "safety_ids": [
-      81226,
-      82173,
-      77595,
-      46484
-    ],
-    "category": "lokalni problem",
-    "review_note": "Od 2020 se ponavlja ista ovira na šolski poti. MOL je pri #75724 navedel dodatne količke, novejše pobude pa opisujejo nadaljevanje težave. Pri #82173 in #84786 dodatnih fizičnih ovir ne načrtuje; navaja občasni nadzor. To kaže na nezadostnost dosedanjih ukrepov, ne na popolno odsotnost ukrepanja.",
-    "source_candidates": [
-      1
-    ],
-    "reviewed_hashes": {
-      "84786": "510081c61c031a20fe83b580eb6e98147cd207b10a9062089782fb9d0262f794",
-      "84220": "8b8ec18c9febf9b3f25153858282ad9825e060c5923381c89adf6c11316c2fa2",
-      "82173": "20a1a6e984297726a59ca213fea01c662d1b5e5cc9f5ec4448ff08acdba1bc72",
-      "81998": "251ba8f05f55699fd9d67b9c5c1793fc67801ac5a24f1f34a3b111311202c5cb",
-      "81226": "cd249ceb1e70df9d0215ad642597b6a568a45e814462857e40e4d74f65a43db7",
-      "78095": "1649636280f8d7ad499ce533e95aaeb842aed1f77bbc99c7e636ca313ad5c0cd",
-      "77595": "f96644842441a975992994c0daf5c52d64e1ead2ef0eeeb6d265609bab6e88d4",
-      "76825": "35918a32ae0ce6e3378231532ddd75559588200dfb8c5d7b025c7de4c1df7ef8",
-      "75724": "2b73b877a61137547a48d5967c941bec6fc02990cef07f11d1f0945e1abcc49e",
-      "67263": "d83f1bee8b521991db06c28b85de9c2d55ce2d5a6483381c0045bb971772525c",
-      "61932": "c9cff5f4618b8e063eeed697864ca16349349c45c0beb20640f88b1d5e38fa3a",
-      "46484": "c380d93225622f86d0d9228d61b05984064b477f6d5c71d5a4751847eb175517",
-      "38676": "77c2494e1314f432a886d76a9ab1417e19f9ab3c8cdc7ad45fe10edeb7a9d27f"
-    }
-  },
-  {
-    "name": "Vodnikova pri Acapulcu in ŠUS: pločnik brez učinkovite zaščite pred vozili",
-    "ids": [
-      85777,
-      84731,
-      84108,
-      83898,
-      83557,
-      82363,
-      82062,
-      76764,
-      61072,
-      59751,
-      58515,
-      58267,
-      57570,
-      54566,
-      49472,
-      39243,
-      31773,
-      413
-    ],
-    "safety_ids": [
-      85777,
-      84108,
-      83898
-    ],
-    "category": "lokalni problem",
-    "review_note": "MOL pri #83557, #84108 in #84731 potrjuje postavitev količkov na eni strani in možnost dodatnih na drugi. Pobude opisujejo selitev parkiranja na nasprotno stran. Pri #85777 MOL pojasni, da gre za spustljiva količka, in ocenjuje izboljšanje; občan opisuje poslabšanje. Stanje je zato delno izboljšano in sporno, ne dokazano nerešeno od 2009. Pohvala #15042 ni šteta.",
-    "source_candidates": [
-      2
-    ],
-    "reviewed_hashes": {
-      "85777": "e3c854fb5872264385b626c514ce4eee07c5a65f86047974c0b4bde86cc225e7",
-      "84731": "985819dd14b09191409c84ceb5572824ec71c4bda4307bdd7696cf00e0fa9cf8",
-      "84108": "68e0e79b1bea58d2ef01ede38cdd6af8f0d460a4bead535d95227e951ca7dc53",
-      "83898": "c675b7310b1ceeaa1bc9d38b879d9c6cb4e711b850f93e4c19048f393698c488",
-      "83557": "c6ce2d55498b30aa0109784bd40c6cbc2a118ed3ff235e15b1ae7c3d2e98ae48",
-      "82363": "38521f0056f2920f83a7da7e7416395b70849915ee2c04d220e9db3c6c445edb",
-      "82062": "33c67a7a3170bcaf36bf686dd323f395f67b60b1d773b149a5c287958970ce50",
-      "76764": "0aa704cd032ecef0e735a4abacdc9d42dc5f8f4825a60bbfe031294d971c5a31",
-      "61072": "8f38a2f361b833b9ea992bca977be593ea996837bcce2de2b3ff923db880fffb",
-      "59751": "208e799607aaa6f6dafaf938458a3b311addaa12de4b7c05458e8b78b85dd488",
-      "58515": "7f71e67ed0cd133d99f6e4ff6b2c4c8f7e1adb2af08e88b47a9b409819494ccf",
-      "58267": "d1a7f39ce217dcd6e7cd2b4f16519db383546920a4e4a24d70467851797a3b9c",
-      "57570": "cd3b88d62ca2fb602dd0b72223c3419c1ea206ce2373361c3a7a5c740dcd2641",
-      "54566": "1b5f088add05a8d548c6821edefb806f8ef0d475fd125fd698a1d2e1fde20599",
-      "49472": "9879d8c198c26f979fcdc02e67fca0991701b05af4e86704741d14452becdd75",
-      "39243": "853dfa7e56bc6d6f95ac6deac267db8eb9838733df5bf4b8fe3804267da3882b",
-      "31773": "e87386ebfd3f71c7b3735fd712928cff8bd9b58a9258d5ae1061567bf1b310f2",
-      "413": "3cd7f77c36bc033639c15dfdbd3be3981da1b0ae8033ea2508c3184fa8de89c2"
-    }
-  },
-  {
-    "name": "Maurerjeva pri Drenikovi: zaparkiran prehod na šolski poti",
-    "ids": [
-      86199,
-      84787,
-      83815,
-      82804,
-      82131,
-      82027,
-      81346,
-      80974,
-      80813,
-      77297,
-      76762,
-      76498,
-      76383,
-      69361,
-      67985,
-      67449
-    ],
-    "safety_ids": [
-      86199,
-      83815,
-      82804,
-      82131,
-      82027,
-      81346,
-      80974,
-      80813,
-      77297,
-      76762,
-      76498,
-      76383
-    ],
-    "category": "lokalni problem",
-    "review_note": "Ponavljajoč se blokiran prehod na šolski poti; #82027 predlaga trajne ovire. Odgovori navajajo ponovne nadzore in kazni brez potrditve trajne fizične rešitve. Izločeni sta #75766 in #76073, ki izrecno poimenujeta Mazijevo; bližina sama ne zadošča za združitev.",
-    "source_candidates": [
-      3
-    ],
-    "reviewed_hashes": {
-      "86199": "d31cfd10313465b3d230be2d3865cb62a630c370973274de8745eb0b0cab3873",
-      "84787": "b1490276f5adbf2e33f8b70d2805ac9b6cd17afeb2a68fd8db47ce9d34173242",
-      "83815": "8866cc9f81429ee9d54451d14725fc71f44bb394dfdde29dbba8c471165dd4b1",
-      "82804": "1391db3e3e1ead3327c4d61ebdff33b5c75e1b998cee5d59eb3349f8b8b35009",
-      "82131": "6000d9cc6184f78d0507868dc8c9824f80971dc1b75c91caf1ac6f6d408d95a0",
-      "82027": "e50cbf4bb1ce4cff1c493aeeb87d656534ea1591e11304dfcb4d68dea846d221",
-      "81346": "53f55998e06baab50dee5a5565361a44f4308828ea93133b1c0e4c7349161d0d",
-      "80974": "8d69fef8e6fdadb5e57128b2af6c89f1d02c2b0051fdd7c8db4a3add2fcab28d",
-      "80813": "081708ee6ea9fa57f36bdb820361503dbcb29c23538fe2067e0759cfd4baaded",
-      "77297": "d43572fbe7719664fc17aeb4269119f501fec93f870984d2355f1b69149d0089",
-      "76762": "b84069446c8c447d9754e90cf8448524cb67712b2403a3901c3abd4a0b5029c8",
-      "76498": "dea608fd24bdc954debea190dd2388218aed1855409fdac8ca3bf6d35c082553",
-      "76383": "673d965f5c856364561be2e43c19042b1c419fb3b3a44ccbd2aabc1090daf679",
-      "69361": "3abd8e33e5ed394408bff4ee5df5ac2531ebad7fcc605296cdab2380f3b9578e",
-      "67985": "730a248ced07903e6fcec168c40d28a61a4967d1e94828880e15db8fba5cd949",
-      "67449": "5f20af22808e88399a5925f83e05a8c0e0b3047b7a10221b3132cadfa3032481"
-    }
-  },
-  {
-    "name": "Grošljeva pri Bobi baru: ponavljajoče se poškodbe vozišča",
-    "ids": [
-      86824,
-      86823,
-      86694,
-      83490,
-      83331,
-      83146,
-      77363,
-      73369
-    ],
-    "safety_ids": [],
-    "category": "lokalni problem",
-    "review_note": "#86824 in #86823 sta enaki objavi istega dne; število objav zato precenjuje število neodvisnih dogodkov. MOL je pri #77363 navedel naročeno sanacijo, septembra 2026 pa le preveritev in morebitne ukrepe. Gre za ponavljanje poškodb istega odseka, ne dokaz iste nepopravljene luknje skozi celotno obdobje. #77363 omenja tudi Šišensko.",
-    "source_candidates": [
-      5
-    ],
-    "reviewed_hashes": {
-      "86824": "97cc3ba9e4b7b97632e29e98657613b91a25f4b08816f000cded3a51d9922425",
-      "86823": "97cc3ba9e4b7b97632e29e98657613b91a25f4b08816f000cded3a51d9922425",
-      "86694": "6f526de9aca80a629d02d8e3c71bf6decc004ee0ee96b3677e8a6aa513d87cf2",
-      "83490": "298b8e427192ba974a07b54a9dc18d64225b54162b5b06ba6b17b79b2867ad1e",
-      "83331": "eeea01f1dbd43970beec630aa6d5923c3d3899946e221fecf75f80b2e26dcb90",
-      "83146": "33a57ea2549f6cbea3cd2d1c9e5d83366f0a6a61f36ab5aaa43f8a3a02c42078",
-      "77363": "290a8dd78ef8ebb3579b625b1780b35299876b8871c79220dc928f82d7ab5f4d",
-      "73369": "999fd465a71d16e4c207beb7ca759abd37228a6224205bd5f50d071b8bf8d6dd"
-    }
-  },
-  {
-    "name": "Šišenska 12: globoke luknje na dovozu",
-    "ids": [
-      83489,
-      83147,
-      72569
-    ],
-    "safety_ids": [],
-    "category": "lokalni problem",
-    "review_note": "Pri #72569 je MOL leta 2024 navedel, da je zadeva urejena. Februarja 2026 sta novi prijavi na isti lokaciji, odgovora pa napovedujeta preveritev in morebitno sanacijo. Ponovitev po navedeni izvedbi; brez terenske potrditve sedanjega stanja.",
-    "source_candidates": [
-      5
-    ],
-    "reviewed_hashes": {
-      "83489": "5f217f312dcef824ef14dcd6208cf16f4bd6b3d7921232dac1571c094039e50a",
-      "83147": "d2fce3e6804fc68bacb99f964c91425de909d1899cc04d0dc64ed4d65fa32aac",
-      "72569": "1b1b0cceeff5385d1bcfeb7d17f6c97de36c78fe9dc4c742d18b7266334630b2"
-    }
-  },
-  {
-    "name": "Podhod pri Kinu Šiška: razpadajoče stopnice",
-    "ids": [
-      83763,
-      83471,
-      52429,
-      18587,
-      12431
-    ],
-    "safety_ids": [
-      83763,
-      83471,
-      52429
-    ],
-    "category": "navedena izvedba",
-    "review_note": "MOL navaja sanacijo leta 2015 pri #12431 in ponovno izvedeno sanacijo stopnišča v najnovejšem odgovoru #83763. Gre za večkratno propadanje in vzdrževanje; zadnji odgovor potrjuje izvedbo, ne odprte težave. Stanje na terenu ni preverjeno.",
-    "source_candidates": [
-      6
-    ],
-    "reviewed_hashes": {
-      "83763": "73624cf69c61c320b74fa02c3cd45c4d657245550b3021da58ea9e29a5806a54",
-      "83471": "bfaed4bc6d5592e6c8788676534b6776dd3c709446569a7c28b32554f2b2481c",
-      "52429": "70e3332d1866dc884e246c846582b3c6ccddb5bb65eee1d2ff22835f0313a211",
-      "18587": "a7520d02ca4f1450da0ef851126839078ea5231b5ecf1ace0840a3a753424b99",
-      "12431": "3b8d8836b3db526a8a9cd8b18bd6cbb917cb3fb1a36434f42b7297c09bfe5003"
-    }
-  },
-  {
-    "name": "Pasji park Koseze: poškodovana ograja in vrata",
-    "ids": [
-      84281,
-      75956,
-      75708,
-      75385,
-      65131,
-      46483,
-      36705,
-      34972
-    ],
-    "safety_ids": [],
-    "category": "lokalni problem",
-    "review_note": "Odgovori večkrat navajajo naročeno popravilo kljuk oziroma vrat, pri #36705 tudi izvedbo. Leta 2026 #84281 ponovno opisuje ograjo; MOL napoveduje celovito prenovo parka brez datuma. Druge težave parka niso samodejno dodane temu sklopu.",
-    "source_candidates": [
-      8
-    ],
-    "reviewed_hashes": {
-      "84281": "5a0f9603ffe366a3d5bcc90a0d75b8c58edf96442b573ac3936b16bcd457cbc8",
-      "75956": "1d213e0dac63bdb51412923d5644f97702ebe0f9560b6b9d58c082266eed1c83",
-      "75708": "147da81a9fdb48d041980629c6a92767ca76aea77e90a8d2e595bf24ac9e208a",
-      "75385": "4a6b6c2f933c387575a53495f298e8ed32739deab294fb689db4c15edea8717e",
-      "65131": "7f86f07298070b62c8826f96dc6eb939fdc05b1d0179eb23f251f6bba22155d9",
-      "46483": "6d5802482a3ff094f11755923d5dd66ca246940fb79e07bb0a52909fcd2d5022",
-      "36705": "583710f3e04e69d7358b0616e16baa5dfaf84f503a0adf152c83ebf05f69980a",
-      "34972": "50c7b16ef24c64547ed75ca8e658ed08810dbff6a87aed25e958c1fed17fc044"
-    }
-  },
-  {
-    "name": "Podhod pri Aleji: zaprt in dotrajan prehod čez Celovško",
-    "ids": [
-      86696,
-      86107,
-      85802,
-      81890,
-      80733,
-      77994,
-      77782,
-      70384,
-      68995,
-      67377,
-      67248,
-      79272,
-      76958
-    ],
-    "safety_ids": [
-      81890,
-      80733,
-      76958
-    ],
-    "category": "lokalni problem",
-    "review_note": "MOL pri #81890 potrjuje zaprtje zaradi varnosti. Pri #80733 napove prenovo v 2026, pri #86107 in #86696 pa celovitejšo ureditev v prihodnjem letu (2027) ter že urejeno stopnišče. Vidna sta premik napovedi in delna sanacija; zadnji odgovor ne potrdi ponovnega odprtja. Vprašanja so vključena le kot kontekst ob drugih novejših izhodiščih.",
-    "source_candidates": [
-      9,
-      26
-    ],
-    "reviewed_hashes": {
-      "86696": "13b55b9370c8417e68015f8bd7d61970433f60ce2039c7b69163c3349308e1cf",
-      "86107": "b138a32628324c6eb972b210e376f9bfe52d5d4bb9e00ab47d6bc1fa7e2ac087",
-      "85802": "9b4ddb041aab2d6feb5cd9c43d06e0783ef7794ae6ed9a110b35784cdba48844",
-      "81890": "2a7b1d552a81421ed1ab6847a6a3f064276bbdf2a98bf1e56d113cfdacb50924",
-      "80733": "200d15d63938adbbc23c1d9a42c7e43269ce84ec5b251d3b77dbcfdded634c5d",
-      "77994": "1e27da406ccc7d06f231e3f101ceab213f374c8015810a8111a019a77253f1cc",
-      "77782": "709ac99da82c8a3a7f14f4c032fd4a2c0631141cfb3eae8d9ba733fa785bfbdf",
-      "70384": "1d66350fef973299e2f6684a243ecea80b49892fef1f0bfe659022be860f3a9a",
-      "68995": "865c8cce1a4ae2e16aec06c538bb7f03a7afd9d0ec341adfab9ea882c17d0565",
-      "67377": "f372b4f344d359f7357753cdd6b87c730699c585f71145da2cf70beef7317e41",
-      "67248": "5243f302d1f45b7289f4c9e883cdfaec09e476bb20969ea1c225bc27093395e3",
-      "79272": "d74705720ae8e32e4162a1046951ba64b2701e5598be30dcff3afc5612e97416",
-      "76958": "775309f871f5fb54b33948128b3693db46b54a9151b6f6d5a2ae530e2fb88b59"
-    }
-  },
-  {
-    "name": "Koseški bajer: ponavljajoče se nepluženje kolesarske povezave",
-    "ids": [
-      82815,
-      82663,
-      70514,
-      20576,
-      20573,
-      20569,
-      6349,
-      6320,
-      1189,
-      1124,
-      1047
-    ],
-    "safety_ids": [
-      82815,
-      82663,
-      70514,
-      1189
-    ],
-    "category": "lokalni problem",
-    "review_note": "Ponavljajoča se sezonska težava od 2010. Odgovor #1047 napove preučitev vključitve v plan za 2010/11; #6320 pravi, da je odsek v planu, #6349 in še #70514 v 2024 pa, da ni. Leta 2026 odgovori pojasnjujejo prioritete na ravni mesta brez jasnega odgovora za ta odsek. Dober kandidat za razjasnitev obsega koncesijskega vzdrževanja.",
-    "source_candidates": [
-      11
-    ],
-    "reviewed_hashes": {
-      "82815": "762017b143d1dd68da6083482c3132d10fff14bed3d43e06268808d4f0c83f59",
-      "82663": "3660ebb82f8a3f1e929b9a0a65c162e96c50cd475d9952f7aa8989a35540506f",
-      "70514": "c87808c1be13cd40e9590142437ecfd32ea7f280a77d1f323c3eb9d847932dc5",
-      "20576": "f45c699380eeda047a921f65385683a278e3b982c12456a705b0abaca970ae23",
-      "20573": "77bd015297f02f37a026b2eb72f2678f00944f80092d08b7239556b6a0a57ba1",
-      "20569": "2c187c003030f08a6ec640948e3a30d7efd2749545bf125ffc229fa8271cfc1d",
-      "6349": "5303093dde5d57ff35d3db6995b777f100f309faee1863c0f94e5b08f38f1213",
-      "6320": "117d42579b76441c57bd91065dd9160b96cb42f5aa8b565c3b2f73fe687c9a86",
-      "1189": "c7cd5ceff2da0a165debad0c0cff0e0a6105b07fe31011792415be922b79965b",
-      "1124": "f5bca007fe20cec9bc69d17803a0e032cef1e05e8e64b96ba83c6644af0f7864",
-      "1047": "1890b074bef1bdfa40619a261d7a8e521d26b34076c74ab508fb61daebf8f20b"
-    }
-  },
-  {
-    "name": "ZD Šiška: parkirišče ne zagotavlja dostopa pacientom",
-    "ids": [
-      77933,
-      75466,
-      35362,
-      35331,
-      35227,
-      22104
-    ],
-    "safety_ids": [],
-    "category": "lokalni problem",
-    "review_note": "Leta 2020 odgovori pri #35331 in #35362 omenjajo predlog modre cone, poslan OGDP. Pri #75466 zapornica ni predvidena, pri #77933 pa MOL preverja možnost ukrepov zaradi lastniških postopkov. Problem dostopa pacientov ostaja ponovno izpostavljen; teme zdravnikov in delovnega časa so izločene.",
-    "source_candidates": [
-      12
-    ],
-    "reviewed_hashes": {
-      "77933": "5fe748e8b30dfa2684fc490fd14da0dd121650a0786a29fb1defa53d3d7f5031",
-      "75466": "abf1211d75f07ecb5b24aa348b1a786f943a759b48af03f0ba6451dd08279924",
-      "35362": "1b9f54f5ddac91530b80ec80cbcdcbda715a5c3e9dc8e1f420d9420c897c14e0",
-      "35331": "b2cf98a1316f988c7384bfe69c99cbac69d4e3a75a336cb71ace8853deb10a89",
-      "35227": "62255407727585020083248385bfe150a841cdbc7fd32b28b3acb46e8081f763",
-      "22104": "755309e01998b9ffa01db82654333bbf698fabae8846abc3b23894a860958bcc"
-    }
-  },
-  {
-    "name": "Litostrojska–Celovška: zastoji zaradi skupnega pasu naravnost in desno",
-    "ids": [
-      81889,
-      81888,
-      78815,
-      54448,
-      25899,
-      22876,
-      17594,
-      14766
-    ],
-    "safety_ids": [
-      25899
-    ],
-    "category": "lokalni problem",
-    "review_note": "#81889 in #81888 sta enaki objavi istega dne. Najnovejši odgovor napoveduje podaljšanje zavijalnega pasu v rekonstrukciji Litostrojske, brez roka izvedbe. Starejši odgovori spremembe zavračajo oziroma utemeljujejo dva leva pasova z avtobusi. Težišče je pretočnost, manj neposredno varnost pešcev.",
-    "source_candidates": [
-      13
-    ],
-    "reviewed_hashes": {
-      "81889": "aec51c969075a9a5cf5451ea09de48de155f5cc1968a0b588acd9f18da5bd99b",
-      "81888": "aec51c969075a9a5cf5451ea09de48de155f5cc1968a0b588acd9f18da5bd99b",
-      "78815": "dc99ffc81bb9bfd923fd0b7de61f6e2c4e118cb95816089b237809b96b503f22",
-      "54448": "48ece72aac59ed9f497bc389d194be86d477e929df162e1c7654234e02a3dc26",
-      "25899": "9637731dd2ecc95c1ec5c7a6783e3b3054f9848468194f29180947df8042dbb8",
-      "22876": "ff8be13b1fcc3477b5231c102ac91068c16f837b7a627ce18974e1968c57cdcd",
-      "17594": "5d562a0fde7174a82e0d9dcf6c3c5ba3f3d6b46b0144d0d24d47fa8a8893eb9e",
-      "14766": "fb05a13ce637a37a446085b7faa04080715e197715751b8b26fefca3b70ab941"
-    }
-  },
-  {
-    "name": "Litostrojska: zaparkiran pločnik na šolski poti",
-    "ids": [
-      75757,
-      75113,
-      70106,
-      68125,
-      66347,
-      65699,
-      49893,
-      49757
-    ],
-    "safety_ids": [
-      70106,
-      68125,
-      66347,
-      65699,
-      49757
-    ],
-    "category": "lokalni problem",
-    "review_note": "Isti pločnik na šolski poti, ne zbir posameznih vozil. #65699 predlaga količke. MOL navaja redne nadzore in številne kazni, poznejše pobude pa nadaljevanje blokade. #75757 ostane pri prošnji za točno lokacijo. Trajna zaščita v pregledanih odgovorih ni potrjena.",
-    "source_candidates": [
-      15
-    ],
-    "reviewed_hashes": {
-      "75757": "08021bbef153c87fc569c9b1341e8dfe2359bb64fd4ca8173aeb5bb815b66d7f",
-      "75113": "f9f0d8c09af0c7bccb20396e967f1f4627e250a3cf6a2d8cc1cec5cdc51c12bd",
-      "70106": "9967b2c1468f13694f42ab0434cb7e08449cdcdabca68604af2847b748148088",
-      "68125": "3b24e423a9be8c71ada44cf6ea39ead33d18bfab48575dd7d2148b3ef798b759",
-      "66347": "504359fe63cf1ebf8b255c860dc056b13680f48e5f3965cf346c4c051360e684",
-      "65699": "fd6dd9e655047d1e97a286d40305f2f7375d35aba9aab146b2584ab372e2be0c",
-      "49893": "6b45e12193df834b4d00586bd2d4f1f070eea6f20cbc935a39cdc493b35f7d68",
-      "49757": "4e36d40d7f4afc360b872e91735d74d9488bd38178df9656a8f6d2278caf99af"
-    }
-  },
-  {
-    "name": "Obirska–Hotimirova: vozila zakrivajo prehod in preglednost",
-    "ids": [
-      76245,
-      76149,
-      71463,
-      64076,
-      12694
-    ],
-    "safety_ids": [
-      76245,
-      76149,
-      71463,
-      64076,
-      12694
-    ],
-    "category": "lokalni problem",
-    "review_note": "#76245 opisuje skorajšnji trk z otroškim vozičkom, #71463 zahteva preglednejši prehod. Odgovori potrjujejo periodične nadzore; OGDP navaja ustreznost signalizacije in možnost dodatnih oznak. #12694 obravnava širši odsek, ostale pobude konkretno križišče. Izločeni zapuščeno vozilo in splošni režim dvosmernosti.",
-    "source_candidates": [
-      17
-    ],
-    "reviewed_hashes": {
-      "76245": "c45e480fa1b2d1b4fb3b9559450a28e3422a82630cbb03221c4e82c49e6b705f",
-      "76149": "36c842fedd67f9369f410003d5f058e6df37c7f1a0700fe6dca30d2373ffeb27",
-      "71463": "47782fc01a8af7dfe595deecee8238a3885ae222f347dadfed34e3ce38d7a58f",
-      "64076": "42428741b75541c75b7120f9e0bab95b802320253e6fb0695500e8ea18ae8b48",
-      "12694": "b2e1a97d3e2a13b7b10dc0feefd42cb5d248c86e5b94ab9a0ea45a9d698f6837"
-    }
-  },
-  {
-    "name": "Mostec pri Večni poti: avtomobili na poti za pešce in kolesarje",
-    "ids": [
-      87049,
-      72467,
-      52533,
-      47604,
-      17903,
-      16097,
-      2503
-    ],
-    "safety_ids": [
-      17903,
-      47604,
-      87049
-    ],
-    "category": "širši mestni doseg",
-    "review_note": "Problem je dostop avtomobilov na rekreacijsko pot in oviranje pešcev, ne parkirišče za obiskovalce samo po sebi. Že #17903 omenja predlog ureditve; #52533 pove, da zapornic ne obravnavajo, #72467 pa iskanje rešitve. Zadnji odgovor napove nadzor. Širši mestni doseg in nižja prioriteta za lokalce kot šolske poti.",
-    "source_candidates": [
-      18
-    ],
-    "reviewed_hashes": {
-      "87049": "68bc9ffea6326d8a0c207e6378fe6cc63601db3db361e5bb048e5e71b223e951",
-      "72467": "57ab18788ad04788b9b11e0059ba4a68183ae21cacf48078716acfc6ec01dd76",
-      "52533": "5282d380c50c89297c42451651a3a0e96fca509dba51a1654d0231ce9fd962b6",
-      "47604": "5a9c5f75ad9042b4b2e03f35461eed3ef932a84beeb5d4eea3802c2fd8760fb0",
-      "17903": "84e48c54152c15e6fe06519360f9435269a2cbe645d2aeefcb58d7116e0b0849",
-      "16097": "edf1137a76b4681c125a3e094530b3cd62eda78ba757030f0daeb1665f15c009",
-      "2503": "b6353606cb89fb37483e22471640f3caa765f8f0c076d0ecdab1ee4f710aa53d"
-    }
-  },
-  {
-    "name": "Celovška 163: blokiran dostop intervencijskih vozil",
-    "ids": [
-      86260,
-      84812,
-      84081,
-      83943,
-      82404,
-      81930
-    ],
-    "safety_ids": [
-      86260,
-      84812,
-      84081,
-      83943,
-      82404,
-      81930
-    ],
-    "category": "lokalni problem",
-    "review_note": "Šest objav od novembra 2025 do avgusta 2026 opisuje isto intervencijsko pot. Večletno trajanje je navedba občana, ne večletni razpon teh objav. Pri #81930 MOL ocenjuje pot kot prehodno in navaja odsotnost uradnih prijav intervencijskih služb; pri #86260 dodatne zapore zavrača zaradi dostave. Pobude temu nasprotujejo; potreben je terenski preizkus dostopa in uskladitev dostave z varnostjo stanovalcev.",
-    "source_candidates": [
-      21
-    ],
-    "reviewed_hashes": {
-      "86260": "185ee8a0aca1248ee092149e087b9bdb5a0217bec20430e46a9780d4498f0511",
-      "84812": "8c21d7df2c4864fe9187498839ff0eb2a127ab9006c78a053ccc4d5fde24bd10",
-      "84081": "9c8a358a0719db2b75e1a321b2af63ec3e2523a159fc163ccc85aeefeef5b13c",
-      "83943": "d56782a0c791fbe38e80b6028fa0c25f54f411c6caed765d874d172cc6d57376",
-      "82404": "2f5c81de1e22cae9dfb941966a2b99fc38800127c6b865770f01ca4bed8f00c5",
-      "81930": "34234fb83bf8667bcacf39f13e4e427119d59293ef4a8193003f2f0e7e9e9ed2"
-    }
-  },
-  {
-    "name": "Mazijeva pri OŠ Spodnja Šiška: neuporabno območje Poljubi in odpelji",
-    "ids": [
-      86829,
-      86223,
-      83952,
-      83467,
-      82999,
-      82743
-    ],
-    "safety_ids": [
-      86223,
-      83952,
-      83467,
-      82743
-    ],
-    "category": "lokalni problem",
-    "review_note": "#86223 navaja otroke, odložene sredi ceste; #82743 nevaren prometni kaos. Odgovori napovedujejo nadzor in preveritev oziroma obnovo talnih označb, izvedbe ne potrjujejo. Nekateri zapisi omenjajo tudi Maurerjevo; skupina je osredotočena na območje pred šolo.",
-    "source_candidates": [
-      22
-    ],
-    "reviewed_hashes": {
-      "86829": "99b9fd6dc94d5c421d7001e5b0a8712c3dc1a2381363262ea21a167702fb042f",
-      "86223": "4422618c39e645bffab85e327016c777cabf39c83b8177b2854c4a1d5440198e",
-      "83952": "d893d012deb27d98e3b559b9ac68cb21223806b3afe79fe1e096036952496b8d",
-      "83467": "47bfc3dbe114220160f9ab67be6e3389e5e9d070517c395d66cc3467715a9b0e",
-      "82999": "d9123dbb1a88e3e3086ca94a93141c5f3651f7c11e33aa1a9201e09149513c29",
-      "82743": "81bbce39474e966811fc310853fca217f808b232cb022b257aa0769fd3c5b071"
-    }
-  },
-  {
-    "name": "PST ob Litostrojski: vožnja avtomobilov in parkiranje v drevoredu",
-    "ids": [
-      84144,
-      83613,
-      79542,
-      62625,
-      61611,
-      61272
-    ],
-    "safety_ids": [
-      84144,
-      83613,
-      79542,
-      61611
-    ],
-    "category": "lokalni problem",
-    "review_note": "Isti odsek PST med Litostrojsko in Verovškovo; pešci se umikajo avtomobilom, izpostavljena sta poškodovana podlaga in drevored. MOL pri #61611 potrjuje prepoved vožnje, pri #79542 napove iskanje rešitve, novejši odgovori ostanejo pri nadzoru. Trajna ureditev dostopa ni potrjena.",
-    "source_candidates": [
-      23
-    ],
-    "reviewed_hashes": {
-      "84144": "f707c823d7d78f61c0d2c67be23d865b441f6cb559f0a738e3e889f81b3f3f44",
-      "83613": "22f4a41e92605d918a5acd16d8cdc3625b6e1b3a1d31622e462e7c017cb010d1",
-      "79542": "a4e9e494250c2381d4bf552741b69f3ed33164ba28eda7b735dcc13e525ad9b2",
-      "62625": "37ef08c14f4c6c1574db568bf73b51a50f48f0a103d973e137d529c9de0b0eea",
-      "61611": "f7e0e6409020ba46b82977bf59959b5cfd59cf4f47c2a02a5ec3652113ba6083",
-      "61272": "bb4f73fe6d0fb97cd938f3c2dee26da236f2fafebfae503d612beaa688ea65ff"
-    }
-  },
-  {
-    "name": "Podutiška pri prehodu za pešce: neuporabno prometno ogledalo",
-    "ids": [
-      85284,
-      79463,
-      63873
-    ],
-    "safety_ids": [
-      85284,
-      63873
-    ],
-    "category": "lokalni problem",
-    "review_note": "Ločeno od ogledala za izvoz garaž. #63873 zahteva pomoč pri nevarnem prečkanju, #79463 sprašuje o uporabnosti, #85284 opiše napačno usmeritev. MOL najprej navaja, da ogledala ni postavil, nato napove preveritev in prilagoditev. Izvedba ni potrjena.",
-    "source_candidates": [
-      24
-    ],
-    "reviewed_hashes": {
-      "85284": "40d4a4ee03020af1242a959766f6bfe9ad619f2bc53eb9bb16e67b991f814460",
-      "79463": "433177be6622baf16e5841f0be91c697f9a95f8d3123003f475e10dbdf550e2c",
-      "63873": "5214fad9a0596a3e691e7513d60b6c3fb2b86153fca33d2be7481b944f8f35a8"
-    }
-  },
-  {
-    "name": "Podutiška–Ulica bratov Učakar: nepregleden izvoz pri garažah",
-    "ids": [
-      80169,
-      78007,
-      67043
-    ],
-    "safety_ids": [
-      67043,
-      78007
-    ],
-    "category": "navedena izvedba",
-    "review_note": "Ločeno od ogledala za pešce. Zadnji odgovor pri #80169 potrjuje zamenjavo ogledala konec avgusta 2025. Predhodna prijava #78007 opisuje poškodbo, #67043 pa potrebo po ogledalu za preglednost. Po navedbi MOL izvedeno; poznejše ponovitve v tej skupini ni.",
-    "source_candidates": [
-      24
-    ],
-    "reviewed_hashes": {
-      "80169": "f83975c75196c26c69151fc0a13489f3dbb74aa4920e45a5f92f66d51f376ecb",
-      "78007": "5c14df7d110d5b85fa879b2276175373e96985a860b4ebcc77ef9a9fbf025df7",
-      "67043": "394e686b8f1b49f59791242f5a1a2a1d635a06261d51758f816c9d6fc48fcf25"
-    }
-  },
-  {
-    "name": "Celovška–Rakuševa: varnost levega zavoja in režim opozorilne puščice",
-    "ids": [
-      76233,
-      36335,
-      20316
-    ],
-    "safety_ids": [
-      76233,
-      36335
-    ],
-    "category": "lokalni problem",
-    "review_note": "MOL pri #76233 pojasni, da opozorilna luč deluje le ob zaznani gostoti v določenem programu, ne da je žarnica pokvarjena. Starejša zapisa zahtevata pomoč pri levem zavijanju na Rakuševo. Gre za ponavljajoč se problem razumljivosti oziroma varnosti režima; delovanje in potrebo po spremembi je treba preveriti v konicah.",
-    "source_candidates": [
-      26
-    ],
-    "reviewed_hashes": {
-      "76233": "40d735e45a5b0285d5ef31829f12c0b9acf921922b55927a7797c982ade50960",
-      "36335": "31dba850ed7423f60c5da82d9acea9b478eb85aad5f06b8f0986b5bf65068234",
-      "20316": "57b69dd15529753a399c43e1766425baf2b69d60f8198fb9d454d415fedf3592"
-    }
-  },
-  {
-    "name": "Scopolijeva–Sternenova: pešci in šolarji prisiljeni na vozišče",
-    "ids": [
-      79124,
-      77541,
-      71390
-    ],
-    "safety_ids": [
-      79124,
-      77541,
-      71390
-    ],
-    "category": "lokalni problem",
-    "review_note": "Pobude opisujejo otroke na vozišču zaradi neprehodnega pločnika na Scopolijevi pri Sternenovi ter zahtevajo fizično zaščito. Vsi trije odgovori ostanejo pri preveritvi in ukrepanju brez potrjene izvedbe.",
-    "source_candidates": [
-      70
-    ],
-    "reviewed_hashes": {
-      "79124": "e35ce9bcca3c7a4384c0f0d87bada4b134584d6f0956b5f6b983c7b5a6457f51",
-      "77541": "fb450bcf44d17d10ee2a66274d720e186c0c75199e4b90227eba5dbe313a6a76",
-      "71390": "f7de2aa091d934656c284a5773a1fb0d04f237b86a09307e3f1e85be9cad454f"
-    }
-  },
-  {
-    "name": "Kolesarska pot ob gradnji Corwin: nesanirana poškodovana povezava",
-    "ids": [
-      85572,
-      80498,
-      75017
-    ],
-    "safety_ids": [
-      75017
-    ],
-    "category": "lokalni problem",
-    "review_note": "Zapisi v 2024, 2025 in 2026 opisujejo nesanirano isto kolesarsko pot. Odgovori preidejo od inšpekcijske obravnave na preverjanje lastništva, nato odgovornosti izvajalca oziroma investitorja. Izvedba sanacije ni potrjena. Navedbe o lastništvu in postopku uporabnega dovoljenja so trditve pobudnika, ne neodvisno preverjena dejstva.",
-    "source_candidates": [
-      72
-    ],
-    "reviewed_hashes": {
-      "85572": "b46a30e0c184b42ed1475c46aa06bff6649b39e7860cb1096c534fc2d1e59b94",
-      "80498": "402df9be223c029f72b707644d5b8bc2bf5fdddf83abab034b47cbc2b4d21288",
-      "75017": "2cf44001bf03f7f9c208d8e229c45f97b2037ba7b1caa59032db99bee1145aa9"
-    }
-  },
-  {
-    "name": "Večna pot pri bajerju: manjkajoč varen prehod za pešce",
-    "ids": [
-      86331,
-      58078,
-      13300
-    ],
-    "safety_ids": [
-      86331,
-      58078,
-      13300
-    ],
-    "category": "lokalni problem",
-    "review_note": "Leta 2015 MOL napove posredovanje ČS in dokumentacijo ob uvrstitvi med prioritete. Leta 2022 pojasni potrebo po gradbenih posegih; v 2026 prehoda ne načrtuje zaradi preglednosti. Varnostne potrebe povezave niso rešene že s predlogom zebre; potreben je varen način prečkanja z ustrezno prometno rešitvijo.",
-    "source_candidates": [
-      78
-    ],
-    "reviewed_hashes": {
-      "86331": "f956135b70326fe3a9b401d80090bb62712ef1c70a3ce580d3b62fb52f7bb845",
-      "58078": "cab9b8662f8a05e626e3177e2c0fa6d4ad095af25043b219c60238673e4bd21c",
-      "13300": "86dff494e10d528aae729406a2aadbcd012b71c13dd8c5ba0f9ef3bce2361506"
-    }
-  },
-  {
-    "name": "Zatišje: manjkajoč pločnik med Adamičevo in Kavadarsko",
-    "ids": [
-      86640,
-      40905,
-      17554
-    ],
-    "safety_ids": [
-      40905,
-      17554
-    ],
-    "category": "lokalni problem",
-    "review_note": "Od 2017 se ponavlja potreba po pločniku na istem odseku. Prvi odgovor omenja neurejeno lastništvo, leta 2021 ustreznost cone 30, leta 2026 pa odsotnost načrta in obstoječe površine na drugi strani. Občan opisuje prisilno hojo po vozišču. Potrebna je preveritev neprekinjenosti dejanske pešpoti, ne le veljavnega režima.",
-    "source_candidates": [
-      80
-    ],
-    "reviewed_hashes": {
-      "86640": "a28403117ea07b3c32298fcc63d49963a842f6b004b04da36b7f1d5011eefde6",
-      "40905": "c33a94a836e03c6b2fe8a767ae5c542e4feba1007ec14533a5e7c4c8860a48b8",
-      "17554": "14ed27f8a30f30f0d7f5fb36e62fb039fddfd711a969d567fa1e04246a5cdb40"
-    }
+ {
+  "name": "Černetova pri pekarni: neprehodna in nevarna šolska pot",
+  "ids": [
+   84786,
+   84220,
+   82173,
+   81998,
+   81226,
+   78095,
+   77595,
+   76825,
+   75724,
+   67263,
+   61932,
+   46484,
+   38676
+  ],
+  "safety_ids": [
+   81226,
+   82173,
+   77595,
+   46484
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2020 se ponavlja ista ovira na šolski poti. MOL je pri #75724 navedel dodatne količke, novejše pobude pa opisujejo nadaljevanje težave. Pri #82173 in #84786 dodatnih fizičnih ovir ne načrtuje; navaja občasni nadzor. To kaže na nezadostnost dosedanjih ukrepov, ne na popolno odsotnost ukrepanja.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "84786": "510081c61c031a20fe83b580eb6e98147cd207b10a9062089782fb9d0262f794",
+   "84220": "8b8ec18c9febf9b3f25153858282ad9825e060c5923381c89adf6c11316c2fa2",
+   "82173": "20a1a6e984297726a59ca213fea01c662d1b5e5cc9f5ec4448ff08acdba1bc72",
+   "81998": "251ba8f05f55699fd9d67b9c5c1793fc67801ac5a24f1f34a3b111311202c5cb",
+   "81226": "cd249ceb1e70df9d0215ad642597b6a568a45e814462857e40e4d74f65a43db7",
+   "78095": "1649636280f8d7ad499ce533e95aaeb842aed1f77bbc99c7e636ca313ad5c0cd",
+   "77595": "f96644842441a975992994c0daf5c52d64e1ead2ef0eeeb6d265609bab6e88d4",
+   "76825": "35918a32ae0ce6e3378231532ddd75559588200dfb8c5d7b025c7de4c1df7ef8",
+   "75724": "2b73b877a61137547a48d5967c941bec6fc02990cef07f11d1f0945e1abcc49e",
+   "67263": "d83f1bee8b521991db06c28b85de9c2d55ce2d5a6483381c0045bb971772525c",
+   "61932": "c9cff5f4618b8e063eeed697864ca16349349c45c0beb20640f88b1d5e38fa3a",
+   "46484": "c380d93225622f86d0d9228d61b05984064b477f6d5c71d5a4751847eb175517",
+   "38676": "77c2494e1314f432a886d76a9ab1417e19f9ab3c8cdc7ad45fe10edeb7a9d27f"
   }
+ },
+ {
+  "name": "Vodnikova pri Acapulcu in ŠUS: pločnik brez učinkovite zaščite pred vozili",
+  "ids": [
+   85777,
+   84731,
+   84108,
+   83898,
+   83557,
+   82363,
+   82062,
+   76764,
+   61072,
+   59751,
+   58515,
+   58267,
+   57570,
+   54566,
+   49472,
+   39243,
+   31773,
+   413
+  ],
+  "safety_ids": [
+   85777,
+   84108,
+   83898
+  ],
+  "category": "lokalni problem",
+  "review_note": "MOL pri #83557, #84108 in #84731 potrjuje postavitev količkov na eni strani in možnost dodatnih na drugi. Pobude opisujejo selitev parkiranja na nasprotno stran. Pri #85777 MOL pojasni, da gre za spustljiva količka, in ocenjuje izboljšanje; občan opisuje poslabšanje. Stanje je zato delno izboljšano in sporno, ne dokazano nerešeno od 2009. Pohvala #15042 ni šteta.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "85777": "e3c854fb5872264385b626c514ce4eee07c5a65f86047974c0b4bde86cc225e7",
+   "84731": "985819dd14b09191409c84ceb5572824ec71c4bda4307bdd7696cf00e0fa9cf8",
+   "84108": "68e0e79b1bea58d2ef01ede38cdd6af8f0d460a4bead535d95227e951ca7dc53",
+   "83898": "c675b7310b1ceeaa1bc9d38b879d9c6cb4e711b850f93e4c19048f393698c488",
+   "83557": "c6ce2d55498b30aa0109784bd40c6cbc2a118ed3ff235e15b1ae7c3d2e98ae48",
+   "82363": "38521f0056f2920f83a7da7e7416395b70849915ee2c04d220e9db3c6c445edb",
+   "82062": "33c67a7a3170bcaf36bf686dd323f395f67b60b1d773b149a5c287958970ce50",
+   "76764": "0aa704cd032ecef0e735a4abacdc9d42dc5f8f4825a60bbfe031294d971c5a31",
+   "61072": "8f38a2f361b833b9ea992bca977be593ea996837bcce2de2b3ff923db880fffb",
+   "59751": "208e799607aaa6f6dafaf938458a3b311addaa12de4b7c05458e8b78b85dd488",
+   "58515": "7f71e67ed0cd133d99f6e4ff6b2c4c8f7e1adb2af08e88b47a9b409819494ccf",
+   "58267": "d1a7f39ce217dcd6e7cd2b4f16519db383546920a4e4a24d70467851797a3b9c",
+   "57570": "cd3b88d62ca2fb602dd0b72223c3419c1ea206ce2373361c3a7a5c740dcd2641",
+   "54566": "1b5f088add05a8d548c6821edefb806f8ef0d475fd125fd698a1d2e1fde20599",
+   "49472": "9879d8c198c26f979fcdc02e67fca0991701b05af4e86704741d14452becdd75",
+   "39243": "853dfa7e56bc6d6f95ac6deac267db8eb9838733df5bf4b8fe3804267da3882b",
+   "31773": "e87386ebfd3f71c7b3735fd712928cff8bd9b58a9258d5ae1061567bf1b310f2",
+   "413": "3cd7f77c36bc033639c15dfdbd3be3981da1b0ae8033ea2508c3184fa8de89c2"
+  }
+ },
+ {
+  "name": "Maurerjeva pri Drenikovi: zaparkiran prehod na šolski poti",
+  "ids": [
+   86199,
+   84787,
+   83815,
+   82804,
+   82131,
+   82027,
+   81346,
+   80974,
+   80813,
+   77297,
+   76762,
+   76498,
+   76383,
+   69361,
+   67985,
+   67449
+  ],
+  "safety_ids": [
+   86199,
+   83815,
+   82804,
+   82131,
+   82027,
+   81346,
+   80974,
+   80813,
+   77297,
+   76762,
+   76498,
+   76383
+  ],
+  "category": "lokalni problem",
+  "review_note": "Ponavljajoč se blokiran prehod na šolski poti; #82027 predlaga trajne ovire. Odgovori navajajo ponovne nadzore in kazni brez potrditve trajne fizične rešitve. Izločeni sta #75766 in #76073, ki izrecno poimenujeta Mazijevo; bližina sama ne zadošča za združitev.",
+  "source_candidates": [
+   3
+  ],
+  "reviewed_hashes": {
+   "86199": "d31cfd10313465b3d230be2d3865cb62a630c370973274de8745eb0b0cab3873",
+   "84787": "b1490276f5adbf2e33f8b70d2805ac9b6cd17afeb2a68fd8db47ce9d34173242",
+   "83815": "8866cc9f81429ee9d54451d14725fc71f44bb394dfdde29dbba8c471165dd4b1",
+   "82804": "1391db3e3e1ead3327c4d61ebdff33b5c75e1b998cee5d59eb3349f8b8b35009",
+   "82131": "6000d9cc6184f78d0507868dc8c9824f80971dc1b75c91caf1ac6f6d408d95a0",
+   "82027": "e50cbf4bb1ce4cff1c493aeeb87d656534ea1591e11304dfcb4d68dea846d221",
+   "81346": "53f55998e06baab50dee5a5565361a44f4308828ea93133b1c0e4c7349161d0d",
+   "80974": "8d69fef8e6fdadb5e57128b2af6c89f1d02c2b0051fdd7c8db4a3add2fcab28d",
+   "80813": "081708ee6ea9fa57f36bdb820361503dbcb29c23538fe2067e0759cfd4baaded",
+   "77297": "d43572fbe7719664fc17aeb4269119f501fec93f870984d2355f1b69149d0089",
+   "76762": "b84069446c8c447d9754e90cf8448524cb67712b2403a3901c3abd4a0b5029c8",
+   "76498": "dea608fd24bdc954debea190dd2388218aed1855409fdac8ca3bf6d35c082553",
+   "76383": "673d965f5c856364561be2e43c19042b1c419fb3b3a44ccbd2aabc1090daf679",
+   "69361": "3abd8e33e5ed394408bff4ee5df5ac2531ebad7fcc605296cdab2380f3b9578e",
+   "67985": "730a248ced07903e6fcec168c40d28a61a4967d1e94828880e15db8fba5cd949",
+   "67449": "5f20af22808e88399a5925f83e05a8c0e0b3047b7a10221b3132cadfa3032481"
+  }
+ },
+ {
+  "name": "Grošljeva pri Bobi baru: ponavljajoče se poškodbe vozišča",
+  "ids": [
+   86824,
+   86823,
+   86694,
+   83490,
+   83331,
+   83146,
+   77363,
+   73369
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "#86824 in #86823 sta enaki objavi istega dne; število objav zato precenjuje število neodvisnih dogodkov. MOL je pri #77363 navedel naročeno sanacijo, septembra 2026 pa le preveritev in morebitne ukrepe. Gre za ponavljanje poškodb istega odseka, ne dokaz iste nepopravljene luknje skozi celotno obdobje. #77363 omenja tudi Šišensko.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "86824": "97cc3ba9e4b7b97632e29e98657613b91a25f4b08816f000cded3a51d9922425",
+   "86823": "97cc3ba9e4b7b97632e29e98657613b91a25f4b08816f000cded3a51d9922425",
+   "86694": "6f526de9aca80a629d02d8e3c71bf6decc004ee0ee96b3677e8a6aa513d87cf2",
+   "83490": "298b8e427192ba974a07b54a9dc18d64225b54162b5b06ba6b17b79b2867ad1e",
+   "83331": "eeea01f1dbd43970beec630aa6d5923c3d3899946e221fecf75f80b2e26dcb90",
+   "83146": "33a57ea2549f6cbea3cd2d1c9e5d83366f0a6a61f36ab5aaa43f8a3a02c42078",
+   "77363": "290a8dd78ef8ebb3579b625b1780b35299876b8871c79220dc928f82d7ab5f4d",
+   "73369": "999fd465a71d16e4c207beb7ca759abd37228a6224205bd5f50d071b8bf8d6dd"
+  }
+ },
+ {
+  "name": "Šišenska 12: globoke luknje na dovozu",
+  "ids": [
+   83489,
+   83147,
+   72569
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Pri #72569 je MOL leta 2024 navedel, da je zadeva urejena. Februarja 2026 sta novi prijavi na isti lokaciji, odgovora pa napovedujeta preveritev in morebitno sanacijo. Ponovitev po navedeni izvedbi; brez terenske potrditve sedanjega stanja.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "83489": "5f217f312dcef824ef14dcd6208cf16f4bd6b3d7921232dac1571c094039e50a",
+   "83147": "d2fce3e6804fc68bacb99f964c91425de909d1899cc04d0dc64ed4d65fa32aac",
+   "72569": "1b1b0cceeff5385d1bcfeb7d17f6c97de36c78fe9dc4c742d18b7266334630b2"
+  }
+ },
+ {
+  "name": "Podhod pri Kinu Šiška: razpadajoče stopnice",
+  "ids": [
+   83763,
+   83471,
+   52429,
+   18587,
+   12431
+  ],
+  "safety_ids": [
+   83763,
+   83471,
+   52429
+  ],
+  "category": "navedena izvedba",
+  "review_note": "MOL navaja sanacijo leta 2015 pri #12431 in ponovno izvedeno sanacijo stopnišča v najnovejšem odgovoru #83763. Gre za večkratno propadanje in vzdrževanje; zadnji odgovor potrjuje izvedbo, ne odprte težave. Stanje na terenu ni preverjeno.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "83763": "73624cf69c61c320b74fa02c3cd45c4d657245550b3021da58ea9e29a5806a54",
+   "83471": "bfaed4bc6d5592e6c8788676534b6776dd3c709446569a7c28b32554f2b2481c",
+   "52429": "70e3332d1866dc884e246c846582b3c6ccddb5bb65eee1d2ff22835f0313a211",
+   "18587": "a7520d02ca4f1450da0ef851126839078ea5231b5ecf1ace0840a3a753424b99",
+   "12431": "3b8d8836b3db526a8a9cd8b18bd6cbb917cb3fb1a36434f42b7297c09bfe5003"
+  }
+ },
+ {
+  "name": "Pasji park Koseze: poškodovana ograja in vrata",
+  "ids": [
+   84281,
+   75956,
+   75708,
+   75385,
+   65131,
+   46483,
+   36705,
+   34972
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Odgovori večkrat navajajo naročeno popravilo kljuk oziroma vrat, pri #36705 tudi izvedbo. Leta 2026 #84281 ponovno opisuje ograjo; MOL napoveduje celovito prenovo parka brez datuma. Druge težave parka niso samodejno dodane temu sklopu.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "84281": "5a0f9603ffe366a3d5bcc90a0d75b8c58edf96442b573ac3936b16bcd457cbc8",
+   "75956": "1d213e0dac63bdb51412923d5644f97702ebe0f9560b6b9d58c082266eed1c83",
+   "75708": "147da81a9fdb48d041980629c6a92767ca76aea77e90a8d2e595bf24ac9e208a",
+   "75385": "4a6b6c2f933c387575a53495f298e8ed32739deab294fb689db4c15edea8717e",
+   "65131": "7f86f07298070b62c8826f96dc6eb939fdc05b1d0179eb23f251f6bba22155d9",
+   "46483": "6d5802482a3ff094f11755923d5dd66ca246940fb79e07bb0a52909fcd2d5022",
+   "36705": "583710f3e04e69d7358b0616e16baa5dfaf84f503a0adf152c83ebf05f69980a",
+   "34972": "50c7b16ef24c64547ed75ca8e658ed08810dbff6a87aed25e958c1fed17fc044"
+  }
+ },
+ {
+  "name": "Podhod pri Aleji: zaprt in dotrajan prehod čez Celovško",
+  "ids": [
+   86696,
+   86107,
+   85802,
+   81890,
+   80733,
+   77994,
+   77782,
+   70384,
+   68995,
+   67377,
+   67248,
+   79272,
+   76958
+  ],
+  "safety_ids": [
+   81890,
+   80733,
+   76958
+  ],
+  "category": "lokalni problem",
+  "review_note": "MOL pri #81890 potrjuje zaprtje zaradi varnosti. Pri #80733 napove prenovo v 2026, pri #86107 in #86696 pa celovitejšo ureditev v prihodnjem letu (2027) ter že urejeno stopnišče. Vidna sta premik napovedi in delna sanacija; zadnji odgovor ne potrdi ponovnega odprtja. Vprašanja so vključena le kot kontekst ob drugih novejših izhodiščih.",
+  "source_candidates": [
+   9,
+   26
+  ],
+  "reviewed_hashes": {
+   "86696": "13b55b9370c8417e68015f8bd7d61970433f60ce2039c7b69163c3349308e1cf",
+   "86107": "b138a32628324c6eb972b210e376f9bfe52d5d4bb9e00ab47d6bc1fa7e2ac087",
+   "85802": "9b4ddb041aab2d6feb5cd9c43d06e0783ef7794ae6ed9a110b35784cdba48844",
+   "81890": "2a7b1d552a81421ed1ab6847a6a3f064276bbdf2a98bf1e56d113cfdacb50924",
+   "80733": "200d15d63938adbbc23c1d9a42c7e43269ce84ec5b251d3b77dbcfdded634c5d",
+   "77994": "1e27da406ccc7d06f231e3f101ceab213f374c8015810a8111a019a77253f1cc",
+   "77782": "709ac99da82c8a3a7f14f4c032fd4a2c0631141cfb3eae8d9ba733fa785bfbdf",
+   "70384": "1d66350fef973299e2f6684a243ecea80b49892fef1f0bfe659022be860f3a9a",
+   "68995": "865c8cce1a4ae2e16aec06c538bb7f03a7afd9d0ec341adfab9ea882c17d0565",
+   "67377": "f372b4f344d359f7357753cdd6b87c730699c585f71145da2cf70beef7317e41",
+   "67248": "5243f302d1f45b7289f4c9e883cdfaec09e476bb20969ea1c225bc27093395e3",
+   "79272": "d74705720ae8e32e4162a1046951ba64b2701e5598be30dcff3afc5612e97416",
+   "76958": "775309f871f5fb54b33948128b3693db46b54a9151b6f6d5a2ae530e2fb88b59"
+  }
+ },
+ {
+  "name": "Koseški bajer: ponavljajoče se nepluženje kolesarske povezave",
+  "ids": [
+   82815,
+   82663,
+   70514,
+   20576,
+   20573,
+   20569,
+   6349,
+   6320,
+   1189,
+   1124,
+   1047
+  ],
+  "safety_ids": [
+   82815,
+   82663,
+   70514,
+   1189
+  ],
+  "category": "lokalni problem",
+  "review_note": "Ponavljajoča se sezonska težava od 2010. Odgovor #1047 napove preučitev vključitve v plan za 2010/11; #6320 pravi, da je odsek v planu, #6349 in še #70514 v 2024 pa, da ni. Leta 2026 odgovori pojasnjujejo prioritete na ravni mesta brez jasnega odgovora za ta odsek. Dober kandidat za razjasnitev obsega koncesijskega vzdrževanja.",
+  "source_candidates": [
+   11
+  ],
+  "reviewed_hashes": {
+   "82815": "762017b143d1dd68da6083482c3132d10fff14bed3d43e06268808d4f0c83f59",
+   "82663": "3660ebb82f8a3f1e929b9a0a65c162e96c50cd475d9952f7aa8989a35540506f",
+   "70514": "c87808c1be13cd40e9590142437ecfd32ea7f280a77d1f323c3eb9d847932dc5",
+   "20576": "f45c699380eeda047a921f65385683a278e3b982c12456a705b0abaca970ae23",
+   "20573": "77bd015297f02f37a026b2eb72f2678f00944f80092d08b7239556b6a0a57ba1",
+   "20569": "2c187c003030f08a6ec640948e3a30d7efd2749545bf125ffc229fa8271cfc1d",
+   "6349": "5303093dde5d57ff35d3db6995b777f100f309faee1863c0f94e5b08f38f1213",
+   "6320": "117d42579b76441c57bd91065dd9160b96cb42f5aa8b565c3b2f73fe687c9a86",
+   "1189": "c7cd5ceff2da0a165debad0c0cff0e0a6105b07fe31011792415be922b79965b",
+   "1124": "f5bca007fe20cec9bc69d17803a0e032cef1e05e8e64b96ba83c6644af0f7864",
+   "1047": "1890b074bef1bdfa40619a261d7a8e521d26b34076c74ab508fb61daebf8f20b"
+  }
+ },
+ {
+  "name": "ZD Šiška: parkirišče ne zagotavlja dostopa pacientom",
+  "ids": [
+   77933,
+   75466,
+   35362,
+   35331,
+   35227,
+   22104
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Leta 2020 odgovori pri #35331 in #35362 omenjajo predlog modre cone, poslan OGDP. Pri #75466 zapornica ni predvidena, pri #77933 pa MOL preverja možnost ukrepov zaradi lastniških postopkov. Problem dostopa pacientov ostaja ponovno izpostavljen; teme zdravnikov in delovnega časa so izločene.",
+  "source_candidates": [
+   12
+  ],
+  "reviewed_hashes": {
+   "77933": "5fe748e8b30dfa2684fc490fd14da0dd121650a0786a29fb1defa53d3d7f5031",
+   "75466": "abf1211d75f07ecb5b24aa348b1a786f943a759b48af03f0ba6451dd08279924",
+   "35362": "1b9f54f5ddac91530b80ec80cbcdcbda715a5c3e9dc8e1f420d9420c897c14e0",
+   "35331": "b2cf98a1316f988c7384bfe69c99cbac69d4e3a75a336cb71ace8853deb10a89",
+   "35227": "62255407727585020083248385bfe150a841cdbc7fd32b28b3acb46e8081f763",
+   "22104": "755309e01998b9ffa01db82654333bbf698fabae8846abc3b23894a860958bcc"
+  }
+ },
+ {
+  "name": "Litostrojska–Celovška: zastoji zaradi skupnega pasu naravnost in desno",
+  "ids": [
+   81889,
+   81888,
+   78815,
+   54448,
+   25899,
+   22876,
+   17594,
+   14766
+  ],
+  "safety_ids": [
+   25899
+  ],
+  "category": "lokalni problem",
+  "review_note": "#81889 in #81888 sta enaki objavi istega dne. Najnovejši odgovor napoveduje podaljšanje zavijalnega pasu v rekonstrukciji Litostrojske, brez roka izvedbe. Starejši odgovori spremembe zavračajo oziroma utemeljujejo dva leva pasova z avtobusi. Težišče je pretočnost, manj neposredno varnost pešcev.",
+  "source_candidates": [
+   13
+  ],
+  "reviewed_hashes": {
+   "81889": "aec51c969075a9a5cf5451ea09de48de155f5cc1968a0b588acd9f18da5bd99b",
+   "81888": "aec51c969075a9a5cf5451ea09de48de155f5cc1968a0b588acd9f18da5bd99b",
+   "78815": "dc99ffc81bb9bfd923fd0b7de61f6e2c4e118cb95816089b237809b96b503f22",
+   "54448": "48ece72aac59ed9f497bc389d194be86d477e929df162e1c7654234e02a3dc26",
+   "25899": "9637731dd2ecc95c1ec5c7a6783e3b3054f9848468194f29180947df8042dbb8",
+   "22876": "ff8be13b1fcc3477b5231c102ac91068c16f837b7a627ce18974e1968c57cdcd",
+   "17594": "5d562a0fde7174a82e0d9dcf6c3c5ba3f3d6b46b0144d0d24d47fa8a8893eb9e",
+   "14766": "fb05a13ce637a37a446085b7faa04080715e197715751b8b26fefca3b70ab941"
+  }
+ },
+ {
+  "name": "Litostrojska: zaparkiran pločnik na šolski poti",
+  "ids": [
+   75757,
+   75113,
+   70106,
+   68125,
+   66347,
+   65699,
+   49893,
+   49757
+  ],
+  "safety_ids": [
+   70106,
+   68125,
+   66347,
+   65699,
+   49757
+  ],
+  "category": "lokalni problem",
+  "review_note": "Isti pločnik na šolski poti, ne zbir posameznih vozil. #65699 predlaga količke. MOL navaja redne nadzore in številne kazni, poznejše pobude pa nadaljevanje blokade. #75757 ostane pri prošnji za točno lokacijo. Trajna zaščita v pregledanih odgovorih ni potrjena.",
+  "source_candidates": [
+   15
+  ],
+  "reviewed_hashes": {
+   "75757": "08021bbef153c87fc569c9b1341e8dfe2359bb64fd4ca8173aeb5bb815b66d7f",
+   "75113": "f9f0d8c09af0c7bccb20396e967f1f4627e250a3cf6a2d8cc1cec5cdc51c12bd",
+   "70106": "9967b2c1468f13694f42ab0434cb7e08449cdcdabca68604af2847b748148088",
+   "68125": "3b24e423a9be8c71ada44cf6ea39ead33d18bfab48575dd7d2148b3ef798b759",
+   "66347": "504359fe63cf1ebf8b255c860dc056b13680f48e5f3965cf346c4c051360e684",
+   "65699": "fd6dd9e655047d1e97a286d40305f2f7375d35aba9aab146b2584ab372e2be0c",
+   "49893": "6b45e12193df834b4d00586bd2d4f1f070eea6f20cbc935a39cdc493b35f7d68",
+   "49757": "4e36d40d7f4afc360b872e91735d74d9488bd38178df9656a8f6d2278caf99af"
+  }
+ },
+ {
+  "name": "Obirska–Hotimirova: vozila zakrivajo prehod in preglednost",
+  "ids": [
+   76245,
+   76149,
+   71463,
+   64076,
+   12694
+  ],
+  "safety_ids": [
+   76245,
+   76149,
+   71463,
+   64076,
+   12694
+  ],
+  "category": "lokalni problem",
+  "review_note": "#76245 opisuje skorajšnji trk z otroškim vozičkom, #71463 zahteva preglednejši prehod. Odgovori potrjujejo periodične nadzore; OGDP navaja ustreznost signalizacije in možnost dodatnih oznak. #12694 obravnava širši odsek, ostale pobude konkretno križišče. Izločeni zapuščeno vozilo in splošni režim dvosmernosti.",
+  "source_candidates": [
+   17
+  ],
+  "reviewed_hashes": {
+   "76245": "c45e480fa1b2d1b4fb3b9559450a28e3422a82630cbb03221c4e82c49e6b705f",
+   "76149": "36c842fedd67f9369f410003d5f058e6df37c7f1a0700fe6dca30d2373ffeb27",
+   "71463": "47782fc01a8af7dfe595deecee8238a3885ae222f347dadfed34e3ce38d7a58f",
+   "64076": "42428741b75541c75b7120f9e0bab95b802320253e6fb0695500e8ea18ae8b48",
+   "12694": "b2e1a97d3e2a13b7b10dc0feefd42cb5d248c86e5b94ab9a0ea45a9d698f6837"
+  }
+ },
+ {
+  "name": "Mostec pri Večni poti: avtomobili na poti za pešce in kolesarje",
+  "ids": [
+   87049,
+   72467,
+   52533,
+   47604,
+   17903,
+   16097,
+   2503
+  ],
+  "safety_ids": [
+   17903,
+   47604,
+   87049
+  ],
+  "category": "širši mestni doseg",
+  "review_note": "Problem je dostop avtomobilov na rekreacijsko pot in oviranje pešcev, ne parkirišče za obiskovalce samo po sebi. Že #17903 omenja predlog ureditve; #52533 pove, da zapornic ne obravnavajo, #72467 pa iskanje rešitve. Zadnji odgovor napove nadzor. Širši mestni doseg in nižja prioriteta za lokalce kot šolske poti.",
+  "source_candidates": [
+   18
+  ],
+  "reviewed_hashes": {
+   "87049": "68bc9ffea6326d8a0c207e6378fe6cc63601db3db361e5bb048e5e71b223e951",
+   "72467": "57ab18788ad04788b9b11e0059ba4a68183ae21cacf48078716acfc6ec01dd76",
+   "52533": "5282d380c50c89297c42451651a3a0e96fca509dba51a1654d0231ce9fd962b6",
+   "47604": "5a9c5f75ad9042b4b2e03f35461eed3ef932a84beeb5d4eea3802c2fd8760fb0",
+   "17903": "84e48c54152c15e6fe06519360f9435269a2cbe645d2aeefcb58d7116e0b0849",
+   "16097": "edf1137a76b4681c125a3e094530b3cd62eda78ba757030f0daeb1665f15c009",
+   "2503": "b6353606cb89fb37483e22471640f3caa765f8f0c076d0ecdab1ee4f710aa53d"
+  }
+ },
+ {
+  "name": "Celovška 163: blokiran dostop intervencijskih vozil",
+  "ids": [
+   86260,
+   84812,
+   84081,
+   83943,
+   82404,
+   81930
+  ],
+  "safety_ids": [
+   86260,
+   84812,
+   84081,
+   83943,
+   82404,
+   81930
+  ],
+  "category": "lokalni problem",
+  "review_note": "Šest objav od novembra 2025 do avgusta 2026 opisuje isto intervencijsko pot. Večletno trajanje je navedba občana, ne večletni razpon teh objav. Pri #81930 MOL ocenjuje pot kot prehodno in navaja odsotnost uradnih prijav intervencijskih služb; pri #86260 dodatne zapore zavrača zaradi dostave. Pobude temu nasprotujejo; potreben je terenski preizkus dostopa in uskladitev dostave z varnostjo stanovalcev.",
+  "source_candidates": [
+   21
+  ],
+  "reviewed_hashes": {
+   "86260": "185ee8a0aca1248ee092149e087b9bdb5a0217bec20430e46a9780d4498f0511",
+   "84812": "8c21d7df2c4864fe9187498839ff0eb2a127ab9006c78a053ccc4d5fde24bd10",
+   "84081": "9c8a358a0719db2b75e1a321b2af63ec3e2523a159fc163ccc85aeefeef5b13c",
+   "83943": "d56782a0c791fbe38e80b6028fa0c25f54f411c6caed765d874d172cc6d57376",
+   "82404": "2f5c81de1e22cae9dfb941966a2b99fc38800127c6b865770f01ca4bed8f00c5",
+   "81930": "34234fb83bf8667bcacf39f13e4e427119d59293ef4a8193003f2f0e7e9e9ed2"
+  }
+ },
+ {
+  "name": "Mazijeva pri OŠ Spodnja Šiška: neuporabno območje Poljubi in odpelji",
+  "ids": [
+   86829,
+   86223,
+   83952,
+   83467,
+   82999,
+   82743
+  ],
+  "safety_ids": [
+   86223,
+   83952,
+   83467,
+   82743
+  ],
+  "category": "lokalni problem",
+  "review_note": "#86223 navaja otroke, odložene sredi ceste; #82743 nevaren prometni kaos. Odgovori napovedujejo nadzor in preveritev oziroma obnovo talnih označb, izvedbe ne potrjujejo. Nekateri zapisi omenjajo tudi Maurerjevo; skupina je osredotočena na območje pred šolo.",
+  "source_candidates": [
+   22
+  ],
+  "reviewed_hashes": {
+   "86829": "99b9fd6dc94d5c421d7001e5b0a8712c3dc1a2381363262ea21a167702fb042f",
+   "86223": "4422618c39e645bffab85e327016c777cabf39c83b8177b2854c4a1d5440198e",
+   "83952": "d893d012deb27d98e3b559b9ac68cb21223806b3afe79fe1e096036952496b8d",
+   "83467": "47bfc3dbe114220160f9ab67be6e3389e5e9d070517c395d66cc3467715a9b0e",
+   "82999": "d9123dbb1a88e3e3086ca94a93141c5f3651f7c11e33aa1a9201e09149513c29",
+   "82743": "81bbce39474e966811fc310853fca217f808b232cb022b257aa0769fd3c5b071"
+  }
+ },
+ {
+  "name": "PST ob Litostrojski: vožnja avtomobilov in parkiranje v drevoredu",
+  "ids": [
+   84144,
+   83613,
+   79542,
+   62625,
+   61611,
+   61272
+  ],
+  "safety_ids": [
+   84144,
+   83613,
+   79542,
+   61611
+  ],
+  "category": "lokalni problem",
+  "review_note": "Isti odsek PST med Litostrojsko in Verovškovo; pešci se umikajo avtomobilom, izpostavljena sta poškodovana podlaga in drevored. MOL pri #61611 potrjuje prepoved vožnje, pri #79542 napove iskanje rešitve, novejši odgovori ostanejo pri nadzoru. Trajna ureditev dostopa ni potrjena.",
+  "source_candidates": [
+   23
+  ],
+  "reviewed_hashes": {
+   "84144": "f707c823d7d78f61c0d2c67be23d865b441f6cb559f0a738e3e889f81b3f3f44",
+   "83613": "22f4a41e92605d918a5acd16d8cdc3625b6e1b3a1d31622e462e7c017cb010d1",
+   "79542": "a4e9e494250c2381d4bf552741b69f3ed33164ba28eda7b735dcc13e525ad9b2",
+   "62625": "37ef08c14f4c6c1574db568bf73b51a50f48f0a103d973e137d529c9de0b0eea",
+   "61611": "f7e0e6409020ba46b82977bf59959b5cfd59cf4f47c2a02a5ec3652113ba6083",
+   "61272": "bb4f73fe6d0fb97cd938f3c2dee26da236f2fafebfae503d612beaa688ea65ff"
+  }
+ },
+ {
+  "name": "Podutiška pri prehodu za pešce: neuporabno prometno ogledalo",
+  "ids": [
+   85284,
+   79463,
+   63873
+  ],
+  "safety_ids": [
+   85284,
+   63873
+  ],
+  "category": "lokalni problem",
+  "review_note": "Ločeno od ogledala za izvoz garaž. #63873 zahteva pomoč pri nevarnem prečkanju, #79463 sprašuje o uporabnosti, #85284 opiše napačno usmeritev. MOL najprej navaja, da ogledala ni postavil, nato napove preveritev in prilagoditev. Izvedba ni potrjena.",
+  "source_candidates": [
+   24
+  ],
+  "reviewed_hashes": {
+   "85284": "40d4a4ee03020af1242a959766f6bfe9ad619f2bc53eb9bb16e67b991f814460",
+   "79463": "433177be6622baf16e5841f0be91c697f9a95f8d3123003f475e10dbdf550e2c",
+   "63873": "5214fad9a0596a3e691e7513d60b6c3fb2b86153fca33d2be7481b944f8f35a8"
+  }
+ },
+ {
+  "name": "Podutiška–Ulica bratov Učakar: nepregleden izvoz pri garažah",
+  "ids": [
+   80169,
+   78007,
+   67043
+  ],
+  "safety_ids": [
+   67043,
+   78007
+  ],
+  "category": "navedena izvedba",
+  "review_note": "Ločeno od ogledala za pešce. Zadnji odgovor pri #80169 potrjuje zamenjavo ogledala konec avgusta 2025. Predhodna prijava #78007 opisuje poškodbo, #67043 pa potrebo po ogledalu za preglednost. Po navedbi MOL izvedeno; poznejše ponovitve v tej skupini ni.",
+  "source_candidates": [
+   24
+  ],
+  "reviewed_hashes": {
+   "80169": "f83975c75196c26c69151fc0a13489f3dbb74aa4920e45a5f92f66d51f376ecb",
+   "78007": "5c14df7d110d5b85fa879b2276175373e96985a860b4ebcc77ef9a9fbf025df7",
+   "67043": "394e686b8f1b49f59791242f5a1a2a1d635a06261d51758f816c9d6fc48fcf25"
+  }
+ },
+ {
+  "name": "Celovška–Rakuševa: varnost levega zavoja in režim opozorilne puščice",
+  "ids": [
+   76233,
+   36335,
+   20316
+  ],
+  "safety_ids": [
+   76233,
+   36335
+  ],
+  "category": "lokalni problem",
+  "review_note": "MOL pri #76233 pojasni, da opozorilna luč deluje le ob zaznani gostoti v določenem programu, ne da je žarnica pokvarjena. Starejša zapisa zahtevata pomoč pri levem zavijanju na Rakuševo. Gre za ponavljajoč se problem razumljivosti oziroma varnosti režima; delovanje in potrebo po spremembi je treba preveriti v konicah.",
+  "source_candidates": [
+   26
+  ],
+  "reviewed_hashes": {
+   "76233": "40d735e45a5b0285d5ef31829f12c0b9acf921922b55927a7797c982ade50960",
+   "36335": "31dba850ed7423f60c5da82d9acea9b478eb85aad5f06b8f0986b5bf65068234",
+   "20316": "57b69dd15529753a399c43e1766425baf2b69d60f8198fb9d454d415fedf3592"
+  }
+ },
+ {
+  "name": "Scopolijeva–Sternenova: pešci in šolarji prisiljeni na vozišče",
+  "ids": [
+   79124,
+   77541,
+   71390
+  ],
+  "safety_ids": [
+   79124,
+   77541,
+   71390
+  ],
+  "category": "lokalni problem",
+  "review_note": "Pobude opisujejo otroke na vozišču zaradi neprehodnega pločnika na Scopolijevi pri Sternenovi ter zahtevajo fizično zaščito. Vsi trije odgovori ostanejo pri preveritvi in ukrepanju brez potrjene izvedbe.",
+  "source_candidates": [
+   70
+  ],
+  "reviewed_hashes": {
+   "79124": "e35ce9bcca3c7a4384c0f0d87bada4b134584d6f0956b5f6b983c7b5a6457f51",
+   "77541": "fb450bcf44d17d10ee2a66274d720e186c0c75199e4b90227eba5dbe313a6a76",
+   "71390": "f7de2aa091d934656c284a5773a1fb0d04f237b86a09307e3f1e85be9cad454f"
+  }
+ },
+ {
+  "name": "Kolesarska pot ob gradnji Corwin: nesanirana poškodovana povezava",
+  "ids": [
+   85572,
+   80498,
+   75017
+  ],
+  "safety_ids": [
+   75017
+  ],
+  "category": "lokalni problem",
+  "review_note": "Zapisi v 2024, 2025 in 2026 opisujejo nesanirano isto kolesarsko pot. Odgovori preidejo od inšpekcijske obravnave na preverjanje lastništva, nato odgovornosti izvajalca oziroma investitorja. Izvedba sanacije ni potrjena. Navedbe o lastništvu in postopku uporabnega dovoljenja so trditve pobudnika, ne neodvisno preverjena dejstva.",
+  "source_candidates": [
+   72
+  ],
+  "reviewed_hashes": {
+   "85572": "b46a30e0c184b42ed1475c46aa06bff6649b39e7860cb1096c534fc2d1e59b94",
+   "80498": "402df9be223c029f72b707644d5b8bc2bf5fdddf83abab034b47cbc2b4d21288",
+   "75017": "2cf44001bf03f7f9c208d8e229c45f97b2037ba7b1caa59032db99bee1145aa9"
+  }
+ },
+ {
+  "name": "Večna pot pri bajerju: manjkajoč varen prehod za pešce",
+  "ids": [
+   86331,
+   58078,
+   13300
+  ],
+  "safety_ids": [
+   86331,
+   58078,
+   13300
+  ],
+  "category": "lokalni problem",
+  "review_note": "Leta 2015 MOL napove posredovanje ČS in dokumentacijo ob uvrstitvi med prioritete. Leta 2022 pojasni potrebo po gradbenih posegih; v 2026 prehoda ne načrtuje zaradi preglednosti. Varnostne potrebe povezave niso rešene že s predlogom zebre; potreben je varen način prečkanja z ustrezno prometno rešitvijo.",
+  "source_candidates": [
+   78
+  ],
+  "reviewed_hashes": {
+   "86331": "f956135b70326fe3a9b401d80090bb62712ef1c70a3ce580d3b62fb52f7bb845",
+   "58078": "cab9b8662f8a05e626e3177e2c0fa6d4ad095af25043b219c60238673e4bd21c",
+   "13300": "86dff494e10d528aae729406a2aadbcd012b71c13dd8c5ba0f9ef3bce2361506"
+  }
+ },
+ {
+  "name": "Zatišje: manjkajoč pločnik med Adamičevo in Kavadarsko",
+  "ids": [
+   86640,
+   40905,
+   17554
+  ],
+  "safety_ids": [
+   40905,
+   17554
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 se ponavlja potreba po pločniku na istem odseku. Prvi odgovor omenja neurejeno lastništvo, leta 2021 ustreznost cone 30, leta 2026 pa odsotnost načrta in obstoječe površine na drugi strani. Občan opisuje prisilno hojo po vozišču. Potrebna je preveritev neprekinjenosti dejanske pešpoti, ne le veljavnega režima.",
+  "source_candidates": [
+   80
+  ],
+  "reviewed_hashes": {
+   "86640": "a28403117ea07b3c32298fcc63d49963a842f6b004b04da36b7f1d5011eefde6",
+   "40905": "c33a94a836e03c6b2fe8a767ae5c542e4feba1007ec14533a5e7c4c8860a48b8",
+   "17554": "14ed27f8a30f30f0d7f5fb36e62fb039fddfd711a969d567fa1e04246a5cdb40"
+  }
+ },
+ {
+  "name": "Ob Žici: zapuščena vozila na parkirišču",
+  "ids": [
+   85270,
+   84010,
+   83135,
+   79900,
+   78270,
+   77295,
+   76115,
+   76111,
+   64652,
+   63651,
+   63229,
+   12838
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2015 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (12 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   7
+  ],
+  "reviewed_hashes": {
+   "85270": "1dd376d69badeb107874e9c59eabd37fa137f589c5e72552c58601d5c8fd261f",
+   "84010": "eee1d1796b84648f2c3a73ea1d45887264f11e24e89ec506629fc49abd588c01",
+   "83135": "128c43d59bd8344a42f636a5402941db8325d6b282ce7a28cb7df30fec2c4802",
+   "79900": "c61aea8a201c9de3dcf6ab0750515ab9cb95cbe2e55bd2bd0b6124df6fd9043e",
+   "78270": "b4dd80645a46a38577f1b43dae52a4ba431dfda80b03081b16024b3aba94f33a",
+   "77295": "47bc3ef07445b4b1e8acb08b79b6c39fc0accddb241e103d338b4bcf13b5ddc9",
+   "76115": "7691356e56cdedf6b6d09e3beaaf4a2b825219b4aad48395eb2c4c17233a2e58",
+   "76111": "388a31a81d45983418cca2fec0aeda58332b21b4f3ac67f8b2de46080055d451",
+   "64652": "f66afef4465c879bb647b2a475749bc65ab960abd41b6671631faab4c4017f6b",
+   "63651": "ec9206ccb061f5141623400370a22ab5503f9b7a76a5a7a50f16e562d067619c",
+   "63229": "8f5636c36a037bb9f969b26b5ed42c69ce75f7c2dacf83eada35b4577f251146",
+   "12838": "69ec14651a7e0db3eb66f08e504c4551cb5cfdd8d5b4bb4484797fefeed732dd"
+  }
+ },
+ {
+  "name": "Zapuščena vozila na označenem parkirišču (46.0704 N, 14.4889 E)",
+  "ids": [
+   82883,
+   81315,
+   74207,
+   64979,
+   64778,
+   59586,
+   43527,
+   37786
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2020 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (8 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   16
+  ],
+  "reviewed_hashes": {
+   "82883": "412b7ab7e58dcbf82832dc6cb6c967e0cf61313f01e8cb663df5ab0d227238da",
+   "81315": "10f863ea2872f9196ecf32f4226d04a0ae2141a924e748b7bff12907b01d701d",
+   "74207": "e4f38613e52509b67d520bbe4d83c5474b6846098f7345072f56744c491de4e6",
+   "64979": "491a8f1e6d8fc50b0f3184a36826717209a1f41ef3005ac25b50796ed990b2a2",
+   "64778": "87bdd20523dae2271260a507f68c6990f8f24d6a81b0d714b885f1fced612c3f",
+   "59586": "7bb1b10acd28c2fcbf224339e1b4ce394776ab915f9bdfb9f7220f6b24d09c35",
+   "43527": "e31087454c7f2661e1a3fa4c1077e73e29517fde540721299828bd089a742d1b",
+   "37786": "0f1ee41ded897d0a486ff5b908574fe8899911fdd0b0ede312685eda67a6aa78"
+  }
+ },
+ {
+  "name": "Milana Majcna in Kavškova ulica: zapuščena vozila",
+  "ids": [
+   75404,
+   71388,
+   47469,
+   23810,
+   20888,
+   8641,
+   6248
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2013 do 2024 ponavljajo prijave neregistriranih ali zapuščenih vozil (7 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   19
+  ],
+  "reviewed_hashes": {
+   "75404": "913c79a28202f4774517f1a0cd7e5da7288f2676cce173a955190ea0aa780f63",
+   "71388": "9ad679f1b819670cde0aa9d3f43c35bb6f3628ff1a3457b8652a75574078a9c9",
+   "47469": "c26d08158351a8c959bf37b4969c9f3541e4eeeadd9bb1fa58242a0334c702ac",
+   "23810": "a11c8caba00f6b66716be86f21aaa03e6e624459e630c1431fcb281cdd51ad1d",
+   "20888": "d8411648e90c5b6fa4e4d90c8273a70e5304ddf9da3cc5263b52bfd4507ccc13",
+   "8641": "d4fd52f2cb042a9cfe1dfaca2bea7dcdcce7296bd7c673dc28263455bfd6fefb",
+   "6248": "87ebd9af59f7fb95273961fa9f2b2452b4d4428aaf4f340ed89bfa62ef892211"
+  }
+ },
+ {
+  "name": "Šišenska cesta: zapuščeno vozilo na parkirišču",
+  "ids": [
+   81582,
+   81468,
+   64885,
+   32488,
+   16192
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2016 do 2025 ponavljajo prijave neregistriranih ali zapuščenih vozil (5 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   32
+  ],
+  "reviewed_hashes": {
+   "81582": "6911af31d9e3bfbe2ea7f6a97897033e36a8a6c52a40c29f03c39b85bf3d742f",
+   "81468": "4134571d12808a01ee50e9aaf908d9475f4bca8490d43faee3f7faae23212d8b",
+   "64885": "8b560e28bee722236f8e8db11ec128b86e9428f708a36f9c4d69f7e17939215e",
+   "32488": "461520f663684c3d9aee44fd14ff40ccf94659f9e55f427ea8151374a9252783",
+   "16192": "81b45def26d36b689c7447dbee9992afe118b6d72e8088f2a9fd3a0d445b6dd7"
+  }
+ },
+ {
+  "name": "Martina Krpana in Šišenska: zapuščena vozila ob blokih",
+  "ids": [
+   84748,
+   83046,
+   82632,
+   31522
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2019 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (4 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   53
+  ],
+  "reviewed_hashes": {
+   "84748": "437621885fc1a1edd9e9cdee81b97ee9ca91ffa6a08d3dada1584406bd2916bd",
+   "83046": "66a9a1095a5210cfbf870799cb2e4af7f6f53905556f02667226b347598ca5cb",
+   "82632": "a214959eb686faf74d89a0b62d3136917defe077067c695f70f59018d697319f",
+   "31522": "b3ffe594eab065c3b040cb9a1c90afe0a1eaea2bd76b680a0044e0e8dffc29c0"
+  }
+ },
+ {
+  "name": "Zapuščena vozila na označenem parkirišču (46.0753 N, 14.4822 E)",
+  "ids": [
+   85686,
+   68628,
+   28704
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Na istem mestu se od 2019 do 2026 ponavljajo prijave neregistriranih ali zapuščenih vozil (3 pobud, večinoma različna vozila). Mestno redarstvo običajno odgovori, da bo preverilo ali da vozilo že obravnava po zakonu o pravilih cestnega prometa. Po navodilu uporabnika se ponavljajoče se prijave na istem mestu štejejo za isto težavo.",
+  "source_candidates": [
+   69
+  ],
+  "reviewed_hashes": {
+   "85686": "d63d37aa096762137ef3a6e9eeadeb9680f283f8a103953e59ec290f97a1de8c",
+   "68628": "39186615bb34557ea7e3367b54d8b3ba7483a8d41381d145990a68dc7a638c58",
+   "28704": "1beedb53ac8bec0c35724bb8e5de079aca947744ddb319a5d0fcc868ac8f0d9e"
+  }
+ }
 ]

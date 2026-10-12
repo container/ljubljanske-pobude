@@ -1,0 +1,174 @@
+
+GROUP 1: 53 records, 31 recent seeds, 2019-07-25–2026-09-11
+86602* 2026-09-11 Ponovna prijava
+86177* 2026-08-23 Zapuščeno vozilo
+86172* 2026-08-23 Zapuščeno vozilo 
+85747* 2026-07-20 Neregistrirano vozilo 
+85746* 2026-07-20 Neregistrirano vozilo
+85515* 2026-07-06 Neregistrirano vozilo
+85514* 2026-07-06 Neregistrirana dostavna vozila
+85442* 2026-07-02 Neregistrirano vozilo 
+85429* 2026-07-01 Večkratna kontrola
+85426* 2026-07-01 Neregistrirano vozilo 
+84452* 2026-05-03 Neregistrirano vozilo
+84451* 2026-05-03 Neregistrirano vozilo 
+84450* 2026-05-03 Neregistriranih vozilo
+83960* 2026-03-27 Odrabljeno vozilo
+81636* 2025-10-24 Neregistrirano vozilo
+81614* 2025-10-23 Neregistrirano vozilo? 
+81613* 2025-10-23 Neregistrirano vozilo? 
+81612* 2025-10-23 Neregistrirano vozilo
+81236* 2025-09-30 Parkirni prostori
+81235* 2025-09-30 Sprostimo parkirni prostor
+79885* 2025-07-16 Odrabljeno vozilo
+79234* 2025-06-10 Odsluženo vozilo
+79233* 2025-06-10 Odsluženo vozilo
+78045* 2025-04-09 Odrabljeno vozilo
+78044* 2025-04-09 Odsluženo vozilo
+77710* 2025-03-25 Neregistrirano vozilo
+77157* 2025-02-24 Odrabljeno vozilo
+77007* 2025-02-13 Tovorno vozilo
+77006* 2025-02-13 Neregistrirana vozila
+76828* 2025-02-04 Neregistrirano vozilo
+76771* 2025-01-31 Neregistrirano vozilo
+74856  2024-09-29 Neregistrirano vozilo
+74855  2024-09-29 Neregistrirano vozilo
+74854  2024-09-29 Neregistrirano vozilo
+74252  2024-08-29 Nepravilno parkirano vozilo
+74065  2024-08-20 Neregistrirano vozilo
+74064  2024-08-20 Odsluženo vozilo
+74045  2024-08-20 Nepravilno parkirani vozilo
+74022  2024-08-18 Tovorna vozila
+74021  2024-08-18 Neregistrirano vozilo
+74020  2024-08-18 Neregistrirano vozilo
+67095  2023-09-21 Neregistrirano vozilo
+66848  2023-09-14 Neregistrirano vozilo
+66289  2023-08-30 Odrabljeno vozilo
+65797  2023-08-15 Odrabljeno vozilo
+62875  2023-05-11 Odsluženo vozilo
+62524  2023-04-25 Zapuščeno vozilo
+62443  2023-04-23 Zapuščeno vozilo
+62442  2023-04-23 Zapuščeno vozilo
+62435  2023-04-23 Zapuščeno vozilo
+62434  2023-04-23 Zapuščeno vozilo
+62432  2023-04-23 Odstranitev vozila
+30313  2019-07-25 Zapuščeno vozilo
+
+GROUP 2: 8 records, 1 recent seeds, 2020-12-22–2025-06-26
+79560* 2025-06-26 Odvoz zapuščenega vozila
+75027  2024-10-08 Zapuščeno vozilo
+60281  2023-01-18 Odvoz vozila
+50550  2022-01-30 Zapuščeno vozilo
+50024  2021-12-31 Zapuščeno vozilo
+45182  2021-06-29 Odvoz zapuščenega vozila
+43904  2021-05-12 Odvoz zapuščenega vozila
+40668  2020-12-22 Zapuščeno vozilo
+
+GROUP 3: 7 records, 3 recent seeds, 2018-08-28–2026-09-22
+86826* 2026-09-22 Linija 24 do PR Letališka
+86825* 2026-09-22 Postajališče BicikeLJ na Letališki cesti
+85846* 2026-07-28 BicikeLJ postaja
+73389  2024-07-01 Postajališče BicikeLJ
+31510  2019-09-11 Predlog postajališča Bicikelj Letališka
+30345  2019-07-26 Predlog za novo postajo BicikeLJ
+23297  2018-08-28 BicikeLJ postajališče
+
+GROUP 4: 7 records, 5 recent seeds, 2013-10-28–2026-04-14
+84188* 2026-04-14 Križišče Šmartinska - Flajšmanova
+83755* 2026-03-13 Semafor smartinska flajsmanova
+83742* 2026-03-12 Zastoji Flajšmanova-Šmartinska
+83153* 2026-02-04 NEMOGOČE ZAVIJANJE LEVO NA ŠMARTINKO
+82518* 2025-12-23 Semaforji Flajšmanova-Šmartinska
+8153  2013-11-04 Križišče Flajšmanova - Šmartinska -2
+8109  2013-10-28 Križišče Flajšmanova - Šmartinska
+
+GROUP 5: 6 records, 2 recent seeds, 2021-09-16–2025-09-08
+80750* 2025-09-08 Pometanje ulice
+78671* 2025-05-16 Čiščenje ulice
+73643  2024-07-19 Pometanje ulice
+66769  2023-09-12 Čiščenje ulice
+66698  2023-09-10 Čiščenje ulice
+47166  2021-09-16 Ureditev ulice
+
+GROUP 6: 6 records, 6 recent seeds, 2025-06-01–2026-01-21
+82935* 2026-01-21 Prometna signalizacija
+81441* 2025-10-14 Ureditev signalizacije
+79689* 2025-07-03 Uredite signalizacije
+79604* 2025-06-29 Sprememba signalizacije
+79257* 2025-06-11 Ureditev prometne signalizacije
+78996* 2025-06-01 Sprememba signalizacije
+
+GROUP 7: 6 records, 1 recent seeds, 2013-05-13–2026-04-27
+84400* 2026-04-27 Šmartinski park
+73409  2024-07-02 Šmartinski park
+71363  2024-03-08 Šmartinski park
+21082  2018-04-09 Šmartinski park
+16522  2016-11-17 ŠMARTINSKI PARK
+6846  2013-05-13 Šmartinski park
+
+GROUP 8: 5 records, 3 recent seeds, 2018-06-30–2026-09-30
+86984* 2026-09-30 TRAJNA sanacija ropotajočega pokrova!
+85814* 2026-07-25 Ropot pokrova jaska
+85454* 2026-07-02 Ropot pokrova na cesti
+68867  2023-11-20 Pokrov znova ropota po sanaciji
+22183  2018-06-30 Ropot
+
+GROUP 9: 5 records, 1 recent seeds, 2021-03-10–2025-07-14
+79842* 2025-07-14 Otroško igrišče
+72122  2024-04-16 Otroško igrišče
+63338  2023-05-26 Otroško igrišče
+57098  2022-09-14 Otroško igrišče
+42166  2021-03-10 Otroško igrišče
+
+GROUP 10: 4 records, 3 recent seeds, 2023-04-14–2025-09-01
+80621* 2025-09-01 Popravilo odtoka in sanacija površine
+79268* 2025-06-12 Sanacija površine
+78504* 2025-05-08 Asfaltiranje po gradbenih delih
+62221  2023-04-14 SANACIJA PEŠ POTI
+
+GROUP 11: 4 records, 1 recent seeds, 2012-09-12–2025-12-15
+82371* 2025-12-15 Prehod čez Flajšmanovo
+47172  2021-09-16 Flajšmanova
+12828  2015-08-20 Flajšmanova - sanacija asfalta
+5593  2012-09-12 Flajšmanova
+
+GROUP 12: 4 records, 1 recent seeds, 2014-11-04–2025-09-16
+80894* 2025-09-16 Sneberje
+47672  2021-10-03 Sneberje
+40551  2020-12-13 Sneberje
+10733  2014-11-04 Sneberska
+
+GROUP 13: 3 records, 1 recent seeds, 2023-06-10–2024-12-28
+76235* 2024-12-28 Obrez dreves
+69920  2024-01-02 Obrez
+63895  2023-06-10 Obrez dreves 
+
+GROUP 14: 3 records, 2 recent seeds, 2023-07-04–2025-04-23
+78301* 2025-04-23 Cestišče popravilo 
+76236* 2024-12-28 Čiščenje odtoka
+64574  2023-07-04 Čiščenje odtoka 
+
+GROUP 15: 3 records, 2 recent seeds, 2024-01-10–2026-09-30
+86985* 2026-09-30 Radar na križišče Šmartinska in Kajuhova
+75356* 2024-10-28 Kamere za nadzor nad vožnjo v rdečo
+70193  2024-01-10 Večja kontrola nad vožnjo v rdečo
+
+GROUP 16: 3 records, 2 recent seeds, 2024-10-11–2026-10-02
+87015* 2026-10-02 Odstranitev neregistriranega vozila
+78630* 2025-05-15 Vozilo brez registrskih tablic
+75080  2024-10-11 Parkiran avto brez registrskih tablic
+
+GROUP 17: 3 records, 1 recent seeds, 2022-01-08–2026-03-04
+83588* 2026-03-04 Nevarno in nepregledno krizisce
+69225  2023-12-02 Ogledalo za kolesarje
+50145  2022-01-08 Nepreglednost
+
+GROUP 18: 3 records, 2 recent seeds, 2019-03-13–2026-08-24
+86198* 2026-08-24 Sprememba prometnega režima
+82370* 2025-12-14 Puščica za desno
+27374  2019-03-13 Dodaten pas za zavijanje desno Sneberje
+
+GROUP 19: 3 records, 1 recent seeds, 2017-09-27–2026-09-07
+86527* 2026-09-07 Kanali ropotajo
+25064  2018-11-04 Kanalizacijski pokrov ropota
+19387  2017-09-27 Ropota pokrov kanalizacije?

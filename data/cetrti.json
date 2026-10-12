@@ -54,10 +54,9 @@
   "ime": "Moste",
   "kje": "v Mostah",
   "oznaka": "MOSTE",
-  "mapa": "data/moste_2026-10-13_zadnjih_5_let",
+  "mapa": "data/moste_2026-10-13",
   "zajem": "2026-10-12",
   "oznake": false,
-  "zajem_od": "2021-10-12",
   "razsirjeno": "2026-10-13"
  },
  {
@@ -65,10 +64,9 @@
   "ime": "Rudnik",
   "kje": "na Rudniku",
   "oznaka": "RUDNIK",
-  "mapa": "data/rudnik_2026-10-13_zadnjih_5_let",
+  "mapa": "data/rudnik_2026-10-13",
   "zajem": "2026-10-12",
   "oznake": false,
-  "zajem_od": "2021-10-12",
   "razsirjeno": "2026-10-13"
  },
  {
@@ -76,10 +74,9 @@
   "ime": "Jarše",
   "kje": "v Jaršah",
   "oznaka": "JARŠE",
-  "mapa": "data/jarse_2026-10-13_zadnjih_5_let",
+  "mapa": "data/jarse_2026-10-13",
   "zajem": "2026-10-12",
   "oznake": false,
-  "zajem_od": "2021-10-12",
   "razsirjeno": "2026-10-13"
  }
 ]
