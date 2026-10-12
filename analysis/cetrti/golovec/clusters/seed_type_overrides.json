@@ -1,0 +1,32 @@
+[
+ {
+  "id": 77358,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Prošnja za dodatna parkirišča stanovalcem ob prireditvah; deloma tudi nadzor (V3)."
+ },
+ {
+  "id": 76784,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Zahteva ureditve parkirišč ob športnih objektih; deloma nadzor (V3)."
+ },
+ {
+  "id": 76678,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Pomanjkanje parkirišč za stanovalce, predlog novih mest."
+ },
+ {
+  "id": 76571,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Skrb zaradi parkirišč ob novih nogometnih igriščih."
+ },
+ {
+  "id": 79032,
+  "vrsta": "V6",
+  "gotovost": "visoka",
+  "opomba": "Predlog enosmerne ceste in dodatnih parkirišč (sprememba režima)."
+ }
+]

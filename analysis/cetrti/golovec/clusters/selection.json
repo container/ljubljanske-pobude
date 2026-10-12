@@ -1,0 +1,105 @@
+[
+ {
+  "name": "Štepanjsko naselje: zaparkiran pločnik na označeni lokaciji",
+  "ids": [
+   87009,
+   86555,
+   74291
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Tri pobude (2024, 2025, 2026) opisujejo isto zaparkiranje pločnika, ki ovira pešce in kolesarje. Mestno redarstvo odgovarja z nadzorom v okviru rednih nalog ali kadrovskih zmožnosti; trajne rešitve ni. Pobuda #69538 (šola Hrušica, 93 m) je drug kraj in je izločena.",
+  "source_candidates": [
+   3
+  ],
+  "reviewed_hashes": {
+   "87009": "370bfac96edaf48798df6a655e256f3b8706056361d54682904635196c15e23b",
+   "86555": "64985e939d53b50fd61a23c961f5cf939a192899bbc75aca17c621a435f54e69",
+   "74291": "f67ce6065d880bd1c4ffa0470de263685241bbfc7d50e124225c9c1590554a44"
+  }
+ },
+ {
+  "name": "PST ob Hruševski cesti: ponavljajoče se uničevanje mladih lip",
+  "ids": [
+   85124,
+   85074,
+   63854,
+   63183
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 se ponavlja uničenje na novo zasajenih lip na isti poti. Leta 2023 je MOL zadevo predal policiji, leta 2026 napoveduje pregled arboristov in po potrebi nadomestno zasaditev. Ni potrjeno, da je bilo ponovno uničevanje preprečeno.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "85124": "e303a650c75ae753124e9e6aad67b71e380575d4cd2828e48c9c908da73dd714",
+   "85074": "8533ce854814b541a8102236ac47c60b2f46d9a47abf2ca3ca59aa9a52bd9867",
+   "63854": "d6fca323fb40c7ebb51a48ea44e07e61e1630e2b412875da539ac671553ed43e",
+   "63183": "e7e8b6c168ab6122b1bc246ece3ab96b7f6e50ed3f34dd288d60e6c5035c2a14"
+  }
+ },
+ {
+  "name": "Litijska–Hruševska: semafor za pešce in kolesarje deluje samo ob pritisku tipke",
+  "ids": [
+   82915,
+   80298,
+   73029,
+   68933
+  ],
+  "safety_ids": [
+   82915
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od prenove križišča 2023 več prebivalcev opozarja, da zelena luč za pešce brez pritiska tipke ne zasveti. MOL v letih 2023–2024 trdi, da tipke ni treba pritisniti, leta 2026 pa potrjuje tipko in ne načrtuje spremembe. Pobuda #80298 omenja tudi druga križišča; to križišče je v vseh štirih.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "82915": "15966f3b245872ec5f0d105af9643f031912d7fb3515fe5e7e34633a795a5e71",
+   "80298": "5e97598de6e48ca190ede77f8b2a050391a348309198fa9c8dd68b116b6aae13",
+   "73029": "43f1fde3aa782ad5e814766ad5bfcbaf1fb723a2f6a84c84374d76b2feea1b66",
+   "68933": "6e95a4d8f8c5b24b4085cddec2ce739b2e5e2d0b06bda8d6a2386497f8627710"
+  }
+ },
+ {
+  "name": "Štepanjsko naselje, Pesarska: pomanjkanje parkirišč ob športnih objektih",
+  "ids": [
+   77358,
+   76784,
+   76678,
+   76571
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Štiri pobude v štirih mesecih 2025: obiskovalci šole in športnih objektov zasedejo parkirišča stanovalcev, stanovalci parkirajo na pločniku in travi. MOL odgovarja, da na zemljiščih MOL prostora za nova parkirišča ni in da so postopki po ZVEtL ovira.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "77358": "ea7901ad3f3889c30b5140d9eff177b42ef24d1d4b0c83a82d76edd104b5e4b2",
+   "76784": "648cf7588af651481cf439cc55894c848dbc18f5091fa58dc8d987d0fcb65224",
+   "76678": "39a20d326969d989799dcaeced5658b7c19d9adccaa88d9fab04bb111db4e6b5",
+   "76571": "42aae032575af7ec61966cdb6274d4fab4d0678c00c850d9ee9b499fac7a3bfd"
+  }
+ },
+ {
+  "name": "Jakčeva 2 in Litijska 51: pomanjkanje parkirišč in predlog enosmerne ceste",
+  "ids": [
+   82998,
+   82979,
+   79032
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Tri pobude (2025, 2026) predlagajo enosmerno ureditev ceste ob Litijski 51 za dodatna parkirišča stolpnice z 167 stanovanji brez lastnih mest. MOL leta 2026 ne načrtuje sprememb in nadaljuje spremljanje stanja. Prejšnja ocena, da gre za istega avtorja, ni bila preverjena in ni razlog za izločitev.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "82998": "a498e20220a3ff288b79f2916fbcaafac05fd0c498f330b59bf13a624c6025a7",
+   "82979": "d0669c4aaa7a53f832551e4496e84ea6fe173a67d2f0c359f130c43e4a530aaf",
+   "79032": "d265f07b954040560190310d23c1338486585a687b122961b9ca14519346c58a"
+  }
+ }
+]

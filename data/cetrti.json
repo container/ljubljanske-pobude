@@ -32,11 +32,10 @@
   "ime": "Golovec",
   "kje": "na Golovcu",
   "oznaka": "GOLOVEC",
-  "mapa": "data/golovec_2026-10-13_zadnjih_5_let",
+  "mapa": "data/golovec_2026-10-13",
   "zajem": "2026-10-12",
   "oznake": false,
   "oznake_let": 1,
-  "zajem_od": "2021-10-12",
   "razsirjeno": "2026-10-13"
  },
  {
