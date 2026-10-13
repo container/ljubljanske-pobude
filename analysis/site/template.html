@@ -72,6 +72,16 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
 .cluster-detail p{font-size:13px;margin:6px 0;color:var(--muted)}
 .cluster-detail .cluster-metrics{font-size:12.5px;color:var(--ink)}
 .cluster-detail .plist{max-height:280px}
+.linkbtn{all:unset;box-sizing:border-box;cursor:pointer;color:var(--accent-ink);text-decoration:underline;text-underline-offset:2px;font-size:14px;margin:-6px 0 14px}
+.linkbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.proc h4{font:700 16px/1.4 var(--f-display);margin:18px 0 4px}
+.proc p,.proc li{font-size:15px;line-height:1.55;margin:6px 0}
+.proc ul{padding-left:20px;margin:6px 0}
+.proc .tw{overflow-x:auto;margin:8px 0}
+.proc table{border-collapse:collapse;font-size:13px;width:100%}
+.proc th,.proc td{padding:5px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.proc th:first-child,.proc td:first-child{text-align:left}
+.proc th{font-weight:600;color:var(--muted);white-space:normal;vertical-align:bottom}
 .cluster-method{font-size:12px;color:var(--muted);margin:12px 0}
 .cluster-icon,.flower-icon{background:none;border:0}
 .cluster-bubble,.flower-dot{display:grid;place-items:center;box-sizing:border-box;border:2px solid #fff;border-radius:50%;background:var(--bubble-color);color:var(--bubble-ink);font-weight:700;box-shadow:0 2px 7px rgb(0 0 0 / 22%);cursor:pointer}
@@ -336,6 +346,7 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
     </div>
     <div id="themes" hidden></div>
     <p class="lede" id="ledeClusters" hidden>Izhodišče so pobude brez vprašanj iz zadnjih dveh let; z njimi so povezane vsebinsko podobne pobude z bližnjih lokacij (do 100 m). Prikazujemo skupine z najmanj 3 objavami; število vključuje tudi starejše pobude. Klik na skupino razpre njene pobude v krogu.</p>
+    <button type="button" class="linkbtn" id="procBtn" hidden>Kako so skupine nastale</button>
     <div id="clusterDetail" hidden></div>
     <div id="clusters" class="cluster-list" hidden></div>
     <p id="clusterMethod" class="cluster-method" hidden>Tri velikosti kažejo število pobud: 3–4, 5–9 in 10 ali več. Trije odtenki CILJ oranžne kažejo indikativno perečnost: nižja (0–34), srednja (35–59) in višja (60–100). Ocena upošteva ponavljanje (50 %), časovni razpon med prvo in zadnjo pobudo (25 %) in izrecno oznako varnosti (25 %). Objave niso nujno neodvisni dogodki ali različni ljudje; barva ne potrjuje, da je težava še nerešena.</p>
@@ -376,7 +387,7 @@ const dayBefore = d => { const x=new Date(d+"T12:00:00Z"); x.setUTCDate(x.getUTC
 const ST_DEFAULT = ["S1","S2","S3","S4","S5","S6"];  // S0 and SV hidden by default
 let fSt = new Set(ST_DEFAULT), fRel = new Set(["visoka","srednja","nizka"]), fPs = new Set(PORDER), fV = new Set(VORDER), cmode = "portal";
 let view = "pobude", sel = null, onlyRecent = false, hideSilent = false, showOld = false, notes = {}, store = null;
-let pendingFit = false, META = null, D = null, STAT = null, LAB = false, pts = [], order = [], YRS = [], bounds = null;
+let CINFO = [], ALL = false, keepView = false, pendingFit = false, META = null, D = null, STAT = null, LAB = false, pts = [], order = [], YRS = [], bounds = null;
 const lsGet = k => { try { return localStorage.getItem(k); } catch(e) { return null; } };
 const lsSet = (k,v) => { try { localStorage.setItem(k,v); } catch(e) {} };
 const notesKey = () => `teme-${META.id}`;
@@ -386,9 +397,9 @@ const passF = p => LAB ? (view!=="pobude" || (fSt.has(p.s) && fRel.has(p.r))) : 
 
 /* ---------- texts, fetched per bucket on demand ---------- */
 const TXC = {};
-async function getTx(id){
-  const b = id % META.n_tx, key = `${META.id}/${b}`;
-  if (!TXC[key]) TXC[key] = fetch(`d/${META.id}/tx/${b}.json`).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).catch(e=>{ delete TXC[key]; throw e; });
+async function getTx(id, did){
+  const dd = did || META.id, b = id % (did ? CETRTI.find(c=>c.id===did).n_tx : META.n_tx), key = `${dd}/${b}`;
+  if (!TXC[key]) TXC[key] = fetch(`d/${dd}/tx/${b}.json`).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).catch(e=>{ delete TXC[key]; throw e; });
   return (await TXC[key])[id] || {};
 }
 
@@ -473,7 +484,7 @@ async function showOverlay(p){
   if (p.t) badge(NAMES[p.t]||p.t);
   if (!p.s && !p.ps) badge("brez oznak", null, "plain");
   let x;
-  try { x = await getTx(p.id); } catch(e) { body.replaceChildren(el("p","who","Besedila ni bilo mogoče naložiti. Preveri povezavo in poskusi znova.")); return; }
+  try { x = await getTx(p.id, p.did); } catch(e) { body.replaceChildren(el("p","who","Besedila ni bilo mogoče naložiti. Preveri povezavo in poskusi znova.")); return; }
   body.replaceChildren();
   const vr = /^(V[1-9]) · /.exec(Object.fromEntries(x.oznake || []).Vrsta || "");  // in Vič data p.v is safety, so read vrsta from the labels
   if (vr) badge(`${vr[1]} ${VR[vr[1]]}`);
@@ -607,13 +618,13 @@ function renderClusterList(){
     const b=el("button","cluster-item"); b.type="button"; b.setAttribute("aria-pressed",String(activeCluster===i));
     const sw=el("i","cluster-swatch"); sw.style.background=clusterColor(c.score);
     const tag=c.category==="navedena izvedba"?"MOL navaja izvedbo":c.category==="dodatno: parking in P+R"?"P+R · manj relevantno za lokalce":c.category==="širši mestni doseg"?"Širši mestni doseg":"";
-    b.append(sw,el("b",null,c.name),el("span","cluster-count",String(c.count)),el("small",null,fmt(c.first)+"–"+fmt(c.last)+(tag?" · "+tag:"")+" · ocena "+c.score+"/100"));
+    b.append(sw,el("b",null,c.name),el("span","cluster-count",String(c.count)),el("small",null,(ALL?c.dime+" · ":"")+fmt(c.first)+"–"+fmt(c.last)+(tag?" · "+tag:"")+" · ocena "+c.score+"/100"));
     b.addEventListener("click",()=>selectCluster(i)); box.append(b);
   });
   const detail=document.getElementById("clusterDetail"); detail.replaceChildren(); detail.hidden=activeCluster===null;
   if(activeCluster===null) return;
   const c=CLUSTERS[activeCluster], card=el("section","cluster-detail");
-  card.append(el("h2",null,c.name),el("div","cluster-metrics",c.count+" pobud · "+fmt(c.first)+"–"+fmt(c.last)+" · indikativna ocena "+c.score+"/100"));
+  card.append(el("h2",null,c.name),el("div","cluster-metrics",(ALL?"ČS "+c.dime+" · ":"")+c.count+" pobud · "+fmt(c.first)+"–"+fmt(c.last)+" · indikativna ocena "+c.score+"/100"));
   if(c.category==="navedena izvedba") card.append(el("p",null,"MOL v zadnjem pregledanem odgovoru navaja izvedbo. Stanje na terenu ni preverjeno."));
   if(c.safety_count) card.append(el("p",null,"Varnost: v "+c.safety_count+" od "+c.label_count+" pregledanih označenih pobudah je bila varnost izrecno izpostavljena."));
   else card.append(el("p",null,c.label_count?"V pregledanih oznakah varnost ni bila izrecno označena.":"Za ta grozd ni dovolj pregledanih oznak varnosti."));
@@ -696,7 +707,7 @@ function drawFlower(){
       selectedClusterMember=p.id; updateClusterSelection();
       m.closeTooltip(); map.closePopup();
       const labelled=pts.find(x=>x.id===p.id);
-      showOverlay(labelled||{id:p.id,d:p.date,n:p.title,s:"",t:""});
+      showOverlay(labelled||{id:p.id,d:p.date,n:p.title,s:"",t:"",did:c.did});
     });
     flowerMarkers.set(p.id,m);
   });
@@ -711,7 +722,7 @@ function drawClusters(){
     const size=clusterSize(c.count);
     const m=L.marker([c.la,c.lo],{icon:bubbleIcon(c,c.count,size),bubblingMouseEvents:false,zIndexOffset:500}).addTo(clusterLayer);
     m.getElement().setAttribute("aria-label",c.name+" · "+c.count+" pobud");
-    if(!clusterTouch()) m.bindTooltip(c.name+" · "+c.count+" pobud · ocena "+c.score+"/100",{direction:"top",offset:[0,-size/2],className:"cluster-map-tip"});
+    if(!clusterTouch()) m.bindTooltip((ALL?c.dime+": ":"")+c.name+" · "+c.count+" pobud · ocena "+c.score+"/100",{direction:"top",offset:[0,-size/2],className:"cluster-map-tip"});
     else {
       const pop=el("div"); pop.append(el("b",null,c.name),el("div",null,c.count+" pobud · ocena "+c.score+"/100"));
       const go=el("button","btn","Odpri podrobnosti"); go.type="button"; go.addEventListener("click",()=>openClusterDetails(i)); pop.append(go);
@@ -771,7 +782,7 @@ function legend(){
   }
   if (showOld) item(c(3.5,"#8E8E8E",.7), `Pobude ${oldRange()}` + (LAB || META.vs ? " (brez oznak)" : ""));
 }
-function refresh(){ themeList(); detail(); legend(); if(view==="clusters") drawClusters(); else {clusterLayer.clearLayers();clusterMarkers.clear();clearFlower();drawPoints();} buildChips(); const b=document.querySelector('.theme[aria-pressed="true"]'); if (b) b.scrollIntoView({block:'nearest'}); }
+function refresh(){ if(ALL){ drawClusters(); return; } themeList(); detail(); legend(); if(view==="clusters") drawClusters(); else {clusterLayer.clearLayers();clusterMarkers.clear();clearFlower();drawPoints();} buildChips(); const b=document.querySelector('.theme[aria-pressed="true"]'); if (b) b.scrollIntoView({block:'nearest'}); }
 function showLegend(on){ const lg=document.getElementById("legend"), b=document.getElementById("legBtn"); lg.hidden=!on; b.setAttribute("aria-expanded",String(on)); b.textContent = on ? "Skrij legendo" : "Legenda"; }
 document.getElementById("legBtn").addEventListener("click",()=>showLegend(document.getElementById("legend").hidden));
 map.on("click", ()=>showLegend(false));
@@ -823,12 +834,96 @@ function modeTexts(){
   if (sm && onlyRecent){ onlyRecent = false; document.getElementById("tRecent").setAttribute("aria-pressed","false"); }
 }
 
+/* ---------- how the repeat groups were made ---------- */
+function showProcess(){
+  const last = document.activeElement;
+  const ov = el("div","overlay"); ov.setAttribute("role","dialog"); ov.setAttribute("aria-modal","true"); ov.setAttribute("aria-labelledby","procTitle");
+  const pn = el("div","panel proc"), head = el("div","phead");
+  const close = el("button","xbtn"); close.type="button"; close.setAttribute("aria-label","Zapri"); close.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>';
+  head.append(el("span"), close);
+  const title = el("h3","","Kako so skupine nastale"); title.id = "procTitle";
+  const body = el("div","pbody");
+  const h = t => body.append(el("h4",null,t)), p = t => body.append(el("p",null,t));
+  const ul = items => { const u = el("ul"); for (const t of items) u.append(el("li",null,t)); body.append(u); };
+  p("Cilj: najti težave, o katerih so meščani poročali večkrat na istem mestu.");
+  h("1. Izhodišče");
+  p("Vzamemo pobude iz zadnjih dveh let (od 13. 10. 2024), razen vprašanj. Starejše pobude niso izhodišče, so pa del zgodovine težave.");
+  h("2. Iskanje podobnih pobud (samodejno)");
+  p("Za vsako izhodiščno pobudo poiščemo vse pobude v radiju 100 m, tudi starejše, do začetka zbirke na portalu. Par je povezan, če velja eno od tega:");
+  ul(["ena pobuda izrecno navaja številko druge,","besedili sta dovolj podobni (podobnost naslova in besedila vsaj 0,26 od 1),","naslova sta si zelo podobna (vsaj 0,8)."]);
+  p("Povezave se verižno združijo: če sta A in B ter B in C povezana, so vsi trije v isti skupini. Skupine z 1 ali 2 pobudama zavržemo, ostale so kandidati.");
+  h("3. Pregled kandidatov");
+  p("Vsakega kandidata vsebinsko preberemo (pobude in odgovore MOL) in ga sprejmemo, razdelimo na več težav ali zavrnemo, na primer kadar imajo pobude isto koordinato (sedež podjetja), težave pa so različne. Prikazane so skupine z vsaj 3 pobudami.");
+  const rows = CINFO.filter(r=>r.records);
+  if (rows.length){
+    const tw = el("div","tw"), tb = el("table"), nf = n => n==null ? "–" : n.toLocaleString("sl-SI");
+    const cols = [["Četrt","ime"],["Pobud v zbirki","records"],["Izhodiščnih","seeds"],["Parov v 100 m","spatial_pairs"],["Močnih povezav","strong_pairs"],["Kandidatnih skupin","candidate_groups"],["Pregledanih","reviewed_candidates"],["Prikazanih skupin","shown"]];
+    const tr = el("tr"); for (const [l] of cols) tr.append(el("th",null,l)); tb.append(tr);
+    for (const r of rows){ const t = el("tr"); for (const [,k] of cols) t.append(el("td",null,k==="ime" ? r[k] : nf(r[k]))); tb.append(t); }
+    tw.append(tb); body.append(tw);
+  }
+  h("Ocena perečnosti (0–100)");
+  p("50 % število pobud (polno pri 20), 25 % obdobje od prve do zadnje pobude (polno pri 10 letih), 25 % ali je bila varnost izrecno izpostavljena. Ocena je indikativna. Varnost se po četrtih ne določa povsem enako, zato ocen med četrtmi ne primerjaj neposredno.");
+  h("Kaj postopek zgreši");
+  ul(["Isto težavo, opisano z drugimi besedami (podobnost pod pragom).","Isto težavo, prijavljeno več kot 100 m narazen, če je ni verige vmesnih pobud.","Težave z manj kot 3 pobudami.","Težave brez nedavne pobude, saj mora skupina vsebovati vsaj eno izhodiščno."]);
+  p("Zato je prikazani seznam spodnja meja, ne popoln seznam težav.");
+  h("Kako brati");
+  p("Število pobud ni število različnih ljudi ali dogodkov. Odgovor MOL ne pomeni, da je težava rešena.");
+  pn.append(head, title, body); ov.append(pn); document.body.append(ov);
+  document.body.style.overflow = "hidden";
+  const done=()=>{ ov.remove(); document.body.style.overflow = ""; document.removeEventListener("keydown",key); last?.focus?.(); };
+  const key=e=>{ if(e.key==="Escape") done(); };
+  close.addEventListener("click",done); ov.addEventListener("click",e=>{ if(e.target===ov) done(); }); document.addEventListener("keydown",key); close.focus();
+}
+document.getElementById("procBtn").addEventListener("click", showProcess);
+
 /* ---------- district ---------- */
+// Other districts: hover tints them, click opens them (keeping the zoom). In the all-districts view they are only outlined, with no switching.
+function drawNeighbors(exceptId){
+  neighborLayer.clearLayers();
+  for (const c of CETRTI){
+    if (c.id===exceptId || !c.meja) continue;
+    if (ALL){ L.polygon(c.meja, {color:"#FF6B35", weight:1.5, dashArray:"6 4", fill:false, interactive:false}).addTo(neighborLayer); continue; }
+    const poly = L.polygon(c.meja, {stroke:false, fillColor:"#FF6B35", fillOpacity:0, bubblingMouseEvents:false}).addTo(neighborLayer);
+    poly.bindTooltip(c.ime, {sticky:true, direction:"top", className:"cetrt-tip"});
+    poly.on("mouseover", ()=>poly.setStyle({fillOpacity:.2}));
+    poly.on("mouseout", ()=>poly.setStyle({fillOpacity:0}));
+    poly.on("click", ()=>setDistrict(c.id, true));
+  }
+}
+const ALL_ID = "vse";
+async function setAll(keep){
+  const sh = document.getElementById("shown"); picker.disabled = true;
+  let j;
+  try { j = await fetch("d/vse.json").then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }); }
+  catch(e){ picker.disabled = false; if (META) picker.value = META.id; return; }
+  picker.disabled = false; picker.value = ALL_ID;
+  keepView = !!keep; ALL = true;
+  META = {id:ALL_ID, ime:"Vse četrti", od3:"", od1:"", zajem:"", vs:false, oznake:false, n_tx:0};
+  D = {tocke:[], stare:[], teme:{}, podlaga:{meja:[]}}; STAT = {od:""}; LAB = false; pts = []; order = [];
+  CLUSTERS = j.CLUSTERS; CINFO = j.districts.map(d=>({ime:d.ime, shown:d.n, ...d.info})); activeCluster = null; expandedCluster = null; selectedClusterMember = null; clearFlower();
+  for (const id of ["tabPob","tabTeme","tabStat"]) document.getElementById(id).hidden = true;
+  document.getElementById("tabClusters").hidden = false;
+  document.getElementById("ledeClusters").textContent = "Za vsako pobudo iz zadnjih dveh let smo v radiju 100 m poiskali podobne, starejše. Če je bilo podobno tudi besedilo, smo jih združili v skupine in prikazali tiste z najmanj 3 pobudami.";
+  document.getElementById("map").setAttribute("aria-label", "Zemljevid ponavljajočih se težav v vseh četrtih");
+  document.title = "Ljubljanske pobude · Vse četrti";
+  const u = new URL(location.href); u.searchParams.set("cetrt", ALL_ID); history.replaceState(null, "", u);
+  lsSet("cetrt", ALL_ID);
+  borderLayer.clearLayers(); drawNeighbors(null);
+  bounds = L.latLngBounds(CETRTI.filter(c=>c.meja).flatMap(c=>c.meja.flat()));
+  if (!map._loaded) map.setView(bounds.getCenter(), 12, {animate:false});  // first load straight into this view: markers need a map view
+  if (!keep) pendingFit = true;
+  document.getElementById("stat").replaceChildren();
+  selectTab("clusters"); refresh(); renderClusterList();
+  keepView = false;
+}
 const picker = document.getElementById("cetrt");
+{ const o = el("option",null,"Vse četrti"); o.value = "vse"; picker.append(o); }
 for (const c of CETRTI){ const o = el("option",null,c.ime); o.value = c.id; picker.append(o); }
 picker.addEventListener("change", ()=>setDistrict(picker.value));
 function selectTab(t){ document.querySelector(`.tabs button[data-tab="${t}"]`).click(); }
-async function setDistrict(id){
+async function setDistrict(id, keep){  // keep: switching by map click leaves the current zoom and position alone
+  if (id===ALL_ID) return setAll(keep);
   if (!CETRTI.some(c=>c.id===id)) id = CETRTI[0].id;
   picker.value = id; picker.disabled = true;
   const sh = document.getElementById("shown"); if (sh) sh.textContent = "Nalagam …";
@@ -836,13 +931,13 @@ async function setDistrict(id){
   try { j = await fetch(`d/${id}.json`).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }); }
   catch(e){ picker.disabled = false; if (META) picker.value = META.id; if (sh) sh.textContent = "Podatkov četrti ni bilo mogoče naložiti."; return; }
   picker.disabled = false;
+  keepView = !!keep; ALL = false;
+  for (const b of ["tabPob","tabStat"]) document.getElementById(b).hidden = false;
   META = j.meta; D = j.D; STAT = j.STAT; LAB = META.oznake;
-  CLUSTERS = j.CLUSTERS || [];
+  CLUSTERS = j.CLUSTERS || []; CINFO = [{ime:META.ime, shown:CLUSTERS.length, ...(j.cluster_info||{})}];
   document.getElementById("tabClusters").hidden = !CLUSTERS.length;
   const ci=j.cluster_info||{};
-  document.getElementById("ledeClusters").textContent = (ci.stage==="pilot" ? "Prvi pregledani izbor za ČS "+META.ime+"; pregled preostalih kandidatov še ni zaključen. " : "")+
-    "Izhodišče so pobude brez vprašanj iz zadnjih dveh let"+(ci.cutoff?" (od "+fmt(ci.cutoff)+", zajem "+fmt(ci.snapshot)+")":"")+
-    "; z njimi so povezane vsebinsko podobne pobude z bližnjih lokacij (do 100 m). Prikazujemo skupine z najmanj 3 objavami; število vključuje tudi starejše pobude. Klik na skupino razpre njene pobude v krogu.";
+  document.getElementById("ledeClusters").textContent = "Za vsako pobudo iz zadnjih dveh let smo v radiju 100 m poiskali podobne, starejše. Če je bilo podobno tudi besedilo, smo jih združili v skupine in prikazali tiste z najmanj 3 pobudami.";
   activeCluster = null; expandedCluster = null; selectedClusterMember = null; clearFlower();
   pts = LAB ? D.tocke.filter(p => p.k==="da" && p.lok!=="izven") : D.tocke.map(p => ({...p, ak: p.d>=META.od1 ? "aktualno" : "starejse"}));
   order = Object.entries(D.teme).sort((a,b)=>b[1].perecnost-a[1].perecnost);
@@ -867,23 +962,16 @@ async function setDistrict(id){
   const u = new URL(location.href); u.searchParams.set("cetrt", META.id); history.replaceState(null, "", u);
   lsSet("cetrt", META.id);
   borderLayer.clearLayers();
-  neighborLayer.clearLayers();
-  for (const c of CETRTI){
-    if (c.id===META.id || !c.meja) continue;
-    const poly = L.polygon(c.meja, {stroke:false, fillColor:"#FF6B35", fillOpacity:0, bubblingMouseEvents:false}).addTo(neighborLayer);
-    poly.bindTooltip(c.ime, {sticky:true, direction:"top", className:"cetrt-tip"});
-    poly.on("mouseover", ()=>poly.setStyle({fillOpacity:.2}));
-    poly.on("mouseout", ()=>poly.setStyle({fillOpacity:0}));
-    poly.on("click", ()=>setDistrict(c.id));
-  }
+  drawNeighbors(META.id);
   const border = L.polygon(D.podlaga.meja, {color:"#FF6B35", weight:2, dashArray:"6 4", fill:false, interactive:false}).addTo(borderLayer);
   bounds = LAB ? L.latLngBounds(pts.map(p=>[p.la,p.lo])) : border.getBounds();  // labelled points are already limited to the district
-  if (document.getElementById("map-view").hidden) pendingFit = true; else map.fitBounds(bounds.pad(0.05));
+  if (keep) {} else if (document.getElementById("map-view").hidden) pendingFit = true; else map.fitBounds(bounds.pad(0.05));
   const st = document.getElementById("stat"); st.replaceChildren(); if (!st.hidden) renderStats();
   drawOld();
   explain();
   if ((view==="teme" && !LAB) || (view==="clusters" && !CLUSTERS.length)) selectTab("pobude");
   else { refresh(); if(view==="clusters") renderClusterList(); }
+  keepView = false;
 }
 
 /* ---------- tabs ---------- */
@@ -895,13 +983,13 @@ document.querySelector(".tabs").addEventListener("click", e => {
   const clusterTab = t==="clusters" && CLUSTERS.length>0;
   document.getElementById("map-view").hidden = !(mapTab || clusterTab);
   if ((mapTab || clusterTab) && view!==t){ view = t;
-    for (const [id,on] of [["ledeTeme",t==="teme"],["themes",t==="teme"],["pobInfo",t==="pobude"],["pobPanel",t==="pobude"],["togglePanel",t!=="clusters"],["ledeClusters",clusterTab],["clusters",clusterTab],["clusterMethod",clusterTab]]) document.getElementById(id).hidden = !on;
+    for (const [id,on] of [["ledeTeme",t==="teme"],["themes",t==="teme"],["pobInfo",t==="pobude"],["pobPanel",t==="pobude"],["togglePanel",t!=="clusters"],["ledeClusters",clusterTab],["procBtn",clusterTab],["clusters",clusterTab],["clusterMethod",clusterTab]]) document.getElementById(id).hidden = !on;
     document.getElementById("clusterDetail").hidden = !clusterTab || activeCluster===null;
     document.getElementById("ledeNote").hidden = LAB || t!=="pobude";
     document.getElementById("sheetLabel").textContent = clusterTab ? "Ponavljajoče se težave" : t==="teme" ? "Teme" : "Filtri in razlaga";
     drawOld(); refresh(); if(clusterTab) renderClusterList();
-    if (t==="pobude" && bounds) map.flyToBounds(bounds.pad(0.05), {duration:.4});
-    if (clusterTab && CLUSTERS.length) map.fitBounds(L.latLngBounds(CLUSTERS.map(c=>[c.la,c.lo])).pad(0.08)); }
+    if (t==="pobude" && bounds && !keepView) map.flyToBounds(bounds.pad(0.05), {duration:.4});
+    if (clusterTab && CLUSTERS.length && !keepView) map.fitBounds(L.latLngBounds(CLUSTERS.map(c=>[c.la,c.lo])).pad(0.08)); }
   document.getElementById("stat").hidden = t!=="stat";
   document.getElementById("about").hidden = t!=="about";
   document.querySelector(".cetrt").style.visibility = t==="about" ? "hidden" : "";

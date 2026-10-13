@@ -77,5 +77,23 @@
   "zajem": "2026-10-12",
   "oznake": false,
   "razsirjeno": "2026-10-13"
+ },
+ {
+  "id": "trnovo",
+  "ime": "Trnovo",
+  "kje": "v Trnovem",
+  "oznaka": "TRNOVO",
+  "mapa": "data/trnovo_2026-10-13",
+  "zajem": "2026-10-13",
+  "oznake": false
+ },
+ {
+  "id": "roznik",
+  "ime": "Rožnik",
+  "kje": "na Rožniku",
+  "oznaka": "ROŽNIK",
+  "mapa": "data/roznik_2026-10-13",
+  "zajem": "2026-10-13",
+  "oznake": false
  }
 ]

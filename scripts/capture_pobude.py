@@ -23,6 +23,7 @@ DISTRICTS = {
     'vic': ('VIČ', '15'), 'center': ('CENTER', '11'), 'siska': ('ŠIŠKA', '8'),
     'bezigrad': ('BEŽIGRAD', '6'), 'moste': ('MOSTE', '12'),
     'rudnik': ('RUDNIK', '17'), 'jarse': ('JARŠE', '9'), 'golovec': ('GOLOVEC', '14'),
+    'trnovo': ('TRNOVO', '16'), 'roznik': ('ROŽNIK', '10'),
 }
 SERVICE = BASE + 'arcgis/rest/services/MolPobudeSQL_L/MolPobudeTemePublic/MapServer/0'
 MONTHS = dict(zip('januar februar marec april maj junij julij avgust september oktober november december'.split(), range(1, 13)))

@@ -1,0 +1,359 @@
+[
+ {
+  "name": "Pot Rdečega križa: ropotajoči kanalizacijski pokrovi",
+  "ids": [
+   83447,
+   78698,
+   72542,
+   66834,
+   64644,
+   61482,
+   42078,
+   19774
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2026 se na istem območju ponavlja: ropotanje pokrovov (8 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "83447": "26893cb83e170380acb3328a31f08b76a278217c045481ec9dce9c178631cf08",
+   "78698": "7ede776a1228de04b72c6c410ee4836c3819af3eac32f313e1c0c94b7a4251a1",
+   "72542": "73b3f3a1c4469ea84522606882097f06f1d22b2dcf3cc287691d56d3cf6e4018",
+   "66834": "e46cb1c463beb6d932b22bbfae8119a3f8b03e5bbb7141e85a0fb09720e48041",
+   "64644": "537ae31014f1bfd4398054c844dc5b0e6c3866429f1ec6e6b2c4b2beb9d5471d",
+   "61482": "902b9bc077de52447866e15f117fe82b446a0b3f76589719d258e1eceeae31df",
+   "42078": "1b04db0ebb3a3908624af14b46a8a33111605f505c2a99d2ea7858976a288c38",
+   "19774": "42c731dae06d42b3ba314581cc2304c381498e4fe97320807d497775343bb786"
+  }
+ },
+ {
+  "name": "Španova pot: makadam in udarne jame",
+  "ids": [
+   83456,
+   83344,
+   83218,
+   42889,
+   25087,
+   20177
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 do 2026 se na istem območju ponavlja: udarne jame in grejdanje makadama (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   3
+  ],
+  "reviewed_hashes": {
+   "83456": "aba56e1f8c5637ba5a82a42307c3f2650aff5c77b893c4d09f6af82e8a6a39ef",
+   "83344": "a3f32a0b488f59f580abff98e9af28e3bfe90084bae29f8d8a39b3c21cbb2314",
+   "83218": "2fd841d7b90e2a8c2b7066da6ddc972bb89e28cf0e31da4c3c5e21a6d7ceac50",
+   "42889": "de319484ab54a1336e0e8792c2c9584abd008f2c30c28e7e5051ab7fe2cbde1a",
+   "25087": "623b979570ea5efd167a897819ce4e8b3c688b94ceb4d9e3665aea4401a34996",
+   "20177": "622bfa7482931f486ee0f175f74dbc435993cc244b74098a36244b71117b3ee4"
+  }
+ },
+ {
+  "name": "Zapuščeni avti (Citroen, Peugeot): isto mesto",
+  "ids": [
+   81663,
+   80917,
+   25626,
+   25413
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 do 2025 se na istem območju ponavlja: zapuščeno vozilo (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "81663": "c449eab500a51bf56ea34f83e4c95a68822c8ce17e0a05ef1fda254c17613039",
+   "80917": "138e8bf14da8f0af96f4f984424dd80c88e69b9aee169df7ec4ea75b71d0dcd5",
+   "25626": "7d76b64aac2ee45a12308f9df77dcee520b2dee13c9db80c7e7d419585609969",
+   "25413": "f2d625443ea3a4debb694a908dadff5152597819139936e1c4dcca5e49ad13e7"
+  }
+ },
+ {
+  "name": "Novo Brdo: neurejena pešpot do PST",
+  "ids": [
+   83426,
+   82725,
+   75251,
+   52988
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 se na istem območju ponavlja: neformalna pešpot (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "83426": "09f438dd0b8f837d86ee6d5e67ad393152da94f9a5b8644658c2c735cf56a5d4",
+   "82725": "cd320816d24b9c2a1fb0517fcff247b9f1bde45c33550592e0211435dbb65b1f",
+   "75251": "db76b2f7eca15f1053a5790411a762dfed79304c9b87f8d726fe3529c2a90591",
+   "52988": "7775eb3cac14f353ce1df299dec15f63b817c35f9c7f1bf66a60c87861f45cbf"
+  }
+ },
+ {
+  "name": "Kolesarska steza mimo ZOO: zaraščeno zelenje",
+  "ids": [
+   79739,
+   67622,
+   66409,
+   65347
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: zaraščena steza (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "79739": "0abec37be738867b16cdbde9bae315f2e2cd70c17e92955d8c52855c4cd75eac",
+   "67622": "94837aac1f54fb574ae1008645fa3dfc6582f9cd998dbdbc1c0fc80f9c49511e",
+   "66409": "6b68e8352c9ba758fbb2bf0f84ca312f157c26211e4c6f0d08c112dbc34737dd",
+   "65347": "d029014619bd0028ae7e6ddc21a7d19925d03839331ed6b97a86f1442cf7b50a"
+  }
+ },
+ {
+  "name": "Spar: pokrovi jaškov višji od cestišča",
+  "ids": [
+   78544,
+   76272,
+   74486,
+   60026
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: dvignjeni pokrovi jaškov (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   7
+  ],
+  "reviewed_hashes": {
+   "78544": "bb7d30432273f89143bd9df3da3f043ad2b60c02467852df31947aedf38c200e",
+   "76272": "587f0dab50c370c1055368c525969f46b92ed9245d7c2d7c441dfaa332560497",
+   "74486": "f77a350d05d8f4ead42fb6477c3a29a61fdf44c5159ffefa1f2e900020905663",
+   "60026": "9a8533a6f036fe139ef31185bac422d5b453fabafa5f84cb204c111179b9359d"
+  }
+ },
+ {
+  "name": "Cesta na Brdo: kolesarska steza in pločnik",
+  "ids": [
+   80534,
+   79687,
+   74787
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: poškodovana kolesarska steza (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "80534": "ef7b4b2eb4c61d1505893e11cc4b1d465dccc6a2fff7438641d464bb87a23a60",
+   "79687": "8c745e1c0bf11f60c9c3721c73d2642153f42fdcc0dd16b919c57f7a999cce6c",
+   "74787": "a4c5c3912304ade500527b45926cbb11afb39c1c13903bd07454d8f190e58b5c"
+  }
+ },
+ {
+  "name": "Pot Roberta Blinca–Pot za Brdom: zelena puščica",
+  "ids": [
+   81101,
+   81100,
+   78061
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2025 se na istem območju ponavlja: predlog zelene puščice (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   9
+  ],
+  "reviewed_hashes": {
+   "81101": "8ee3afec5c527babf286ff1fed9e7960661a2a043655b445e4781bb35712f54e",
+   "81100": "e586db6c91189c45caf99ec5698c8719bede75b6d5ac3e81f00542aebc71b0aa",
+   "78061": "eafe51fae7d30c147da4a18f846822300c04b3af5d52fd4087548ec05734d278"
+  }
+ },
+ {
+  "name": "Cesta 27. aprila: zapora zaradi parkiranja",
+  "ids": [
+   81565,
+   81375,
+   81354
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2025 se na istem območju ponavlja: zapora vozišča in parkirana vozila (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   11
+  ],
+  "reviewed_hashes": {
+   "81565": "18853fd222ac1ad54d6708b50fedc3c5fdc96015de82c52d43ee25196a42d93f",
+   "81375": "e574a9014f9c21daa705c86029bec32190ce57cc4400acf6d8ae0e00f1cee777",
+   "81354": "9134754626fb774c4a46630052ee8602262e361c3116962448c5f67a7c130f51"
+  }
+ },
+ {
+  "name": "Mladinska ulica: makadam in asfaltiranje",
+  "ids": [
+   83196,
+   71836,
+   62699
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2026 se na istem območju ponavlja: makadamska ulica (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   12
+  ],
+  "reviewed_hashes": {
+   "83196": "2b20b32d96005070eaa17f48dd435faaa7a6977e59f2e62564a349ee28981b97",
+   "71836": "056d1933894a625c7d72139da348f9c2b81780663b32962248dc1b228fedac97",
+   "62699": "e45bfe709127615fede58da3c05a1bc987ac882c4614360897ab893afe5b4da8"
+  }
+ },
+ {
+  "name": "Gasilski dom Brdo: razpadajoča lopa na igrišču",
+  "ids": [
+   84992,
+   83333,
+   78522
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2026 se na istem območju ponavlja: lopa z azbestno kritino (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   14
+  ],
+  "reviewed_hashes": {
+   "84992": "11143a654c6b47908973ba533e678bb05b0f62018ca52087b141e6416d367644",
+   "83333": "1553536eefdc2379a332b731f7d5b8050fa3f248e219a2eca469180e5704f88e",
+   "78522": "1963ee18865d3c84337f911c5c05277cc8228dcdf28ec0d6511a68405ef815e6"
+  }
+ },
+ {
+  "name": "Ivane Kobilce–Pot Rdečega križa: manjkajoč prehod za pešce",
+  "ids": [
+   75734,
+   59304,
+   22630
+  ],
+  "safety_ids": [
+   75734
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 do 2024 se na istem območju ponavlja: neoznačen prehod (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   15
+  ],
+  "reviewed_hashes": {
+   "75734": "430404b1bd4232108391a385e1797f7779978d0e05f590c604d5f09eb98a8c58",
+   "59304": "cbd012d2eee4213bbd96e695863bce18234e2d99e41ee8701ccefc45f12d43b4",
+   "22630": "7d805e69b059ac9bed3e899a37adbdfcfeb1529d980b62627007e84a06d34901"
+  }
+ },
+ {
+  "name": "OŠ Vič, Abramova: prenova šolskega igrišča",
+  "ids": [
+   84869,
+   80825,
+   21845
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 do 2026 se na istem območju ponavlja: dotrajano igrišče (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   17
+  ],
+  "reviewed_hashes": {
+   "84869": "f6267f6b08a34aeb0b00a4dbca04712ebf2d6499750308600a40d6af8c2e9390",
+   "80825": "8581837f3b61f247a563561b7f5bb51befe930a5eb5ee057b94df3a5f9d2c7e5",
+   "21845": "58ea17b9a1f0b31e4fe033d4a59f39f15d400e52f48c9998e2602104ec4f5f55"
+  }
+ },
+ {
+  "name": "Pot Rdečega križa 38: vozila brez tablic",
+  "ids": [
+   82931,
+   68431,
+   68275
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2026 se na istem območju ponavlja: neregistrirana vozila (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   18
+  ],
+  "reviewed_hashes": {
+   "82931": "e7e1158f9b6ac3ef072d44b9cf44ccfd2664434b901782dac70fe5737e1def10",
+   "68431": "f8c8c8f49bb4984d662a7a8c1870fe0b50b3f6162fe82cc6706d5fce27d7aecc",
+   "68275": "09c901e3199fbb6fa98b1c23e92f39955076b8877522b6dca6cff0bd5f4ef7ae"
+  }
+ },
+ {
+  "name": "Luknja na kolesarski stezi",
+  "ids": [
+   80490,
+   80312,
+   72379
+  ],
+  "safety_ids": [
+   80490,
+   80312,
+   72379
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: luknja (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   20
+  ],
+  "reviewed_hashes": {
+   "80490": "e40ce3b2ad34fc27ffcc5b98b1bc5d9fd08f27266bd994cf194f521215548a8f",
+   "80312": "0a9088b542a01b1175d26262d2ef0708d68f80a9c551b0bd1cf70b601ea3b1da",
+   "72379": "82749e519433c945b988973821ebc9cffb26aef22101e1a36bd7bac4a2968cd6"
+  }
+ },
+ {
+  "name": "Vrhovci–Grampovčanova: nevarno križišče",
+  "ids": [
+   77805,
+   76866,
+   73713
+  ],
+  "safety_ids": [
+   77805,
+   76866,
+   73713
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: nesreče in nevarnost (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   21
+  ],
+  "reviewed_hashes": {
+   "77805": "e8405f14125c1fe151661bf30e697976a61fdf10e826d377ae33043a63bee15f",
+   "76866": "1ddf87e003e381bd77728b68211b09f8d4696a05634d66e78711f057e423f5d4",
+   "73713": "db320dd808446dcc8f85d1a73577f5f9969ad0c0ad71a531b3ba25e2a0ea872a"
+  }
+ },
+ {
+  "name": "Parkirišče ob Poti Roberta Blinca: smeti in zbiranje ljudi",
+  "ids": [
+   76541,
+   73766,
+   64061
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: odpadki ponoči (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   22
+  ],
+  "reviewed_hashes": {
+   "76541": "06132b2754211ccce93cceb99264e5aa44fa37f7acedf3fec286c86ce82bae84",
+   "73766": "80dde2073e9f6bbca5a4982f1142d9a0d29eef0f902a1f9e5b911b8dcdd39911",
+   "64061": "d978fd4d12209e6efa38f2273ff7c7cffa0d59ca9010d68f584dffe2f93bfac2"
+  }
+ }
+]

@@ -118,7 +118,7 @@ if OUT.exists():
         shutil.rmtree(q) if q.is_dir() else q.unlink(missing_ok=True)
 (OUT / 'd').mkdir(parents=True, exist_ok=True)
 
-registry, zajemi = [], []
+registry, zajemi, vse_skupine, delno, info = [], [], [], set(), {}
 for C in CETRTI:
     R = json.loads((ROOT / C['mapa'] / f"pobude_{C['id']}.json").read_text())
     rec = {r['id']: r for r in R}
@@ -150,12 +150,21 @@ for C in CETRTI:
                                                                                         'odvs': S['vs']['od'] if 'vs' in S else S['od1'], 'vsobd': f"{12 * C.get('oznake_let', 1)} mesecev"}
     clusters, cluster_info = district_clusters(C['id'], rec, labels)
     (OUT / 'd' / f"{C['id']}.json").write_text(esc({'meta': meta, 'D': D, 'STAT': S, 'CLUSTERS': clusters, 'cluster_info': cluster_info}))
-    registry.append({k: C[k] for k in ('id', 'ime')})
+    info[C['id']] = {k: cluster_info[k] for k in ('records', 'seeds', 'spatial_pairs', 'strong_pairs', 'candidate_groups', 'reviewed_candidates') if k in cluster_info}
+    if cluster_info.get('reviewed_candidates', 0) < cluster_info.get('candidate_groups', 0):
+        delno.add(C['id'])
+    vse_skupine += [c | {'did': C['id'], 'dime': C['ime']} for c in clusters]
+    registry.append({k: C[k] for k in ('id', 'ime')} | {'n_tx': n_tx, 'meja': [[[round(y, 4), round(x, 4)] for x, y in ring] for ring in BOUNDS[C['oznaka']]]})
     odg = S['odgovorjenih']
     zajemi.append(f"<li><b>{C['ime']}</b>: zajem {dmy(C['zajem'])}, filter »{C['oznaka']}«. {nf(S['skupaj'])} pobud od {dmy(S['od'])} do {dmy(S['do'])} "
                   f"({nf(odg)} odgovorjenih, {nf(S['skupaj'] - odg)} neodgovorjenih), od tega {nf(S['tri_leta'])} v zadnjih treh letih."
                   + (' Za to četrt so narejene tudi teme in oznake.' if C['oznake'] else (f" Pobude iz zadnjih {12 * C.get('oznake_let', 1)} mesecev ({nf(len(labels))}) imajo oznaki Vrsta in Stanje po odgovoru." if labels else ' Samo podatki portala, brez naših oznak.')) + '</li>')
     print(C['id'], 'točk', len(D['tocke']), 'starih', len(D['stare']), 'paketov besedil', n_tx, f"{(OUT / 'd' / (C['id'] + '.json')).stat().st_size / 1e6:.2f} MB")
+
+vse_skupine.sort(key=lambda c: (c['score'], c['count']), reverse=True)
+(OUT / 'd' / 'vse.json').write_text(esc({'CLUSTERS': vse_skupine, 'districts': [{'id': i, 'ime': n, 'n': sum(c['did'] == i for c in vse_skupine), 'delno': i in delno, 'info': info[i]}
+                                                                        for i, n in dict.fromkeys((c['did'], c['dime']) for c in vse_skupine)]}))
+print('vse skupine', len(vse_skupine))
 
 about = (SITE / 'o_strani.html').read_text().replace('<!--ZAJEMI-->', '\n'.join(zajemi))
 google_tag = '''<!-- Google tag (gtag.js) -->

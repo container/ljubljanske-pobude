@@ -1,0 +1,151 @@
+
+GROUP 1: 14 records, 3 recent seeds, 2016-03-29–2026-06-29
+85388* 2026-06-29 Dostop do PR Barje 2.
+84693* 2026-05-18 P R Barje dostop
+83536* 2026-02-27 Smeti okoli P R Barje
+52640  2022-04-14 Zanemarjen dostop do P R Barje 3.
+52120  2022-03-29 Zanemarjen dostop 2.
+51285  2022-03-01 Neurejen dostop do P R Barje
+41971  2021-03-02 P R Barje smeti in veje na peš-dostopu
+41125  2021-01-22 Sme ti okoli P R Barje
+38100  2020-08-26 Udrto cestišče dostop do P R Barje
+35035  2020-02-06 Smeti ob P R Barje
+28180  2019-04-11 Ponovno: Smeti P R Barje
+27901  2019-04-02 Smeti okoli PR Barje
+27433  2019-03-14 Smati PR Barje
+14341  2016-03-29 Dostop do P R Barje
+
+GROUP 2: 8 records, 1 recent seeds, 2020-02-11–2026-02-25
+83508* 2026-02-25 Čiščenje ulice Pot na Rakovo Jelšo
+54168  2022-06-07 Čiščenje ulice Po na Rakovo Jelšo
+53300  2022-05-12 Čiščenje ulice Pot na Rakovo Jelšo
+51224  2022-02-25 Čiščenje ulice Pot na Rakovo Jelšo
+48963  2021-11-16 Čiščenje ulice Pot na Rakovo Jelšo
+48459  2021-10-30 Čiščenje ulice Pot na Rakovo Jelšo
+42286  2021-03-14 Čiščenje ceste Pot na Rakovo Jelšo
+35153  2020-02-11 Čiščenje ulice Pot na Rakovo Jelšo
+
+GROUP 3: 6 records, 3 recent seeds, 2021-06-06–2026-03-12
+83726* 2026-03-12 Parkiranje na cesti
+76534* 2025-01-20 Parkiranje na cesti
+75510* 2024-11-09 Parkiranje na cesti
+62401  2023-04-21 Parkiranje na cesti
+55862  2022-08-05 Parkiranje
+44546  2021-06-06 Parkiranje na cesti
+
+GROUP 4: 6 records, 6 recent seeds, 2024-12-30–2025-03-26
+77737* 2025-03-26 Ponovno nadvoz nad avtocesto
+77648* 2025-03-24 Obljuba dela dolg
+77273* 2025-03-04 Nadvoz nad južno avtocesto n-tič
+77167* 2025-02-25 Nadvoz na obvoznico n-tič
+77078* 2025-02-18 Nadvozi nad obvoznico
+76243* 2024-12-30 Uničen nadvoz čez avtocesto
+
+GROUP 5: 5 records, 2 recent seeds, 2014-07-27–2025-11-20
+82045* 2025-11-20 Predlog za nadstrešico in klop
+76221* 2024-12-26 Semaforizacija
+15000  2016-06-08 Predlog za nastrešek na postajališču LPP
+9904  2014-07-27 Semaforizacija križišča
+9903  2014-07-27 Avtobusno postajališče proge LPP 1
+
+GROUP 6: 5 records, 3 recent seeds, 2022-11-14–2026-09-29
+86945* 2026-09-29 Nevarno zavijanje desno - zelena puščica
+81001* 2025-09-21 Puscica za desno
+77448* 2025-03-12 Zelena puščica - TAKOŠNJA ODSTRANITEV!!!
+63020  2023-05-16 Ukinitev Zelene puščice
+58780  2022-11-14 Odstranite zelene puščice desno
+
+GROUP 7: 4 records, 3 recent seeds, 2023-07-09–2025-05-14
+78626* 2025-05-14 Košnja trave
+78153* 2025-04-15 Smeti
+78099* 2025-04-12 Park Rakova jelša
+64713  2023-07-09 Park rakova jelsa kosnja
+
+GROUP 8: 4 records, 2 recent seeds, 2012-01-21–2025-09-17
+80943* 2025-09-17 Parkomati
+75105* 2024-10-14 Parkirišča
+74552  2024-09-12 Parkiranje
+4468  2012-01-21 Parkiranje na ulici
+
+GROUP 9: 4 records, 2 recent seeds, 2021-04-20–2025-12-14
+82367* 2025-12-14 Smeti na ekološkem otoku 
+76215* 2024-12-25 Smeti
+61455  2023-03-13 Smetišče 
+43278  2021-04-20 Ekološki otok 
+
+GROUP 10: 4 records, 1 recent seeds, 2013-09-03–2025-09-03
+80670* 2025-09-03 Ureditev parkiranja
+69703  2023-12-19 Parkiranje
+23461  2018-09-04 Parkiranje ob OS Livada
+7627  2013-09-03 Ureditev parkiranja
+
+GROUP 11: 4 records, 1 recent seeds, 2020-11-12–2024-10-23
+75275* 2024-10-23 Umiritev prometa Pot na Rakovo Jelšo
+49570  2021-12-08 Umiritev prometa-Pot na Rakovo Jelšo
+44437  2021-06-01 Umiritev prometa
+40008  2020-11-12 Hitrostne ovir na Poti na Rakovo jelšo
+
+GROUP 12: 3 records, 3 recent seeds, 2025-05-09–2025-10-13
+81398* 2025-10-13 Uskladitev zelene luči za vse udeležence
+81227* 2025-09-30 Semafor za pešce in kolesarje z zamikom
+78513* 2025-05-09 Semafor: Kopačeva-Opekarska-Hladnikova
+
+GROUP 13: 3 records, 3 recent seeds, 2026-06-23–2026-06-24
+85340* 2026-06-24 Od:vod
+85328* 2026-06-23 Podpora prireditvi odvod 
+85324* 2026-06-23 Od:vod
+
+GROUP 14: 3 records, 1 recent seeds, 2023-02-19–2025-11-03
+81761* 2025-11-03 Sive vrane
+60969  2023-02-21 Sive vrane
+60903  2023-02-19 Sive vrane
+
+GROUP 15: 3 records, 2 recent seeds, 2017-08-14–2025-11-17
+81973* 2025-11-17 Prometni znak
+79773* 2025-07-09 Prednostna cesta
+18943  2017-08-14 Prometni znak
+
+GROUP 16: 3 records, 2 recent seeds, 2023-06-03–2025-03-28
+77757* 2025-03-28 Športni park Svoboda in študentski bloki
+77034* 2025-02-15 Grozljivi okolica Svobode
+63648  2023-06-03 SMETI ŠPORTNI PARK SVOBODA
+
+GROUP 17: 3 records, 2 recent seeds, 2011-03-29–2026-08-07
+85968* 2026-08-07 Prekratek zeleni interval za pešce
+83229* 2026-02-09 Prekratek interval za pešce in kolesarje
+3088  2011-03-29 Interval na semaforju za pešce
+
+GROUP 18: 3 records, 3 recent seeds, 2025-01-23–2026-04-17
+84248* 2026-04-17 Lpp čez rdečo
+77673* 2025-03-24 Brezbrizni vozniki LPP
+76647* 2025-01-23 Vozniki LPP
+
+GROUP 19: 3 records, 1 recent seeds, 2015-04-05–2025-05-09
+78520* 2025-05-09 Zapuščen avto
+42776  2021-03-30 Nepremičen avto
+11737  2015-04-05 Zapuščen avto že emsece na istem mestu
+
+GROUP 20: 3 records, 1 recent seeds, 2014-07-07–2026-02-25
+83499* 2026-02-25 Brv za pešce in kolesarje čez Gradaščico
+22140  2018-06-27 Brv cez Gradascico
+9777  2014-07-07 Brv preko Gradaščice
+
+GROUP 21: 3 records, 2 recent seeds, 2019-09-01–2025-03-19
+77580* 2025-03-19 Invazivnost dreves na Valjavče ulici
+76299* 2025-01-06 Problematika invazivnih dreves
+31205  2019-09-01 Popravilo škode na cestišču in pločniku 
+
+GROUP 22: 3 records, 1 recent seeds, 2013-09-25–2025-01-08
+76369* 2025-01-08 Ureditev ceste
+25197  2018-11-08 Dokončanje ceste
+7810  2013-09-25 Nedokončan pločnik in vozišče
+
+GROUP 23: 3 records, 3 recent seeds, 2025-05-29–2026-06-10
+85129* 2026-06-10 Postavitev radarja v obe smeri
+83913* 2026-03-25 Radar
+78944* 2025-05-29 Radar
+
+GROUP 24: 3 records, 2 recent seeds, 2024-08-13–2025-05-21
+78745* 2025-05-21 Parkiranje na pločniku
+78564* 2025-05-12 Parkiranje na pločniku
+73957  2024-08-13 Parkiranje na pločniku

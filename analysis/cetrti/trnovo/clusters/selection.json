@@ -1,0 +1,514 @@
+[
+ {
+  "name": "P+R Barje: neurejen dostop in smeti okoli parkirišča",
+  "ids": [
+   85388,
+   84693,
+   83536,
+   52640,
+   52120,
+   51285,
+   41971,
+   41125,
+   38100,
+   35035,
+   28180,
+   27901,
+   27433,
+   14341
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2016 do 2026 se na istem območju ponavlja: neurejen dostop in odpadki (14 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "85388": "5b5483084d49c5a0a953d38da52b3d2fc28b3f6f1e11f3896e5dc2a0fc98fe08",
+   "84693": "4072f37fb6e72951e5b48a975f2e7af67836f8f9909328d2f84665c15da732a1",
+   "83536": "078e00c4301d96633078bbc6b3a1b1101c5f4748a87d0332788acd00674650f6",
+   "52640": "5934057e28606820e32ab0dbe99c997de55fc14d9d5eec5ea6d6fef420fe471a",
+   "52120": "648d9f5bd3216ac925f339e8fee9c9e31d677da297a8a8d8041e344d9b433f75",
+   "51285": "a32024aa640b53c3e896a6f658e29c51ebd4df22308d0eae80130d9bd1879657",
+   "41971": "ee97c6365d4bdfd7e646c02d136953a27d9ab87b136a4746a17811d28a9dd55c",
+   "41125": "3a7efc8a7c27d9e80315468e99a24bbca1ff69e004dc2a2fdaa27d7e0c5f8120",
+   "38100": "72b31df84ad690f3f134894b8ae2d5f877f60efc7be274394c618e23124bc43e",
+   "35035": "b9ecf487808696c58ef88920f6a6e08c7be8900d39d1d144cafa8022290507d8",
+   "28180": "217f924ae033e011a28183315731a589c6cdc0f7c9ccad0032dbc23909d895f7",
+   "27901": "e135cee60bd141d5449ddcf68b0a26c8fad202796c426dc9463ee95fdc49b8fa",
+   "27433": "1dc7eacb4ed39f2401bc43272607be49fd5819eaf04512ffc5b8d8cdfa79abb0",
+   "14341": "e03d8c501483532e4e3f560387acefeff7bd86f49cb942b4f2764940c6808647"
+  }
+ },
+ {
+  "name": "Pot na Rakovo Jelšo: čiščenje ulice zaradi gradnje",
+  "ids": [
+   83508,
+   54168,
+   53300,
+   51224,
+   48963,
+   48459,
+   42286,
+   35153
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2020 do 2026 se na istem območju ponavlja: neočiščena ulica zaradi tovornjakov in gradnje (8 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "83508": "4707d7d8f9cd7b00c7e8c39ca6f38a1f28dfab6074b809176d91f3031ddd2ff8",
+   "54168": "6b7cd81fd7318974c5a3e8ef2135828faf162fe5a494e5164f4a196df2069013",
+   "53300": "3bf8a6765812cfa0f854db40745a7c8b2241839c3696f9d2a15156c1eeacd0c2",
+   "51224": "a4798bd92828dee8b3507741e65daff303bbefc0c0a147a5932266ee70ff47cf",
+   "48963": "b405cafcf8b59121f12ad6c61a59c57e903883b15c65ec914a7516186558bdef",
+   "48459": "f7f0afa99811dd033fb14207d1ec7c7786f553dca2d56ebd3e4d31f90a0067c8",
+   "42286": "76e78e066ca43231b66ebee84758e5827741a794fff045f0fa9095ee237193e0",
+   "35153": "0a86bd3f389c19606f1d0b30a79ede2ad9a2202622534c99a6d30c2abbb68f99"
+  }
+ },
+ {
+  "name": "Pot na Rakovo Jelšo 173–187: parkiranje na cesti",
+  "ids": [
+   83726,
+   76534,
+   75510,
+   62401,
+   55862,
+   44546
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2026 se na istem območju ponavlja: parkirani avtomobili na cestišču (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   3
+  ],
+  "reviewed_hashes": {
+   "83726": "a52eb877d4d850ea42b38e49db7cc19d018ccb41017ee736d6e25c199f266b55",
+   "76534": "0b854bdf289fab67a030fb266b15c218dbc127283819ccdd748d3e89400baaee",
+   "75510": "e6dbd9bf0be38f8f7a02e001590393737366fc4f46096cfe2a7824afce7c7889",
+   "62401": "f08bcf3b0f321cb93addc73384e38e0950431e2c444bd86a09f0b1588f58fad4",
+   "55862": "6ba448a13e8c6109c193238850fa35ad3f18f2b4235be8d6b931139042c498da",
+   "44546": "921316c64d7a0c1320706a893777010bfa84cd9483144c66360eb05ef8af99d9"
+  }
+ },
+ {
+  "name": "Nadvoz nad južno obvoznico: uničen asfalt po delih",
+  "ids": [
+   77737,
+   77648,
+   77273,
+   77167,
+   77078,
+   76243
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: poškodovan nadvoz (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "77737": "e899b6d1f2061478b932de223001f95403f24eba1aa49510a41e1a9357177b5c",
+   "77648": "33ff38ba3db66a790a6ecec75f1e1e8db34690b1a5e0191924cfd1f6cf03ba26",
+   "77273": "227d2b8aaaf633af75d3029c35727707d9c1d9ca16bfb2acf5ae8b4d165470ef",
+   "77167": "2d26e6766a60bc388edfb97e6aff40f99eb51ce92a8d4c737006f6a55335fafd",
+   "77078": "3b7f769073f03be45cd83d56545aad2320c9a152030b2b0460bab38434f12b5a",
+   "76243": "e3ceeee70f39afed6333c2841b2696678e5218d255e28fea2cb3e6e5e758e9eb"
+  }
+ },
+ {
+  "name": "Avtobusno postajališče Tbilisijska: nadstrešek in klop",
+  "ids": [
+   82045,
+   15000,
+   9903
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2014 do 2025 se na istem območju ponavlja: predlogi za nadstrešek in klop (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "82045": "f2c0a8b74de8cc9cda2fea87bde2bfc374393c85e880804e5b838760c2f42894",
+   "15000": "a3f8f1d48db8a1d4e082af66248c2cf91940ad37ef9382157095e00f8fadbc49",
+   "9903": "65da4467ac82f460d678753c0b24b337232c026170988b1eee492eac9a2f35de"
+  }
+ },
+ {
+  "name": "Riharjeva–Barjanska: nevarna zelena puščica",
+  "ids": [
+   86945,
+   81001,
+   77448,
+   63020,
+   58780
+  ],
+  "safety_ids": [
+   86945,
+   81001,
+   77448,
+   63020,
+   58780
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 se na istem območju ponavlja: nevarnost zelene puščice za pešce (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "86945": "e9f61e7b4a621cf84569b33bf482b57d0e695ddbefe6935076f79c37e1c38f9d",
+   "81001": "7802e4e31fce7928a3c04011789b987b5f3ebe3fc0992b6e9b981a38147b789d",
+   "77448": "579ab7cd2bf82889d1606bbeac2e47bf15cad03942f5bcd2c08259f70db12826",
+   "63020": "d1f320ccf466e113c8dca9505acca434da360b47d2b6edfc639817fcf0107773",
+   "58780": "90266b77e4e8ecd2d255f440e57bbcda0a7a9f5759dd5ddd8668e07f3625fed1"
+  }
+ },
+ {
+  "name": "Park Rakova Jelša: neurejen park",
+  "ids": [
+   78626,
+   78153,
+   78099,
+   64713
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: košnja, poškodovan most in smeti (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   7
+  ],
+  "reviewed_hashes": {
+   "78626": "44b5bb9bbba489305a371f6971f0f4cc717a3e6da19830226303dc791e23a4fd",
+   "78153": "805f03b8a0390c5ce272c4118d76b143a87de292ffd3dc3382c61856827bfc32",
+   "78099": "27e97f07d58778d803a5051656551b3a87aa6491f84bd59414321156ed56e86b",
+   "64713": "13acbdcd27aa21006f83b2fb5ce41b410243a9170b99fd67411c3dac11812163"
+  }
+ },
+ {
+  "name": "Mokrška ulica: parkiranje in parkomati",
+  "ids": [
+   80943,
+   75105,
+   74552,
+   4468
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2012 do 2025 se na istem območju ponavlja: parkiranje po vsej ulici (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "80943": "cc1318ce0fd3beee2b90d0353ae9b8d3e9a3b822441211f72d9c2fff78f8e4db",
+   "75105": "6b3dd8206432190db811976036a481d0a90c3039a9cb869f9034c867a269a5c8",
+   "74552": "f458b3bb851416885a6f4310047d3d37d15f7f4eea0651b92b765c75e4466f4c",
+   "4468": "db8bb6ed1c596a846273866175421c50dee0d5d355b4b281ef3c2d656d75be5b"
+  }
+ },
+ {
+  "name": "Ekološki otok: odpadki poleg zabojnikov za steklo",
+  "ids": [
+   82367,
+   76215,
+   61455,
+   43278
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2025 se na istem območju ponavlja: nepravilno odloženi odpadki (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   9
+  ],
+  "reviewed_hashes": {
+   "82367": "e7b4a26e97ee4d575f70ff2befff4ae684b1e8c849493de9f4f3ab6583c8e3ae",
+   "76215": "e748521c4639019432832dae4b67104d64940e91ea20fce4d88c2535c08d0301",
+   "61455": "65eddb4d337d87f225fec55ca07ae044d9cbfbf6fff7d576b44a74c8ff69bd3c",
+   "43278": "decf21010163911513b8adc39cd2d085f1c783000fd9d34d558d70cb4c5f08e3"
+  }
+ },
+ {
+  "name": "OŠ Livada: parkiranje staršev",
+  "ids": [
+   80670,
+   69703,
+   23461,
+   7627
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2013 do 2025 se na istem območju ponavlja: parkiranje pri šoli (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   10
+  ],
+  "reviewed_hashes": {
+   "80670": "3f5054aa0c9237fada0477bfebac1b0149f48d3455eb28b44911befacf78f505",
+   "69703": "9b464fe43b0a48b52f00323e272987e698c80b7f29ca368400a2e6204a883804",
+   "23461": "9aa30939cded775285b7f1ea1bbff138d767d4baa679de360039ead865bdf3a6",
+   "7627": "e00354bd60bff835e43a3b2ccb2127c1074ccf82e3e9b870bebe966cc8dac39a"
+  }
+ },
+ {
+  "name": "Pot na Rakovo Jelšo: umiritev prometa",
+  "ids": [
+   75275,
+   49570,
+   44437,
+   40008
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2020 do 2024 se na istem območju ponavlja: hitrost in umiritev prometa (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   11
+  ],
+  "reviewed_hashes": {
+   "75275": "5617f86f5bc4d0b4223a8ca83d7c1d73ce615faff38d7f46f70727eeda390dd4",
+   "49570": "b8a5d0a7df3ecc3fc18f82ff4fdcc694426005d7a60b900623583c626abc84ab",
+   "44437": "7d1bb4f9afe3c2e728177cd364dc6b13fdf248e37d0766c721b927edd69dcd4e",
+   "40008": "0d0c8e24c21b35bdabd7f2334bef47b5f5eb63b4f83928191fca62f2695b4875"
+  }
+ },
+ {
+  "name": "Kopačeva–Opekarska: semafor, zelena luč za pešce in kolesarje",
+  "ids": [
+   81398,
+   81227,
+   78513
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2025 se na istem območju ponavlja: neusklajena zelena luč (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   12
+  ],
+  "reviewed_hashes": {
+   "81398": "0cc36597135140a4b6178a2af13b33e01e044f2c88d81a406152c20a186bc254",
+   "81227": "35d86d2d1f0dd59aa62cdcd9409531ca64e558b79c70e7fbeb5a7ec093bf7dfa",
+   "78513": "de1dd5c84238ff902aa34256291cd6682df368dec8305d6653147a01fabb925a"
+  }
+ },
+ {
+  "name": "Sive vrane: nadležne ptice",
+  "ids": [
+   81761,
+   60969,
+   60903
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: iztrebki in prekomerna populacija (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   14
+  ],
+  "reviewed_hashes": {
+   "81761": "1877e298eb4bccdfa9650ea28ecb0a593f0eb421fc2d01936f27cc23180570b8",
+   "60969": "bd98c2aba0e4c92b747f5f765637e0b1e0eb904214292d3b9f7158c68113ffd2",
+   "60903": "1f850e1728ce2648723eecf5f494792861cc5d8be47d8e93854963620845fd72"
+  }
+ },
+ {
+  "name": "Pot na Rakovo Jelšo: sprememba prednostne ceste",
+  "ids": [
+   81973,
+   79773,
+   18943
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2025 se na istem območju ponavlja: vprašanja o prednostni cesti (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   15
+  ],
+  "reviewed_hashes": {
+   "81973": "327f85db7e61642e694abae24458a8d21fc1cb27b107753f5faee8d8fb60d967",
+   "79773": "66a46fa7ee219c1d11a25171bcc1318e9782d0251091cecffc96b4ce6fe1c460",
+   "18943": "0b21ed6af365b617413e1a1e25a5b0deaa73fe6001a3605afacc195b97415789"
+  }
+ },
+ {
+  "name": "Športni park Svoboda: odpadki in neurejenost",
+  "ids": [
+   77757,
+   77034,
+   63648
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: odpadki in blato (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   16
+  ],
+  "reviewed_hashes": {
+   "77757": "144ae723e0bb422d935c4a3636b1c102e58597f96b9f53e0b0dcfd4416c0740c",
+   "77034": "5c85461bf767c8a318a3164f4933a26c01b2e7227ff4036033a09d95bd3dde84",
+   "63648": "2d02ea1dfd12817892fa2686c85eb40c9df364c09f4139e825a1e299055094e1"
+  }
+ },
+ {
+  "name": "Aškerčeva–Slovenska–Barjanska: prekratek interval za pešce",
+  "ids": [
+   85968,
+   83229,
+   3088
+  ],
+  "safety_ids": [
+   85968,
+   83229
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2011 do 2026 se na istem območju ponavlja: kratek zeleni interval (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   17
+  ],
+  "reviewed_hashes": {
+   "85968": "ed37095ea12c9a5a8ed638b63b65722921e4b9ffd699e7acdcf97208fe0827a4",
+   "83229": "ddb965c0faa91a095a31736dac6b53690d3ed11565ccb6a0d7553a6e5ba19875",
+   "3088": "2ef88180bdb7b32d1e4b9bd24d82b457a20da9c72975bb6ac7504265155baff2"
+  }
+ },
+ {
+  "name": "Križanke: avtobusi LPP čez rdečo luč",
+  "ids": [
+   84248,
+   77673,
+   76647
+  ],
+  "safety_ids": [
+   84248,
+   77673,
+   76647
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2026 se na istem območju ponavlja: vožnja LPP čez rdečo (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   18
+  ],
+  "reviewed_hashes": {
+   "84248": "ed78eb22fef288c7e9b1cadc3405b464c960838ee44af84334cce6567be2fd49",
+   "77673": "a8779e669610331bed790270c62bbe920b9958e392f530634184ba70e1487346",
+   "76647": "c03f1e8643c885dfeb7d543c821f235a062d9f0ade82694d720d5a44c9c37f4b"
+  }
+ },
+ {
+  "name": "Parkirišče pred Mercatorjem v Murglah: zapuščen avto",
+  "ids": [
+   78520,
+   42776,
+   11737
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2015 do 2025 se na istem območju ponavlja: zapuščeno vozilo (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   19
+  ],
+  "reviewed_hashes": {
+   "78520": "290df349284eba35a55f147faf597abd0bd3fc55a1a6c310c2596f78efe3d63d",
+   "42776": "c0a35a6f910e77cd372a113cc8c227dbfbc1a83fee9b6217c0d0e14426d8aeab",
+   "11737": "ddeabae63b4c559e965002a71977bf6009a42b450d80ed0e18fc31498bf827ad"
+  }
+ },
+ {
+  "name": "Gradaščica: manjkajoča brv za pešce in kolesarje",
+  "ids": [
+   83499,
+   22140,
+   9777
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2014 do 2026 se na istem območju ponavlja: predlogi za brv (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   20
+  ],
+  "reviewed_hashes": {
+   "83499": "2756cd279a952d16b5b83a42dc50942148043ddab8fa54adfa0aaf93b8531dfd",
+   "22140": "a46bb0215192717d6c60a18be1b04fe6888c38e0e109ad5238738c0192909d02",
+   "9777": "20a39b2a0262db9528a87e2ea7db91eea1c38b55102f7abd097d7c031fc8e783"
+  }
+ },
+ {
+  "name": "Valjavčeva ulica: invazivna drevesa uničujejo ulico",
+  "ids": [
+   77580,
+   76299,
+   31205
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2019 do 2025 se na istem območju ponavlja: korenine dreves poškodujejo cestišče (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   21
+  ],
+  "reviewed_hashes": {
+   "77580": "c57d912903e429247b35a3b3e222e680acfb099f96b47d436e92d630d987597e",
+   "76299": "f73a43e40d057de24c2e97bb52b53b5e561e2d9105fbbf9199b03a6447a05b1b",
+   "31205": "85a58007c02db1573e847696e3e474207bbd11957a4d1b6ebdb0dc8e77fadb76"
+  }
+ },
+ {
+  "name": "Kolezijska ulica: nedokončana cesta in pločnik",
+  "ids": [
+   76369,
+   25197,
+   7810
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2013 do 2025 se na istem območju ponavlja: nedokončana ureditev (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   22
+  ],
+  "reviewed_hashes": {
+   "76369": "eed7716587c593759fea42ffe1e5c28a878166601b609f54cb1d243ee206aa1d",
+   "25197": "8b6e0f9f4416c56142c0bbfe24d36056359c4d67851be420a75e8a531d00fa30",
+   "7810": "73df7bd0d1a9f6af77a2d1cb34b7840c8e25f556ed14ed6f1f209436ed2206b1"
+  }
+ },
+ {
+  "name": "Radar in omejitev 30 km/h (divjanje po cesti)",
+  "ids": [
+   85129,
+   83913,
+   78944
+  ],
+  "safety_ids": [
+   85129,
+   83913,
+   78944
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2026 se na istem območju ponavlja: divjanje in radar (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   23
+  ],
+  "reviewed_hashes": {
+   "85129": "586692fb87a278fc71e9c9d71450244acc3f2714bc9a040e128b368815b03603",
+   "83913": "f10ff69d0ef980bbb1efb05ee80c910395a835713db8966a9cafc80e077aabe7",
+   "78944": "a074cf4bf5fb54ccdd7cc358259f02917f3107ccbb9832a1312b631f797c97a3"
+  }
+ },
+ {
+  "name": "BS Petrol, Barjanska: parkiranje na pločniku",
+  "ids": [
+   78745,
+   78564,
+   73957
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: neprehoden pločnik (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   24
+  ],
+  "reviewed_hashes": {
+   "78745": "3fb8a202207b1c0b3b778ac1995aa15b051c62cb1e45a1c842831800ce91dafc",
+   "78564": "06e48721a4553701a89ec3580c93b4f34ee3fc3bd5a31df94fc6c7e462766d16",
+   "73957": "afd75c554e88d0f64d9d171044ba1e2cad9527dba8722d50dc3a4bc1f5b08341"
+  }
+ }
+]
