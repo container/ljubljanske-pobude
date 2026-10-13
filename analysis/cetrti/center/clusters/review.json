@@ -1,0 +1,1645 @@
+{
+ "meta": {
+  "district": "center",
+  "snapshot": "2026-10-01",
+  "cutoff": "2024-10-13",
+  "radius_m": 100,
+  "records": 16529,
+  "seeds": 1291,
+  "missing_seed_types": [
+   81067,
+   80811,
+   80034,
+   80849,
+   79663,
+   80789,
+   80269,
+   80268,
+   81237,
+   81225,
+   81217,
+   81190,
+   81189,
+   81157,
+   81168,
+   80854,
+   81150,
+   81123,
+   81109,
+   81108,
+   81102,
+   80928,
+   81074,
+   81053,
+   81051,
+   81039,
+   81026,
+   80989,
+   80798,
+   80961,
+   80953,
+   80947,
+   80916,
+   80902,
+   80887,
+   80883,
+   80857,
+   80848,
+   80843,
+   80826,
+   80819,
+   80802,
+   80782,
+   81188,
+   80777,
+   80776,
+   80769,
+   80767,
+   80759,
+   80976,
+   80969,
+   81172,
+   81170,
+   80786,
+   80524,
+   81060,
+   81037,
+   81018,
+   81012,
+   80732,
+   80968,
+   80595,
+   80977,
+   80962,
+   80937,
+   80589,
+   80513,
+   80822,
+   80929,
+   80912,
+   80884,
+   80398,
+   80403,
+   80821,
+   80572,
+   80622,
+   80836,
+   80661,
+   80763,
+   80671,
+   80145,
+   78232,
+   80797,
+   80781,
+   80705,
+   80749,
+   79387,
+   80718,
+   80730,
+   80265,
+   80623,
+   80313,
+   80677,
+   80644,
+   80428,
+   80447,
+   80624,
+   80477,
+   80600,
+   80007,
+   80489,
+   80482,
+   80501,
+   80382,
+   80528,
+   80542,
+   80536,
+   80409,
+   80025,
+   80485,
+   79945,
+   79950,
+   79955,
+   79711,
+   79748,
+   80054,
+   80458,
+   79510,
+   79478,
+   78033,
+   78804,
+   79606,
+   80263,
+   80284,
+   80235,
+   77108,
+   80009,
+   80112,
+   80187,
+   80206,
+   80379,
+   80278,
+   80294,
+   80372,
+   80370,
+   80317,
+   80331,
+   80378,
+   80335,
+   78915,
+   80208,
+   80306,
+   80281,
+   80282,
+   80228,
+   80109,
+   80113,
+   80267,
+   80147,
+   79997,
+   79981,
+   79951,
+   80024,
+   80184,
+   80176,
+   80123,
+   80021,
+   80020,
+   80137,
+   80144,
+   80096,
+   80099,
+   80006,
+   80035,
+   80010,
+   79710,
+   79381,
+   79131,
+   79122,
+   80008,
+   79930,
+   79918,
+   79939,
+   79953,
+   79936,
+   79915,
+   79822,
+   79502,
+   79909,
+   79884,
+   79163,
+   79162,
+   79903,
+   78749,
+   79802,
+   79104,
+   78975,
+   78926,
+   79841,
+   79818,
+   79813,
+   79059,
+   79041,
+   78949,
+   79479,
+   79723,
+   79722,
+   79708,
+   79386,
+   78507,
+   79757,
+   79719,
+   79621,
+   79690,
+   78858,
+   79620,
+   79623,
+   79706,
+   79683,
+   79686,
+   78916,
+   79602,
+   79425,
+   79400,
+   79622,
+   79395,
+   79467,
+   79483,
+   79503,
+   79539,
+   79434,
+   79424,
+   79521,
+   79413,
+   79354,
+   79329,
+   79548,
+   79553,
+   79431,
+   79106,
+   79286,
+   78971,
+   78934,
+   78422,
+   77353,
+   79496,
+   79495,
+   79469,
+   79466,
+   79445,
+   79444,
+   79443,
+   78186,
+   79275,
+   77924,
+   79108,
+   79138,
+   79244,
+   79388,
+   79382,
+   79328,
+   79377,
+   79332,
+   79209,
+   78669,
+   78968,
+   79161,
+   79207,
+   79235,
+   79196,
+   79194,
+   78075,
+   79060,
+   78896,
+   78789,
+   78945,
+   79033,
+   78922,
+   78978,
+   77817,
+   77151,
+   78999,
+   78883,
+   78531,
+   78042,
+   78841,
+   78844,
+   78265,
+   78326,
+   78327,
+   78366,
+   78427,
+   78521,
+   78508,
+   78545,
+   78567,
+   78578,
+   78643,
+   78644,
+   78655,
+   78735,
+   78621,
+   78759,
+   78734,
+   78743,
+   78530,
+   78148,
+   78541,
+   78647,
+   78535,
+   78533,
+   77854,
+   78519,
+   78595,
+   78498,
+   78228,
+   78496,
+   78456,
+   78423,
+   78316,
+   78320,
+   78348,
+   77975,
+   78041,
+   78092,
+   77171,
+   76274,
+   78180,
+   78157,
+   77945,
+   77538,
+   77625,
+   76787,
+   78209,
+   77657,
+   77754,
+   78201,
+   78151,
+   78207,
+   78074,
+   78103,
+   77304,
+   77831,
+   77918,
+   77934,
+   77946,
+   78004,
+   78012,
+   78040,
+   78049,
+   78063,
+   78078,
+   78006,
+   77808,
+   78003,
+   77941,
+   77916,
+   77874,
+   77853,
+   77818,
+   77350,
+   77747,
+   77915,
+   77947,
+   77913,
+   77864,
+   77940,
+   77921,
+   77815,
+   76440,
+   77886,
+   77881,
+   77784,
+   77783,
+   77598,
+   77582,
+   77855,
+   77796,
+   77779,
+   77846,
+   75392,
+   75401,
+   75403,
+   75639,
+   75641,
+   75652,
+   75689,
+   75716,
+   77680,
+   77679,
+   77753,
+   75812,
+   75813,
+   75885,
+   75928,
+   75294,
+   75319,
+   75262,
+   75228,
+   75241,
+   76053,
+   76058,
+   76096,
+   76116,
+   76169,
+   76385,
+   76401,
+   76444,
+   76451,
+   76474,
+   76816,
+   76886,
+   75207,
+   76965,
+   76969,
+   77012,
+   77013,
+   77015,
+   75184,
+   77382,
+   77411,
+   77482,
+   77575,
+   77576,
+   77653,
+   77684,
+   77619,
+   77700,
+   77618,
+   77621,
+   77622,
+   77632,
+   77670,
+   77681,
+   77701,
+   77424,
+   77223,
+   77462,
+   77614,
+   77663,
+   77447,
+   77634,
+   75892,
+   77442,
+   77338,
+   77347,
+   77360,
+   77537,
+   77578,
+   77514,
+   77331,
+   77527,
+   77170,
+   77178,
+   77374,
+   77366,
+   77507,
+   77459,
+   77478,
+   77291,
+   77014,
+   77440,
+   77386,
+   77351,
+   77307,
+   77306,
+   76668,
+   77222,
+   77175,
+   77162,
+   77207,
+   77259,
+   76209,
+   76208,
+   77191,
+   77232,
+   77228,
+   77016,
+   75678,
+   76768,
+   76700,
+   76736,
+   77193,
+   76548,
+   75566,
+   75554,
+   75565,
+   76830,
+   76889,
+   76920,
+   77112,
+   76896,
+   77054,
+   76072,
+   75859,
+   75136,
+   75564,
+   75650,
+   77074,
+   77083,
+   77004,
+   77055,
+   76968,
+   76930,
+   76929,
+   76888,
+   76412,
+   76887,
+   76879,
+   76826,
+   76811,
+   76676,
+   76808,
+   76242,
+   75512,
+   76210,
+   76806,
+   76767,
+   76114,
+   76769,
+   76494,
+   75446,
+   76539,
+   76743,
+   76449,
+   76143,
+   76155,
+   76495,
+   76503,
+   76551,
+   76405,
+   76397,
+   76486,
+   76490,
+   76201,
+   76335,
+   76452,
+   76433,
+   76453,
+   76432,
+   76192,
+   76332,
+   75432,
+   75408,
+   76186,
+   76388,
+   76334,
+   76347,
+   76142,
+   75281,
+   76375,
+   76292,
+   76268,
+   76261,
+   76280,
+   76187,
+   76170,
+   76271,
+   76285,
+   76230,
+   76181,
+   76183,
+   76226,
+   76229,
+   76231,
+   76225,
+   76240,
+   76217,
+   76180,
+   76153,
+   76188,
+   76046,
+   76008,
+   75865,
+   76159,
+   75754,
+   75198,
+   75922,
+   76098,
+   76144,
+   76145,
+   76136,
+   76122,
+   76066,
+   75475,
+   75420,
+   75837,
+   75701,
+   76006,
+   76065,
+   75951,
+   75855,
+   75673,
+   75777,
+   75831,
+   75749,
+   75755,
+   75459,
+   75713,
+   75506,
+   75735,
+   75612,
+   75691,
+   75711,
+   75646,
+   75380,
+   75677,
+   75633,
+   75630,
+   75632,
+   75631,
+   75599,
+   75619,
+   75390,
+   75439,
+   75514,
+   75528,
+   75535,
+   75419,
+   75445,
+   75461,
+   75501,
+   75523,
+   75500,
+   75467,
+   75333,
+   75443,
+   75407,
+   75243,
+   75434,
+   75326,
+   75291,
+   75314,
+   75299,
+   75276,
+   75325,
+   75293,
+   75284,
+   75269,
+   75134,
+   75133,
+   75163,
+   75209,
+   75202,
+   75164,
+   75170,
+   75160,
+   75135,
+   75107,
+   75093,
+   86929,
+   86944,
+   86958,
+   86960,
+   86905,
+   86907,
+   86909,
+   86910,
+   86857,
+   86873,
+   86881,
+   86885,
+   86890,
+   86792,
+   86828,
+   86836,
+   86849,
+   86847,
+   86813,
+   86812,
+   86730,
+   86744,
+   86758,
+   86766,
+   86775,
+   86779,
+   86785,
+   86706,
+   86715,
+   86613,
+   86556,
+   86507,
+   86026,
+   85991,
+   85733,
+   85654,
+   85342,
+   85144,
+   85056,
+   85062,
+   84892,
+   83708,
+   83721,
+   83633,
+   82951,
+   82879,
+   82476,
+   81749,
+   82115,
+   82048
+  ],
+  "spatial_pairs": 364254,
+  "strong_pairs": 1161,
+  "candidate_groups": 125,
+  "ranking": "stemmed title + full initiative TF-IDF cosine; candidate discovery only",
+  "notice": "Prvi ročno pregledani izbor za Center (nedavne pobude od 13. 10. 2024). Ne gre za popoln seznam težav.",
+  "stage": "pilot",
+  "reviewed_candidates": 125,
+  "accepted_clusters": 85,
+  "accepted_reports": 527
+ },
+ "decisions": [
+  {
+   "candidate": 1,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Ferentov vrt: parkiranje v coni za pešce"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 2,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 3,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Vožarski pot: zaparkirana ulica in prometni kaos"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 4,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Tivoli: manjkajoče javno stranišče ob igrišču"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 5,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Cigaletova: Nobel burek, smrad in smeti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 6,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Igriška: hrup in delovni čas gostinskih lokalov"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 7,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Dvorakova–Slovenska: semafor in varnost pešcev in kolesarjev"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 8,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Hotel Slon: parkiranje na pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 9,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Stari del mesta: grafiti na fasadah"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 10,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Cankarjevo nabrežje: glasna glasba pri The Hotel"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 11,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Levstikov trg: obnova fontane in Marijinega stebra"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 12,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Opera: vožnja in parkiranje po pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 13,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 14,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Strossmayerjeva in Waldorfska šola: parkiranje na pločniku in kolesarski stezi"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 15,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Mestni trg in Ribja ulica: nedelujoča osvetlitev kipa Mahlerja"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 16,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Grudnovo nabrežje: neurejena trava"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 17,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Trg OF: konstantno parkirani avtomobili"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 18,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Vilharjeva: parkiranje na kolesarski stezi"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 19,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Dunajska–Vilharjeva: semafor za pešce in kolesarje"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 20,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Slovenska cesta: fontana"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 21,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Hrup lokalov v mestnem jedru"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 22,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Gregorčičeva, OŠ Majde Vrhovnik: parkiranje na pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 23,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 24,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Karlovška: zelena puščica za desni zavoj ogroža pešce"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 25,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Nazorjeva: pokrit vodnjak"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 26,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Ploščad Ajdovščina: parkiranje vozil"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 27,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Odvoz listja in vej"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 28,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Žitni most: ploščad, podgane in vzdrževanje"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 29,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Silk and Fizz: hrup lokala ponoči"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 30,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 31,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Nedelujoči prikazovalniki prihodov LPP"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 32,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Žarnikova: otroško igrišče"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 33,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Križanke in Trg francoske revolucije: parkiranje"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 34,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 35,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 36,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Tromostovje: nedelujoč pitnik"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 37,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Igriška: drevesa in padec drevesa"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 38,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Tivoli: pasji park"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 39,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Roška, most med Streliško in Hradeckega: nedelujoče dvigalo"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 40,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Park slovenske reformacije: parkirani avtomobili"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 41,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Strossmayerjeva pred vrtcem: parkiranje na prehodu in pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 42,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Igriška: parkiranje na polnilnicah za električna vozila"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 43,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Špica: zanemarjena glicinija"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 44,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Vilharjeva: preozka začasna kolesarska steza"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 45,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Garažna hiša Ilirija: parkomat in dostop z Urbano"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 46,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Tivoli: poškodovana otroška igrala"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 47,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Semafor za desne zavijalce: nesinhronizacija"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 48,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Breg in Frančiškanska: hrup trubačev in zvočnikov"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 49,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 50,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 51,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 52,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kolodvorska in Čufarjeva: parkiranje"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 53,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podhod pod Vilharjevo: urin in odpadki"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 54,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Prijateljeva 2: uzurpacija javne površine"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 55,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Grudnovo nabrežje: zasaditev kostanja"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 56,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Argentinski park: parkiranje avtomobilov"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 57,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podhod pri Orto baru: dotrajan nadvoz"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 58,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Pločniki v centru: parkiranje na pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 59,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Rimska: manjkajoča stojala za kolesa"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 60,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Petkovškovo nabrežje: podgane"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 61,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 62,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 63,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Hotel Slon: parkiranje na pločniku"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 64,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Poljanski nasip: podgane"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 65,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 66,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kongresni trg in Šumi: ustavljanje vozil na kolesarski stezi"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 67,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Miklošičev park: podgane"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 68,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Ribji trg: jutranja dostava"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 69,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 70,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 71,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Miklošičeva: brezdomci, fekalije in hrup"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 72,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Avtobusna postaja na kolesarski stezi"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 73,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Prikazovalnik prihodov LPP pri Drami in Šumiju"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 74,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Posedene rešetke nad kanali"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 75,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kongresni trg in Šumi: ustavljanje vozil na kolesarski stezi"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 76,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Ljubljanica: rečne ladjice ogrožajo potnike"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 77,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Stara Karlovška: izruvane kocke"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 78,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 79,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Peglezen: zastavni jambor"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 80,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 81,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Lattermanov podhod: grafiti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 82,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Čevljarski most: ulični nastopači"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 83,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Poljanska cesta: radar zaradi hitrosti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 84,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "GH Kongresni trg: zadrževanje odvisnikov"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 85,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Semafor: nedelujoča tipka za pešce"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 86,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Prešernova: parkiranje v coni pred vrtcem"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 87,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 88,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Vrba: prerašča kolesarsko stezo in pločnik"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 89,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 90,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Arkade ob Slovenski cesti: grafiti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 91,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 92,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Arkade ob Slovenski cesti: grafiti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 93,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 94,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Roška in stomatološka klinika: zanemarjena kolesarska pot"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 95,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Josipine Turnograjske: izruvane kocke pred rampo"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 96,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 97,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 98,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Kongresni trg in Šumi: ustavljanje vozil na kolesarski stezi"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 99,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Skate park ob Cukrarni: odvisniki in igle"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 100,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Polnilnice za električna vozila: zasedena polnilna mesta"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 101,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 102,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 103,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Ploščad Ajdovščina: parkiranje vozil"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 104,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 105,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Trubarjeva–Resljeva: nevaren prehod za pešce"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 106,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Šuštarjevo nabrežje: parkiranje ob bolnišnici"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 107,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Potrčeva: otroška igrišča"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 108,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Potopni smetnjaki: nedelovanje"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 109,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Celovška–Bleiweisova: semafor in rdeča luč"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 110,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Podhod v Tivoli: nesnaga in grafiti"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 111,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 112,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 113,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 114,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Trdinova: nepravilno parkirana vozila"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 115,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 116,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 117,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Prešernova–Vrtača: nepregledno križišče"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 118,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Miklošičeva: zapora in kolesarska pot"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 119,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 120,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 121,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  },
+  {
+   "candidate": 122,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Zvočniki v mestnem jedru: hrup po 22. uri"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 123,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Tavčarjeva–Slovenska: nevarno križišče"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 124,
+   "status": "reviewed_selection",
+   "selected_groups": [
+    "Miklošičeva: brezdomci, fekalije in hrup"
+   ],
+   "reason": ""
+  },
+  {
+   "candidate": 125,
+   "status": "reviewed_excluded_or_pending",
+   "selected_groups": [],
+   "reason": "Različne teme, administrativne ali premalo pobud na istem mestu; ni ena lokalna težava."
+  }
+ ]
+}

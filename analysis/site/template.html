@@ -141,6 +141,8 @@ button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible
 /*LEAFLETCSS*/
 #map{width:100%;height:100%;background:#f2f2f2}
 .mapwrap{isolation:isolate}  /* keep Leaflet's z-indexes inside the map */
+.cetrt-tip{font:600 13px var(--f-body,inherit);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;box-shadow:none}
+.cetrt-tip:before{display:none}
 .leaflet-tile-pane{filter:grayscale(1) brightness(1.08) contrast(.9)}
 .leaflet-container{font-family:var(--f-body)}
 .leaflet-control-attribution{font-size:11px}
@@ -530,6 +532,7 @@ function lightbox(imgs, start){
 /* ---------- map ---------- */
 const map = L.map("map", {minZoom:11, maxZoom:19, zoomSnap:0.5, preferCanvas:true, maxBounds:[[45.90,14.25],[46.18,14.80]]});
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {maxZoom:19, attribution:'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'}).addTo(map);
+const neighborLayer = L.layerGroup().addTo(map);  // other districts: hover tints them, click switches; added first so points stay on top
 const borderLayer = L.layerGroup().addTo(map);
 const oldLayer = L.layerGroup().addTo(map);
 const layer = L.layerGroup().addTo(map);
@@ -864,6 +867,15 @@ async function setDistrict(id){
   const u = new URL(location.href); u.searchParams.set("cetrt", META.id); history.replaceState(null, "", u);
   lsSet("cetrt", META.id);
   borderLayer.clearLayers();
+  neighborLayer.clearLayers();
+  for (const c of CETRTI){
+    if (c.id===META.id || !c.meja) continue;
+    const poly = L.polygon(c.meja, {stroke:false, fillColor:"#FF6B35", fillOpacity:0, bubblingMouseEvents:false}).addTo(neighborLayer);
+    poly.bindTooltip(c.ime, {sticky:true, direction:"top", className:"cetrt-tip"});
+    poly.on("mouseover", ()=>poly.setStyle({fillOpacity:.2}));
+    poly.on("mouseout", ()=>poly.setStyle({fillOpacity:0}));
+    poly.on("click", ()=>setDistrict(c.id));
+  }
   const border = L.polygon(D.podlaga.meja, {color:"#FF6B35", weight:2, dashArray:"6 4", fill:false, interactive:false}).addTo(borderLayer);
   bounds = LAB ? L.latLngBounds(pts.map(p=>[p.la,p.lo])) : border.getBounds();  // labelled points are already limited to the district
   if (document.getElementById("map-view").hidden) pendingFit = true; else map.fitBounds(bounds.pad(0.05));

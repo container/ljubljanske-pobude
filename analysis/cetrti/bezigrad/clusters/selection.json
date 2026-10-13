@@ -1,0 +1,1276 @@
+[
+ {
+  "name": "Šarhova in Ulica Pohorskega bataljona: udarne jame na cesti",
+  "ids": [
+   82853,
+   82463,
+   79816,
+   78500,
+   77049,
+   71820,
+   63663,
+   62911,
+   59695,
+   28794,
+   21091,
+   20210,
+   20076,
+   6539,
+   6449,
+   5774
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2012 do 2026 se na istem območju ponavlja: udarne jame in prošnje za preplastitev (16 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   1
+  ],
+  "reviewed_hashes": {
+   "82853": "cc191fac4a785a0ee0ebe5a4fbd9614af2b3711a7343530a0c4a40813800fc3c",
+   "82463": "c0950d6b73d8b572e1854f2862840563a6c1f7ab644cfbf98fd1aa18aa59c6fe",
+   "79816": "09fe95048d25345de567728db5a2cc61170fa0160d8bdfe3bf6fa31ff629c7fd",
+   "78500": "b9017b454c9ad9d10f372f374423dd2719ebfbc13ac910300d843ae2ee1052f4",
+   "77049": "fb3440000842f3f2d937f6a7d010720516e7370209074d830d385af08ac81748",
+   "71820": "67420ed22a18f659f881441306d78b00e065207ac26c26cef0d890c68bd127f0",
+   "63663": "18d1f0af1ad1cebf559fcbfd3a77de2cf648a9c5b8d67b97b6ec74afd1899c68",
+   "62911": "fab7d2842381d84bedf51afe412210ab0f607ca7e35e08d10cf90213bc5747d6",
+   "59695": "a870bdad010e4aeb1af7e1fe73f58251b0123c91e6fd6ff6049f3b8461175ee8",
+   "28794": "e1474f4b523ad3a9746d8eaf18c88533b7a1c3932d50075a22ffd1221b094e72",
+   "21091": "7c0a18a2a0d39f2d4f812134c6e964b946b120a1e2caabe1cd4e101b6a8d75e1",
+   "20210": "9f8597f6ecec0397047220fde6c676f3a0c5d749f743cbe9a50df2d6f2504765",
+   "20076": "cb19f3516b0d6ee1914066e90fde2c00ae9eb57f567f2dd91733775d18f50a0b",
+   "6539": "03b49d575889188a07ea563416e79c831288a8cbfd33133cf6c437894e21b5f7",
+   "6449": "beb267edf214433d7ae4f5020ec3a6cada4380c50e6ed8238d5fa0976b4335fb",
+   "5774": "f4bc81e5f9cdeaeaff8d04eee1bb00eeb9ac36ee7352c99505abe5d36deccf69"
+  }
+ },
+ {
+  "name": "Fabianijeva in Knobleharjeva: zapuščena vozila na parkirišču",
+  "ids": [
+   83719,
+   83595,
+   82836,
+   81954,
+   73141,
+   39055,
+   39050,
+   38504,
+   33154,
+   29561,
+   24329,
+   22530,
+   19641,
+   18631
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2026 se na istem območju ponavlja: prijave zapuščenih ali neregistriranih vozil (14 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   2
+  ],
+  "reviewed_hashes": {
+   "83719": "031ccf5f38c698e7b9e0d3282d5f9f2dd487c220967310fdf88c47e24f3d1eb2",
+   "83595": "f4de66104e3d81e1302c2e38902b750895cd175737189199f814037f53d43109",
+   "82836": "453574af611b129f2d66b57e72fbe4283b07591f84e76e2719c2a79575521dc0",
+   "81954": "cd42822e54ef5a5a3206f00c52427b5766bc2fc1b8eb60914c93edeb8421df0f",
+   "73141": "717dc19081e56daccb61b3ba529e19ad70e65ed59a58fc30481f2de8b0dffacb",
+   "39055": "1c4e7826a6dcce572b7ae33aae7b860e02a9e6e5965b1200bfc92bcab7cd94b6",
+   "39050": "42bcda6c8c927d30b407d7508591410c99867ded2a8686437328a80e7c1c868d",
+   "38504": "e25d4d7e55af743144c9f18b1c0299fac4791e0758ac8d4fc66ad86b030417ee",
+   "33154": "56d414e705464b8fcb27386ac410b934487dfd61482b62444db9aaa24cb6cf10",
+   "29561": "607a1b9ab4fda8a48e7c6948e7636580be139c683aa0c4ec923d7dd3af66e1c1",
+   "24329": "3970669e74d3003aaa1f2d684467eaeb44ac1d94d1d890e1c0d038bf2f5c3140",
+   "22530": "c01b0b80dfb27dd672109afc15cdbddb6cf338804e15258a07666fd1510b352e",
+   "19641": "689d9bd3fdc6ef8d299b3b0d9767b8a4c457cde79d96cae32708f9be5381cda3",
+   "18631": "754f05e73d2f66818e7de530ba60e3d4b42737ce4ba9ce28aae60c3e6b3c60b4"
+  }
+ },
+ {
+  "name": "Topniška–Linhartova: nevarno križišče in semafor na tipko",
+  "ids": [
+   81977,
+   81519,
+   81369,
+   81215,
+   81031,
+   80737,
+   80532,
+   77741,
+   77082,
+   65615,
+   56287,
+   20605,
+   15444,
+   157,
+   82304,
+   81138,
+   79043,
+   78487,
+   77094
+  ],
+  "safety_ids": [
+   81519,
+   81369,
+   81031,
+   80532,
+   77094
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2009 do 2025 se na istem območju ponavlja: nevarnost po prenovi križišča, polkrožno zavijanje in semafor za pešce in kolesarje (19 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   3,
+   17
+  ],
+  "reviewed_hashes": {
+   "81977": "3a0c256947a314d18e1ba923f52a88e18d285eb8319d8013abd18dba5c15e257",
+   "81519": "1638d13ca8d0ecc5ab2dba7fb69e74c6f394bd02d23c801600200976e4cfc321",
+   "81369": "49fe3d76367b2b8820dfe1e1d33f01d0a8bf05226a42c6d73b0ae3be71f50b41",
+   "81215": "a288c7aee7a98d9759c53d64b0d321e2e163230d2d9631cb8099d0f3e1a91ff7",
+   "81031": "7382805ab94a558ee4384854b34c0037e9ca21507a5b4ff0499cc28eddc8b983",
+   "80737": "a714fdf2294d0c9b58c90b2ba82f8118d3a49a53306c144d1276a4af9308498b",
+   "80532": "2c275922c3832bd1ffb17f101d25be98c5e409c68e3effbed44bfde84cf85bbf",
+   "77741": "4e7fa59aa3eff7cb0bb7ba504390e5801fe7b5ca10fd6c422b3e5ea72b4d7bd3",
+   "77082": "01a9f78647e0d611cbd7db25e5ee31e828176b1862883a996163b27fbfaddabc",
+   "65615": "4d7bbd6e8ea221285b259966eed7957182ead0e666b266080415bd23b21e1313",
+   "56287": "f0ddc432c9e3084bdfef1addf1758bc60a386f8ce554bb55637919e1e1c65ed7",
+   "20605": "e9cff4ca03f0389efd2593a4c7bc2ccc3015eef1d1e22d94ef92b7bee8534cfc",
+   "15444": "a690e69367275e66f58d19a3c3725e03004aed3b9efef79238eaf69805cf0451",
+   "157": "5130d7141437113e548a21464a0023b31c0a1789dc84d7f6788c86bc025d91b4",
+   "82304": "2cf1cefed6ec91325088a07d7ad91372f2af210691c504e62ca7e8698c2a0146",
+   "81138": "54cdf565301c78f74544bbd921bfba0244eac8fd8c833c3e3f9f3d41bf918a01",
+   "79043": "1feb086ed09171eb1d0c6c1a6d8f97901e75e990af3f3de208796da44c860e68",
+   "78487": "fbbec18d8f7043356515557c890f2bb394d06b179380284a7b7d3955e32b7b9e",
+   "77094": "956fc30259be8b84bb8f7fb8280b88a45e025134c15f1cf0eb3bde7b37a2942f"
+  }
+ },
+ {
+  "name": "Parmova–Bežigrad: kršitve prepovedi zavijanja levo",
+  "ids": [
+   84194,
+   82895,
+   74798,
+   62650,
+   56123,
+   52600,
+   52470,
+   49059,
+   47534,
+   47471,
+   47339,
+   39090,
+   37923
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2020 do 2026 se na istem območju ponavlja: kršitve prepovedi zavijanja levo in predlogi za sprostitev (13 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   4
+  ],
+  "reviewed_hashes": {
+   "84194": "d8c74d479ade244e3b7a7e0b6f1c800946cf9311489759ca16e1de704268b277",
+   "82895": "03ad40ea96cd14261cb368b1e23d29b4674a087fdcbe5104d0293e4f253b10ae",
+   "74798": "955969c797d9aa105f94e2023604fd1fc11bf74cc66d034b6ae99f92c6b57e3d",
+   "62650": "cca993c1d25c17a745b176682ef48b42e8502de30cbaf918463aa2402e43da1d",
+   "56123": "4c255a2533b84a80b01b9cbac71fd0df2559a1a8dca818b289f16cf97c0a8b95",
+   "52600": "86467832c3688d2e0038ba895c724008308236d11c44227d7302f537a4487012",
+   "52470": "84e5dfb7fe92ce91dac66faf58937116ad7c552ee50a11c93f2da7d8fe69a842",
+   "49059": "3bf6aeab7c54177d388267414d6cc025daea1ebb1857eccfddd355b52a914ac7",
+   "47534": "080292b87111ebade2f35b70e7b2cffb21301f341bc5e89351cf64d326ad0724",
+   "47471": "d08aece9b835115e1bf581af27b1bb24a13ce7346c80e69690752cfa8a604363",
+   "47339": "526ecbc070ea78c125c652e17630714ba192ea18606b2613c4396e95ab38c206",
+   "39090": "e18a9eba616baf77b828cad40c69cf3d00c4e76d8d8abb884d28c7f6ed83a0f3",
+   "37923": "599c4382a51c7d6d0d2165ac180a28588f277c3c40cefa8b0367be0f1bf73535"
+  }
+ },
+ {
+  "name": "Plavi bar ob Linhartovi: zaraščena in ozka kolesarska steza",
+  "ids": [
+   79243,
+   78888,
+   76594,
+   73964,
+   48401,
+   45617,
+   25818,
+   21992,
+   13074,
+   11424,
+   6863
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2013 do 2025 se na istem območju ponavlja: zaraščenost kolesarske steze in pomanjkanje prostora za pešce in kolesarje (11 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   5
+  ],
+  "reviewed_hashes": {
+   "79243": "79112dc6effc7e4099d3a98b23a2e5f9f95920292e4a1b95a49ea6496bbe6256",
+   "78888": "777233431ac853aa9e93a4269e6fc91f6ac0c360883cd1afda525d0ca385a0d9",
+   "76594": "3f0726a5505f5427f6cb188bcbfbaa7c4a5c4c1eaa43da9ad39b0f855b70c8b0",
+   "73964": "0b892a72602756f66a227745c3df2e9372c9d9a3de9ad84ac1db3cf983428378",
+   "48401": "a0a5e1d53525ea0e6bb70bf38233a01602d9c12ef96a0abcd0fcdb15fddd8604",
+   "45617": "6b2c0709857fa449bccffa97216506598c516e72c57f9738b0f04220c9116bbb",
+   "25818": "8b7abb495e72888ad12c1e6680a1596004e393b107936cb890857e2ee66d731c",
+   "21992": "2e3a25c7814550ac1b137fc8add2e8491b2c06f1748c654345c7ae5fd3a62cc6",
+   "13074": "0313faa9398fc05ba305ebe0722df2849c63e93082071f74414cc652c036186c",
+   "11424": "8dec0760653eed2e759aa42f99984c94882f83fa605e9f7392bd914751ea9712",
+   "6863": "7a090321b8efbbf1ab894a31060bfe2ce06b1e2f3c15e96c01a4d5c159f887d5"
+  }
+ },
+ {
+  "name": "Štembalova pri cerkvi: manjkajoči količek na peš in kolesarski poti",
+  "ids": [
+   85974,
+   83957,
+   57270,
+   54030,
+   39755,
+   14173,
+   13483
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2015 do 2026 se na istem območju ponavlja: odstranjen ali odklenjen količek, ki preprečuje vožnjo avtomobilov (7 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   6
+  ],
+  "reviewed_hashes": {
+   "85974": "88528391ea9ef2ec90acad2d3f0940331046416e0161d9f90a23cc4360b36fa8",
+   "83957": "ccca14b0929228301b77585d75ab9bf396d27366bc93c66bb0046702e7716737",
+   "57270": "5b4d8b03d3e268abca2b83995894fbb8414ccadd970a970673fc3c1e00301d09",
+   "54030": "4493546b8b972f411851fdb5e1b3c9ab0a0e5b6e27d6e479ce8d017778635e60",
+   "39755": "404e05a161f4ce559a024de0d38c9d0d174d891ce807f734481124e622fdfcf3",
+   "14173": "9db4ee8654f404025be12994021ff8bdf974ef05007ab041e0f2fcc9c0755557",
+   "13483": "bca66fddc2c1b6fb934de0e943b2c7111cec073cae7eea6e207586645f3ccc0f"
+  }
+ },
+ {
+  "name": "Topniška: manjkajoče vrečke ob košu za pasje iztrebke",
+  "ids": [
+   85980,
+   84572,
+   82713,
+   79978,
+   72852,
+   62744
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2026 se na istem območju ponavlja: pomanjkanje brezplačnih vrečk (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   7
+  ],
+  "reviewed_hashes": {
+   "85980": "c8186291c0ce2a836c043a2b6d3cc2125456c2fd61974e1d1ea4b570e4ac0dc7",
+   "84572": "4a267aba5004c7d0902446a317e32c1d80fc6f7bfaf338b47f75d28c86f30b19",
+   "82713": "ad4214b5d19ebe942025d2796a60a73c427f34687345d2ce9396235588519b26",
+   "79978": "f25f6fcb495f9f7b06ac062bc57bf31eb1331e1b263020a694d26b24579eb573",
+   "72852": "3d0d2ce353828474e32e67ce050efb107333a1690b9ff1a86357c27d1a73719a",
+   "62744": "f7bc08163db74285f9238ea90707c09adedca26d3dbd66cbdbfc45f00a5eccc7"
+  }
+ },
+ {
+  "name": "Šarhova: poškodovana igrala na otroškem igrišču",
+  "ids": [
+   85791,
+   85375,
+   80049,
+   76751,
+   59970,
+   7150
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2013 do 2026 se na istem območju ponavlja: poškodovane ali odstranjene gugalnice (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   8
+  ],
+  "reviewed_hashes": {
+   "85791": "139f4feb8ae41084602ead1696f49c037fcee676595a7de4932db73eb62fc287",
+   "85375": "0520e455a023c37349e768514dcd8ec5e7882d0aca6edbadd0918fc09012be92",
+   "80049": "98a3b51280bfdf7d1e11237ea038a0df4fbb6d6fc8aa26f4a6f8629100b9fb43",
+   "76751": "38a911ae18b7918f081742286619c33dd44bfdcc19230493346bd3bb2656349d",
+   "59970": "8c5321b087f64ea419abe837e0e754953470132e25883577e472f9f6e849e4d0",
+   "7150": "4fbc4b4aa7dac6b3246cd5836efe356cc743664c06273fab0a6557ebb8e6c40a"
+  }
+ },
+ {
+  "name": "Gosarjeva: betonske ovire na kolesarski stezi",
+  "ids": [
+   84407,
+   83552,
+   79549,
+   77233,
+   76593,
+   61379
+  ],
+  "safety_ids": [
+   61379,
+   76593,
+   77233,
+   79549,
+   83552,
+   84407
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2026 se na istem območju ponavlja: vprašanja in zahteve po odstranitvi betonskih ovir (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   9
+  ],
+  "reviewed_hashes": {
+   "84407": "208257a579c28b403631c93e1a2c813ef3aac084f5870c81f598ede585598e12",
+   "83552": "970c01869da097f192815422de08c985dce188d5cb1101cd27219b0f5fdba082",
+   "79549": "c6f3f191ad1514660d639833ca048a15f787c06d3268f13adbb6c6c844bd992e",
+   "77233": "03f5d5ae931324b773c045031db63f56eac3da9c7188331a5cb19ec5d5b9422d",
+   "76593": "b0f241c4738a473678b9fd7a2788e389417f36562f55facb54c623bc66d580e2",
+   "61379": "a42d9335e01d3f61ccdc5f462357927b9622275295eab8b8960f04b34db1e6b1"
+  }
+ },
+ {
+  "name": "Vojkova–Gosarjeva: semafor brez potrebe in neusklajeni semaforji",
+  "ids": [
+   80293,
+   79567,
+   76227,
+   75621,
+   28093
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2019 do 2025 se na istem območju ponavlja: semafor, ki ob koncih tedna gori brez potrebe (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   10
+  ],
+  "reviewed_hashes": {
+   "80293": "3861ed03adeeb0cee611068cf1a9db415ea62435af8aca0e1bfa123a2522ca84",
+   "79567": "790aab096e5b439088500792a893f5875599e7b2e210bbfc71c74ffa4b0e58d6",
+   "76227": "744f66207453237018095588a98d46ee4bea54933f1adb52c6f080104b91c6a9",
+   "75621": "ee7c7fa96b8a1a86ad8fcf1ae404385b15490ef1fe1cddbe72739353e3934485",
+   "28093": "eb5c7224d61a17c32e9a1b71a69cdaba6cf91ed448546aace836547fae6e31c2"
+  }
+ },
+ {
+  "name": "Ulica Bratov Židan: promet in rekonstrukcija",
+  "ids": [
+   76697,
+   76695,
+   73991,
+   71911,
+   71188
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: vprašanja o prometu in rekonstrukciji ob novogradnji (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   12
+  ],
+  "reviewed_hashes": {
+   "76697": "1e757e4c297ced5da29bebaa4ff3c8a407a64013cffbd0b48278014c03bfcce0",
+   "76695": "beca3883ddbd17d6f457f59286197fd0e1c6e8c8ca15c4a6cf393894e4777821",
+   "73991": "535c875f38fb99c44f24220f940bec5e40728f66c1fb7e38d5b7057dfb8f4be6",
+   "71911": "81226f27daa8dd3eae16b42ae71feae6b3a092b6e19ecb230ea13b8ee3ce1253",
+   "71188": "2dcff5bf9bc3b954b323c402ee798046b439ace422afa70f8d00ecd0c7cbf2e3"
+  }
+ },
+ {
+  "name": "Staničeva ulica: tranzitni promet zaradi prepovedi zavijanja",
+  "ids": [
+   83306,
+   79556,
+   50017,
+   38177,
+   30772
+  ],
+  "safety_ids": [
+   79556,
+   83306,
+   38177,
+   50017
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2019 do 2026 se na istem območju ponavlja: nevaren tranzitni promet zaradi prepovedi zavijanja iz Parmove (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   13
+  ],
+  "reviewed_hashes": {
+   "83306": "57d6baacfd90c36c5a1031284e2b23622a2f9a6a62cb611a36267b34a4b8ccb0",
+   "79556": "baa7057b67ab9efcb5332e83523bed68e6f6f68660453455a1639135c2ee4c86",
+   "50017": "fe4417fc33da9e2fc4da0449a2ebd29e5c44fa7b41477aa7f592d6f161a0d5f6",
+   "38177": "2310698d40688009daf4fc521f5dff147c6aa3832167326bc572d96decac4f52",
+   "30772": "355776c0515a0972a99b7eac8d818d0be7c79bcb4d41603abde4c8a08443798a"
+  }
+ },
+ {
+  "name": "Hacquetova ulica: poškodovan pločnik in granitne kocke",
+  "ids": [
+   83749,
+   70912,
+   44123,
+   23576,
+   11114
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2015 do 2026 se na istem območju ponavlja: poškodovani pločnik in kocke (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   14
+  ],
+  "reviewed_hashes": {
+   "83749": "cabb311bbee9e94c254f347741ce67cd691ded5c82f6d77368fba8f4f3d5c7da",
+   "70912": "febccfaf622b9e2345e2ffe001a2a345545e7ade9351b516e72937164a8864f2",
+   "44123": "41a2e82d6fd68a1658e2632f0b17d75de2fb8a0a532c9734768f058c68081550",
+   "23576": "42ef127c828df313b23df0a3dbd315ceb5fad02439ca0a189bb8c1a0e84f5718",
+   "11114": "1b49a37c7760e5a54e1d1bb2c246d25986ea100f816aa9c680be9c20e5e2ec38"
+  }
+ },
+ {
+  "name": "Zagrebška ulica: parkiranje na pločnikih",
+  "ids": [
+   81717,
+   81716,
+   81572,
+   78110,
+   78109
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2025 se na istem območju ponavlja: parkiranje na pločnikih in slaba ureditev ulice (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   15
+  ],
+  "reviewed_hashes": {
+   "81717": "cba57eb6a28ed273392d169ca5d175947c6cb875ea41996ccf8115777da5cd79",
+   "81716": "994c887d8589e39dd10b6439381ecdc632a8d71e70ac0fd9394cb7461c276e85",
+   "81572": "e8a16efaca387629b2f83580bb7ecb5d42bc264b8413059573c9fa0585acc986",
+   "78110": "649a067e616cea20af2770a1e362fdcd4b16ab1be1e5e538812fa2bcda1dd28a",
+   "78109": "05a4ab93317309c27b57ce2a98b859a5bf98430fb3cdff76b68b0f5a5e3b823b"
+  }
+ },
+ {
+  "name": "Dunajska–Linhartova–Bežigrad: delovanje semaforja za pešce",
+  "ids": [
+   85579,
+   58904,
+   56456,
+   50339,
+   18472
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2026 se na istem območju ponavlja: delovanje semaforja in interval za pešce (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   16
+  ],
+  "reviewed_hashes": {
+   "85579": "0b103b074d781ab4142159ab210a092135effdf5a99e6e8bdd57109eaed7d55f",
+   "58904": "14fa679ae023fd69ba0eca555046ac0c918c57c5f97db6e943b967424be7d44f",
+   "56456": "1ab772f5a8ee84e4395cdfb44efc00201250acca747236bfd6c59544eb878afc",
+   "50339": "ba2f7d8b7863400a016362530c6b43827e4c79ad97567d370c57e7fcf08b96da",
+   "18472": "b988b5e0c14af5e6007c1c79194ab62109ab00271cd6ff67eaac542cce073418"
+  }
+ },
+ {
+  "name": "Kržičeva ulica: pesek in listje na pločniku",
+  "ids": [
+   83729,
+   81821,
+   75875,
+   60085,
+   51001
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 se na istem območju ponavlja: neočiščen pločnik pred vrtcem in gimnazijo (5 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   18
+  ],
+  "reviewed_hashes": {
+   "83729": "da393c1062752f505cb0bacf570161c397f9cce0e2c8974862b541e720c1dfa4",
+   "81821": "191f0a064fc89d2600c74104d15b6fb8538c304717499d0fb6328c08ad5f7262",
+   "75875": "b08a025c9da51a7bbc5ecd98766c1fd107994478d2daadeae955c4219fbabda7",
+   "60085": "f74adf01b8436d245d2ed0121381349f0b03b0443b4213e12ad88502158cd81e",
+   "51001": "286b978ed515f5cf1e554159b95951b8cb8fe7c24bbc0bc69384d273c1d67330"
+  }
+ },
+ {
+  "name": "Mašera-Spasićeva: rampe na parkirišču",
+  "ids": [
+   80635,
+   80493,
+   79923,
+   63249
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: vprašanja o rampah in parkirnih mestih (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   20
+  ],
+  "reviewed_hashes": {
+   "80635": "ffe51787e48a1efd0ceb5d4b6270bf15ced71868d4916317788e8f70bda15e35",
+   "80493": "13b94f0b3670dfb65dc06147b7b61cc8cb4c327edacc110b0cc437655cb21700",
+   "79923": "31a89f1979c9819ffda38a59b44d7d5879a70439c0651593a979bd4a2f0ab64f",
+   "63249": "138d6cadd14535b15485826412e27cfdae53de7cc10aae2b81e3623d602483d9"
+  }
+ },
+ {
+  "name": "Dimičeva ulica: vozila na pločniku",
+  "ids": [
+   76664,
+   74784,
+   71106,
+   68672
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: dnevno parkiranje na pločniku (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   21
+  ],
+  "reviewed_hashes": {
+   "76664": "ec4ae0a32cec6cefb887d1e383f583dffc14d862f2ca3b9cc66d31cdf11dd351",
+   "74784": "9e56aa46faca9bbc5c3ba7236494dcbdf5c40d63490fb2d94a902009abe7509d",
+   "71106": "08dfc5ed92c900b5710bb086c545b133781e1cfd0d369db725ae75758f11c688",
+   "68672": "dbc3142b2192e8f25e9df276f32c156b8d06a04d7fdd995990a4483bed24700e"
+  }
+ },
+ {
+  "name": "Vodovodna: manjkajoče oznake za kolesarje",
+  "ids": [
+   84180,
+   82176,
+   80975,
+   80363
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2026 se na istem območju ponavlja: manjkajoče talne oznake po prenovi (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   22
+  ],
+  "reviewed_hashes": {
+   "84180": "77f47b978a5a59a94fd32792d7a42d0cb4b1f233f5dddcdad591a7d728d504b1",
+   "82176": "3f544d9a34dbcfe1ae687869ef02e11211d8cccf7b25cc24af93208ae88ebabd",
+   "80975": "4f7fd199bb2e149ff765d1426e2241e7f90741a0fa437b78595f5886c282333b",
+   "80363": "85d99ff9bd0198f867992223b9562f87ae257dc36b6b24eddfa7402a3d4a0a01"
+  }
+ },
+ {
+  "name": "Topniška: neposesan pločnik in listje",
+  "ids": [
+   79714,
+   40362,
+   37118,
+   31621
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2019 do 2025 se na istem območju ponavlja: pometanje pločnika in kolesarske steze (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   24
+  ],
+  "reviewed_hashes": {
+   "79714": "7fa34099609ce5958269990737ba99daae980549e60ae7bd464cbf71a0c515f0",
+   "40362": "b52611485a288030f56cb3c69070c831495b30bf38a24e023dd03f2403c8cc6f",
+   "37118": "18337e5ad9eb61e0aef9ff047efc5df9c6ec045edd942922de3522bf189e623f",
+   "31621": "4a51326cfbf9332b8c3bf5ed8dbd5698afea0650ec8de3ff18da8d989b3dcd81"
+  }
+ },
+ {
+  "name": "Dunajska: vožnja po rumenem pasu",
+  "ids": [
+   82139,
+   79447,
+   74686,
+   45396
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2025 se na istem območju ponavlja: neupoštevanje rumenega pasu (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   25
+  ],
+  "reviewed_hashes": {
+   "82139": "42ca6303ad791e4282fd994d4fa5230f158869241a7d2a5494f645f3174defdf",
+   "79447": "ec03076819384bf41f4a6e0bed27c57dd8d07bfc33047991d4a39bffa5707116",
+   "74686": "7f2def98743e359aa762b491dd110583ea6550aaf4c9cae192b32f5b38a2227a",
+   "45396": "693ea010d369cf8460e0a771ba203524ef834b6e8834c9b4a405b9d607e9751a"
+  }
+ },
+ {
+  "name": "Drenikova–Parmova: nevaren bypass za kolesarje",
+  "ids": [
+   83195,
+   48712,
+   35062,
+   30754
+  ],
+  "safety_ids": [
+   83195,
+   48712,
+   35062
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2019 do 2026 se na istem območju ponavlja: nevarni preseki pešcev in kolesarjev z avtomobili (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   26
+  ],
+  "reviewed_hashes": {
+   "83195": "cd5efa5ab9fa888a4f5369a8cbd0d5e6352abf2337dffc6272c9e638d8e1de32",
+   "48712": "b48c77bd092aa62eba5696dbfa33e58abc5744741640ac278b6f567bfd8dfd91",
+   "35062": "aa17d07799c13b1e8a4baca61796fca605a128041e80b7d5a45e4f8250b2e525",
+   "30754": "1319a7d7af26f845eedd7c6607a262685282dd8ff7831144a1641153e2a8879d"
+  }
+ },
+ {
+  "name": "Dom skupnosti Savsko naselje: razpadajoča stavba in stopnice",
+  "ids": [
+   76386,
+   76368,
+   61374,
+   60838
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: dotrajane stopnice in stanje stavbe (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   27
+  ],
+  "reviewed_hashes": {
+   "76386": "dd7ecb908a9c9ee05980ec54bd09267ed194012ab0a530143720aac41ab8d6c0",
+   "76368": "bde161f15234810624b6f7882b9233c473e74fcdbbd32075881b7f9877e959f1",
+   "61374": "f0e098e39ee02d8de274441dd423f123febddffe9efe260dc56fc35ef9c87d22",
+   "60838": "9535da6fd088895ca15a4b9b5281bb28576958cf689529b948b20d1492d5e96e"
+  }
+ },
+ {
+  "name": "Puhova–Trebinjska: igrišča in tartan",
+  "ids": [
+   79380,
+   42049,
+   42040,
+   42028
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2025 se na istem območju ponavlja: dotrajan tartan in igrišča (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   28
+  ],
+  "reviewed_hashes": {
+   "79380": "bb36424878cf9f877c62dd4dbdccf3eb9075090654f14d55fe7b5715ca70c120",
+   "42049": "75b60a487ba3fec6d2709270f2b8c24591dedb046c0115d1f0687ef4ae68f838",
+   "42040": "9dcdd070ecf42133cef2aeef5d3eb108ffcbdffc9678bcd198f1ea17ea1b8c81",
+   "42028": "bfd22ed416ad464afbd4b41a5ef325cb4d1c2f1246e12de958cf271647d283a7"
+  }
+ },
+ {
+  "name": "Šarhova: smetnjaki na igrišču, vrane trosijo odpadke",
+  "ids": [
+   85199,
+   64455,
+   54140,
+   54023
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 se na istem območju ponavlja: smetnjaki, ki jih vrane raztresejo (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   29
+  ],
+  "reviewed_hashes": {
+   "85199": "b36b4019e53c3ef17cd22e0b14b5b444a37022ab2c03c7cf9cefb7d6b257ef68",
+   "64455": "f39d8c20a02d408b2939f1fb6fd91faa66e5a5a85465f742c36babea5d2dfcd6",
+   "54140": "27cb249516df16ac391551503387dc66f50425145190d741bef301a102d71410",
+   "54023": "11853b375b10668ab7db53b60f95fc3db421a34b0a9d21820f7cd6952ce84a93"
+  }
+ },
+ {
+  "name": "Kržičeva in Dunajska 53: parkiranje in pomanjkanje parkirišč",
+  "ids": [
+   87052,
+   83296,
+   81564,
+   34759
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2020 do 2026 se na istem območju ponavlja: parkiranje na cesti in pločniku (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   30
+  ],
+  "reviewed_hashes": {
+   "87052": "4f6cc6792b5285e08d5894f81ee3d6bfb6771244e71821ae795c2a62bb430c0f",
+   "83296": "9c9024f7758773108ccaeaad7f08533a64b8255b793a2daf2a346803adb58e21",
+   "81564": "c030da3e6e7373a4c8ab5fdc1f21bcbd24f738bd7fc023353e35bdf696d6ad90",
+   "34759": "2f1020f8e48ecddd2f9099f62dec724d27fdc9b96dab6737334e459588b21c81"
+  }
+ },
+ {
+  "name": "Štajerska–Božičeva: pesek na pločniku in kolesarski stezi",
+  "ids": [
+   79187,
+   77213,
+   41476,
+   19773
+  ],
+  "safety_ids": [
+   79187,
+   77213
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2025 se na istem območju ponavlja: pesek iz nasipa na pločniku (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   31
+  ],
+  "reviewed_hashes": {
+   "79187": "ac0dcb11cb7e46b9ef43a90dfb544fff6f4ba6a18bcea981aefcb4df05392d1f",
+   "77213": "1056833cfe15ecc42252b1c7fc9fe1d01774080503b8aa38a122e3f3e62363cc",
+   "41476": "cc93cac41c634a5a1a88827adf6dd59139abc9ac361cd27bb92d88d7f88985ef",
+   "19773": "851bec7f0d9c97db05710664a7e242ce96def13c4d8edc241288a7064e10aac8"
+  }
+ },
+ {
+  "name": "Semafor na tipko: zelena luč za pešce in kolesarje",
+  "ids": [
+   81232,
+   80895,
+   78672,
+   73098
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: semaforji z zeleno lučjo samo ob pritisku tipke (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   32
+  ],
+  "reviewed_hashes": {
+   "81232": "b01052bf89fb51880b9f299af0b41e019d2f3308d1a2a00f21fc2d3ab81567b9",
+   "80895": "95aa5207b7621fe3540c813331294dfcbc276987a954b578f4bf7c858f969845",
+   "78672": "91359be8aebf0578bf8154bb9649bbe7c292cdc9c2da8edd3ebb6c51eec98c79",
+   "73098": "ac4095cebd37069f93202fc7389e432457ed2e6784f0622466e26dd8d7f1c62e"
+  }
+ },
+ {
+  "name": "OŠ Mirana Jarca: taksi v boksu za starše",
+  "ids": [
+   86939,
+   86888,
+   86843,
+   86746
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2026 do 2026 se na istem območju ponavlja: dolgotrajno parkiranje istega vozila v modrem boksu (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   33
+  ],
+  "reviewed_hashes": {
+   "86939": "4473eebacf7aab99a88855e9c7021d98ec241e4db99e4dfcb410a77c7764bf48",
+   "86888": "841879d3e4cdde9f6eb07e38b67ada3cc3b0979ffdb17dd256fc07dfddd85119",
+   "86843": "03739b0d520b9a6fc96e0cc803f2637946184d696c8c33a785461e44e1afbbb3",
+   "86746": "7363055c7a7dc57df9020c2df1c3eedf89be539d36a3e6ad73ff1a102768acd5"
+  }
+ },
+ {
+  "name": "Luize Pesjakove–Topniška: kršitve pri semaforju in prehodu",
+  "ids": [
+   78475,
+   75852,
+   75128,
+   9397
+  ],
+  "safety_ids": [
+   75852,
+   75128,
+   78475
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2014 do 2025 se na istem območju ponavlja: vožnja čez rdečo in ogrožanje pešcev (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   34
+  ],
+  "reviewed_hashes": {
+   "78475": "f730bb50952faf0f427b30461f6c235cce6dd8d18a23085520df73aa07d2160f",
+   "75852": "328402d7b4d982ef12ad9fafa52562ee7a47bcf3924a61d201616a30d96a761d",
+   "75128": "3a17f73e9093ef06c2218fe055965dcfa244ff062aec312200169eb8cc6e2acb",
+   "9397": "e0b9d47a05bd5f0695cc828ca1368b3c8611a5646733c569e3be43090e2f168a"
+  }
+ },
+ {
+  "name": "Topniška in Luize Pesjakove: podgane med grmovjem",
+  "ids": [
+   79866,
+   43011,
+   38586,
+   31207
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2019 do 2025 se na istem območju ponavlja: podgane in neurejeno grmovje (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   35
+  ],
+  "reviewed_hashes": {
+   "79866": "ef84321a65092ff74a26d02581e97117ad037838b2408bc07229f3683c07481d",
+   "43011": "8f6fefc412f2ee76f2959c3994dc91435b9aeacda318daef459c285814882ffe",
+   "38586": "6dfda00e83f26d6bcce49bbfe11d2fbf563d7f950d01aa6f44327b6b065a330b",
+   "31207": "e0140e8b93013d85f008d2b41e1efc0486063c48e99f103efd13ea6ab72719c7"
+  }
+ },
+ {
+  "name": "Savsko naselje: podgane in smetišča",
+  "ids": [
+   82474,
+   78807,
+   73301,
+   68630
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: podgane in smetišča (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   36
+  ],
+  "reviewed_hashes": {
+   "82474": "7023baed282241cb39663f50000fb5c0cff6d89f1a042d27a33f03905f53e9f8",
+   "78807": "3527120d6d03e949da9ad367a3842f4be7e4eb908da781950834a3c765be39d6",
+   "73301": "8f2a9efb4598bcef875ce4ba124a336b337c5755c38407e4b8fd8cb1c94522df",
+   "68630": "033774e4048944cce47589d42095ac6ec1adbdddbbef7f13fae0aa44bf837fa2"
+  }
+ },
+ {
+  "name": "Žale: parkirnina na parkirišču",
+  "ids": [
+   82929,
+   68311,
+   49275,
+   48395
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2026 se na istem območju ponavlja: zahteve po brezplačnem parkiranju ob pokopališču (4 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   37
+  ],
+  "reviewed_hashes": {
+   "82929": "569ae814dedfaaef4656651fd91470902fd0964ea2ded56424e820445c74cdb1",
+   "68311": "9eb76bba6efc508a2181e5ca43287006fd9184782ea438b7c40a2b626e09b850",
+   "49275": "1e13dca83d8c003e4916d16613331f5e0635b53ca9c6db78324429b70ca7b02a",
+   "48395": "42a700c744ce8730489ad81ce9925c624fb77b67676ece0a4c52c0cc41402f82"
+  }
+ },
+ {
+  "name": "Parmova 53: sečnja dreves",
+  "ids": [
+   82453,
+   82452,
+   81871
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2025 se na istem območju ponavlja: vprašanja in pritožbe zaradi sečnje (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   40
+  ],
+  "reviewed_hashes": {
+   "82453": "d591ecc0b6b6211af50cf61a769309d7c32dd0aa037359a8cdcbc7d95c3d7f3e",
+   "82452": "7dbae3a6f7cd87e1a2505bf7bb88eee61f5cf7106c5ee6407da6fff8aab7e67f",
+   "81871": "e7dba9c013467f201df9133b0b4eb106fa02551659b5131773844c2de857a409"
+  }
+ },
+ {
+  "name": "Rob med kolesarsko stezo in cesto: zaraščen plevel",
+  "ids": [
+   85962,
+   85130,
+   22814
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 do 2026 se na istem območju ponavlja: zaraščen rob (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   43
+  ],
+  "reviewed_hashes": {
+   "85962": "5815170d3f34436846c18847aca381393bd2e458f64e1616b45c110bc5fed7ff",
+   "85130": "ccf5b387c5eb448aa0401cdb6c74fff0f1788cc8b55fea340ea5e463beb6dffe",
+   "22814": "671b5e687b5809f13a8c822d5e31cc5ae850cf11386250efbf15fd4234f70b3d"
+  }
+ },
+ {
+  "name": "Metoda Mikuža: nepravilno parkirana vozila",
+  "ids": [
+   83593,
+   79017,
+   68210
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2026 se na istem območju ponavlja: parkiranje na cesti in neurejeno parkirišče (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   44
+  ],
+  "reviewed_hashes": {
+   "83593": "17561164f5f18e7f8914241071267edf3cdd617421b98db18943b890384c3a22",
+   "79017": "a5b7b5eff0fcf4c3b7dd51cd00579710d32e4c9cc5858673a2bf31cec6fbf896",
+   "68210": "2557c870481173fd9caa241fb5dd72e495e502eee30d536abfbf41c895d92287"
+  }
+ },
+ {
+  "name": "Samova 35: razraščeno grmovje na poti",
+  "ids": [
+   84996,
+   58753,
+   56967
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 se na istem območju ponavlja: vsakoletno razraščanje grmovja (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   46
+  ],
+  "reviewed_hashes": {
+   "84996": "392fd28b95f8084c0bdae80ba1092f8aa28389f8837fb4f4d1f588e997a23291",
+   "58753": "e25ffe9d059e04749f5765cf0d28a166518e7c42e6741070ee0a521cb3d36eb3",
+   "56967": "9d318ae3bd26abaa343feb9a8db6c7fbe3e1d1ae0b97cb6136566a5376de9f8b"
+  }
+ },
+ {
+  "name": "ŽAK: prehod čez železniško progo",
+  "ids": [
+   80830,
+   78802,
+   19289
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2025 se na istem območju ponavlja: zahteve po varnem prehodu čez progo (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   47
+  ],
+  "reviewed_hashes": {
+   "80830": "10b7602789612359dd3693191dd7864f5fc82f9862e64f115b7fe111359478b8",
+   "78802": "bb8db895b89ef485a2472ef98813ac977e2eaa158508e7ead165b727943f58d2",
+   "19289": "cee494c1d917226cad2b198efdd04338a27b840adf5534a1bab6ff7c61891457"
+  }
+ },
+ {
+  "name": "Staničeva ulica: drevo prerašča javno razsvetljavo",
+  "ids": [
+   83204,
+   82598,
+   81857
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2025 do 2026 se na istem območju ponavlja: drevo, ki prerašča pločnik in razsvetljavo (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   48
+  ],
+  "reviewed_hashes": {
+   "83204": "4eae5f00431a7d8388ced358ab8bb4f4d2533d1c74faa450c98ee6c8ee459b6b",
+   "82598": "15f8a66aa3bd8828eb94f4f488bb020d5145dc273c9f74bb94c254a026d41a78",
+   "81857": "9c63fa853fefad688d8967673b58a96debf617f2c750a7620174e90e436bc5a5"
+  }
+ },
+ {
+  "name": "Zapuščena vozila: parkirišče (ni ulice v besedilu)",
+  "ids": [
+   80567,
+   74532,
+   4588
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2012 do 2025 se na istem območju ponavlja: prijave vozil brez tablic (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   49
+  ],
+  "reviewed_hashes": {
+   "80567": "25cce0c6be8707521d08d092576d4eda3712abe2796fb8346ea054d3764204dd",
+   "74532": "fce4168c97f1632b9e08fe502b2166f28dc7eff6f849c60cffe13548d7113024",
+   "4588": "496ddbb81846168597eb3d4cb2bb5d77557916b1c76518c418a15602a7510cbd"
+  }
+ },
+ {
+  "name": "Bežigrad–Parmova: odveč prometni znak po premiku postaje",
+  "ids": [
+   76097,
+   61613,
+   54550
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2024 se na istem območju ponavlja: nepotreben prometni znak (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   50
+  ],
+  "reviewed_hashes": {
+   "76097": "f4c765f025214f076f5fd5c57395d1806d0c96c4d1537be44336b213f383b7cf",
+   "61613": "b392bbb3c60d6c12c82e5b1db8448b335697a735a960ceb9f61dfdf3e50210bb",
+   "54550": "83cf15b908234b386f1eb7076390a88e69b139be1e3cbce9eef01c92e85c0a96"
+  }
+ },
+ {
+  "name": "Vojkova, postajališče Kržičeva: prehod za pešce",
+  "ids": [
+   81115,
+   78442,
+   71645
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: nepopoln prehod za pešce (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   51
+  ],
+  "reviewed_hashes": {
+   "81115": "557eb9900363811547785b6fa72f8d18aad67b4aaa1f9bfc6223784ae1ee6dc0",
+   "78442": "d5155e479359c12384118cffc9576eeab97f4b9fd05ce0f770d9828424c17de8",
+   "71645": "6f404d2a5c4cd392808b73eca6eadf58115eb21d83e69d36d8f041840d41c1dd"
+  }
+ },
+ {
+  "name": "Štajerska cesta pri garaži Stožice: jama na vozišču",
+  "ids": [
+   78014,
+   76092,
+   74935
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2024 do 2025 se na istem območju ponavlja: jama, ki se ponavlja (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   53
+  ],
+  "reviewed_hashes": {
+   "78014": "ae4bed0217a6bd5a49f9aa1a3415f2d4448cb8276b13ac173a8e9d5fd1e27dce",
+   "76092": "e96c74849953da9dd6982507b9ab14ed407a9e7ead928256378dd51eacbc0183",
+   "74935": "ea04f8d40ab2cf07e23f9b4d1702f1bf68cfba38674458b68239f173e924ee3e"
+  }
+ },
+ {
+  "name": "Podmilščakova–Drenikova: obrez rastja na mešani površini",
+  "ids": [
+   79044,
+   47157,
+   44685
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2025 se na istem območju ponavlja: razraščeno rastje (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   54
+  ],
+  "reviewed_hashes": {
+   "79044": "7ded025e3436c5062641ae2e3a04301e904abd097a5e5b3ecce32ee56a606c13",
+   "47157": "ad305fe8a5ffe1ecc869b966d8b9d47cbb54398ac28776631f4d1aa321eda1c3",
+   "44685": "581c577f365dd1c397870db26929aaac87690c9fa6537b4e3ac6fbd20566b280"
+  }
+ },
+ {
+  "name": "Linhartova–Belokranjska: ščurki",
+  "ids": [
+   79371,
+   22769,
+   18719
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2025 se na istem območju ponavlja: ščurki in dezinsekcija (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   56
+  ],
+  "reviewed_hashes": {
+   "79371": "d89fc02e70484df6c3e79152b4e60ef6616f46dfc1e1e430f7a4720283646612",
+   "22769": "215dc13be319cc7e0ca8a6852d5bdedaec0f6fc0a5e863d575ba20df9c441dd2",
+   "18719": "951085bfaf90d10ffb16213e839eea1f0068fdcfc73a601e3682a104ac7c302c"
+  }
+ },
+ {
+  "name": "Vodovodna: dvosmerni kolesarski promet",
+  "ids": [
+   83498,
+   81907,
+   44264
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2021 do 2026 se na istem območju ponavlja: predlogi za dvosmerno kolesarjenje (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   57
+  ],
+  "reviewed_hashes": {
+   "83498": "bd9247a80ac3f9d344875a69c168a7fa227095a792198bcc67f119c3daa86396",
+   "81907": "6abf8ddf325b3b20adb5aa622449fe757fcdfc3cf8760aa4dc5b15af8b203b8e",
+   "44264": "a07f915f69681c8da3c4ff17c42022fdf86271b0debd3b4fb677cf66de39847c"
+  }
+ },
+ {
+  "name": "Črnušnjica ob Savi: mostiček za pešce",
+  "ids": [
+   86060,
+   78708,
+   61901
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2026 se na istem območju ponavlja: predlogi za mostiček čez potok (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   58
+  ],
+  "reviewed_hashes": {
+   "86060": "21745dc37fa3ef2dff446921856f65f4fd96b346f2ac9a40ab75e478f03dd713",
+   "78708": "2656e8264ac06a007668e1269f62b303d34d9862d64f8e1f74f227764e681cb3",
+   "61901": "f65c9b5c4d9fdef5f8dadf259905dba080af5cc581811387955f7809fa0e157e"
+  }
+ },
+ {
+  "name": "Kržičeva in ZD Bežigrad: zanemarjena okolica",
+  "ids": [
+   86253,
+   82958,
+   52725
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2026 se na istem območju ponavlja: odpadki, listje in rastlinje (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   59
+  ],
+  "reviewed_hashes": {
+   "86253": "93e9595244dafa41865cb00624bb7d51d266b11dfd356007cc25eb36817ea42b",
+   "82958": "abf7a995685319e2b49f5b1382494646dd86197860943710a598c4b651a6e702",
+   "52725": "2fd4f9914ef8820960867170640da77b332a062a3f23003374c3b6007b84774a"
+  }
+ },
+ {
+  "name": "Dunajska–Mašera-Spasićeva: parkiranje v križišču pred Tiskarno",
+  "ids": [
+   81389,
+   74755,
+   73326,
+   75968,
+   69568,
+   19455
+  ],
+  "safety_ids": [
+   74755,
+   75968,
+   69568
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2017 do 2025 se na istem območju ponavlja: parkiranje v križišču in nevarni izvozi (6 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   60,
+   68
+  ],
+  "reviewed_hashes": {
+   "81389": "c5b6f80606a38c95e0320918e10edc18f34c0129985c4ae35c8964e934706e93",
+   "74755": "2da8194b6671278445e0f7d4f50a0cfa507370b9840040b24b40c2e9e376d3a6",
+   "73326": "e0349904d081f1bc9462cbc2c7cc4d9600b0bdd8e422c1ac409aa575b5268275",
+   "75968": "c7e7403f353c4fae22b3f688b55d34b44bb5e6b79035243bfdf008b2220b0171",
+   "69568": "72eaf5851c08e64c0d3b3c5b83844f2f31a984a91c64e2bf7d547fd13e4c81e6",
+   "19455": "ac530ecaa46933908d2106a005572b8d7730094b6fcd36f837c4f562d1c3d33f"
+  }
+ },
+ {
+  "name": "Linhartov podhod (Plava laguna): zanemarjen podhod",
+  "ids": [
+   80505,
+   77361,
+   20238
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2018 do 2025 se na istem območju ponavlja: zanemarjenost podhoda (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   62
+  ],
+  "reviewed_hashes": {
+   "80505": "d36eb760cc5823432bbc26e05d70f6bd0424f03b0075fc22698da492fa8f6c96",
+   "77361": "e7cb0f528e8e0748c7b1a9a79b732f4d80eb65a7ab73d4002938c0818a2e1e1a",
+   "20238": "0a67b4d678e1f0f3682f93ba8662cbfe3bac1d4bc44c678385b4d9da0b947354"
+  }
+ },
+ {
+  "name": "Vojkova–Prekmurska: nevaren prehod za pešce",
+  "ids": [
+   82494,
+   68609,
+   15597
+  ],
+  "safety_ids": [
+   82494,
+   68609
+  ],
+  "category": "lokalni problem",
+  "review_note": "Od 2016 do 2025 se na istem območju ponavlja: hitrost vozil pri prehodu (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   63
+  ],
+  "reviewed_hashes": {
+   "82494": "7f5356c9d3eb433231de3c0228b6011672cf7d828e099c63cd38abf6b3b6812d",
+   "68609": "42daf632065ba409c178fcc5dc14f28fedf2fab4cc3620b1e42f6e4d01ae5262",
+   "15597": "7d519c5932a93068656019b112276e674453c4f92e2db32450a2cf8fa012d342"
+  }
+ },
+ {
+  "name": "Mašera-Spasićeva in Herbersteinova: manjkajoči koši",
+  "ids": [
+   77416,
+   77415,
+   69754
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: zahteve po košu za smeti (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   64
+  ],
+  "reviewed_hashes": {
+   "77416": "faaecde6cea07c3a69c7bfe3606ff3f450c9f5646a242b816f9093a9b78d4f07",
+   "77415": "41bdd35d748fc46b1800db56b1c9491141150c7670e3db79ca750c7ef00a235b",
+   "69754": "c58c60c16be69636102ad38aa312e0a3107d5038b4d4319db106341ab1340379"
+  }
+ },
+ {
+  "name": "Glavarjeva–Triglavska: odstranjena otroška igrala",
+  "ids": [
+   78292,
+   64739,
+   63185
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2023 do 2025 se na istem območju ponavlja: zahteve za ponovna igrala (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   67
+  ],
+  "reviewed_hashes": {
+   "78292": "909ea04cdb8e9efcc20edcee180c343a2643ccf6588cb91ef40924b7642a95b6",
+   "64739": "49521c03aba588bea53307247b30f276509f8904b1dbb2d0d74860f25d0684b1",
+   "63185": "50b7cee0ca33fcb2025a6cbf3de7eae76feafadd1b737bdf0228d3ad936bf50d"
+  }
+ },
+ {
+  "name": "Slovenčeva: razpadla cesta",
+  "ids": [
+   78946,
+   59061,
+   58783
+  ],
+  "safety_ids": [],
+  "category": "lokalni problem",
+  "review_note": "Od 2022 do 2025 se na istem območju ponavlja: zahteve za sanacijo ceste (3 pobud). Odprava iz besedil odgovorov ni potrjena.",
+  "source_candidates": [
+   70
+  ],
+  "reviewed_hashes": {
+   "78946": "f195387823962c99969ff5f4c1fd1edc70fe30550dc1821f4eeaf293bb3f2139",
+   "59061": "4f1c74bcc0904cb8e5d0e93cf1dbb7b25dfd4dc1f4210c498caec212420925ef",
+   "58783": "1ceab2c5da691044574b5b40abee82480e8c4a2bcb81cb3e6bd76f2082dfb836"
+  }
+ }
+]

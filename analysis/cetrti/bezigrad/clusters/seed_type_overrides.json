@@ -1,0 +1,794 @@
+[
+ {
+  "id": 82853,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82463,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79816,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78500,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77049,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83719,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83595,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82836,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81954,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81977,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81519,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81369,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81215,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81031,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80737,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80532,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77741,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77082,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82304,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81138,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79043,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78487,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77094,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 84194,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82895,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79243,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78888,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76594,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85974,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83957,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85980,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 84572,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82713,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79978,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85791,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85375,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80049,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76751,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 84407,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83552,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79549,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77233,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76593,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80293,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79567,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76227,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 75621,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76697,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76695,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83306,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79556,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83749,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81717,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81716,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81572,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78110,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78109,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85579,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83729,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81821,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 75875,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80635,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80493,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79923,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76664,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 84180,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82176,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80975,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80363,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79714,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82139,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79447,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83195,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76386,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76368,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79380,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85199,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 87052,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83296,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81564,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79187,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77213,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81232,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80895,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78672,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 86939,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 86888,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 86843,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 86746,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78475,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 75852,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 75128,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79866,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82474,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78807,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82929,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82453,
+  "vrsta": "V8",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82452,
+  "vrsta": "V8",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81871,
+  "vrsta": "V8",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85962,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 85130,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83593,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79017,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 84996,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80830,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78802,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83204,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82598,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81857,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80567,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76097,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81115,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78442,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78014,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 76092,
+  "vrsta": "V1",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79044,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 79371,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 83498,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81907,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 86060,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78708,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 86253,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82958,
+  "vrsta": "V2",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 81389,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 75968,
+  "vrsta": "V3",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 80505,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77361,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 82494,
+  "vrsta": "V4",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77416,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 77415,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78292,
+  "vrsta": "V6",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ },
+ {
+  "id": 78946,
+  "vrsta": "V5",
+  "gotovost": "nizka",
+  "opomba": "Vrsta določena ročno za preverjanje skupine; ni polno označevanje."
+ }
+]

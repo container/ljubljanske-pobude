@@ -1,0 +1,456 @@
+
+GROUP 1: 16 records, 5 recent seeds, 2012-10-16–2026-01-18
+82853* 2026-01-18 Popravilo cestišča 2 del 
+82463* 2025-12-20 Popravilo cestišča -udarne jsme
+79816* 2025-07-12 Popravilo cestišča
+78500* 2025-05-08 Popravilo ceste - krpanje udarnih jam
+77049* 2025-02-15 Preplastitev Šarhove
+71820  2024-04-03 Udarne jame
+63663  2023-06-05 Popravilo cestišča
+62911  2023-05-13 Popravilo ceste
+59695  2022-12-21 Popravilo cestišča
+28794  2019-05-16 Asfaltiranje
+21091  2018-04-09 Udarne jame
+20210  2018-01-08 Udarne jame
+20076  2017-12-18 UDARNE JAME
+6539  2013-03-22 Krpanje udarnih jam Pohorski bataljon
+6449  2013-03-12 Krpanje udarnih jam na Šarhovi ulici
+5774  2012-10-16 Udarne jame in asfaltiranje
+
+GROUP 2: 14 records, 4 recent seeds, 2017-06-27–2026-03-11
+83719* 2026-03-11 Zapuščeno vozilo
+83595* 2026-03-05 Zapuščeno vozilo na Knobleharjevi 21
+82836* 2026-01-16 Zapuščeno vozilo
+81954* 2025-11-15 Zapuščeno vozilo
+73141  2024-06-12 Zapuščeno vozilo 
+39055  2020-09-29 Zapuščeno vozilo
+39050  2020-09-29 Zapuščeno vozilo
+38504  2020-09-08 Zapuščeno vozilo
+33154  2019-11-12 Zapuščeno vozilo
+29561  2019-06-20 Zapuščeno vozilo 5ič
+24329  2018-10-05 Zapuščeno vozilo
+22530  2018-07-23 Zapuščen volvo
+19641  2017-10-22 Zapuščeno vozilo
+18631  2017-06-27 Zapuščeno vozilo
+
+GROUP 3: 14 records, 9 recent seeds, 2009-03-13–2025-11-17
+81977* 2025-11-17 Ukinitev zelene luči za zavijanje desno
+81519* 2025-10-17 Topniška ulica in Linhartova cesta
+81369* 2025-10-09 Izboljšava prometne varnosti
+81215* 2025-09-30 Spremeniti semafor v križišču
+81031* 2025-09-22 Nevarno križišče
+80737* 2025-09-07 Ureditev križišča Linhartova Topniška
+80532* 2025-08-27 Naredite križišče varno za vse 
+77741* 2025-03-27 Semafor za zavijanje levo
+77082* 2025-02-18 Nevarno križišče
+65615  2023-08-04 Križišče
+56287  2022-08-19 Ureditev križišča Linhartove in Topniške
+20605  2018-02-14 Sprememba režima v križišču
+15444  2016-07-27 Križišče Topniška-Linhartova
+157  2009-03-13 Sprememba prometne ureditve
+
+GROUP 4: 13 records, 2 recent seeds, 2020-08-19–2026-04-15
+84194* 2026-04-15 Stalne kršitve
+82895* 2026-01-20 Sprostitev zavijanja levo
+74798  2024-09-26 Nadzor nepravilnega zavijanja levo
+62650  2023-05-03 Zavijanje v desno pri rdeči luči
+56123  2022-08-15 Prepovedano zavijanje levo
+52600  2022-04-13 Prepoved zavijanja levo iz Parmove
+52470  2022-04-10 Zavijanje levo iz Parmove
+49059  2021-11-19 Zavijanje v levo
+47534  2021-09-28 Zavijanje na ulico Bežigrad 
+47471  2021-09-27 Zavijanje s parmove na ulico bežigrad
+47339  2021-09-22 Sprostite zavijanje v levo
+39090  2020-09-29 Signalizacija Parmova-Bežigrad
+37923  2020-08-19 Ureditev križišča Parmova - Bežigrad
+
+GROUP 5: 11 records, 3 recent seeds, 2013-05-14–2025-06-11
+79243* 2025-06-11 Zaraščena kolesarska steza
+78888* 2025-05-27 Zelenje Plavi bar in deratizacija
+76594* 2025-01-23 Pešci in kolesarji
+73964  2024-08-13 Zakaj niste razširili
+48401  2021-10-28 Kolesarska ob Plavem baru
+45617  2021-07-20 Zaraščenost Plavi bar
+25818  2018-12-10 Zaraščena kolesarska
+21992  2018-06-14 Obrez Linhartova
+13074  2015-09-11 Zaraščena kolesarska
+11424  2015-02-26 Zabojniki za smetni
+6863  2013-05-14 Plavi bar
+
+GROUP 6: 7 records, 2 recent seeds, 2015-11-12–2026-08-07
+85974* 2026-08-07 Manjkajoči količek2
+83957* 2026-03-27 Manjkajoči količek
+57270  2022-09-19 Ponovno odklenjen količek2
+54030  2022-06-02 Poškodovan količek
+39755  2020-10-29 Manjkajoč količek
+14173  2016-03-07 PST manjkajoči količek
+13483  2015-11-12 PST avtomobili
+
+GROUP 7: 6 records, 4 recent seeds, 2023-05-08–2026-08-07
+85980* 2026-08-07 Pasje vrečke 
+84572* 2026-05-11 Vrečke za pasje iztrebke
+82713* 2026-01-09 Ni vrečk za pasje odpadke
+79978* 2025-07-23 Pasje vrečke 
+72852  2024-05-25 Pasje vrečke 
+62744  2023-05-08 Vrečke za pasje iztrebke
+
+GROUP 8: 6 records, 4 recent seeds, 2013-06-27–2026-07-23
+85791* 2026-07-23 Strgana veriga na gugalnici
+85375* 2026-06-29 Igrala na otroškem igrišču
+80049* 2025-07-28 Otrosko igrisce
+76751* 2025-01-30 Poskodovana gugalnica
+59970  2023-01-05 Gugalnica na otroškem igrišču
+7150  2013-06-27 Uničene gugalnice
+
+GROUP 9: 6 records, 5 recent seeds, 2023-03-09–2026-04-28
+84407* 2026-04-28 Namen ovir2
+83552* 2026-03-02 Namen ovir
+79549* 2025-06-24 Ovira na kolesarski stezi
+77233* 2025-03-03 Ovire na kolesarski2
+76593* 2025-01-23 Ovire na kolesarski
+61379  2023-03-09 Nevarne betonske ovire pri Gospodarcu
+
+GROUP 10: 5 records, 4 recent seeds, 2019-04-09–2025-08-13
+80293* 2025-08-13 Semafor
+79567* 2025-06-26 Semafor
+76227* 2024-12-27 Semafor gori brez potrebe
+75621* 2024-11-15 Uskladitev semaforjev Vojkova
+28093  2019-04-09 Usladitev semaforjev
+
+GROUP 11: 5 records, 4 recent seeds, 2020-01-07–2025-11-18
+82010* 2025-11-18 Nedelujoca javna razsvetljava
+80538* 2025-08-27 Nedelujoča javna razsvetljava
+80481* 2025-08-25 Ne deluje javna razsvetljava
+76238* 2024-12-29 Svetilka ne deluje
+34333  2020-01-07 Nedelujoča javna razsvetljava
+
+GROUP 12: 5 records, 2 recent seeds, 2024-02-27–2025-01-27
+76697* 2025-01-27 Promet SŽ na Ulici Bratov Židan
+76695* 2025-01-27 Semaforizacija križišča
+73991  2024-08-16 Rekonstrukcija Ul. Bratov Zidan
+71911  2024-04-08 PROMET NA ULICI BRATOV ŽIDAN 
+71188  2024-02-27 PROMET NA ULICI BRATOV ŽIDAN
+
+GROUP 13: 5 records, 2 recent seeds, 2019-08-13–2026-02-12
+83306* 2026-02-12 Tranzitni promet - Staničeva ulica 
+79556* 2025-06-25 Tranzitni promet
+50017  2021-12-30 Poslabšanje prometne varnosti
+38177  2020-08-29 Prometna varnost - Staničeva ulica
+30772  2019-08-13 Križišče Staničeva - Einspielerjeva
+
+GROUP 14: 5 records, 1 recent seeds, 2015-01-06–2026-03-13
+83749* 2026-03-13 Poskodba plocnika
+70912  2024-02-12 Kocke na cestišču
+44123  2021-05-20 Poškodovan pločnik
+23576  2018-09-07 Poškodovan pločnik !
+11114  2015-01-06 Unicena cesta
+
+GROUP 15: 5 records, 5 recent seeds, 2025-04-13–2025-10-29
+81717* 2025-10-29 PARKIRANJE
+81716* 2025-10-29 Ureditev ulice
+81572* 2025-10-21 Nepravilno parkiranje avtomobilov
+78110* 2025-04-13 Ureditev divjega parkiranja
+78109* 2025-04-13 Ureditev ulice in parkiranja
+
+GROUP 16: 5 records, 1 recent seeds, 2017-06-13–2026-07-10
+85579* 2026-07-10 Preveriti delovanje semaforja
+58904  2022-11-17 Delovanje semaforja
+56456  2022-08-25 Delovanje semaforja2
+50339  2022-01-18 Nevarno delovanje semaforja
+18472  2017-06-13 Interval semaforja za pešce in kolesarje
+
+GROUP 17: 5 records, 5 recent seeds, 2025-02-19–2025-12-09
+82304* 2025-12-09 Semaforji
+81138* 2025-09-25 Semafor za pešce
+79043* 2025-06-03 Interval semaforja
+78487* 2025-05-08 Semaforji za kolesarje
+77094* 2025-02-19 Tipka za pešce in kolesarje
+
+GROUP 18: 5 records, 3 recent seeds, 2022-02-17–2026-03-12
+83729* 2026-03-12 Pesek na pločniku
+81821* 2025-11-06 Listje 
+75875* 2024-11-29 Jesensko listje
+60085  2023-01-11 Nasmeten pločnik
+51001  2022-02-17 Čiščenje kolesarske steze in pločnika
+
+GROUP 19: 5 records, 1 recent seeds, 2011-11-14–2025-04-01
+77852* 2025-04-01 Šarhova ulica 6
+11164  2015-01-15 Parkirišča Šarhova
+4251  2011-11-29 Ureditev Šarhove ulice
+4241  2011-11-28 ŠARHOVA 10-16
+4180  2011-11-14 Parkirišče Šarhova 2-8
+
+GROUP 20: 4 records, 3 recent seeds, 2023-05-23–2025-09-02
+80635* 2025-09-02 Zapornice3
+80493* 2025-08-26 Zapornice2
+79923* 2025-07-21 Zapornice
+63249  2023-05-23 Plani za prihodnost
+
+GROUP 21: 4 records, 1 recent seeds, 2023-11-13–2025-01-24
+76664* 2025-01-24 Parkiranje na pločniku
+74784  2024-09-25 Vozila na pločniku
+71106  2024-02-22 Nepravilno parkirana vozila
+68672  2023-11-13 Parkiranje na pločniku
+
+GROUP 22: 4 records, 4 recent seeds, 2025-08-19–2026-04-14
+84180* 2026-04-14 Oznaka za kolesarje4
+82176* 2025-12-01 Oznaka za kolesarje3
+80975* 2025-09-19 Oznaka za kolesarje2
+80363* 2025-08-19 Oznaka za kolesarje
+
+GROUP 23: 4 records, 3 recent seeds, 2021-01-22–2026-06-15
+85197* 2026-06-15 Manjkajoče klopi ob ŠP Savsko naselje 2
+84641* 2026-05-15 Manjkajoče klopi ob ŠP Savsko naselje
+83412* 2026-02-18 Teniška igrišča
+41120  2021-01-22 Kolesarji in motoristi po pločniku
+
+GROUP 24: 4 records, 1 recent seeds, 2019-09-16–2025-07-06
+79714* 2025-07-06 Pometanje pločnika
+40362  2020-12-01 Pometanje listja
+37118  2020-07-08 Pometanje
+31621  2019-09-16 Topniška pometanje
+
+GROUP 25: 4 records, 2 recent seeds, 2021-07-09–2025-11-28
+82139* 2025-11-28 Vožnja po rumenem pasu
+79447* 2025-06-20 Vožnja po rumenem pasu
+74686  2024-09-20 Rumeni pas
+45396  2021-07-09 Pobuda za zaris daljšega rumenega pasu
+
+GROUP 26: 4 records, 1 recent seeds, 2019-08-13–2026-02-06
+83195* 2026-02-06 Nevarni bypass
+48712  2021-11-09 Umiritev hitrosti na bypassu
+35062  2020-02-07 Bypass Drenikova-Parmova
+30754  2019-08-13 Bypass za avtomobile?
+
+GROUP 27: 4 records, 2 recent seeds, 2023-02-15–2025-01-09
+76386* 2025-01-09 Stavba razpada - Dom skupnosti, 2.
+76368* 2025-01-08 Stavba razpada - Dom skupnosti Savsko n.
+61374  2023-03-09 Dom skupnosti savsko naselje
+60838  2023-02-15 Dom skupnosti v Savskem naselju razpada
+
+GROUP 28: 4 records, 1 recent seeds, 2021-03-04–2025-06-17
+79380* 2025-06-17 Ureditev igrišč in igral v naselju BS3
+42049  2021-03-04 Obnova tartan podlage
+42040  2021-03-04 Obnova tartana na košarkraškem igriišču
+42028  2021-03-04 Obnova tartana na košarkaškem igrišču
+
+GROUP 29: 4 records, 1 recent seeds, 2022-06-02–2026-06-15
+85199* 2026-06-15 Zaščita za smetnjake
+64455  2023-06-30 Popravilo smetnjaka
+54140  2022-06-07 Zamenjava nadgradnja zabojnika za smeti
+54023  2022-06-02 Zamenjava zabojnikov za smeti
+
+GROUP 30: 4 records, 3 recent seeds, 2020-01-28–2026-10-05
+87052* 2026-10-05 Parkiranje izven parkirnih mest
+83296* 2026-02-12 Parkiranje 
+81564* 2025-10-21 Ureditev parkirišč
+34759  2020-01-28 Parkiranje na cesti
+
+GROUP 31: 4 records, 2 recent seeds, 2017-11-08–2025-06-09
+79187* 2025-06-09 Pesek na pločniku in kolesarski
+77213* 2025-02-28 Čiščenje pločnika
+41476  2021-02-09 Pesek2
+19773  2017-11-08 Pesek na pločniku
+
+GROUP 32: 4 records, 3 recent seeds, 2024-06-09–2025-09-30
+81232* 2025-09-30 Zelena luc za pesce in kolesarje, 2
+80895* 2025-09-16 Zelena luc za pesce in kolesarje
+78672* 2025-05-16 Zelena luč se ne prižge
+73098  2024-06-09 Še en semafor na tipko...
+
+GROUP 33: 4 records, 4 recent seeds, 2026-09-17–2026-09-29
+86939* 2026-09-29 Taxi ovira starše pri OŠ Mirana Jarca
+86888* 2026-09-25 Limuzina Komodo v coni za starše
+86843* 2026-09-23 Zasedeni boksi za otroke pred OŠ Jarca
+86746* 2026-09-17 Taksi dolgo parkira v boksu za šolo
+
+GROUP 34: 4 records, 3 recent seeds, 2014-05-20–2025-05-07
+78475* 2025-05-07 Kamera na semaforju
+75852* 2024-11-28 Zavijanje v levo pri rdeči luči 
+75128* 2024-10-15 Prekrški voznikov
+9397  2014-05-20 Ureditev prehoda za pešce
+
+GROUP 35: 4 records, 1 recent seeds, 2019-09-01–2025-07-15
+79866* 2025-07-15 Podgane
+43011  2021-04-11 Problem s podganami
+38586  2020-09-12 Podgane na parkirišču in med grmovjem
+31207  2019-09-01 Čiščenje
+
+GROUP 36: 4 records, 2 recent seeds, 2023-11-10–2025-12-21
+82474* 2025-12-21 Smetišče in podgane
+78807* 2025-05-24 Podgane
+73301  2024-06-21 Podgane
+68630  2023-11-10 Podgane
+
+GROUP 37: 4 records, 1 recent seeds, 2021-10-27–2026-01-21
+82929* 2026-01-21 Parkiranje - pokopališče Žale
+68311  2023-10-29 Brezplačno parkiranje
+49275  2021-11-29 Parkirišče Žale
+48395  2021-10-27 Parkirišče Žale
+
+GROUP 38: 4 records, 2 recent seeds, 2016-02-20–2026-07-15
+85670* 2026-07-15 Igrišče OŠ Savsko naselje
+80771* 2025-09-09 Savsko naselje - enosmerne ulice
+31209  2019-09-01 Igrišče OŠ Savsko naselje
+14057  2016-02-20 Parkiranje Savsko naselje
+
+GROUP 39: 4 records, 1 recent seeds, 2011-05-26–2026-09-28
+86914* 2026-09-28 Parkiranje
+43843  2021-05-11 Parkiranje
+29142  2019-06-01 Parkiranje
+3302  2011-05-26 Parkirišče
+
+GROUP 40: 3 records, 3 recent seeds, 2025-11-10–2025-12-19
+82453* 2025-12-19 Sečnja dreves Parmova 53 - 3 del
+82452* 2025-12-19 Sečnja dreves Parmova 53 - 2 del
+81871* 2025-11-10 Sečnja dreves Parmova 53
+
+GROUP 41: 3 records, 2 recent seeds, 2010-06-09–2025-01-20
+76521* 2025-01-20 Zamenjave uličnih svetil
+76516* 2025-01-20 Zamenjave  uličnih svetil
+1751  2010-06-09 Poškodovan drog obcestne svetilke
+
+GROUP 42: 3 records, 2 recent seeds, 2022-09-07–2026-08-04
+85929* 2026-08-04 GASILSKI ZNAK ZA LAŽJI IZVOZ VOZIL
+85807* 2026-07-24 PROMETNI ZNAK ZA GASILCE
+56893  2022-09-07 Naši gasilci
+
+GROUP 43: 3 records, 2 recent seeds, 2018-08-07–2026-08-06
+85962* 2026-08-06 Zaraščen pločnik
+85130* 2026-06-10 Zaraščen pločnik 
+22814  2018-08-07 Trava prerašča
+
+GROUP 44: 3 records, 2 recent seeds, 2023-10-25–2026-03-05
+83593* 2026-03-05 Parkiranje ob cesti
+79017* 2025-06-02 Oviranje prometa na začetku ulice
+68210  2023-10-25 Ureditev parkirišča 
+
+GROUP 45: 3 records, 3 recent seeds, 2025-01-04–2025-01-04
+76282* 2025-01-04 Cenik Gasilcev
+76281* 2025-01-04 CEnik GBL
+76276* 2025-01-04 Cenik GBL
+
+GROUP 46: 3 records, 1 recent seeds, 2022-09-09–2026-06-02
+84996* 2026-06-02 Razraslo grmovje - obrez nujno
+58753  2022-11-11 Razlaslo grmovje 
+56967  2022-09-09 Obrez grmovja
+
+GROUP 47: 3 records, 2 recent seeds, 2017-09-18–2025-09-12
+80830* 2025-09-12 Varen prehod čez progo
+78802* 2025-05-23 Ureditev prehoda čez železniško progo
+19289  2017-09-18 Ureditev prehoda čez železniško progo
+
+GROUP 48: 3 records, 3 recent seeds, 2025-11-09–2026-02-07
+83204* 2026-02-07 Veje dreves preko pločnika il
+82598* 2026-01-02 Drevo čez pločnik in javno razsvetljavo
+81857* 2025-11-09 Drevo preko pločnika
+
+GROUP 49: 3 records, 1 recent seeds, 2012-02-22–2025-08-29
+80567* 2025-08-29 Odvoz avta brez tablic
+74532  2024-09-11 Odvoz vozila brez tablic
+4588  2012-02-22 Avto brez tablic
+
+GROUP 50: 3 records, 1 recent seeds, 2022-06-22–2024-12-12
+76097* 2024-12-12 Pozabljeni, nepotrebni prometni znak
+61613  2023-03-20 Odveč prometni znak
+54550  2022-06-22 Nepotrebni prometni znak
+
+GROUP 51: 3 records, 2 recent seeds, 2024-03-25–2025-09-25
+81115* 2025-09-25 Prehod za pešce
+78442* 2025-05-05 Netlakovana površina pri prehodu
+71645  2024-03-25 Prehod za pešce
+
+GROUP 52: 3 records, 1 recent seeds, 2021-06-18–2025-10-28
+81695* 2025-10-28 Parkiranje na pločniku pri Austria Trend
+45082  2021-06-24 BicikeLJ postaja Rotonda Austria Trend
+44916  2021-06-18 Pokrov ropota
+
+GROUP 53: 3 records, 2 recent seeds, 2024-10-03–2025-04-09
+78014* 2025-04-09 Štajerska c.- jama - pobudi 3.10.,18.12
+76092* 2024-12-12 Štajerska cesta - jama - pobuda 3.10.24
+74935  2024-10-03 Štajerska cesta - jama
+
+GROUP 54: 3 records, 1 recent seeds, 2021-06-09–2025-06-03
+79044* 2025-06-03 Nujen obrez rastja
+47157  2021-09-16 Obrez žive meje, ki sili na pločnik
+44685  2021-06-09 Obrez rastja 
+
+GROUP 55: 3 records, 3 recent seeds, 2024-12-02–2025-01-04
+76275* 2025-01-04 Objava sistematizacije delovnih mest
+75977* 2024-12-04 Prošnja za informacije
+75915* 2024-12-02 Povezava do sitematizacije DM
+
+GROUP 56: 3 records, 1 recent seeds, 2017-07-08–2025-06-17
+79371* 2025-06-17 Ogromni ščurki (problem vsako leto)
+22769  2018-08-03 Ščurki
+18719  2017-07-08 Ščurki
+
+GROUP 57: 3 records, 2 recent seeds, 2021-05-25–2026-02-25
+83498* 2026-02-25 Kolesarski promet v nasprotno 
+81907* 2025-11-12 Dovoljenje kolesarjenja v nasprotno smer
+44264  2021-05-25 Dvosmerni kolesarski promet na Vodovodni
+
+GROUP 58: 3 records, 2 recent seeds, 2023-03-29–2026-08-14
+86060* 2026-08-14 Mostiček čez Črnušnjico
+78708* 2025-05-19 Postavitev brvi čez Črnušnico
+61901  2023-03-29 Mostiček cez potok Tomačevski most
+
+GROUP 59: 3 records, 2 recent seeds, 2022-04-19–2026-08-26
+86253* 2026-08-26 Zanemarjena ulica
+82958* 2026-01-23 Zasmetena okolica ZD
+52725  2022-04-19 Zelenica polna cigaretnih fitrov
+
+GROUP 60: 3 records, 1 recent seeds, 2024-06-24–2025-10-12
+81389* 2025-10-12 Kavarna Tiskarna avtomobili
+74755  2024-09-24 Nevaren uvoz na Dunajsko
+73326  2024-06-24 Parkirišče tiskarna?
+
+GROUP 61: 3 records, 2 recent seeds, 2019-03-05–2026-05-16
+84649* 2026-05-16 Športni park 
+83878* 2026-03-22 Prehod skozi Savski športni park
+27205  2019-03-05 Športni park Savsko naselje
+
+GROUP 62: 3 records, 2 recent seeds, 2018-01-11–2025-08-26
+80505* 2025-08-26 Linhartov podhod
+77361* 2025-03-09 Linhartov podhod
+20238  2018-01-11 Ureditev podhoda Plava laguna
+
+GROUP 63: 3 records, 1 recent seeds, 2016-08-12–2025-12-22
+82494* 2025-12-22 Nevaren prehod za pešce
+68609  2023-11-10 Nevaren prehod za pešce
+15597  2016-08-12 Ureditev prehod za pešce
+
+GROUP 64: 3 records, 2 recent seeds, 2023-12-21–2025-03-11
+77416* 2025-03-11 Namestitev koša za smeti
+77415* 2025-03-11 Košev za smeti
+69754  2023-12-21 Koš za odpadke
+
+GROUP 65: 3 records, 2 recent seeds, 2021-07-06–2025-06-04
+79085* 2025-06-04 KOŠNJA TRAVE
+78569* 2025-05-12 Košnja trave
+45289  2021-07-06 Košnja trave
+
+GROUP 66: 3 records, 2 recent seeds, 2022-06-29–2026-07-04
+85477* 2026-07-04 Otroški zipline pri Ric Sava
+85475* 2026-07-04 Nujna sanacija ceste pri Ric Sava
+54716  2022-06-29 RIC SAVA
+
+GROUP 67: 3 records, 1 recent seeds, 2023-05-21–2025-04-23
+78292* 2025-04-23 Otroško igrišče
+64739  2023-07-10 Otroško igrišče
+63185  2023-05-21 Igrala na otroškem igrišču
+
+GROUP 68: 3 records, 1 recent seeds, 2017-10-02–2024-12-04
+75968* 2024-12-04 Križišče Dunajske ceste
+69568  2023-12-14 Zelo nevarno križišče z Dunajsko
+19455  2017-10-02 Enosmerna
+
+GROUP 69: 3 records, 1 recent seeds, 2017-03-12–2026-03-09
+83648* 2026-03-09 Ureditev pločnika
+56037  2022-08-10 Pločnik
+17488  2017-03-12 Pločnik
+
+GROUP 70: 3 records, 1 recent seeds, 2022-11-14–2025-05-29
+78946* 2025-05-29 Slovenčeva
+59061  2022-11-22 Slovenčeva2
+58783  2022-11-14 Slovenčeva
