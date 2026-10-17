@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Build the multi-district site "Ljubljanske pobude" into deploy/site/.
+"""Build the multi-district site "Ljubljanske pobude" into app/.
 
 Districts come from data/cetrti.json. Each gets d/<id>.json (map points, theme stats, boundary, statistics)
-and d/<id>/tx/<n>.json (initiative texts, bucketed by id and fetched on click). Districts with our labels
-(currently Vič) reuse the theme pipeline output; the others show portal fields only.
+and d/<id>/tx/<n>.json (initiative texts, bucketed by id and fetched on click).
+Vič reuses the theme pipeline; other districts include vrsta/stanje labels when available.
+Sources live in app/source/. Full source captures from data/cetrti.json are required;
+the already built app/d/ is not an input substitute. Reviewed groups are checked first.
 Run build_stats.py --district <id> (and for Vič build_theme_map_data.py) first."""
 import json, math, re, shutil
 from datetime import datetime, timezone
@@ -12,8 +14,8 @@ from check_repeat_clusters import check as check_repeat_clusters
 
 ROOT = Path(__file__).resolve().parents[1]
 T = ROOT / 'analysis/teme'
-SITE = ROOT / 'analysis/site'
-OUT = ROOT / 'deploy/site'
+SITE = ROOT / 'app/source'
+OUT = ROOT / 'app'
 CETRTI = json.loads((ROOT / 'data/cetrti.json').read_text())
 BOUNDS = {f['attributes']['CETRT']: f['geometry']['rings'] for f in json.loads((ROOT / 'data/meje/cetrtne_skupnosti.json').read_text())['features']}
 
@@ -178,7 +180,7 @@ google_tag = '''<!-- Google tag (gtag.js) -->
 '''
 shutil.copytree(ROOT / 'design-library/assets/fonts', OUT / 'fonts')
 fonts = (ROOT / 'design-library/fonts.css').read_text().replace('url(assets/fonts/', 'url(fonts/')
-html = (SITE / 'template.html').read_text().replace('/*CETRTI*/', esc(registry)).replace('/*LEAFLETCSS*/', (T / 'leaflet.css').read_text()).replace('/*ABOUT*/', about).replace('/*FONTS*/', fonts)
+html = (SITE / 'template.html').read_text().replace('/*CETRTI*/', esc(registry)).replace('/*LEAFLETCSS*/', (SITE / 'leaflet.css').read_text()).replace('/*ABOUT*/', about).replace('/*FONTS*/', fonts)
 (OUT / 'index.html').write_text('<!doctype html><html lang="sl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' + google_tag + '</head><body style="margin:0">' + html + '</body></html>')
 (OUT / 'cetrti.json').write_text(esc(registry))
 print('index.html', round(len(html) / 1e3), 'kB')

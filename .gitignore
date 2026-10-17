@@ -8,10 +8,12 @@ __pycache__/
 .env.*
 !.env.example
 /tmp/
-/output/
-/outputs/
 
-# Full capture archives stay local; the runnable site is in deploy/site.
+# Large reproducible comparison caches; reviewed selections remain tracked.
+/analysis/cetrti/*/clusters/candidates.json
+/analysis/cetrti/*/clusters/record_hashes.json
+
+# Unpacked full captures stay local. Preserved archives in outputs/ are tracked.
 /data/vic_*/
 /data/center_*/
 /data/siska_*/

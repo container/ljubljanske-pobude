@@ -1,132 +1,216 @@
-# Pobude meščanov – zajemi ljubljanskih četrti
-[WARNING: AI GENERATED CRAP BELOW]
+# Ljubljanske pobude
 
-## Repozitorij in lokalni zagon
+Zajemi javnega portala [Pobude meščanov MOL](https://pobude.ljubljana.si/), analize odgovorov in spletna aplikacija za pregled po četrtih. Namen je prepoznati ponavljajoče se probleme ter razlikovati med odgovorom, obljubo in navedbo izvedbe.
 
-GitHub: [container/ljubljanske-pobude](https://github.com/container/ljubljanske-pobude).
-Repozitorij vsebuje skripte, analize, oblikovne reference in pripravljeno spletno stran v `deploy/site`.
-Celotni in obdobni zajemi vseh četrti v `data/<četrt>_*`, začasne datoteke ter izvozni arhivi ostanejo lokalno in so izključeni iz Gita. Spodnje povezave do zajemov zato delujejo le, če so te mape prisotne lokalno.
+Repozitorij: [container/ljubljanske-pobude](https://github.com/container/ljubljanske-pobude). Ta README opisuje stanje predaje po pospravljanju **17. oktobra 2026**. Datumi v podatkih so datumi posameznih zajemov, ne datum zadnje spremembe projekta.
 
-Za ogled pripravljene strani brez ponovnega zajema ali gradnje:
+## Najprej: ogled ali nadaljevanje analize
+
+Za ogled že pripravljene aplikacije potrebuješ Python 3, brez ponovnega zajema ali gradnje. Ukaze izvajaj iz glavne mape projekta:
 
 ```sh
-python3 -m http.server 8000 --bind 127.0.0.1 --directory deploy/site
+python3 -m http.server 8000 --bind 127.0.0.1 --directory app
 ```
 
-Odpri `http://localhost:8000`. Ponovna gradnja s `scripts/deploy_site.sh` potrebuje lokalne zajeme; skript tudi objavi stran prek Railway CLI. Potisk v GitHub sam po sebi ni del tega skripta.
+Odpri `http://localhost:8000/?cetrt=vic`. Spletni prikaz uporablja Leaflet iz CDN, podlago OpenStreetMap in zunanje povezave do prilog, zato za celoten prikaz potrebuje internet. Podatki pobud in pisave so v projektu.
 
-Zbirka javnih pobud s portala [pobude.ljubljana.si](https://pobude.ljubljana.si/).
+Za nadaljevanje vsebinske analize so na voljo **48.160 zapisov po desetih četrtih** v `app/d/`, skupaj z obstoječimi oznakami in poročili v `analysis/`. Za nov zajem uporabi spodnji postopek; zajem lahko začne iz prazne mape.
 
-Skripte podpirajo zajem za **Vič** (`--district vic`), **Center** (`--district center`) in **Šiško** (`--district siska`). Vključitev določa izključno spustni filter četrtne skupnosti na portalu, ob nastavitvah »Vse pobude« in obdobje »Vse«, na obeh seznamih. Vsak zajem je shranjen v svoji mapi; podatki ene četrti se ne združujejo s podatki druge.
+## Kaj je kje
 
-## Bežigrad, Moste, Rudnik, Jarše in Golovec – petletni zajem
-
-Triletni zajem z 12. oktobra 2026 je bil **13. oktobra 2026** razširjen za dve starejši leti. Zdaj vsebuje **6,771 pobud od vključno 12. oktobra 2021**, od tega **3,175 dodatnih starejših pobud**. Nabori, datumske meje in izvozi so preverjeni. Register kaže na petletne zbirke; predhodni dveletni in triletni posnetki so ohranjeni. Podatki ostanejo lokalno.
-
-[Pregled in povezave do petletnih zajemov](analysis/zajem_pet_cetrti_2026-10-13.md). [Predhodni triletni zajem](analysis/zajem_pet_cetrti_2026-10-12.md). [Pilotna analiza Golovca](analysis/cetrti/golovec/README.md) ostaja omejena na 111 pobud zadnjega leta; dodatni leti še nista vsebinsko analizirani.
-
-Za omejeni zajem je na voljo `--reported-since YYYY-MM-DD`, npr. `python3 -B scripts/capture_pobude.py --district moste --reported-since 2021-10-12 --folder data/moste_2026-10-13_zadnjih_5_let`. Ob spremembi obdobja uporabi novo mapo. Podprti dodatni identifikatorji četrti so `bezigrad`, `moste`, `rudnik`, `jarse` in `golovec`.
-
-## Šiška – zajem 9. oktobra 2026
-
-Zajem v [data/siska_2026-10-09](data/siska_2026-10-09/README.md) vsebuje **7.331 pobud: 7.295 odgovorjenih in 36 neodgovorjenih**. Vse imajo koordinate. Najprej je bilo prenesenih in preverjenih **1.738 pobud z datumom prijave od vključno 9. oktobra 2023**, shranjenih tudi v [ločeni zbirki zadnjih treh let](data/siska_2026-10-09/zadnja_3_leta/README.md), nato še 5.593 starejših pobud. Prenos je potekal od najnovejših prijav proti najstarejšim, z obema statusoma v skupnem zaporedju. Seznama sta ob koncu ostala nespremenjena; omrežnih napak in napak razčlenjevanja ni. Zbirki sta lokalni, brez ZIP-a in brez objave na spletni strani.
-
-## Center – zajem 1. oktobra 2026
-
-Mapa: [data/center_2026-10-01](data/center_2026-10-01/). Imena izvozov se začnejo s `pobude_center`; struktura in pomen polj sta enaka kot pri Viču. Filter portala je **CENTER**, vrednost **11**. Končna števila, popolnost in čas prenosa so v `capture_report.json`, preverjanje nespremenjenosti seznamov v `source_list_verification.json`, primerjava izvozov pa v `validation_report.json`.
-
-Zajem vsebuje **16.529 pobud: 16.479 odgovorjenih in 50 neodgovorjenih**. Vse imajo geografsko točko. Datumi prijav segajo od 9. decembra 2008 do 29. septembra 2026. Pri 3.346 pobudah je skupaj 4.912 povezav iz galerij prilog. Ponovna primerjava obeh seznamov je potrdila nespremenjen nabor, statuse, naslove in datume seznama. Omrežnih napak in napak razčlenjevanja ni.
-
-Pri 2.991 pobudah trenutni šifrant ne vsebuje naziva kategorije; številčne šifre so ohranjene. Pobuda **55625, »Zahvala in pohvala«**, je na portalu označena kot odgovorjena, vendar njen blok odgovora vsebuje samo nedeljivi presledek. Prazno besedilo je ohranjeno brez dopolnjevanja. Zbirka ostane lokalno za nadaljnjo analizo; ZIP ni izdelan. Podrobnosti so v [dokumentaciji zajema za Center](data/center_2026-10-01/README.md).
-
-## Vič – zajem 29. septembra 2026
-
-Obseg določa izključno **spustni filter »VIČ«**, ob nastavitvah **»Vse pobude«** in **obdobje »Vse«**, na seznamih odgovorjenih in neodgovorjenih pobud. Prostorsko preverjanje, premeščanje med četrtnimi skupnostmi in iskanje pobud iz drugih četrti niso del tega zajema.
-
-Zajem 29. septembra 2026 vsebuje **2.975 pobud: 2.952 odgovorjenih in 23 neodgovorjenih**. Vseh 2.975 ima geografsko točko. Datumi prijav segajo od 9. decembra 2008 do 27. septembra 2026. Pri 430 pobudah je skupaj 614 povezav iz galerij prilog. Naknadna ponovitev obeh filtriranih seznamov je potrdila nespremenjen nabor, statuse, naslove in datume seznama.
-
-Pri 459 pobudah je ohranjena številčna šifra kategorije, ki je sedanji spustni meni ne vsebuje; njihovega naziva kategorije zato nismo ugibali. Vsebina teh pobud, odgovori in lokacije so zajeti.
-
-## Datoteke
-
-Zajem je v mapi [data/vic_2026-09-29](data/vic_2026-09-29/).
-
-| Datoteka | Namen |
+| Mapa | Vsebina in namen |
 |---|---|
-| `pobude_vic.json` | Celotna strukturirana zbirka, z besedili, HTML, datumi, koordinatami, kategorijami in povezavami do prilog. |
-| `pobude_vic.jsonl` | Enak nabor, ena pobuda na vrstico, primeren za nadaljnjo strojno obdelavo. |
-| `pobude_vic.sqlite` | Lokalna podatkovna baza; tabela `initiatives`, ena vrstica na pobudo. Celoten zapis je tudi v stolpcu `record_json`. |
-| `pobude_vic.geojson` | Geografski izvoz; koordinate so v vrstnem redu **zemljepisna dolžina, zemljepisna širina**, WGS84. |
-| `index.json` | Pobude in statusi iz obeh filtriranih seznamov portala. |
-| `categories.json` | Šifrant vrst pobud, prebran iz spustnega menija portala. |
-| `geometry.json` | Povezava ID-ja pobude z atributi in točko iz kartografskega servisa. |
-| `capture_report.json` | Števila zapisov, čas zajema, manjkajoči podatki in morebitne napake. |
-| `source_list_verification.json` | Primerjava seznamov pred in po zajemu. |
-| `validation_report.json` | Končna primerjava izvozov, identifikatorjev, koordinat in kontrolnih vsot izvirnikov. |
-| `checksums.sha256` | Kontrolne vsote vseh podatkovnih datotek. |
-| `raw/details/<ID>.txt` | Izvirni besedilni odgovor strani za posamezno pobudo; ohranjen pred razčlenjevanjem. |
-| `raw/*_list.txt` | Izvirna filtrirana seznama. |
-| `raw/geometry_*.json` | Izvirni odgovori kartografskega servisa v paketih do 200 ID-jev. |
-| `raw/*_page.html` | Posnetka strani, vključno s šifranti in nastavitvami obrazca. |
+| `app/` | Pripravljena aplikacija, njeni podatki, pisave in nastavitve gostovanja. Prej `deploy/site/`. |
+| `app/source/` | Izvorna koda strani (`template.html`), razlaga »O strani« (`o_strani.html`) in skupni slogi zemljevida (`leaflet.css`). Prej `analysis/site/` in `analysis/teme/leaflet.css`. |
+| `app/d/` | Izvozi za aplikacijo: besedila, točke, statistike, oznake in potrjene skupine problemov. |
+| `data/` | Register za gradnjo in geografski podatki. Sem skripta privzeto shranjuje nove izvorne zajeme. |
+| `analysis/` | Analitične oznake, navodila, poročila, podatki za prikaze in orodja za pregled analiz. |
+| `scripts/` | Skripte za zajem, preverjanje, analizo, gradnjo in objavo; pregled je spodaj. |
+| `design-library/` | Samostojna oblikovna referenca CILJ: barve, pisave, ikone, slogi in izvorni posnetki. |
+| `outputs/` | Ohranjeni izvorni zajemi in gradivo za plakat v `images/`. Prej sta bila izvoza v `output/` in `outputs/`. |
+| `tmp/` | Poskusi, stare enkratne skripte, dnevniki, slikovni izrezi in velike vmesne primerjave. Izključeno iz Gita in predaje. |
 
-## Pomen pomembnih polj
+### Izvorna koda in sestavljena aplikacija
 
-- `id`: identifikator pobude na portalu. Povezuje sezname, podrobnosti in kartografski zapis `MOL_VNESENE_POBUDE_FC_ID`. ArcGIS `OBJECTID` je ločen identifikator in ni uporabljen kot ključ pobude.
-- `portal_status`: `odgovorjena` ali `neodgovorjena`. **To ni ocena razrešenosti problema.**
-- `district`: četrtna skupnost iz podrobnosti pobude. Vključitev v zbirko določa filter seznama.
-- `reported_date`, `published_date`, `last_response_date`: datum prijave, objave in zadnjega objavljenega odgovora, zapisani kot `YYYY-MM-DD`. Izvorni datumski nizi so ohranjeni v poljih s pripono `_raw`.
-- `list_date`: datum iz seznama. Njegov pomen je odvisen od seznama; ne uporablja se samodejno kot datum prijave.
-- `initiative_text`, `response_text`: očiščeni besedili. Celotna razpoložljiva vsebina odgovora je ohranjena tudi kot `responses_html`, vključno z morebitnimi dodatnimi odgovori v istem bloku.
-- `respondents_text`: besedilo portala o pripravljavcu odgovora oziroma obravnavi. To ne dokazuje, kdo mora izvesti ukrep.
-- `category_id`, `category`: kategorija iz kartografskega zapisa in njen naziv iz šifranta portala. Neznane šifre ostanejo ohranjene, naziv pa je prazen.
-- `geometry_wgs84`: koordinati, ki ju vrne kartografski servis z `outSR=4326`. Točka ni bila prestavljena ali uporabljena za preverjanje pripadnosti četrtni skupnosti.
-- `source_x`, `source_y`: izvorni koordinati iz podrobnosti, brez pretvorbe; nista zemljepisna dolžina in širina.
-- `gis_attributes`: izbrani atributi kartografskega servisa, vključno z izvornimi datumi. Njihova interna polja se ne interpretirajo kot dokaz izvedbe.
-- `attachment_links`: povezave do slik in prilog iz obeh galerij. Slike in druge binarne priloge **niso prenesene**; zajeti so njihovi URL-ji in izvorni HTML galerij.
-- `source_page`, `source_callback_argument`: izvorna stran in parameter, s katerim portal pridobi pobudo. Sam URL strani ne odpre nujno izbrane pobude.
-- `captured_at`, `raw_detail_path`, `raw_sha256`: čas prenosa posameznega izvirnika, njegova pot in kontrolna vsota UTF-8 besedila.
+`app/source/template.html` je glavna izvorna koda aplikacije, čeprav se imenuje »template«. Skripta `build_site.py` vanjo vstavi razlago strani, register, pisave in sloge ter izdela `app/index.html`. Trajne spremembe strani naredi v `app/source/`, saj ponovna gradnja prepiše `app/index.html`.
 
-## Omejitve zajema
+`Dockerfile` in `Caddyfile` v `app/` sta del obstoječega načina gostovanja na Railway. Dockerfile v spletni strežnik kopira samo pripravljeno stran, register, `d/` in pisave. `design-library/` je vzporedna referenca; gradnja iz nje prebere pisave.
 
-Zajem ohranja javno vsebino, ki jo portal vrne v trenutku prenosa. Ne predstavlja zgodovine vseh prejšnjih različic odgovorov ali dokazila o izvedbi. `last_response_date` ni nujno datum prvega odgovora. Pobude z več odgovori v enem bloku še niso razdeljene na ločene dogodke; izvorni blok je shranjen v celoti.
+### Dva registra četrti
 
-V tej fazi ni izvedena tematska analiza, povezovanje podobnih pobud, ocenjevanje obljub ali preverjanje rešitev. Manjkajoče vrednosti se ne nadomeščajo z ugibanjem.
+- `data/cetrti.json`: vhod za gradnjo; vsebuje ID, ime, portalno oznako, pot `mapa` do izvornega zajema, referenčni datum in nastavitve analiz. Register in `data/meje/` sta bila obnovljena iz zadnjega commita, brez spreminjanja vsebine.
+- `app/cetrti.json`: pripravljeni register za spletni prikaz; vsebuje ID, ime, mejo in število paketov besedil `n_tx`. Nastane med gradnjo in ne nadomešča vhodnega registra.
 
-## Ponovitev zajema
+## Podatki: kaj je dejansko ohranjeno
 
-Skript uporablja Pythonovo standardno knjižnico in običajne javne bralne zahtevke portala. Pridobi ASP.NET stanje obrazca, preveri izbrano možnost (`VIČ` z vrednostjo `15`, `CENTER` z vrednostjo `11` ali `ŠIŠKA` z vrednostjo `8`), prenese oba seznama, geografske podatke poveže samo z ID-ji iz teh seznamov in zaporedno pridobi podrobnosti. Izvorne odzive razčleni kot podatke; JavaScripta iz odgovorov ne izvaja.
+| Četrt | Zapisov v aplikaciji |
+|---|---:|
+| Vič | 2.975 |
+| Center | 16.529 |
+| Šiška | 7.331 |
+| Golovec | 1.243 |
+| Bežigrad | 7.349 |
+| Moste | 2.507 |
+| Rudnik | 2.774 |
+| Jarše | 2.307 |
+| Trnovo | 2.637 |
+| Rožnik | 2.508 |
+| **Skupaj** | **48.160** |
+
+Pri vsaki četrti se število zapisov v paketih besedil ujema s skupnim številom v `STAT.skupaj`. To je vsota po četrtih, ne štetje različnih oseb ali problemov. Obseg vsebinskega označevanja je ožji od celotnega zajema.
+
+Celotni zgodovinski izvorni zajemi v poteh `data/<četrt>_<datum>` so manjkali že pred pospravljanjem in niso bili vključeni v Git. Ohranjeno je:
+
+- **Celoten izvorni Vič:** `outputs/pobude_vic_2026-09-29.zip`, 2.975 pobud, izvirni odzivi portala, izvozi in poročila. Arhiv vsebuje mapo `data/vic_2026-09-29/`. Dokumentacija in kopije skript v ZIP-u so zgodovinski; za trenutno delo uporabi skripte iz korena tega repozitorija.
+- **Delni izvorni Golovec:** `outputs/golovec_2026-10-12_prekinjeni_celotni_zajem/`, 822 odzivov v `raw/details/`, seznam 1.243 pobud in geografski podatki. To je prekinjen zajem brez končne validacije, ne popolna zbirka. Datoteka `index.json` je seznam pobud, ne spletna stran.
+- **Obdelani podatki vseh četrti:** `app/d/`. Vsebujejo besedila in odgovore, vendar ne vseh prvotnih HTML-odzivov, atributov in dokazil zajema.
+- **Analitični vzorci in oznake:** `analysis/`; na primer `vic_pilot/sample_100.json` vsebuje 100 strukturiranih izvornih zapisov Viča.
+
+Nov zajem je ponovljiv z obstoječimi skriptami. Za ponovno izdelavo istih zgodovinskih rezultatov pa potrebuješ iste izvorne posnetke in oznake. Nov prenos portala ustvari nov posnetek, saj se odgovori in seznami sčasoma spreminjajo. Podatkov iz `app/d/` ne predstavljaj kot popolnega izvornega arhiva.
+
+### Kako brati `app/d/`
+
+- `app/d/<četrt>.json`: `meta` opisuje četrt in obdobja; `D.tocke` in `D.stare` vsebujeta točke z ID-jem, naslovom, datumom in razpoložljivimi oznakami; `STAT` statistike; `CLUSTERS` potrjene skupine; `cluster_info` podatke o njihovem pregledu. Seznam točk ni pri vseh četrtih popoln indeks vseh besedil.
+- `app/d/<četrt>/tx/<n>.json`: objekti, katerih ključi so ID-ji pobud kot nizi. Vrednost vsebuje `pobuda`, `odgovor`, `odgovor_datum`, `odgovoril`, `lat`, `lon`, `portal`, `priloge` in po potrebi `oznake`. Za vse zapise preberi vse pakete, ne samo točk na zemljevidu.
+- Paket posamezne pobude določa `int(id) % n_tx`; `n_tx` preberi iz registra oziroma `meta`, saj se razlikuje po četrtih. Podatke poveži po ID-ju in ohrani podatek o izvorni četrti.
+- `portal` in `oznake` sta seznama parov `[ime, vrednost]`. `portal` vsebuje podatke portala, `oznake` pa interpretacije analize. Polja niso pri vseh zapisih enaka. Naslovi so v datoteki četrti, ne v paketih besedil.
+- `app/d/vse.json`: skupni prikaz potrjenih skupin problemov po četrtih.
+
+Koordinate besedil so WGS84 (`lat` širina, `lon` dolžina). Točke uporabljajo `la` in `lo`; meje v registru uporabljajo vrstni red Leaflet `[širina, dolžina]`. Izvorni GeoJSON uporablja `[dolžina, širina]`. Datumi so praviloma `YYYY-MM-DD`, manjkajoče vrednosti ostanejo prazne ali `null`.
+
+## Analize in njihove omejitve
+
+| Pot | Kaj bereš oziroma nadaljuješ |
+|---|---|
+| `analysis/oznacevanje/` | Vič: oznake 544 pobud zadnjih treh let, kalibracija 50 pobud, vhodni paketi, izhodi in pregledovalniki. Pravila: [navodila za označevanje](analysis/oznacevanje/navodila_oznacevanja.md). |
+| `analysis/teme/` | Podrobne teme Viča, tematske oznake in zemljevid. Pravila: [navodila za teme](analysis/teme/navodila_teme.md). `karta_template.html` in `o_strani.html` izdelata ločen prikaz `perece_teme_vic.html`; ta ni glavni `app/index.html`. |
+| `analysis/cetrti/<četrt>/` | Statistike, razpoložljive oznake vrste in stanja, paketi za označevanje ter skupine ponovitev. Pravila vrste/stanja so v `oznacevanje/navodila_vrsta_stanje.md`, kjer je ta podmapa prisotna. |
+| `analysis/cetrti/<četrt>/clusters/` | `selection.json`: potrjene skupine in kontrolne vsote pregledanih zapisov; `review.json`: poročilo o pregledu; `candidate_index.txt`: kratek seznam kandidatov; `seed_type_overrides.json`: popravki izhodiščnih vrst. Kandidat sam po sebi še ni potrjena skupina. |
+| `analysis/clusters_100m_2026-10-12/` | Potrjeni izbor skupin Viča in poročilo; glavna gradnja za Vič uporabi ta izbor, kadar nima četrtnega izbora. |
+| `analysis/vic_pilot/` | Predhodna raziskava 100 namensko izbranih pobud; ni reprezentativen vzorec. |
+| `analysis/zupan_vic/` | Izbor 144 pobud z odgovori, neposredno (138) ali posredno (6) pripisanimi županu, z dokaznimi izseki in HTML-pregledom. |
+| `analysis/viri/` | CPS MOL 2025–2032 in Climate City Contract / 2030 Climate Neutrality Action Plan, skupaj z besedilnimi izvlečki. `cps-2017.txt` je samo izvleček starejše strategije; pripadajoči PDF ni ohranjen. Navedke preveri v PDF-ju, kadar je na voljo. |
+
+`pregled_template.html` / `pregled_50.html` in `zadeve_template.html` / `zadeve_vic.html` so pripomočki za pregled analiz, zato ostajajo pri označevanju. Veliki `candidates.json` in pomožni `record_hashes.json` so prestavljeni v `tmp/analysis/cetrti/<četrt>/clusters/`. Ponovna priprava jih znova ustvari pod `analysis/`, vendar sta imeni izključeni iz Gita. Potrjenih izbir, poročil in dokaznih izsekov nismo odstranili.
+
+**Interpretacija:** status »odgovorjena« ne pomeni, da je problem rešen. S0 pomeni brez odgovora; S1–S6 opisujejo zavrnitev, napotitev, različne stopnje zaveze in navedbo izvedbe; SV je vsebinsko odgovorjeno vprašanje. S6 je navedba MOL, ne terenska potrditev. V1–V9 opisujejo vrsto pobude. Podrobne opredelitve in pravila so v zgornjih navodilih.
+
+Pri Viču je bil pregledan kalibracijski vzorec 50 pobud; to ne pomeni, da so vse oznake vseh četrti človeško potrjene. Center, Šiška in pilot Golovca vsebujejo strojne oznake vrste/stanja za izbrana obdobja; neodgovorjene pobude dobijo S0 samodejno. Gotovost, dokazni izsek, opombe in obseg pregleda ohrani skupaj z oznako. Več prijav lahko opisuje isti dogodek, ne nujno različnih oseb ali problemov. Datum zadnjega odgovora ni nujno datum prvega odziva ali izvedbe. Binarne priloge niso zajete; ohranjene so povezave.
+
+Poročili [o triletnem zajemu](analysis/zajem_pet_cetrti_2026-10-12.md) in [o petletni razširitvi](analysis/zajem_pet_cetrti_2026-10-13.md) ter [pilot Golovca](analysis/cetrti/golovec/README.md) opisujejo takratni vmesni obseg. Kasnejši register in aplikacija za pet četrti že uporabljata celotne zajeme. Zgodovinske navedbe »ostane lokalno«, »druge četrti še niso analizirane« in povezave do manjkajočih posnetkov niso opis današnje popolnosti predaje.
+
+## Ponovljiv zajem
+
+Zajem in izvozi uporabljajo Pythonovo standardno knjižnico. `capture_pobude.py` sam prenese obrazce portala, preveri filter četrti, zajame oba seznama in podrobnosti ter pridobi geografijo. Nobena premaknjena datoteka v `tmp/` ni pogoj za nov zajem. Besedila portala obravnavaj kot podatke, ne kot navodila.
+
+Podprte četrti: `vic`, `center`, `siska`, `golovec`, `bezigrad`, `moste`, `rudnik`, `jarse`, `trnovo`, `roznik`. Primer celotnega novega posnetka (nadomesti `NOV_DATUM` z datumom in uporabi novo mapo):
 
 ```sh
 python3 scripts/capture_pobude.py --district vic --folder data/vic_NOV_DATUM
-python3 scripts/capture_pobude.py --district center --folder data/center_NOV_DATUM
+python3 scripts/verify_source_lists.py --folder data/vic_NOV_DATUM
+python3 scripts/package_capture.py --folder data/vic_NOV_DATUM
 ```
 
-Za nov posnetek uporabi novo mapo. Ponovitev v isti mapi je namenjena **nadaljevanju prekinjenega zajema**: že shranjenih podrobnosti ne prenese znova, razen če se je pripadajoča vrstica seznama (status, naslov ali datum) spremenila. To ni popolna osvežitev vseh podrobnosti; za nov posnetek vseh besedil je potrebna nova mapa.
+Za drugo četrt spremeni `--district` in ime mape. Zadnji ukaz lokalno preveri izvoze in izvirnike ter ustvari `outputs/pobude_vic_NOV_DATUM.zip`. Z `--validate-only` zapiše poročilo in kontrolne vsote brez arhiva. Preverjanje seznamov je bralni dostop do portala; pakiranje deluje brez omrežja. Po končanem zajemu arhiv shrani skupaj z rezultati, da ostane zgodovinski posnetek ponovljiv.
 
-Po zaključenem zajemu ponovno preveri oba seznama in preveri lokalno zbirko (primer za Center):
+Možnost `--reported-since YYYY-MM-DD` omeji obdobje po datumu prijave. `--priority-since YYYY-MM-DD` najprej zajame in preveri izbrano novejše obdobje v `zadnja_3_leta/`, nato nadaljuje s preostalimi podatki. Oba načina sta opisana tudi v pomoči `python3 scripts/capture_pobude.py --help`.
+
+Ponovitev istega ukaza v isti mapi nadaljuje prekinjeni prenos in ponovno uporabi nespremenjene zapise. To ni popolna osvežitev vseh besedil: sprememba odgovora brez spremembe vrstice seznama lahko ostane neopažena. Za nov posnetek vedno uporabi novo mapo.
+
+Za ponovno razčlenitev shranjenih izvirnikov brez omrežja:
 
 ```sh
-python3 scripts/verify_source_lists.py --folder data/center_2026-10-01
-python3 scripts/package_capture.py --folder data/center_2026-10-01 --validate-only
+python3 scripts/capture_pobude.py --district vic --folder data/vic_2026-09-29 --export-only
 ```
 
-Preverjanje prebere četrt iz `capture_config.json`. Možnost `--validate-only` pripravi poročilo in kontrolne vsote brez ZIP-a; zbirka za Center ostane lokalno za nadaljnjo analizo. Brez te možnosti skript dodatno izdela ZIP v `outputs/pobude_<ime_mape>.zip`.
-
-Za ponovno razčlenitev in izvoz obstoječega zajema brez omrežnih zahtevkov:
+Za ta zgodovinski primer najprej obnovi samo podatkovno podmapo iz ohranjenega ZIP-a, ne zgodovinskih kopij skript:
 
 ```sh
-python3 scripts/capture_pobude.py --folder data/vic_2026-09-29 --export-only
-python3 scripts/capture_pobude.py --district center --folder data/center_2026-10-01 --export-only
+unzip outputs/pobude_vic_2026-09-29.zip 'data/*'
 ```
 
-Skript po vsakih 100 pobudah izpiše napredek, ob začasni omrežni napaki poskusi ponovno, končno popolnost pa zabeleži v `capture_report.json`. Morebitni izpuščeni ali nerazčlenljivi zapisi se izrecno navedejo kot napake.
+Čas `captured_at` se pri izvozu bere iz časa spremembe datoteke izvirnika; razpakiranje lahko ta čas spremeni. Vsebina, izvorni datumi in kontrolne vsote izvirnikov se lahko preverijo neodvisno od tega. Ne preverjaj starih seznamov proti današnjemu portalu kot dokaz, da so bili nespremenjeni ob prvotnem zajemu; uporabi takrat shranjena poročila.
 
-Podpora za Šiško: `--district siska`, filter **ŠIŠKA (8)**. Novi prenosi podrobnosti združijo oba statusa in potekajo od najnovejšega vnosa proti najstarejšemu po `DATUM_VNOSA` iz GIS, ne po datumu odgovora na seznamu. Zapisi brez tega datuma pridejo na konec in so navedeni v `capture_order.json`. Pri nadaljevanju se že shranjene podrobnosti uporabijo ponovno. Izvozi JSON, JSONL in GeoJSON so urejeni po dejanskem `reported_date` padajoče, pri istem datumu po ID-ju padajoče; v SQLite vrstni red določi poizvedba (`ORDER BY reported_date DESC, id DESC`).
+### Datoteke izvornega zajema
 
-Za prednostni prenos zadnjih treh let ob zajemu 9. oktobra 2026:
+| Datoteka | Pomen |
+|---|---|
+| `capture_config.json` | Identifikator in filter četrti; pri najstarejšem Viču lahko manjka, takrat orodja privzeto uporabijo Vič. |
+| `pobude_<četrt>.json`, `.jsonl`, `.sqlite`, `.geojson` | Isti nabor v štirih oblikah. SQLite tabela `initiatives` vsebuje tudi celoten `record_json`. |
+| `index.json`, `categories.json`, `geometry.json` | Izvorni seznam pobud, šifrant kategorij in povezava ID-ja z geografijo. |
+| `raw/details/<ID>.txt`, `raw/*_list.txt`, `raw/*_page.html`, `raw/geometry_*.json` | Shranjeni odzivi portala pred obdelavo. |
+| `capture_report.json` | Obseg, datumi, statusi in napake zajema. |
+| `source_list_verification.json` | Primerjava seznamov pred in po zajemu. |
+| `validation_report.json`, `checksums.sha256` | Ujemanje izvozov in kontrolne vsote. |
+| `capture_scope.json`, `full_source_index.json` | Pri omejenem obdobju opredelitev izbora in celotni seznam za preverjanje. |
+
+V izvornih zapisih `id` povezuje portal, seznam in geografijo (`MOL_VNESENE_POBUDE_FC_ID`); ArcGIS `OBJECTID` je drug ključ. `initiative_text` in `response_text` sta očiščeni besedili; izvorni HTML je ohranjen posebej. `reported_date`, `published_date`, `last_response_date` pomenijo prijavo, objavo in zadnji odgovor; `list_date` je ločen datum seznama. Neznane kategorije ostanejo brez naziva, z ohranjeno šifro. `geometry_wgs84` je geografija vira; `source_x` in `source_y` sta izvorni koordinati, ne nujno dolžina in širina. `raw_detail_path` in `raw_sha256` povezujeta zapis z izvirnikom. Filter portala določa vključitev v četrt; geometrijski pregled točke je ločena analiza.
+
+Znane posebnosti prvotnih zajemov: pri Viču je imelo 459 pobud številčno kategorijo brez znanega naziva; pri Centru 2.991. Nazivov ne dopolnjuj z ugibanjem. Center ID 55625 (»Zahvala in pohvala«) je bil označen kot odgovorjen, a je blok odgovora vseboval samo nedeljivi presledek; praznina je ohranjena. Ta števila opisujejo prvotne posnetke, ne novega zajema.
+
+## Skripte: vhodi in izhodi
+
+Večina skript uporablja samo standardno knjižnico. Številne imajo poti do starega Vičevega posnetka zapisane neposredno; pred prilagoditvijo drugemu posnetku preveri vhode v kodi. Skripte, ki pišejo rezultate, lahko prepišejo obstoječe izvoze; samo pregled aplikacije ničesar ne gradi ali objavlja.
+
+| Skripta v `scripts/` | Namen, vhod → izhod |
+|---|---|
+| `capture_pobude.py` | Portal in filter četrti → nova mapa z izvirniki, štirimi izvozi in poročilom; `--export-only` uporabi shranjene izvirnike. |
+| `verify_source_lists.py` | Shranjeni seznam + nov bralni dostop do portala → poročilo o razlikah in kopiji novih seznamov. |
+| `package_capture.py` | Izvozi, izvirniki in preverjanje seznamov → validacija, kontrolne vsote, po izbiri ZIP v `outputs/`. |
+| `check_capture_siska.py` | Živi portal → nov testni vzorec 20 odgovorjenih in 10 neodgovorjenih; preveri sezname, razčlenjevanje, geografijo in izvoze. |
+| `fetch_district_boundaries.py` | Sloj MOL registra ulic → meje vseh 17 četrti in metapodatki v `data/meje/`; ne prenese drugih slojev ulic, cest in zelenih površin. |
+| `check_district.py` | Izvorni Vič + meje → `analysis/oznacevanje/cetrt_po_tocki.json`. |
+| `prepare_analysis_sample.py` | Izvorni Vič → namenski vzorec 100 pobud in opis metode v `analysis/vic_pilot/`. |
+| `prepare_calibration_50.py` | Izvorni Vič → `kalibracija_50_vir.json`. Ročni predlogi/popravljene oznake so ločen vhod. |
+| `build_review_page.py` | Kalibracijski vir, predlog oznak in predloga → `pregled_50.html`; ne potrebuje celotnega zajema. |
+| `prepare_label_batches.py` | Izvorni Vič in izbor kalibracije → paketi za označevanje drugih pobud zadnjih treh let. |
+| `merge_labels.py` | Izvorni Vič, oznake paketov in pregledana kalibracija → `oznake_544.json` z dodatnimi izračuni. |
+| `prepare_vrsta_stanje.py` | Register, zajem četrti in `--years` → paketi odgovorjenih ter samodejni S0 v `analysis/cetrti/<četrt>/oznacevanje/`. |
+| `siska_labels.py`, `golovec_labels.py` | Obstoječi paket + odločitve na standardnem vhodu → preverjena datoteka `paket_NN_oznake.json`; način `read` samo prikaže paket. |
+| `merge_vrsta_stanje.py` | Paketi z oznakami in samodejni S0 → združene `oznake_vrsta_stanje.json` z izpisom morebitnih težav. |
+| `cluster_cases.py` | Izvorni Vič in podrobne oznake → zgodnejši izbor zadev `analysis/oznacevanje/zadeve.json`. |
+| `build_cases_page.py` | Zadeve, oznake, izvorni Vič in predloga → `zadeve_vic.html`. |
+| `prepare_repeat_candidates.py` | Register, zajem, oznake, `--cutoff` → kandidati primerjav v radiju 100 m, pomožne vsote in indeks. Potrditev skupin je ločen pregled. |
+| `check_repeat_clusters.py` | Register, izvorni zajem, oznake in potrjene skupine → preverjanje ID-jev, vsebinskih kontrolnih vsot in prostorskega pravila; ne potrebuje velikih `candidates.json`. |
+| `write_vic_clusters_report.py` | Izvorni Vič, oznake in potrjen izbor 100 m → `analysis/clusters_100m_2026-10-12/clusters.md`. |
+| `build_theme_map_data.py` | Izvorni Vič, podrobne oznake, izhodi tem in geografski sloji → `teme_oznake.json` in `karta_podatki.json`. |
+| `build_stats.py` | Register, zajem četrti in razpoložljive oznake → `analysis/cetrti/<četrt>/statistika.json`. |
+| `build_theme_map.py` | Izvorni Vič, tematski podatki/statistika, predloga v `analysis/teme/` in skupni CSS → ločen `perece_teme_vic.html`; uporablja shranjeni `analysis/teme/statistika.json`, ki ga `build_stats.py` ne prepiše. |
+| `build_site.py` | Register, vsi registrirani zajemi, statistike, analize, meje, `app/source/` in oblikovne pisave → `app/index.html`, `app/cetrti.json`, `app/d/` in `app/fonts/`. |
+| `fetch_tiles.py` | Oznake Viča in strežnik CARTO → izbirni prenos podlage v `analysis/teme/tiles/`; trenutna glavna aplikacija uporablja spletni OpenStreetMap. |
+| `deploy_site.sh` | Obnovi tematske podatke, statistike in aplikacijo, nato jo pošlje v že določeno storitev Railway. To je objava, ne ukaz za lokalni ogled. |
+
+Pomočnika za oznake uporabi na primer z `python3 scripts/siska_labels.py read 1`. Za pisanje: `python3 scripts/siska_labels.py write 1 < odlocitve.txt`; vrstica je `ID V1 S5|dobesedni dokaz|neobvezna opomba`. Preverita celoten nabor ID-jev paketa, šifre, dobesednost in dolžino dokaza do 25 besed, nato prepišeta izhod oznak. Neodgovorjene pobude S0 pripravlja ločena skripta.
+
+## Ponovna gradnja obstoječe aplikacije
+
+Gradnja zahteva vse mape, na katere kaže `data/cetrti.json`, ter spremljajoče analize in geografske sloje. V trenutni predaji celotni zgodovinski zajemi drugih četrti niso ohranjeni, zato celotna ponovna gradnja sedanjega posnetka še ni mogoča. To ne preprečuje novega zajema ali uporabe pripravljene aplikacije. Register in meje sami niso nadomestilo za zajeme.
+
+Ko so ustrezni izvorni zajemi na voljo, je običajni vrstni red:
+
+1. Za spremenjen posnetek pripravi oziroma preveri oznake in ponovno preglej skupine. Spremenjeno besedilo razveljavi prejšnjo potrjeno kontrolno vsoto; oznak ne razglasi samodejno za veljavne za nove odgovore.
+2. `python3 scripts/build_theme_map_data.py` za Vič.
+3. `python3 scripts/build_stats.py --district <četrt>` za vsako četrt registra.
+4. `python3 scripts/build_site.py` za sestavo aplikacije brez objave.
+
+Pri novem posnetku spremeni ustrezno pot `mapa` in datume v vhodnem registru; zajem registra ne spremeni samodejno. Ne shranjuj novega zajema pod datumom starega in ne zamenjaj `data/cetrti.json` z različico iz `app/`. Skripta za gradnjo počisti stare generirane podatke, zato jo uporabi šele s popolnimi vhodi. Za čisti ogled uporabi lokalni strežnik na začetku README.
+
+## Preverjeno po pospravljanju
+
+- Vseh 145 prvotnih datotek aplikacije je po premiku `deploy/site/` → `app/` vsebinsko nespremenjenih. Preverjeni so lokalno streženje, podatki četrti in števila zapisov v vseh paketih.
+- Iz shranjenih izvirnikov Viča je bilo z aktualno skripto ponovno izdelanih vseh **2.975 zapisov**. Polja se ujemajo s prvotnim izvozom, razen časa `captured_at`, ki je vezan na čas spremembe razpakiranih datotek. Preverjeni so izvozi JSON/JSONL/SQLite/GeoJSON in kontrolne vsote izvirnikov.
+- Živi test je uspešno zajel **30 pobud Šiške**, preveril nespremenjenost obeh seznamov med prenosom in vse izvoze. To je omejen preizkus postopka, ne ponovni celotni zajem vseh desetih četrti.
+
+Preizkus lahko ponoviš z novo mapo:
 
 ```sh
-python3 scripts/capture_pobude.py --district siska --folder data/siska_2026-10-09 --priority-since 2023-10-09
+python3 scripts/check_capture_siska.py --folder tmp/preverjanje_siska_NOV_DATUM
 ```
 
-Pred prenosom starejših podrobnosti skript izvozi in preveri obdobje od vključno navedenega datuma v podmapi `zadnja_3_leta`. Njen `index.json` vsebuje samo izbrano obdobje, `full_source_index.json` pa celotna izvorna seznama za preverjanje nespremenjenosti vira. Obseg je izrecno zapisan v `capture_scope.json`. Začetni izbor uporablja datum vnosa GIS; izvožene datume prijave preveri tudi v podrobnostih. Če datum GIS manjka, se prednostni zajem ustavi, da ne bi tiho izpustil pobude. Po preverjanju prednostnega obdobja se nadaljuje prenos starejših pobud in končni izvoz celotne četrti v glavno mapo.
+## Kaj vključiti v commit
+
+Vključi `app/`, uporabne `analysis/`, `scripts/`, `design-library/`, obnovljeni register in sloje v `data/`, ohranjene arhive in gradivo v `outputs/`, ta README ter `.gitignore`. Velike primerjave so lokalno v `tmp/`; njihovo odstranjevanje iz `analysis/` je namenjena sprememba. Stare poti `deploy/site/` in `analysis/site/` so premaknjene, ne izgubljene.
+
+`.gitignore` izključuje `tmp/`, lokalne nastavitve, skrivnosti, predpomnilnike, nepakirane celotne zajeme `data/<četrt>_*` ter generirana `candidates.json` in `record_hashes.json`. `outputs/` ni več splošno izključen, da je mogoče ohranjene izvorne arhive vključiti v commit. Pri prihodnjih zajemih v Git oziroma predajo vključi njihov preverjeni arhiv iz `outputs/`; sam nastanek lokalne mape `data/<četrt>_*` je še ne shrani v zgodovino.
+
+Commit in objava na Railway sta ločeni dejanji. Ta priprava ni naredila commita, potiska ali objave aplikacije.

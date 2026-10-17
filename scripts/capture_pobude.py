@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Read-only, resumable capture of public Ljubljana initiatives by district dropdown."""
+"""Read-only, resumable capture of public Ljubljana initiatives by district dropdown.
+Creates a new capture from the live portal without requiring an existing dataset.
+--export-only instead rebuilds JSON/JSONL/SQLite/GeoJSON from saved raw responses.
+Run verify_source_lists.py and package_capture.py after a new capture; see README.md.
+"""
 import argparse
 import datetime as dt
 import hashlib

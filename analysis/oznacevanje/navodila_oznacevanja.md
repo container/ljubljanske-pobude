@@ -1,5 +1,7 @@
 # Navodila za označevanje pobud ČS Vič
 
+> Opomba ob predaji 17. 10. 2026: spodnja zgodovinska navedba, da so vse točke znotraj meje Viča, ne velja za pozneje popravljeni sloj meja. Aktualni geometrijski pregled je v `cetrt_po_tocki.json`, izvor meja pa v `../../data/meje/README.md`. Lokacijo problema presojaj po besedilu; filter portala, geografska točka in vsebinska pripadnost so ločeni podatki. Ohranjenih preteklih oznak ta opomba ne spreminja.
+
 Cilj analize: najti **dolgo odprte, resne težave, ki zadevajo prebivalce ČS Vič**, posebej varnost, in znake **sistemskega zanemarjanja**. Status »odgovorjena« na portalu ne pove nič o rešitvi.
 
 Vsako pobudo označi samo po besedilu pobude in odgovora. Ne ugibaj; kadar nisi prepričan, nastavi `gotovost: "nizka"` in razlog napiši v `opomba`.

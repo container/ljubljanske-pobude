@@ -4,6 +4,7 @@ import json, re
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 T = ROOT / 'analysis/teme'
+SITE = ROOT / 'app/source'
 data = json.loads((T / 'karta_podatki.json').read_text())
 rec = {r['id']: r for r in json.loads((ROOT / 'data/vic_2026-09-29/pobude_vic.json').read_text())}
 clean = lambda s: re.sub(r'\n\s*\n+', '\n', s or '').strip()
@@ -53,7 +54,7 @@ for i, v in tx.items():
     v['priloge'] = [a['url'] for a in (r.get('attachment_links') or []) if a.get('url')]
     if i in labels: v['oznake'] = ozn(labels[i], i)
 esc = lambda o: json.dumps(o, ensure_ascii=False).replace('</', '<\\/')
-html = (T / 'karta_template.html').read_text().replace('/*DATA*/', esc(data)).replace('/*TEKSTI*/', esc(tx)).replace('/*LEAFLETCSS*/', (T / 'leaflet.css').read_text()).replace('/*STAT*/', esc(json.loads((T / 'statistika.json').read_text()))).replace('/*ABOUT*/', (T / 'o_strani.html').read_text())
+html = (T / 'karta_template.html').read_text().replace('/*DATA*/', esc(data)).replace('/*TEKSTI*/', esc(tx)).replace('/*LEAFLETCSS*/', (SITE / 'leaflet.css').read_text()).replace('/*STAT*/', esc(json.loads((T / 'statistika.json').read_text()))).replace('/*ABOUT*/', (T / 'o_strani.html').read_text())
 google_tag = '''<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-G2VT3SQV11"></script>
 <script>

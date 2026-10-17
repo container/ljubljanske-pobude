@@ -1,0 +1,1705 @@
+
+=== PDF PAGE 1 ===
+1
+
+
+=== PDF PAGE 2 ===
+2 3
+Kazalo
+1 Trajnostna mobilnost: celostno načrtovanje prometa za zadovoljno mesto 7
+2 Celostna prometna strategija: vloga CPS in proces izdelave 9
+3 Stanje prometa in glavni izzivi Ljubljane 11
+4 Vizija 17
+5 Razvoj prometa v Ljubljani do leta 2027 19
+6 Štirje stebri trajnostne mobilnosti 21
+ I. steber: Več ljudi pešači 23
+ II. steber: Več ljudi kolesari 27
+ III. steber: Več ljudi uporablja javni potniški promet 31
+ IV. steber: Optimiziran motorni promet 37
+7 Akcijski načrt 47
+ Viri 53
+Izdelovalci:
+ 
+LUZ, d.d.: Klemen Milovanovič, dr. Petra Vertelj Nared, Urška Kranjc, Uršula Longar, Tomaž Blaž, Karla Jankovič
+RRA LUR: dr. Aidan Cerar, Barbara Boh, Matej Gojčič, Gaja Trbižan, Katja Butina
+Pri pripravi so sodelovali:
+ 
+Koordinacijska skupina:
+prof. Janez Koželj, podžupan MOL
+Jelka Žekar, podžupanja MOL
+Dejan Crnek, podžupan MOL 
+David Polutnik, vodja Oddelka za gospodarske dejavnosti in promet
+mag. Miran Gajšek, vodja Oddelka za urejanje prostora
+Ivan Stanič,  vodja Odseka za upravne naloge in splošne zadeve OUP
+Vojko Grünfeld, vodja Službe za lokalno samoupravo
+Nataša Jazbinšek Seršen, vodja Oddelka za varstvo okolja
+Meta Gabron, vodja Službe za razvojne projekte in investicije
+Marija Fabčič, vodja Oddelka za predšolsko vzgojo in izobraževanje
+Tilka Klančar, vodja Oddelka za zdravje in socialno varstvo 
+Damijana Belak, Oddelek za urejanje prostora
+dr. Sabina Popit, Služba za razvojne projekte in investicije
+Matic Sopotnik, Oddelek za gospodarske dejavnosti in promet
+Tina Capek, Oddelek za gospodarske dejavnosti in promet
+Vita Kontić, Odsek za odnose z javnostmi
+Tadej Pfajfar, direktor LUZ
+mag. Lilijana Madjar, direktorica RRA LUR
+Prometno tehniški inštitut (PTI) Fakultete za gradbeništvo in geodezijo Univerze v Ljubljani
+doc. dr. Peter Lipar, PTI UL FGG
+mag. Simon Detellbach, PTI UL FGG
+asist. dr. Darja Šemrov, PTI UL FGG
+Klara Hostnik
+ 
+Vključeni v pripravo:
+Oddelek za gospodarske dejavnosti in promet, Oddelek za urejanje prostora, Služba za razvojne projekte in investicije, Oddelek za 
+varstvo okolja, Služba za lokalno samoupravo, Oddelek za zdravje in socialno varstvo, Oddelek za predšolsko vzgojo in izobraževanje, 
+Odsek za odnose z javnostmi, Mestno redarstvo, Javno podjetje Ljubljanska parkirišča in tržnice d.o.o., Ljubljanski potniški promet d.o.o., 
+Turizem Ljubljana, Ljubljanska kolesarska mreža, Slovenske železnice, Ministrstvo za infrastrukturo – Služba za trajnostno mobilnost in 
+prometno politiko, Direkcija Republike Slovenije za infrastrukturo, Ministrstvo za okolje in prostor – Direktorat za prostor, graditev in 
+stanovanja, DRI - Družba za razvoj infrastrukture, d.o.o., Kombinat – ProstoRož, FOCUS.
+Četrtna skupnost (ČS) Bežigrad, ČS Center, ČS Črnuče, ČS Dravlje, ČS Golovec, ČS Jarše, ČS Moste, ČS Polje, ČS Posavje,  
+ČS Rožnik, ČS Rudnik, ČS Sostro, ČS Šentvid, ČS Šiška, ČS Šmarna gora, ČS Trnovo, ČS Vič.
+
+=== PDF PAGE 3 ===
+4 5
+ 
+Sam sem pešec. Hoja je najbolj osnovna oblika premikanja 
+in zame tudi najbolj prijetna, posebej v našem živahnem 
+območju za pešce in urejenih zelenih površinah. Ne čudi me, 
+da je delež poti, opravljenih peš, v desetih letih zelo narasel, 
+z 19 % na skoraj 35 %. Povečujemo tudi delež kolesarjev 
+in uporabnikov javnega prevoza, zmanjšujemo pa poti z 
+avtomobilom. Vsak naj izbere obliko mobilnosti, ki mu najbolj 
+ustreza, če pa se že odloči za prevoz z avtomobilom, naj raje 
+uporablja električna vozila iz sistema souporabe vozil, t. i. 
+car-sharing, kot da se sam vozi v svojem avtomobilu. Skozi 
+raziskave smo z veseljem spoznali, da smo dosegli premik 
+»v glavah« in se ne vrti več vse okoli avtomobilov. Te pa smo, 
+z izgradnjo podzemnih garaž, umaknili pod zemljo in tako 
+pridobili več javnega prostora za različna kulturna, športna, 
+družabna srečanja. Ljudje so odkrili, da mesto ponuja veliko 
+dobrih alternativ in so jih začeli bolj množično uporabljati, 
+kar je izjemen napredek. Posebej pa sem vesel letošnje 
+lestvice Copenhagenize indeks, ki meri prijaznost mest do 
+kolesarjev in na kateri smo zasedli visoko 8. mesto. Pred 
+dvema letoma smo se namreč prvič uvrstili na omenjeno 
+lestvico in že takrat zasedli 13. mesto.
+ 
+Sodelovanje, spoštovanje, strpnost – to so trije ključni pojmi 
+za uspešno sobivanje, tudi v prometu. Ta nova Strategija 
+predstavlja četrti podporni steber. Tako smo dobili dobre 
+temelje za izvedbo številnih trajnostnih ukrepov za 
+izboljšanje mobilnosti, z mislijo na okolje in družbo, sedanje 
+in prihodnje generacije. Ljubljana gre po zeleni poti naprej!
+ 
+ 
+Zoran Janković
+župan
+Drage Ljubljančanke, dragi Ljubljančani, spoštovane 
+obiskovalke in obiskovalci najlepšega mesta na svetu! 
+ 
+Želim si, da bi se vsakdo v Ljubljani dobro počutil, da bi 
+vsak meščan čutil visoko kakovost življenja v mestu in vsak 
+obiskovalec prikimal, da je Ljubljana res zelena, čista, varna 
+in prijazna. Raziskave javnega mnenja so pokazale, da so 
+meščani zadovoljni z razvojem mesta in vesel sem, da se je s 
+pojmom »zelena Ljubljana« poistovetilo veliko občanov, kar 
+je rezultat največjega priznanja, ki ga naše mesto ima –  to je 
+naslov Zelena prestolnica Evrope 2016. 
+ 
+Vedno je prostor za izboljšave in v Mestni občini Ljubljana 
+se zavezujemo, da bomo mesto še naprej oblikovali po 
+meri človeka. Zato tudi s številnimi dogodki, dejavnostmi 
+in ukrepi spodbujamo ljudi, da nam sporočijo, kako lahko 
+njihovo življenje še izboljšamo. Tako smo v postopku priprave 
+Celostne prometne strategije MOL posebno pozornost 
+namenili prav občanom in različnim deležnikom, kajti 
+verjamemo, da lahko skupaj z njimi poiščemo boljše rešitve. 
+Prepričan sem, da smo jih našli in jih vključili v ta pomemben 
+strateški dokument za načrtovanje prometa s poudarkom 
+na ukrepih za spodbujanje trajnostne mobilnosti. 
+ 
+V zadnjem desetletju smo naredili največji korak naprej 
+predvsem na tem področju in številne cilje že presegli, kar je 
+»okronala« tudi nagrada evropski teden mobilnosti, ki jo je 
+Ljubljana kot edino mesto prejela kar dvakrat. S strategijo, ki 
+smo jo v zadnjih šestih mesecih pripravljali skupaj z deležniki 
+in širšo javnostjo, posodabljamo leta 2012 sprejeto Prometno 
+politiko MOL, ki temelji na Viziji Ljubljane 2025, oblikovani že 
+leta 2007 . To pomeni, da že vrsto let sledimo poslanstvu biti 
+zeleno mesto z visoko kakovostjo življenja in najboljši servis 
+za meščane ter ga nadgrajujemo. Tisti, ki so sodelovali pri 
+oblikovanju CPS, so to vizijo tudi znova potrdili in ugotovili 
+smo, da je naklonjenost konceptu trajnostnega urejanja 
+prometa velika. 
+
+
+=== PDF PAGE 4 ===
+6 7
+Razvoj prometa je tesno povezan z vsemi stebri 
+trajnostnega razvoja mesta: z družbenim, okoljskim in 
+z gospodarskim. Razsežnosti vpliva prometa na različna 
+področja razvoja so danes prepoznane na veliko ravneh; 
+prepoznajo jih prebivalci in obiskovalci mest pa tudi 
+mestne oblasti in drugi odločevalci. V zadnjih okvirnih 
+dokumentih, ki jih pripravlja Evropska unija, so prav 
+prometni sistemi prepoznani kot tisti, ki so bistveni ne 
+le za boljšo dostopnost na lokalni ravni, ampak širše, za 
+blaginjo Evrope. Izkušnje kažejo, da je treba spremeniti 
+pretekle, ustaljene načine načrtovanja prometa, pri katerih 
+se je motorni promet navadno obravnaval prednostno. Da 
+bi dosegli cilje, ki si jih je postavila Evropska unija, da se 
+do leta 2030 za 30 % zmanjša količino toplogrednih plinov, 
+zaznanih leta 2008, je treba promet načrtovati celostno. 
+Trajnostna mobilnost je zato ključen pogoj za povezovanje 
+ljudi in dostopnost dobrin na način, ki bo dolgoročno lahko 
+ohranil okolje in dobre pogoje za bivanje. 
+Slovenija je tudi na državni ravni v letu 2015 sprejela 
+Strategijo razvoja prometa v RS, s katero je začrtala smer 
+razvoja po vzoru drugih evropskih držav. Leta 2016 je 
+sprejela Nacionalni program razvoja prometa v RS, ki 
+predlaga konkretne aktivnosti s področij cest, železnic, 
+letalstva, pomorstva in javnega potniškega prometa pa tudi 
+posebna vlaganja v razvoj trajnostne mobilnosti.
+Trajnostna mobilnost: celostno načrtovanje prometa  
+za zadovoljno mesto
+Mestna občina Ljubljana (MOL) se že dolgo na strateški 
+ravni ukvarja s celostnim načrtovanjem prometa. V 
+letu 2012 je sprejela Prometno politiko Mestne občine 
+Ljubljana (PP MOL), s katero je začrtala trajnostno smer, 
+v katero vodijo številni ukrepi in ureditve pa tudi želje o 
+spremembah potovalnih navad ljudi, o povečanju deleža 
+pešcev, kolesarjev in uporabnikov javnega potniškega 
+prometa. PP MOL je s svojo vsebino in predvidenimi 
+ukrepi ter strateškimi in z operativnimi cilji zastavila 
+razvoj prometa do leta 2015. Nekateri cilji v PP MOL so 
+zastavljeni bolj dolgoročno, do leta 2020, vendar je za 
+obdobje po 2015 PP MOL predvidela revizijo dokumenta ter 
+preveritev približevanja v PP MOL zastavljenim ciljem, po 
+potrebi pa ponovno opredelitev strateških in operativnih 
+ciljev ter ukrepov. Namen tega dokumenta – Celostne 
+promerne strategije Mestne občine Ljubljana (CPS MOL) – 
+je tako preveriti in nadgraditi cilje prometne politike ter 
+nadaljevati ukrepe za kakovostnejše, učinkovitejše in bolj 
+raznolike načine mobilnosti ter obenem ohraniti mesto 
+zeleno, čisto, dostopno in prijazno do vseh.
+1
+Trajnostna mobilnost: celostno načrtovanje prometa za zadovoljno mesto
+Foto: Katja Butina
+
+=== PDF PAGE 5 ===
+8 9
+Celostna prometna strategija: vloga CPS in proces izdelave2
+MOL je na osnovi Vizije Ljubljane 2025 iz leta 2007 ter s 
+ciljem nadgradnje in nadaljevanja uresničevanja ciljev, 
+zastavljenih že v PP MOL, sprejeti v letu 2012, pristopila k 
+izdelavi CPS, strateškega dokumenta, ki predstavlja podlago 
+za dolgoročno načrtovanje in urejanje trajnostnega prometa, 
+usklajenega z gospodarskim in družbenim razvojem ter z 
+ohranjanjem visoke kakovosti okolja. Ta dokument je pod 
+okriljem interdisciplinarne skupine v sodelovanju z vsemi 
+ključnimi deležniki ter s širšo javnostjo (s prebivalci in z 
+obiskovalci Ljubljane) primerljiv s strateškimi dokumenti 
+najnaprednejših in najbolj okoljsko ozaveščenih evropskih 
+mest. Ker je temeljni cilj oblikovati prometno ureditev 
+Ljubljane po meri človeka, je bila odločitev, da v izdelavo CPS 
+MOL vključimo meščanke in meščane pa tudi obiskovalce 
+Ljubljane, več kot pravilna. Njihovo aktivno sodelovanje je 
+bilo ključnega pomena, saj se kot pešci, kolesarji, potniki 
+mestnih avtobusov ali kot vozniki motornih vozil vsak dan 
+srečujejo z različnimi prometnimi izzivi, zato so njihove 
+izkušnje pri prepoznavanju prometnih problemov in iskanju 
+boljših rešitev neprecenljive. Poleg tega CPS daje izjemno 
+velik poudarek na mehke ukrepe, ki so lahko uspešni le, 
+če jih sooblikujejo in posvojijo tisti, katerim so namenjeni. 
+Informiranje javnosti ter njeno vključevanje v posvetovanje, 
+sodelovanje in v sooblikovanje je torej ključnega pomena 
+in eden glavnih korakov v procesu izdelave CPS. Obenem 
+z vključevanjem javnosti krepimo tudi povezanost in 
+ozaveščenost skupnosti, s čimer lahko bistveno povečamo 
+uspešnost, stroškovno učinkovitost, transparentnost in 
+sprejetost ukrepov.
+V želji okrepiti zavedanje, da lahko vsak občan prispeva k 
+temu, da se ukrepi prilagodijo njegovim potrebam, da je 
+vodstvo mesta odprto za predloge, ideje in mnenja ter da so 
+vsa prizadevanja usmerjena v skupnost in cilj, da izboljšamo 
+kakovost življenja v mestu, smo ključne deležnike in širšo 
+javnost na različne načine vključevali v vseh fazah priprave 
+CPS. Aktivnosti so bile namenjene seznanitvi s projektom 
+priprave CPS ter pridobivanju informacij za pripravo 
+analize stanja, zbiranju informacij za boljše razumevanje 
+delovanja na področju prometa in oblikovanju ključnih 
+ugotovitev, pridobivanju mnenj občank in občanov o 
+specifičnih prometnih ureditvah, njihovih težavah, pobudah, 
+naklonjenostih in željah, preverjanju vrednot in stališč 
+posameznikov glede prometa ter opredelitvi glede izvedenih 
+ukrepov, oblikovanju in preverjanju vizije, oblikovanju 
+scenarijev in prioritet ter v zadnjem koraku strateških in 
+operativnih ciljev ter ukrepov za njihovo uresničevanje.
+Tako je bilo v šestih mesecih izvedenih 12 različnih 
+dogodkov oziroma aktivnosti, v katerih je sodelovalo več 
+kot 1.600 meščank in meščanov: 3 delavnice s ključnimi 
+deležniki in četrtnimi skupnostmi, 4 javne razprave, izmed 
+katerih so bile prve tri spletne, četrta pa je poleg spleta 
+potekala še na petih območjih, ki so pokrivala vse četrtne 
+skupnosti. Izvedena je bila anketa, ki jo je v celoti izpolnilo 
+750 posameznikov, poleg tega so bili opravljeni številni 
+intervjuji, izpolnjeni vprašalniki, pripravljena pa sta bila tudi 
+razstava in promocijski dogodek, namenjena predstavitvi 
+rezultatov, ugotovitev in aktivnosti med procesom priprave 
+CPS. Rezultati so bili več kot uspešni, saj so posamezniki, 
+interesne skupnosti in ključni deležniki med pripravo CPS 
+podali kar okoli 1.700 predlogov za prometne izboljšave. Vse 
+aktivnosti so bile podkrepljene tudi s stalnim obveščanjem 
+javnosti prek različnih komunikacijskih načinov in medijskih 
+kanalov, ki se bo nadaljevalo tudi med izvajanjem strategije, 
+saj je izjemno pomembno, da ljudje tudi po končanem 
+vključevanju v proces izdelave CPS vidijo, da ima njihovo 
+sodelovanje dolgoročne vplive na urejanje prometa. 
+Celostna prometna strategija: vloga CPS in proces izdelave
+analiza 
+stanja
+vizija
+izbira  
+scenarijev  
+in ciljev
+ukrepi
+oblikovanje  
+končne CPS
+1115 oddanih mnenj po naslednjih področjih:
+hoja, kolesarjenje, JPP , mirujoči in motorni promet.
+Pregled možnosti, ki jih ponujajo različni scenariji trajnostnega razvoja prometa.
+Izbira ukrepov CPS.
+2016
+2017
+december             januar             februar         marec      april                  maj             junij                    julij
+Začetek priprave CPS
+1. Spletna razprava
+105 oddanih mnenj in 47 vsebinskih predlogov.
+2. Spletna razprava
+Sodelovali so: MOL, ZTL, LPP , MOP , Kombinat, Focus, DRI, LKM, RRA LUR, MzI, FGG-PTI.
+Delavnica
+3. Spletna razprava
+4. Spletna razprava
+5 Javnih razprav po sedežih nekdanjih UE MOL
+Aktivno sodelovanje širše javnosti.
+Objava rezultatov
+Spremljanje in poročanje
+Anketa  
+750 izpolnjenih anket.
+Delavnica z MU MOL – priprava akcijskega načrta
+Oblikovanje končnega dokumenta CPS
+Sprejem CPS
+Delavnica s četrtnimi skupnostmi
+
+=== PDF PAGE 6 ===
+10 11
+Stanje prometa in glavni izzivi Ljubljane3
+Ljubljana – glavno mesto 
+Ljubljana je politično in kulturno središče, prav tako pa je 
+tudi pomembno trgovsko, poslovno, kongresno, sejemsko, 
+prometno, znanstveno in izobraževalno središče Republike 
+Slovenije. Delovna mesta močno vplivajo na število 
+potovanj; s približno 180.000 delovnimi mesti je Ljubljana 
+tudi največje zaposlitveno središče v Sloveniji. Na povečanje 
+števila potovanj pa prav tako vplivajo izobraževalne 
+ustanove; Ljubljana je univerzitetno središče Slovenije 
+z 41.000 študenti, ki prihajajo iz različnih krajev in občin 
+Slovenije. Zaradi dnevnih migrantov iz regije na delo in v 
+šolo, ki so v glavnem odvisni od uporabe avtomobilov, se 
+Ljubljana že vrsto let srečuje s problemi, ki jih povzroča 
+osebni motorni promet (npr. zastoji, onesnaženost zraka).
+Število prebivalcev v MOL, z izjemo v letu 2011, stalno 
+narašča. Ta pojav lahko povezujemo z ugodnimi življenjskimi 
+pogoji, boljšimi priložnostmi za izobraževanje, zaposlitev in 
+uspešno kariero pa tudi zaradi državnopolitične in kulturno-
+umetniške vloge mesta. 
+Od leta 2010 do leta 2013 je število delovno aktivnih 
+prebivalcev v MOL padalo, po letu 2014 pa spet narašča. Leta 
+2016 je bilo delovno aktivnih približno toliko prebivalcev kot 
+leta 2010. Število delovno aktivnih prebivalcev v najmlajšem 
+starostnem razredu, od 15 do 24 let, se zmanjšuje, narašča 
+pa število v najstarejšem starostnem razredu, tj. nad 60 let.
+Promet v Ljubljani
+ 
+Kolo
+Kolesarjenje je tesno povezano z urejenostjo in razširjenostjo 
+kolesarske infrastrukture. Zlasti v najožjem središču mesta so 
+kolesarske površine zgledno urejene in do kolesarjev prijazne, 
+kar se odraža v rasti deleža potovanj, opravljenih s kolesom, v 
+tem delu mesta. Še vedno pa obstaja veliko predelov znotraj 
+MOL zunaj strogega središča, ki so potrebni preureditve ali 
+gradnje novih kolesarskih površin. Urejenost kolesarske 
+infrastrukture bo pripomogla tudi k hitremu in varnemu 
+premagovanju daljših relacij s kolesom ter posledično k 
+porastu števila kolesarjev. Število kolesarjev v zadnjih letih 
+močno narašča, kolesarska infrastruktura pa le težko sledi 
+povečanim potrebam po kolesarskih površinah. Glede na 
+količino kolesarjev je kolesarskih površin tako premalo.
+Maja 2011 je bil uveden sistem brezplačne (do 1 ure) izposoje 
+koles Bicikelj. Pri prvotni vzpostavitvi je bilo 30 postaj in 
+300 koles, danes (maj 2017) pa je uporabnikom na voljo 51 
+postaj in 510 koles. Sistem Bicikelj je med uporabniki dobro 
+sprejet, saj ti letno opravijo več kot 660.000 izposoj koles 
+(izjema je bilo leto 2013), skupaj pa je bilo opravljenih prek 
+štiri milijone izposoj.
+Avtomobil
+Značilnost mestnih vpadnic (npr. Barjanska cesta, Zaloška 
+cesta, Tržaška cesta, Celovška cesta, Dunajska cesta, 
+Šmartinska cesta, Štajerska cesta, Dolenjska cesta …) je, 
+da se z obrobja mesta zvezdasto približujejo središču 
+mesta. Po njih in obvoznici se vsakodnevno prepelje 
+največji delež vozil, zato v konicah prihaja do vsakodnevnih 
+zastojev. Promet na vpadnicah sicer v zadnjih letih rahlo 
+upada, vendar je zasičenost z motornim prometom še 
+Stanje prometa in glavni izzivi Ljubljane
+300 000
+250 000
+200 000
+150 000
+100 000
+50 000
+0
+Število prebivalcev MOL od 2008–2016
+280 080 279 898 280 278
+115 105111 627109 141107 903
+2010            2011      2012                 2013             2014        2015                   2016
+110 414112 279115 449
+282 741 286 307 287 374 288 179
+Število delovno aktivnih prebivalcev MOL od 2010–2016
+Število izposoj koles v sistemu Bicikelj800 000
+700 000
+600 000
+500 000
+400 000
+300 000
+200 000
+100 000
+0
+2012            2013      2014                 2015             2016      
+666 958725 125746 988638 297679 031
+4000
+3000
+2000
+1000
+0
+Drenikova  
+cesta
+Celovška 
+cesta
+Dunajska 
+cesta
+Kajuhova 
+cesta
+1200 2700 4000 1200
+(Vir: SURS, 2017)
+Število kolesarjev na povprečni dan v letu 2015
+(Vir: Q-free Traffic design - Kolesarski števci)
+(Vir: Europlakat)
+
+=== PDF PAGE 7 ===
+12 13
+vedno visoka, avtomobil pa predvsem za dnevne migrante 
+predstavlja glavni način prevoza. Ti predstavljajo veliko 
+obremenitev z motornimi vozili na celotnem območju 
+Ljubljane, saj se jih dnevno v Ljubljano na delo pripelje 
+116.000 (SURS, 2017), od tega približno polovica iz območja 
+Ljubljanske urbane regije, večina sama v osebnem vozilu.
+Javni potniški promet – mestni avtobusi
+Največ potovanj z JPP se opravi vzdolž glavnih mestnih 
+vpadnic, kar je pričakovano, saj vpadnice tvorijo ogrodje 
+glavnih transportnih in komunikacijskih kanalov. Glavna 
+značilnost linij Ljubljanskega potniškega prometa (LPP)  je, 
+da potekajo v radialni smeri od obrobja mesta proti središču 
+in nasprotno. Ker središče mesta zaradi dejstva, da velik 
+odstotek linij poteka skozenj, predstavlja glavno stičišče 
+prometnih tokov, je razumljivo, da je glavne prometne 
+tokove mogoče opaziti ravno v teh smereh. Obratovanje linij 
+LPP v koničnih urah ovirajo velike prometne obremenitve, 
+zaradi katerih so povprečne potovalne hitrosti avtobusov 
+zelo nizke (med 15 km/h in 20 km/h). Število potovanj z 
+mestnimi avtobusi pada; v letu 2015 je bilo z LPP opravljenih 
+38 milijonov potovanj, medtem ko je število uporabnikov 
+LPP v preteklih letih naraslo za približno 10 odstotkov. Takšno 
+razmerje trendov uporabe LPP kaže, da se potovalne navade 
+prebivalcev spreminjajo skladno z zastavljenimi cilji MOL, 
+upadanje števila potovanj pa gre pripisati tudi boljši ponudbi 
+in večjemu koriščenju drugih trajnostnih načinov potovanj 
+(pešačenje, kolesarjenje, širjenje ponudbe Biciklja itn.).
+Železnica
+Na območju MOL se nahaja več železniških prog in postaj, 
+glavna železniška postaja Ljubljana pa je stičišče (začetna 
+in končna postaja) večine vlakov. Pot naprej nadaljujejo le 
+nekateri mednarodni potniški vlaki.
+Na podlagi opravljene analize voznih redov vlakov na 
+območju MOL se da razbrati, da so odhodi in prihodi vlakov 
+v vseh smereh pogostejši med konicami. Vozni redi niso 
+usklajeni, da bi omogočali potnikom udobno prestopanje 
+na druge linije. Prevoz koles omogočajo le nekateri vlaki, in 
+še to v omejenem številu.
+Za območje Ljubljane oziroma vožnjo z vlakom med 
+postajami znotraj ljubljanskega cestnega obroča (Ljubljana, 
+Ljubljana Zalog, Ljubljana Polje, Ljubljana Rakovnik, 
+Ljubljana Vodmat, Brezovica, Ljubljana Tivoli, Medno, 
+Ljubljana Vižmarje, Ljubljana Stegne, Litostroj, Ljubljana 
+Črnuče, Ljubljana Ježica in Ljubljana Brinje) obstajata 
+»mestna« mesečna in dnevna vozovnica.
+Študentom in dijakom je na voljo subvencionirana enotna 
+vozovnica, ki omogoča kombiniranje medkrajevnega 
+linijskega prevoza, mestnega prometa v Ljubljani in 
+železniški prevoz.
+Največje težave železnice na območju MOL so: neprivlačna 
+postajališča z neustreznimi dostopi, neurejena in 
+nefunkcionalna glavna železniška postaja, neusklajenost 
+voznih redov železnice in LPP , oteženo prestopanje na LPP , 
+slaba dostopnost do ciljev zunaj četrtne skupnosti Center, 
+slabe navezave na sistem Bicikelj, pomanjkanje postaj na 
+parkiriščih P+R.
+Odprava naštetih problemov bi lahko povzročila ponovno 
+povečanje uporabnikov železnice. Obstoječe proge in 
+postajališča znotraj MOL imajo potencial, da v prihodnje 
+prevzamejo vlogo mestne železnice.
+Stanje prometa in glavni izzivi Ljubljane
+44 000 000
+42 000 000
+40 000 000
+38 000 000
+36 000 000
+34 000 000
+580 000
+560 000
+540 000
+520 000
+500 000
+480 000 
+460 000
+2011            2012      2013                 2014             2015           2016      
+505 925
+536 785
+553 005 556 901
+546 045
+548 418
+2010                    2011                    2012                    2013                    2014                    2015                    2016      
+42 814 184
+41 614 656
+39 437 496
+40 631 336
+39 838 115
+37 928 067 37 790 716
+Število uporabnikov LPP od 2011 do 2016  
+Število potovanj z LPP od 2010 do 2016  
+(Vir: Ljubljanski potniški promet d.o.o.)
+(Vir: Ljubljanski potniški promet d.o.o.)
+
+=== PDF PAGE 8 ===
+14 15
+Število dnevnih migrantov iz občin LUR Potovalne navade Ljubljančanov
+V letih 2003 in 2013 sta potekali raziskavi potovalnih navad 
+znotraj MOL, tako dobljeni podatki pa so bili osnova za 
+določitev pogostosti uporabe posameznih prometnih 
+sredstev. Izračun deležev uporabe posameznih prometnih 
+sredstev se lahko opravi na dva načina, in sicer glede na 
+kraj potovanja in glede na naslov stalnega prebivališča 
+potnika. Prvi način omogoča raziskavo potovalnih navad 
+v prostoru glede na vrsto prometnega sredstva, drugi 
+način pa omogoča raziskavo uporabe prometnih sredstev 
+neodvisno od lokacije potovanja. V anketi leta 2003 je bil 
+uporabljen le drugi način. 
+Za vrednotenje dosežkov mesta in uspešnosti svežnjev 
+ukrepov je pomembna predvsem primerjava rezultatov, 
+ki kaže spreminjanje potovalnih navad. Takšna primerjava 
+deležev potovanj, pridobljenih v letih 2003 in 2013, kaže na 
+rahel upad deleža potovanj, opravljenih z JPP in avtomobilom, 
+ter rahel dvig deleža kolesarjev. Opazna je rast števila 
+potovanj, opravljenih peš, ki v treh letih znaša kar 16 %. 
+2013
+34,80%12,6%11,1%41,5%
+2003
+58% 9,9% 19%13,1%
+Delež potovanj prebivalcev MOL po prometnih sredstvih 
+v letih 2003 in 2013 
+Stanje prometa in glavni izzivi Ljubljane
+(Vir: Potovalne navade prebivalcev v Mestni občini Ljubljana in 
+Ljubljanski urbani regiji, 2014)
+Vrhnika
+Vodice
+Velike Lašče
+Trzin
+Šmartno pri Litiji
+Škofljica
+Moravče
+Mengeš
+Medvode
+Lukovica
+Logatec
+Log - Dargomer
+Litija
+Komenda
+Kamnik
+Ivančna Gorica
+Ig
+Horjul
+Grosuplje
+Domžale
+Dol pri Ljubljani
+Dobrova - Polhov Gradec
+Dobrepolje
+Brezovica
+Borovnica
+3327
+1130
+930
+817
+823
+2848
+883
+1452
+3217
+880
+2112
+889
+4364
+2977
+1000
+3148
+1784
+504
+4346
+6893
+1553
+1724
+702
+3014
+968
+0               1000           2000           3000           4000           5000           6000           7000                    
+(Vir: SURS, 2017)
+
+=== PDF PAGE 9 ===
+16 17
+Spodbujanje trajnostne mobilnosti pomembno vpliva na 
+dvig kakovosti življenja prebivalcev in obiskovalcev ter vodi 
+v še bolj zeleno skupno prihodnost, izboljšanje mobilnosti 
+ljudi, njihovo varnost in zdravje. Načrtovanje prometa mora 
+biti zato usmerjeno v sobivanje vseh udeležencev v pro -
+metu, prednost pa mora dati tistim oblikam mobilnosti, ki 
+so z vidika onesnaževanja zraka, povzročanja hrupa, porabe 
+energije in prostora najugodnejše. Ob tem je izjemnega 
+pomena tudi javno življenje na ulicah, ki v veliki meri 
+prispeva k izboljšanju kakovosti bivanja v mestu, zagotav-
+lja lokalno oskrbo in vpliva na socialno vključenost vseh, 
+pri čemer je poseben poudarek namenjen najranljivejšim 
+skupinam – otrokom, starejšim in osebam z različnimi 
+oviranostmi.
+Z izdelavo CPS MOL je Ljubljana primerljiva z najbolj nap-
+rednimi in okoljsko ozaveščenimi evropskimi mesti; temu 
+primerno je bila oblikovana tudi smela in ambiciozna vizija, 
+ki bo pripomogla k doseganju cilja, da bo do leta 2020 kar 
+2/3 poti v Ljubljani opravljenih na trajnostni način – peš, 
+s kolesom ali z javnim potniškim prometom, le 1/3 pa z 
+osebnimi avtomobili.
+Vizija razvoja prometa v Ljubljani, oblikovana  
+v postopku izdelave CPS
+»Uspešna mesta 21. stoletja so mesta, ki bodo nudila 
+meščankam in meščanom ter obiskovalkam in 
+obiskovalcem najvišjo kakovost bivalnega okolja. 
+Zato bo Mestna občina Ljubljana poskrbela za izbiro 
+med vsemi trajnostnimi oblikami mobilnosti, ki 
+ne bodo uporabljale fosilnih goriv in bodo čim bolj 
+smotrno uporabljale prostor. Pri tem bo poudarek na 
+visokokakovostnem, učinkovitem in dostopnem javnem 
+prevozu ter dobrih pogojih za hojo in kolesarjenje. 
+Poskrbela bo za ureditev zelenih in vsem dostopnih 
+javnih površin ter vključenost prebivalk in prebivalcev, 
+ki jih bo spodbujala k zdravemu načinu življenja. 
+S tem bo poskrbela za kakovostno bivalno okolje, 
+izboljšanje kakovosti zraka in širše možnosti za zdrav 
+življenjski slog. Trajnostni razvoj mesta bo privabljal 
+ljudi, ki si želijo živeti, delati ali svoj prosti čas preživljati 
+v zdravem, vsem dostopnem, zelenem, kreativnem, 
+gospodarsko uspešnem in do različnih generacij 
+prijaznem mestu. To je Ljubljana 21. stoletja.«
+4 Vizija
+Vizija
+Foto: Vita Kontić
+
+=== PDF PAGE 10 ===
+18 19
+V PP MOL (2012) je bil definiran cilj tretjinske uporabe 
+prevoznih sredstev. Določen je bil cilj, da se bo 
+tretjina poti opravila z avtomobilom, tretjina z javnim 
+potniškim prometom ter tretjina peš in s kolesom.  
+V preteklih letih je Ljubljana na vseh področjih storila 
+korak naprej k izpolnjevanju trajnostno zastavljenih 
+ciljev, vidni pa so tudi rezultati vloženega truda in 
+sredstev. Nekatere izmed zastavljenih ciljev je tako 
+Ljubljana že dosegla in celo presegla, pri nekaterih pa 
+izzivi ostajajo, zato je potreben ponoven razmislek o 
+zastavljenih ciljih.
+Raziskava o potovalnih navadah prebivalcev MOL, ki 
+jo je Ljubljana ponovno izvedla v letu 2013, odkriva, 
+da je že močno presegla cilj tretjinske porazdelitve 
+prevoznih sredstev pri seštevku kolesarjenja in 
+pešačenja (ta znaša nekaj manj kot 46 %). Pri 
+cilju zmanjšanja motornega prometa cilj ostaja 
+nedosežen, vendar je zastavljen povsem realno in ga 
+bo Ljubljana v naslednjih letih ob takšnem tempu 
+sprememb gotovo uspela doseči, saj se je delež poti, 
+opravljenih z avtomobilom, z 58 % leta 2003 v 10 letih 
+znižal na približno 41 %. Pri cilju tretjinske uporabe 
+javnega potniškega prometa pa Ljubljana zaostaja 
+za zastavljenim ciljem, kljub trudu in aktivnemu 
+pristopu k izboljšanju tega področja. Zato je potreben 
+razmislek in ponovno zastavljen racionalnejši cilj.
+5 Razvoj prometa v Ljubljani do leta 2027
+Glavni cilj 
+Glede na spremembe, ki jih je Ljubljana uvedla v 
+zadnjih letih, in glede na vpliv, ki so jih te spremembe 
+imele na potovalne navade Ljubljančanov, Ljubljana 
+nekoliko spreminja v PP MOL zastavljene cilje. Tako 
+ohranja cilj tretjinske uporabe avtomobila, medtem 
+ko bodo trajnostna prevozna sredstva zavzemala 
+dvotretjinski delež v izbiri načina potovanja.
+Določena je tudi podrobnejša razdelitev deležev 
+potovanj znotraj trajnostnega načina potovanj, in 
+sicer si Ljubljana do leta 2027 zastavlja cilj povečati 
+predvsem delež potovanj, opravljenih s kolesom in  
+z javnim potniškim prometom.
+Razvoj prometa v Ljubljani do leta 2027
+67%
+%33 35%
+16%16%
+33%
+Glavni cilj v izbiri načina potovanja
+Podrobnejša razdelitev potovanj na trajnostni način
+
+=== PDF PAGE 11 ===
+20 21
+Celostna prometna strategija nadgrajuje dozdajšnje 
+prizadevanje MOL za spodbujanje trajnostne mobilnosti. Gre 
+za kontinuirano delovanje za urejanje prostora, ki ima osnovo 
+v različnih že sprejetih dokumentih (npr. Občinski prostorski 
+načrt – strateški del (OPN MOL SD), PP MOL). Da je sodobno 
+urejanje prometa usmerjeno predvsem v mobilnost ljudi 
+in ne več na pretočnost vozil, je dodobra sprejeto dejstvo, ki 
+spreminja tudi pogled na načrtovanje prostora. Trajnostna 
+mobilnost pomeni izbiro takšnih sredstev premikanja, ki so 
+prostorsko, finančno in okoljsko učinkovitejša, poleg tega 
+pa tudi bolj zdrava in varna ter tako prispevajo tudi k višji 
+6 Štirje stebri trajnostne mobilnosti
+I. Steber: Več ljudi pešači 
+ 
+II. Steber: Več ljudi kolesari
+ 
+ 
+III. Steber: Več ljudi uporablja javni potniški promet
+ 
+IV . Steber: Optimiziran motorni promet  
+ 
+1. Večji delež in večje zadovoljstvo pešcev v prometu na ravni  
+ celotnega mesta 
+2. Boljša dostopnost do središča mesta za pešce 
+3. Večji delež šolarjev, ki v šolo pešačijo 
+4. Urejanje peš površin, tako da so dostopne in varne za vse uporabnike
+ 
+5. Večji delež kolesarjev v prometu in večji delež poti, opravljen  
+ s kolesom 
+6. Boljša dostopnost za kolesarje  
+7. Večji delež kolesarjev iz sosednjih občin LUR 
+8. Zagotavljanje podporne infrastrukture za kolesarje
+ 
+9. Sprememba potovalnih navad in večji delež potnikov z JPP 
+10. Na vpadnicah v prometnih konicah zagotovljen hitrejši potovalni čas  
+ avtobusov od osebnih vozil 
+11. Hitrejše in udobnejše potovanje do cilja 
+12. Razvoj mestne železnice na obstoječih železniških tirih* 
+13. Prenovljena Avtobusna in Železniška postaja Ljubljana* 
+14. Lažje kombiniranje različnih vrst prometa 
+15. Sodoben in do okolja prijazen vozni park LPP
+ 
+16. Manj voženj z avtomobilom  
+17. Manj dnevnih migrantov, ki se v mesto vozijo na delo z avtomobilom 
+18. Učinkovita parkirna politika 
+19. Preureditev cest in križišč za večjo varnost kolesarjev in pešcev ter 
+ hitrejšo pretočnost JPP in prometa z osebnimi avtomobili 
+20. Manjša onesnaženost  
+21. Zelena mestna logistika
+Strateški ciljiStebri trajnostne mobilnosti
+kakovosti bivanja. Pešci, kolesarji in javne oblike potniškega 
+prometa, pri katerih se zagotavlja mobilnost večjega števila 
+ljudi na trajnosten način, so zato v središču razmisleka o 
+urejanju prometa in mestnega prostora.
+MOL si kontinuirano prizadeva za spodbujanje hoje, 
+kolesarjenja in uporabe javnega prevoza ob hkratnem 
+zmanjšanju števila opravljenih poti z avtomobilom. CPS je 
+v tem smislu nadaljevanje teh prizadevanj, v ospredju pa 
+ohranja mobilnost ljudi in ne vozil. Na tej podlagi so oblikovani 
+štirje poglavitni stebri trajnostne mobilnosti, ki jim sledi  
+21 strateških ciljev:
+Opomba: * ob navedbi projekta pomeni, da izvedba ni v pristojnosti Mestne občine Ljubljana
+21Štirje stebri trajnostne mobilnosti
+20 Foto: Alenka Rebec
+
+=== PDF PAGE 12 ===
+22 23
+I. STEBER: Več ljudi pešači
+Operativna cilja: 
+Širitev območij za pešce ali skupnega prometnega prostora za 10 %.
+Zmanjšanje števila hudih prometnih nesreč.
+Zmanjšanje števila hudih prometnih nesreč  
+2010    2015    2027
+4 mrtvi pešci in kolesarji  7 mrtvih pešcev in kolesarjev  0 mrtvih pešcev in kolesarjev 
+(znotraj obvoznice)   (znotraj obvoznice)   (znotraj obvoznice)
+Hoja je temelj človekovega gibanja; je ena najbolj naravnih oblik premikanja, v trajnostni mobilnosti pa zaseda prav 
+posebno mesto zaradi različnih pozitivnih učinkov, ki jih prinaša posamezniku in družbi pa tudi okolju. Hoja je za 
+posameznika posebej pomembna vsakodnevna aktivnost, ki prispeva k fizični aktivnosti in s tem krepi zdravje.  
+Pešci v mestu ustvarjajo živahno urbano življenje in s tem spodbujajo mestni način življenja, s čimer se krepi družabno 
+življenje in povečujejo socialni stiki. 
+Za povečanje pešačenja je bistveno, da se ureditve prilagajajo potrebam pešcev. Pri urejanju prostora se Ljubljana drži 
+načela načrtovanja po meri pešca. Varna in udobna infrastruktura za pešce je temelj zagotavljanja varnosti vsem, tudi 
+ranljivejšim udeležencem v prometu. Varne, udobne in prijetne pešpoti ter prečkanja cest, zmanjšanje količine prometa 
+v središču, vzpostavitev območij za pešce … je le nekaj ukrepov, ki jim Ljubljana v zadnjem obdobju namenja posebno 
+pozornost v želji, da bi vsem meščanom zagotovila dobre možnosti za hojo. 
+Dosežki 
+ 
+Več pešcev
+Delež pešačenja se je v Ljubljani v zadnjih letih precej povečal. Medtem ko je v letu 2003 pešačilo manj kot 20 % vprašanih, 
+je v letu 2013 delež narasel kar na 35 % vprašanih v anketi (Potovalne navade prebivalcev v Mestni občini Ljubljana in 
+Ljubljanski urbani regiji, 2014). K znatnemu povečanju števila pešcev so gotovo pripomogle izvedene ureditve. Vzpostavitev 
+in širjenje cone za pešce v središču mesta, ki zajema že 10 ha, skupaj z ureditvami nabrežij, mostov, prehodov in odhodov 
+je ena pomembnejših pridobitev kakovostno urejenega mestnega odprtega prostora. 
+ 
+Varne poti v šolo
+Pomemben ukrep za vzpostavljanje dobrih pogojev za pešačenje so varne poti v šolo. Načrti varnih šolskih poti (Portal 
+vzgoje in izobraževanja, 2017) zagotavljajo večjo varnost učencev v šolskih okoliših. Zagotovitev večje varnosti učencev na 
+poti v šolo in domov ima pozitivne učinke tudi za druge udeležence v prometu. 
+ 
+•
+•
+23Štirje stebri trajnostne mobilnosti
+22 Foto: Volker Hoffmann
+
+=== PDF PAGE 13 ===
+24 25
+Preureditev Slovenske ceste podpira 88 % vprašanih v 
+anketi, opravljeni v sklopu priprave te CPS.
+25Štirje stebri trajnostne mobilnosti
+Vlaganja v infrastrukturo
+Ljubljana z urejanjem novih in s preureditvami obstoječih pločnikov postopoma vzpostavlja mrežo varnih in udobnih 
+pešpoti v mestu in okolici. Veliko pozornost namenja tudi urejanju pešpoti za osebe z oviranostmi. 
+POT
+Za Ljubljančane je posebnega pomena tudi vsakoletna prireditev Pohod – Pot ob žici po 32-kilometrski poti okrog Ljubljane, 
+ki poleg rekreacijske in kulturno-simbolne vrednosti nosi pomembno promocijsko sporočilo o pomembnosti hoje. 
+Izzivi  
+Širitev cone za pešce
+Velika večina vprašanih v anketi, izvedeni v sklopu priprave te CPS, podpira uvedbo območja za pešce v mestnem 
+jedru. Velika podpora obstoječemu območju za pešce pa tudi precejšnja podpora za širitev območij za pešce znotraj 
+stanovanjskih sosesk in četrtnih središč (več kot 70 % vprašanih v anketi) dajeta zagon za razmislek o širitvi območij za 
+pešce tudi zunaj središča mesta. 
+ 
+Varnost
+Izboljšanje varnosti za pešce v celotni občini, predvsem v soseskah, v okolici šol in javnih ustanov, ostaja izziv, povezan tudi 
+z drugimi cilji urejanja prometa. Za varnost je poleg urejanja ustrezne infrastrukture (npr. načrtovanje peščevih površin, 
+prečkanja cest, varnih šolskih poti itn.) ključnega pomena tudi zmanjševanje števila motornega prometa in spremembe 
+navad, ki prednost dajejo pešcu, kolesarju in JPP pred osebnimi motornimi vozili. 
+ 
+Okviri državne zakonodaje
+Urejanje prometa v mestih je dinamičen proces, Ljubljana pa v marsikaterem pogledu narekuje smernice razvoja 
+mestnega prometa v Sloveniji. Pri tem nemalokrat sledi primerom dobrih praks iz primerljivih mest v tujini ali pa za svoje 
+potrebe išče najboljše in inovativne rešitve drugje. Posledično ureditve prometa v Ljubljani marsikdaj niso definirane v 
+zakonodaji na državni ravni, njihova implementacija pa je precej težja in dolgotrajnejša. 
+Uvedbo območja za pešce v mestnem jedru podpira 94 % 
+vprašanih v anketi, opravljeni v sklopu priprave te CPS.
+24
+Strateški cilji  
+1. Večji delež in večje zadovoljstvo pešcev v prometu na ravni celotnega mesta
+Širitev območja za pešce v središču mesta, preureditev ulic po načelu skupnega prometnega prostora ter ureditev območij 
+za pešce v posameznih četrtnih skupnostih bo v veliki meri prispevala k še večjemu številu pešcev v Ljubljani. Z vzpostavitvijo 
+območij četrtnih skupnosti po meri pešcev se bodo krepila lokalna središča in prispevala k večji živosti celotne občine. 
+MOL bo z gradnjo in rekonstrukcijami po najnovejših smernicah načrtovanja mestnih prometnic poskrbela za varno 
+in udobno pešačenje. Hkrati bo spodbujala sobivanje vseh udeležencev v prometu, predvsem z urejanjem skupnega 
+prometnega prostora in urejanjem prijetnega javnega prostora v soseskah. Varnost in udobnost pešačenja bo zagotavljala 
+z zmanjševanjem in umirjanjem motornega prometa, vzpostavitvijo in s širitvijo con 30 km/h, z gradbenimi ukrepi za 
+izboljšanje varnosti pešcev, s spremenjenimi prometnimi režimi (npr. sistem enosmernih ulic itn.).
+ 
+2. Boljša dostopnost do središča mesta za pešce
+Vpadnice v MOL predstavljajo najbolj neposreden, najhitrejši in večinoma tudi najudobnejši dostop do središča mesta. 
+Dnevno se na vpadnicah gnete veliko motornih vozil, hkrati pa so pešci velikokrat zapostavljeni zato ureditve, ki so jim 
+namenjene, marsikdaj ne spodbujajo prebivalcev k izkoriščanju pešačenja kot ekonomičnega, preprostega in zdravega 
+načina dostopa do mesta. MOL bo zato poskrbela za izboljšanje pogojev pešačenja in boljšo varnost ob vpadnicah pa tudi 
+drugih glavnih mestnih cestah, ki skupaj tvorijo smiselno mrežo glavnih peš povezav.
+ 
+3. Večji delež šolarjev, ki v šolo pešačijo
+Otroci so med najranljivejšimi udeleženci v prometu. Ker niso vozniki motornih vozil, so njihove poti v največji meri 
+povezane z uporabo trajnostnih prevoznih sredstev (javni prevoz, kolesarjenje in pešačenje). Zato jim je treba omogočiti 
+varno, udobno in hitro gibanje z uporabo trajnostnih prometnih sredstev. Urejanje varnih, udobnih in prijetnih poti je zanje 
+ključnega pomena. Še posebej ob dejstvu, da izkušnje in navade, pridobljene v otroštvu, vplivajo na delovanje v odrasli dobi, 
+je spodbujanje trajnostne mobilnosti posebej pomembno, tudi s pomočjo promocijskih in izobraževalnih aktivnosti.
+ 
+4. Urejanje peš površin, tako da so dostopne in varne za vse uporabnike 
+Dostopnost za vse (t. i. univerzalna dostopnost) je eno pomembnejših vodil v sodobnem načrtovanju prostora. Je 
+način urejanja prostora, ki upošteva vse uporabnike, posebna pozornost pa je namenjena najranljivejšim skupinam 
+uporabnikov (starejši, gibalno ali senzorno ovirani, otroci ali ljudje s pripomočki oziroma z vozički). Univerzalno 
+načrtovanje upošteva različne potrebe, prostor pa ureja brez grajenih ovir in vzpostavlja prostor, ki je dostopen vsem 
+ter je hkrati varen in prijeten.
+
+=== PDF PAGE 14 ===
+26 27
+•
+II. STEBER: Več ljudi kolesari
+Operativni cilj: 
+Povečanje števila kolesarjev na kolesarskih števcih za vsaj 10 %.
+Povečanje števila kolesarjev (PLDP – povprečno število kolesarjev na dan) 
+Leto  2015   2020  2027
+Drenikova 1.200  1.300  1.500
+Celovška  2.700  2.900  3.200
+Dunajska  4.000  4.300  4.700
+Kolesarjenje je dobra alternativa drugim prevoznim sredstvom za premikanje v mestu. Kot najučinkovitejše sredstvo 
+se izkaže predvsem na krajših razdaljah (do 5 km) in dovolj učinkovito na srednje dolgih razdaljah (do 10 km) ter v 
+gosteje poseljenih območjih. Zaradi nizkih stroškov vzdrževanja, hitrosti potovanja, pozitivnega vpliva na zmanjšanje 
+onesnaženosti okolja in na zdravje ljudi pa tudi izkušenj, ki jih kolesarjenje prinaša uporabnikom, je kolesarjenje v 
+urbanih naseljih vedno bolj priljubljena oblika gibanja. Mesta z dobro razvejano mrežo kolesarskih poti so tudi mesta s 
+prepoznano najvišjo kakovostjo bivanja. 
+Ljubljana ima zaradi sorazmerno ravnega terena odlične pogoje za kolesarjenje in MOL si že več let prizadeva za 
+vzpostavitev razvejanje mreže kolesarskih poti. Vzpostavitev kolesa kot enakovrednega drugim prevoznim sredstvom si 
+glede na rezultate ankete, opravljene v sklopu priprave te CPS, želijo tudi občani in občanke MOL, saj se jih več kot 90 % 
+vprašanih strinja s trditvijo, da je na področju urejanja prometa treba izboljšati pogoje za kolesarjenje.
+Dosežki
+ 
+Bicikelj
+Eden najpomembnejših in dobro sprejetih ukrepov na področju kolesarjenja je uvedba sistema izposoje koles Bicikelj. 
+Ta ima po zadnjih podatkih 51 postaj in 510 koles (www.bicikelj.si), od odprtja v letu 2011 do zdaj pa je bilo v tem sistemu 
+opravljenih več kot štiri milijone voženj. 
+ 
+Porast števila kolesarjev na števnih mestih
+Kolesarska infrastruktura se je v zadnjih letih precej izboljšala predvsem v mestu in na nekaterih vpadnicah, temu 
+primerno se je povečalo tudi število vsakodnevnih kolesarjev, kar potrjujejo tudi podatki o številu kolesarjev, zaznanih 
+na avtomatskih števcih na ljubljanskih vpadnicah in glavnih povezovalnih cestah, ki kažejo na porast kolesarjev (na 
+Dunajski cesti je bilo na primer marca 2015 opravljenih okoli 100.000 voženj, medtem ko je bilo leta 2017 v istem obdobju 
+opravljenih več kot 130.000 voženj s kolesom). 
+27Štirje stebri trajnostne mobilnosti
+26 Foto: Volker Hoffmann
+
+=== PDF PAGE 15 ===
+28 29
+6. Boljša dostopnost za kolesarje 
+Prednost kolesarjev pred drugimi, predvsem motornimi prevoznimi sredstvi, je poleg urejanja udobnih, hitrih in varnih 
+kolesarskih površin ob vseh vpadnicah in glavnih povezovalnih cestah eno izmed zagotovil za vzpostavitev varnih poti v 
+mestu. Ureditev predfaze za kolesarje in pešce v semaforiziranih križiščih na prvo mesto postavlja nemotoriziran promet 
+in spodbuja trajnostno mobilnost. 
+ 
+7. Večji delež kolesarjev iz sosednjih občin LUR
+Potencial uporabe kolesa, predvsem v kombinaciji z javnim prevozom, v regiji še ni dovolj izkoriščen. Za doseganje večjega 
+deleža kolesarjev iz sosednjih občin LUR si bo MOL prizadevala za vzpostavitev varnih in udobnih daljinskih (medkrajevnih) 
+kolesarskih stez oz. poti, pri čemer bo sodelovala s sosednjimi občinami in z državo pri vzpostavljanju medobčinskih 
+kolesarskih povezav. Spodbujala bo izboljšanje možnosti prevoza koles na avtobusih in vlakih. 
+ 
+8. Zagotavljanje podporne infrastrukture za kolesarje
+Celovito urejanje kolesarske infrastrukture zajema tudi zagotavljanje varnega shranjevanja koles (stojala in kolesarnice). 
+Vedno večji poudarek se namenja urejanju infrastrukture za električna kolesa (polnilnice, kolesarnice). Električna kolesa so 
+posebej učinkovita na srednje dolgih in daljših razdaljah pa tudi za starejše in ljudi, ki teže kolesarijo.
+100%
+80%
+60%
+40%
+20%
+0%
+Deleži potovanj po prometnih sredstvih in dolžini med prebivalci MOL, 2013
+dolžina potovanj v km
+delež potovanj v %
+avto
+JPP
+kolo
+peš
+0-1       1-2       2-3       3-4      4-5       5-6      6-7       7-8      8-9      9-10    10-11     11-12
+29Štirje stebri trajnostne mobilnosti
+(Vir: Potovalne navade prebivalcev v MOL in LUR, 2014) 
+Uvedbo sistema Bicikelj podpira kar 97 % vprašanih  
+v anketi, opravljeni v sklopu priprave te CPS.
+Izzivi
+Zveznost kolesarskih povezav
+Kakovostna kolesarska infrastruktura se zagotavlja s petimi temeljnimi elementi: neprekinjenost, direktnost, privlačnost, 
+varnost in udobnost kolesarskega omrežja (OPN MOL SD). Ljubljana stremi k povečanju kolesarskega prometa in zmanjšanju 
+prometa osebnih vozil ter posledično k izboljšanju prometnih in bivalnih razmer, zato si bo še naprej prizadevala za 
+vzpostavitev kakovostnega kolesarskega omrežja poti. Kljub številnim izboljšavam ostaja kolesarska infrastruktura na 
+nekaterih delih še vedno pomanjkljiva (npr. nepovezane poti, pomanjkanje kolesarnic itn.) ali celo nevarna. Vedno večje 
+število kolesarjev daje spodbude za urejanje varnih, prijetnih, udobnih in neprekinjenih v mestu pa tudi širše.
+Regionalne kolesarske povezave
+Vzpostavitev povezanih kolesarskih poti v regionalnem prostoru ostaja izziv urejanja prostora ne samo MOL, ampak tudi 
+sosednjih občin. Vsaj del opravljenih dnevnih poti na delo in po vsakodnevnih opravkih v občini in iz sosednjih občin bi ob 
+ustreznih kolesarskih povezavah pa tudi v kombinaciji z javnim prevozom uporabniki lahko opravili s kolesom. 
+Kolesarjenje po vsakodnevnih opravkih
+Čeprav je uporaba kolesa za dnevne poti v Ljubljani že tradicionalno zelo priljubljena, se po zadnjih podatkih trenutno več 
+kot 60 % poti v Ljubljani tudi na kratkih razdaljah (do 5 km) opravi z osebnimi vozili (Potovalne navade prebivalcev v Mestni 
+občini Ljubljana in Ljubljanski urbani regiji, 2014). Z urejanjem kakovostne kolesarske infrastrukture in s spremembami navad 
+prebivalcev je mogoče doseči povečanje števila kolesarjev. Ciljne skupine za doseganje večjega števila kolesarjev so predvsem 
+zaposleni in mladi (dijaki in študentje). 
+Strateški cilji
+5. Večji delež kolesarjev v prometu in večji delež poti, opravljen s kolesom
+Prostorska zasnova, naravne značilnosti in velikost mesta omogočajo preprosto in časovno konkurenčno potovanje s 
+kolesom. Z namenom povečanja uporabe koles po vsakodnevnih poteh bo MOL še naprej urejala kolesarsko infrastrukturo 
+z vzpostavitvijo neprekinjene, udobne in varne mreže kolesarskih povezav. Odprava nevarnih točk v kolesarski mreži bo 
+ena izmed prioritet pa tudi širitev sistema in izboljšanje delovanja izposoje koles Bicikelj. Poleg tega bodo organizirane 
+promocijske aktivnosti, izboljšanje delovanja pa bo med drugim podpiral tudi mestni koordinator za kolesarjenje. 
+28
+Podatki o uporabi koles v Köbenhavnu na primer kažejo, da se kar 62 % ljudi na delo ali v šolo 
+pripelje s kolesom, medtem ko se jih z avtomobilom pripelje le 9 %, 21 % pa se jih pripelje z 
+javnim prevozom in 8 % jih pripešači (http://www.copenhagenize.com/).
+Stanje v Ljubljani se z leti izboljšuje, kar dokazuje tudi dejstvo, da se 
+je na svetovni lestvici kolesarjem prijaznih mest Copenhagenize Index 
+2017 s 13. mesta leta 2015 letos povzpela na 8. mesto.
+
+=== PDF PAGE 16 ===
+30 31
+III. STEBER: Več ljudi uporablja javni potniški promet
+Operativni cilj: 
+Povečanje števila potovanj z LPP do leta 2020 za 10 % in do leta 2027 za 30 %.
+Povečanje števila potovanj z LPP  
+2015  2020   2027
+38,000.000 42,000.000 50,000.000
+Kakovosten javni potniški promet predstavlja hrbtenico mobilnosti v velikih in srednje velikih mestih, kamor sodi tudi 
+Ljubljana, hkrati pa lahko zagotavlja optimalne pogoje dostopnosti tudi iz širše metropolitanske regije. Zagotavljanje 
+privlačnega, hitrega in udobnega javnega potniškega prometa je nujno pri zagotavljanju osrednje vloge mobilnosti 
+v mestu in širše. Kakovostna ponudba javnega potniškega prometa mora biti hitra, dostopna in ugodna; omogočati 
+mora možnost preprostega prestopanja med različnimi prevoznimi sredstvi (avtobus – vlak – kolo – avtomobil). Temelji 
+kakovostne ponudbe javnega potniškega prometa so: sodelovanje med avtobusnimi ter železniškimi prevozi, ponudba 
+novih, udobnih, kapacitetno zmogljivih ter do okolja prijaznih vozil pa tudi kakovostna informacijska podpora sistemu in 
+uporabnikom. Le tak sistem javnega potniškega prometa bo konkurenčen osebnemu vozilu in bo zmogel prevzeti vodilno 
+vlogo mobilnosti v Ljubljani ter širši urbani regiji.
+V zadnjem obdobju se Ljubljana srečuje z upadanjem števila potovanj na Ljubljanskem potniškem prometu, in sicer kljub 
+veliko ukrepom in trudu pristojnih za izboljšanje storitev prevoza. Velik potencial izboljšanja JPP predstavlja tudi železnica, 
+ki v zdajšnji vlogi prevzema le zelo majhen delež potnikov v JPP . 
+V prihodnjem desetletju želi Ljubljana zaustaviti in preobrniti trend upadanja števila potovanj na LPP . Delež opravljenih 
+potovanj z JPP želi Ljubljana povečati na 16 % vseh opravljenih poti v mestu. Za dosego tega cilja bo v prihodnjih letih 
+treba obstoječe število potovanj z JPP povečati za 30 %.
+Dosežki 
+Stalno obnavljanje voznega parka (bolj zelen vozni park)
+Ljubljanski potniški promet je pomembno izboljšal nekatere elemente ponudbe. Zadnja leta je obnovil vozni park. Velika 
+večina avtobusov je sorazmerno novih, vsi avtobusi so nizkopodni, klimatizirani, vse več pa jih kot pogon uporablja do 
+okolja prijazna goriva. Prav tako vse več avtobusov omogoča enostaven dostop za osebe z oviranostmi, hkrati pa LPP v ta 
+namen nudi tudi storitev prometne pisarne in prevoza na klic. Tudi v prihodnjih letih bo LPP nadaljeval prenovo voznega 
+parka z vidika udobja in z vidika varstva okolja.
+•
+31Štirje stebri trajnostne mobilnosti
+30 Foto: Volker Hoffmann
+
+=== PDF PAGE 17 ===
+32 33
+mesta. Možnosti razvoja JPP z vključevanjem železnice v mestni potniški promet in prevzemanje večje vloge v regijskem 
+potniškem prometu so velike in jih je treba v prihodnosti v čim večji meri izkoristiti.
+ 
+Hitrost avtobusa na glavnih vpadnicah
+Vzpostavitev rumenih pasov je pomembno vplivala na hitrost avtobusov na vpadnicah, hitrost potovanja pa se je na teh 
+delih dvignila za približno 25 %. Vendar pa je rumenih pasov premalo, njihove dolžine so prekratke, da bi pomembneje 
+vplivali na hitrosti avtobusov v celotni mreži. Tako je hitrost avtobusov še vedno prenizka, da bi bil ta konkurenčen drugim 
+načinom prevoza v mestu. Trend potovanj z avtobusom kot prevoznim sredstvom je zato še naprej v upadanju, hitrost 
+potovanja pa je eden ključnih razlogov za to.
+ 
+Intermodalnost
+Z gradnjo parkirišč parkiraj in se pelji (P+R) je Ljubljana naredila velik korak k vzpostavljanju temeljev intermodalnosti 
+(uporabe različnih prevoznih sredstev). Poleg tega jih v zadnjem času opremlja tudi s postajališči izposoje koles 
+(Bicikelj), kar dodatno pripomore k izkoriščanju vseh vrst prevoznih sredstev. Rezerve tako ostajajo pri povezanosti 
+železnice (postajališča, vozni redi) z LPP pa tudi Bicikljem oziroma z vključenostjo železnice v sistem javnih prevozov, ki 
+ga ponuja mesto. 
+Strateški cilji 
+9. Sprememba potovalnih navad in večji delež potnikov z javnim potniškim prometom
+Z izobraževanjem in s promocijo uporabe JPP ter z zagotavljanjem hitre in udobne ponudbe JPP si bo Ljubljana 
+prizadevala za spremembe potovalnih navad občanov in dnevnih migrantov, tako da bo naraščal delež potnikov z javnim 
+potniškim prometom. 
+ 
+10. Na vpadnicah v prometnih konicah zagotovljen hitrejši potovalni čas avtobusov od osebnih vozil
+Hitrejši potovalni čas avtobusov na vpadnicah bo Ljubljana zagotovila z nadaljnjim urejanjem rumenih pasov ob hkratnem 
+urejanju križišč, v katerih bo omogočena prednostna vožnja avtobusu. 
+ 
+11. Hitrejše in udobnejše potovanje do cilja
+Za udobje bo poleg hitrosti mesto poskrbelo s smiselno vzpostavljeno mrežo linij LPP , ki bodo vključevale tudi večje število 
+tangencialnih povezav, z nadgrajevanjem podaljšanih linij v sosednje občine ter z neposredno povezavo parkirišč P+R s 
+središčem mesta. Poleg tega bo za udobje potnikov poskrbljeno z dostopom do interneta in zagotavljanjem kakovostne 
+informacijske podpore ter z urejenimi postajališči JPP .
+33Štirje stebri trajnostne mobilnosti
+Več kot 80 % vprašanih v anketi se strinja, da je treba izboljšati 
+avtobusni javni potniški promet, kar okoli 90 % vprašanih pa se strinja, 
+da treba izboljšati železniški javni potniški promet.
+Uvedba rumenih pasov na nekaterih vpadnicah
+Na nekaterih vpadnicah (Barjanska, Celovška, Dunajska) so bili vzpostavljeni krajši odseki rumenih pasov za javni potniški 
+promet, v zadnjem času pa so bile uvedene tudi nekatere nove linije mestnega prometa. Čeprav je bil ukrep dober 
+in je zagotovil hitrejše potovanje ter bolj zanesljivo napoved prihodov avtobusov, obenem pa kratkoročno prinesel 
+celo obrnitev trenda upadanja števila potovanj, je bila dolžina rumenih pasov premajhna, križišča pa takšni ureditvi 
+neprilagojena, zato se hitrosti avtobusov niso dovolj povečale, da bi JPP lahko ostal konkurenčen.
+Prikazovalniki prihodov avtobusov na postajališčih
+Pomemben korak k udobju in privabljanju novih potnikov so tudi prikazovalniki prihodov na številnih postajališčih LPP . 
+Prikazovalniki pomembno pripomorejo k lažjemu načrtovanju poti in prilagajanju poti željam posameznika ter tako 
+pomembno vplivajo na povečanje uporabe JPP .
+Podaljševanje linij LPP v LUR
+S podaljševanjem linij mestnega prometa v sosednje občine LUR sta prevoznik in mesto storila velik korak k zmanjšanju 
+dnevnih migracij z avtomobilom na račun povečane uporabe JPP . Podaljšane linije v sosednje občine so med prebivalci 
+Ljubljane in okoliških občin dobro sprejete, avtobusi pa polni.
+Urbana
+Brezgotovinsko plačevanje s kartico Urbana omogoča prestopanje znotraj 90-minutnega intervala za ceno ene vožnje. 
+Hkrati omogoča tudi plačilo vrste drugih storitev, ki jih nudi mesto, npr. uporabo koles v sistemu Bicikelj, parkiranje, tudi 
+po sistemu P+R, vožnjo z vzpenjačo na Ljubljanski grad itd.). V pripravi je tudi državni projekt integrirane vozovnice, ki bi 
+vrednost in funkcionalnost Urbane še nadgradil ter pomembno vplival na izboljšanje deleža uporabe JPP . Na voljo je tudi 
+mobilna aplikacija Urbana.
+Izzivi
+ 
+Ustaviti trend upadanja uporabe LPP
+Uporaba avtobusa v Ljubljani v zadnjem obdobju upada. Razlogov za manjše število potnikov je več; med njimi ne gre 
+zanemariti boljše ponudbe in večjega koriščenja drugih trajnostnih načinov potovanj (pešačenje, kolesarjenje, širjenje 
+ponudbe Biciklja itn.) ter porasta drugih oblik javnega prevoza, kot so: Kavalir, električni vlakec, vzpenjača, deljenje vozil in 
+podobno. Kljub veliko ukrepom na področju LPP ta še vedno ni dovolj hiter in tako konkurenčen drugim načinom prevoza 
+v mestu pa tudi širše. 
+ 
+Vključevanje železnice v mestni promet
+Eden glavnih izzivov v mestu pa tudi širše v regiji in državi je vzpostavitev boljših pogojev za uporabo železniškega 
+potniškega prometa. Železnica je lahko ob primerni ureditvi in organizaciji konkurenčna osebnemu vozilu, posebej pri 
+poteh v središče mesta, kjer z avtomobilom čas izgubljamo ne samo v zastojih, ampak tudi z iskanjem prostega parkirnega 
+32
+
+=== PDF PAGE 18 ===
+34 35
+12. Razvoj mestne železnice na obstoječih železniških tirih
+Vloga mestne železnice je bila do zdaj zanemarjena, Slovenske železnice pa nepripravljene na nadgradnjo ponudbe 
+potniškega prometa. Ljubljana si bo v prihodnosti aktivno prizadevala za hitrejši razvoj ponudbe potniškega prometa 
+na železnici in prevzemanje vloge železnice v mestnem potniškem prometu. Glavni ukrepi, ki bi bili za takšno ureditev 
+potrebni, so: podaljševanje linij prek glavne železniške postaje, opremljanje postajališč z urbano opremo in dodatna 
+železniška postajališča v mestnem območju MOL.
+ 
+13. Prenovljena Avtobusna in Železniška postaja Ljubljana
+Glavna avtobusna in železniška postaja že dolgo časa ne omogočata optimalnega razvoja JPP v mestu pa tudi širše. 
+Kapacitetno sta na robu svojih zmogljivosti, potnikom pa ne nudita potrebnega udobja in storitev pa tudi ne kakovostne 
+in prijetne peš (in kolesarske) povezave do središča mesta. Ljubljana je zato v preteklosti v sklopu projekta Potniškega 
+centra Ljubljana (PCL) ves čas aktivno sodelovala in v okviru svojih pristojnosti izpolnila vse obveze. Na takšen način bo pri 
+urejanju te problematike delovala tudi v prihodnje.
+ 
+14. Lažje kombiniranje različnih vrst prometa
+Omogočanje kombiniranja različnih prevoznih sredstev ima pomemben vpliv na zmanjševanje uporabe avtomobila in 
+izboljšanje uporabe trajnostnih načinov prevoza. Ljubljana je v preteklosti že zagotovila vrsto takšnih ureditev, še naprej 
+pa jih bo nadgrajevala in dopolnjevala z izgradnjo P+R, ki bodo opremljena s postajališči Biciklja in bodo omogočala 
+varno shranjevanje tudi lastniških koles. Hkrati bo zagotovila tudi možnost navezave na železniški promet, vse skupaj pa 
+bo povezano z informacijsko platformo, ki bo uporabnikom omogočala pregled in načrtovanje poti z javnimi prevoznimi 
+sredstvi.
+15. Sodoben in do okolja prijazen vozni park LPP 
+Ljubljana bo z rednim posodabljanjem voznega parka Ljubljanskega potniškega prometa skrbela za sodoben in do 
+uporabnika prijazen javni potniški promet. Za zmanjšanje onesnaženosti okolja bo pri prenovi voznega parka prednost 
+namenjena nakupu in uporabi vozil na stisnjen zemeljski plin (CNG) in električni pogon.
+35Štirje stebri trajnostne mobilnosti
+34 Foto: Vita Kontić
+
+=== PDF PAGE 19 ===
+36 37
+•
+IV. STEBER: Optimiziran motorni promet 
+Operativni cilj: 
+Zmanjšanje števila potovanj na vpadnicah, opravljenih z osebnimi motornimi vozili, za 20 %.
+Zmanjšati število voženj z avtomobilom na treh glavnih vpadnicah za 20 %  
+Dunajska (železniški podvoz) – PLDP
+2010: 32.250 vozil
+2015: 29.000 vozil 
+2020: 26.000 vozil
+2027: 23.000 vozil 
+Z rastjo motorizacije so se prometne razmere v Ljubljani v preteklosti odmikale od postavljenih ciljev trajnostne 
+mobilnosti. Izkušnje Ljubljane pa tudi veliko mest po Evropi kažejo, da je nesmiselno slediti rasti motorizacije z gradnjo 
+nove in s širjenjem obstoječe infrastrukture. Takšne rešitve kratkoročno izboljšujejo stanje in zmanjšujejo zastoje, čez čas 
+pa se zaradi izboljšanja pogojev število vozil poveča in zastoji se ponovijo, tokrat s še večjim številom vozil in voznih pasov. 
+Hkrati spremenjeni pogoji negativno vplivajo tudi na uporabo javnega potniškega prometa in izbiro kolesa kot prevoznega 
+sredstva v mestu*. 
+Napredna, moderna in pametna mesta zato težave, ki jih povzroča motorni promet, rešujejo na drugačen način. Z 
+optimizacijo obstoječih cest, ki dajejo prednost trajnostnim načinom prevoza v mestu, ustvarjajo razmere, v katerih so 
+javni potniški promet, uporaba kolesa in pešačenje bolj praktična, udobnejša in hitrejša izbira. S takšnim pristopom k 
+urejanju prometa v mestu se zagotovi optimalno stopnjo mobilnosti za vse prebivalce in prebivalke mesta, močno se 
+prispeva k manjšemu onesnaženju zraka, obremenjenosti s hrupom ter k zmanjšanju števila hudih prometnih nesreč, 
+zaradi aktivnega življenjskega sloga pa se izboljšuje tudi podoba javnega zdravja.
+Ljubljana je v zadnjih letih storila velik korak naprej k spodbujanju in uporabi trajnostnih načinov prevoza, na kar ne 
+nazadnje kažejo tudi raziskave, opravljene v zadnjih letih. Uporaba avtomobila se je zmanjšala, manjše je tudi število 
+potovanj, opravljenih z avtomobilom. Rezultat je posledica premišljenega in usmerjenega načrtovanja v izboljšanje 
+infrastrukture za pešce in kolesarje ter javni potniški promet. 
+V prihodnjem desetletju želi Ljubljana doseči zmanjšanje števila potovanj z avtomobilom na le tretjino vseh opravljenih 
+poti v mestu. Za dosego tega cilja bo v prihodnjih letih treba obstoječi avtomobilski promet zmanjšati za 20 %. Ključ za 
+doseganje tega cilja so zastavljeni in v nadaljevanju predstavljeni strateški cilji.
+*Pojav je poznan kot Downs-Thompsonov paradoks.  
+Celovška (železniški podvoz) – PLDP
+2010: 33.706 vozil
+2015: 34.000 vozil
+2020 30.500 vozil
+2027: 27.000 vozil
+Tržaška (AC – Gruda) – PLDP
+2010: 33.500 vozil
+2015: 31.500 vozil
+2020: 28.500 vozil
+2027: 25.000 vozil
+37Štirje stebri trajnostne mobilnosti36 Foto: Vita Kontić
+* navedeno je število vozil na dan
+
+=== PDF PAGE 20 ===
+38 3939Štirje stebri trajnostne mobilnosti
+Potovalne navade s parkirnim mestom in brez njega 
+(Push & Pull, 2015)
+Prikaz ponazarja posledice, ki jih prinaša pretirana 
+gradnja parkirnih mest.(Vir: Citadins face à l’automobilité - primerjalna analiza lokalnih 
+skupnosti Besançon, Grenoble, Toulouse, Bern, Ženeva in Lozana, 1998)
+Eden glavnih dejavnikov pri izbiri 
+potovalnega načina na začetku poti, 
+tj. običajno doma, je (pričakovana) 
+razpoložljivost parkirnega mesta na 
+cilju. Zagotovljeno parkirno mesto na 
+sami lokaciji delovnega mesta je denimo 
+dejavnik, ki pomembno vpliva na odločitev 
+zaposlenih, da se bodo na delo odpeljali 
+z avtomobilom. Podatki iz nekaterih 
+francoskih in švicarskih mest kažejo, da se 
+zaposleni, ki imajo v službi zagotovljeno 
+parkirno mesto, na delo mnogo pogosteje 
+vozijo z avtomobilom kot tisti, ki ga nimajo 
+oziroma ki imajo omejene možnosti 
+parkiranja. 
+Omejitev brezplačnega parkiranja oziroma 
+razpoložljivost le plačljivih parkirnih mest 
+ali kakršnokoli drugačno upravljanje 
+parkiranja privede do bistvene spremembe 
+v vedenju uporabnikov avtomobilov.
+4 %
+BESANÇON
+zagotovljeno parkirno 
+mesto
+DA                     NE
+GRENOBLE
+zagotovljeno parkirno 
+mesto
+DA                     NE
+90 %
+6 %
+PEŠ
+AVTOMOBIL
+JPP
+3 %
+94 %
+3 %
+25 %
+46 %
+29 %
+18 %
+53 %
+29 %
+1 %
+99 %
+1 %
+35 %
+41 %
+24 %
+TOULOUSE
+zagotovljeno parkirno 
+mesto
+DA                     NE
+Elektromobilnost
+Vozni park je v Sloveniji v povprečju star skoraj 10 let, emisije, ki jih tak avtomobil s pogonom na notranje izgorevanje izpusti 
+v ozračje, pa so neprimerno večje od novejših vozil. Še korak dlje k čistejšemu ozračju predstavlja električna mobilnost. V 
+preteklih letih je Ljubljana pospešeno razvijala strategijo elektromobilnosti in hkrati povečevala število polnilnih postaj v 
+mestu ter jih primerno promovirala. Rezultat je naraščajoč delež električnih vozil v prometu in veliko število polnilnih mest, 
+pri čemer se Ljubljana glede na število prebivalcev uvršča med vodilna mesta v Evropi. 
+Parkirna politika
+Ljubljana je že pred časom spoznala, da je pri načrtovanju in urejanju prostora malo področij, ki bi lahko imela toliko pozitivnih 
+učinkov na kakovost bivanja, spremembe vedenja in potovalnih navad, kot jih prinaša prav upravljanje parkiranja. S tem 
+namenom je sprejela parkirno politiko in sčasoma širila območja plačljivega parkiranja vse do avtocestnega obroča. K problemu 
+pomanjkanja parkirnih mest v stanovanjskih soseskah in gosteje poseljenih območjih je pristopila z urejanjem enosmernih 
+ulic in obcestnega parkiranja, s tem pa učinkovito rešila prej neurejene pogoje parkiranja brez povečanja površin za motorni 
+promet ter močno zmanjšala število tranzitnih voženj na teh območjih. Pri tem je z možnostjo ugodnega nakupa dovolilnic 
+prebivalcem zagotovila prednost pri parkiranju, z uvedbo plačljivega parkiranja pa zmanjšala število parkiranih vozil dnevnih 
+migrantov ter s tem pripomogla k izbiri trajnostnih prevoznih sredstev in tudi k sproščanju prej zasedenih javnih površin.
+38
+Parkirna mesta za  
+avtomobile v javnem  
+prostoru (brez  
+zasebnih parkirišč)
+92%
+Območja ustavljanja JPP
+(skupaj s postajami)
+3%
+Prostor za parkiranje  
+koles v javnem prostoru
+2%
+Območja za pešce (vštevši  
+klopi, gostinske površine)
+3%
+Avto 47%
+JPP 20%
+Kolesarjenje 14%
+Hoja 19%
+Uporaba prostora za mirujoči promet Deleži potovalnih načinov
+Raziskava uporabe javnega prostora za parkiranje v Gradcu v 
+Avstriji je pokazala, da se 92 % javnega prostora uporablja za 
+parkiranje avtomobilov (to ne vključuje zasebnih parkirnih 
+mest in garaž). Le 2 % sta namenjena parkiranju koles, 3 % 
+zasedajo območja, ki bi jih lahko označili za območja za pešce 
+(vštevši klopi, gostinske površine itd.), 3 % pa so namenjeni 
+JPP (skupaj s postajami). Raziskava kaže, kakšno prednost pri 
+uporabi javnega prostora imajo avtomobili glede na njihov 
+bistveno manjši delež v mestnem prometu.
+Uporaba prostora za mirujoči promet in delež 
+potovalnih načinov v Gradcu v Avstriji 
+(Push & Pull, 2015)
+(Vir: FGM, 2011, in mesto Gradec, 2013)
+Dosežki 
+ 
+Območja, zaprta za osebni motorni promet
+V zadnjih letih je Ljubljana močno povečala površino območij, namenjenih izključno pešcem in kolesarjem. Območje za pešce 
+v središču mesta je močno povečala, hkrati pa je preuredila Slovensko cesto na način, ki zmanjšuje rabo osebnega vozila in 
+spodbuja uporabo javnega potniškega prometa, kolesarjenja in hoje. Tak pristop k urejanju prometa je že obrodil sadove, saj je 
+delež pešcev in potovanj, opravljenih s pešačenjem, v zadnjih letih v Ljubljani močno narastel.
+ 
+Gradnja P+R
+K zmanjšanju vplivov dnevnih delovnih migracij pa tudi voženj z obrobnih delov MOL je mesto aktivno pristopilo h gradnji 
+parkirišč parkiraj in se pelji (P+R). Na nekaterih glavnih vpadnicah v mesto so takšna parkirišča zelo dobro sprejeta in zasedena, pri 
+nekaterih pa bo potrebne še nekaj dodatne promocije za večjo zasedenost. V prihodnosti bo mesto nadaljevalo gradnjo parkirišč 
+P+R na vseh glavnih vstopnih točkah v mesto in tako zmanjšalo pritisk na širše mestno središče z osebnim motornim prometom.
+ 
+Gradnja garažnih hiš in umikanje parkirnih mest pod površje
+Avtomobil je v povprečju v uporabi le eno uro na dan, preostanek dneva pa miruje. Vsako parkirno mesto na površju zavzame 
+med 15 in 30 m
+2 dragocenega javnega prostora, predvsem v gosto poseljenih območjih pa je takšna potrata odprtega 
+javnega prostora nesmiselna. Ljubljana se je zato v preteklih letih posvetila gradnji podzemnih garažnih hiš ter tako dosegla 
+umik parkiranih avtomobilov pod površje in sprostitev prej zasedenih javnih površin, ki jih je uspešno napolnila z novimi, 
+prijetnejšimi in primernejšimi vsebinami.
+
+=== PDF PAGE 21 ===
+40 4141Štirje stebri trajnostne mobilnosti
+Kakovost zraka
+Ljubljana je izvedla številne ukrepe s področja trajnostne mobilnosti in energetike za izboljšanje zraka. Tudi izmerjene 
+vrednosti delcev PM10 nedvomno kažejo, da se onesnaženost zraka v Ljubljani kljub velikim letnim nihanjem, ki so 
+posledica trenutnih vremenskih razmer, postopoma, a vztrajno zmanjšuje. Onesnaženost z delci, tako na ravni povprečne 
+letne vrednosti kakor tudi glede števila preseganj v toplem delu leta (izven kurilne sezone), se je bistveno zmanjšala. 
+Hkrati je pomembno, da na prometni postaji Ljubljana Center povprečna letna vrednost delcev že nekaj let ni presegla 
+dovoljene vrednosti 40 μg/m
+3. Še vedno pa presega dovoljeno vrednost 35 dni v koledarskem letu. Tudi vrednosti NO2 in 
+NOX so že nekaj let pod mejnimi vrednostmi. Slabša kakovost zraka je v zimskem času, v obdobju kurjenja, in ob hkratnem 
+pojavu neugodnih vremenskih razmer (neprevetrenost, številne inverzije, kotlinska lega). Največji problem zimske sezone 
+so še vedno individualna kurišča na območju celotne Ljubljanske kotline, zlasti na gosteje poseljenih območjih, ki za 
+ogrevanje uporabljajo lesno biomaso.
+61,3%
+promet
+23,7%
+pretvorniki energije
+6,8%
+ostala poraba
+6,1%
+industrija
+0,3%
+kmetijstvo
+47,8%
+ostala poraba 3,5%
+kmetijstvo
+13,7%
+odpadki
+6,6%
+pretvorniki energije
+3,1%
+industrija
+25,3%
+promet
+Ocena emisij TD po sektorjih/ 2015
+Podatki o virih trdih delcev in emisijah NOX
+Ocena emisij NOX po sektorjih/ 2015
+Podatki o virih trdih delcev in emisijah NOX
+Osebna vozila vplivajo na učinkovitost delovanja JPP
+Prometni zastoji so stalnica na glavnih prometnicah v Ljubljani. Predvsem v jutranji in popoldanski konici, ko večina 
+prebivalstva prihaja na delo oziroma odhaja z dela, so ceste in križišča preobremenjeni. Posledica takšnega stanja in 
+trenutne prometne ureditve na glavnih prometnicah je tudi v upočasnjenem javnem avtobusnem prevozu. Ta zaradi 
+zasedenosti cest z avtomobili ne more dosegati takšnih hitrosti potovanja, da bi ljudi privabil k večji uporabi.
+Izzivi
+Dnevni migranti, vezani na osebna vozila
+Ljubljana je glavno mesto države in kot tako predstavlja najpomembnejše državno prometno vozlišče, hkrati pa je 
+središče statistične Osrednjeslovenske regije in Ljubljanske urbane regije. Kot regionalno središče ima vodilno vlogo med 
+vsemi 26 občinami ter daleč največje število delovnih mest. V zadnjem času so na poselitev vplivali različni dejavniki in 
+procesi (urbanizacija, suburbanizacija in nastajanje somestja). Za obmestna in zunajmestna območja Ljubljane je značilna 
+razpršena poselitev, ki v kombinaciji z gospodarsko razvitostjo Ljubljane spodbuja veliko dnevnih delovnih migracij. Tako 
+se je na delo v Ljubljano v letu 2016 dnevno vozilo okoli 116.000 ljudi (SURS, 2017). Približno polovica jih prebiva v območju 
+Ljubljanske regije, preostali pa se vozijo celo iz bolj oddaljenih krajev.
+Še vedno veliko potovanj z osebnim vozilom
+Kljub velikim korakom in vloženemu trudu so spremembe na pot trajnostne mobilnosti dolgotrajen in zahteven proces. 
+Čeprav se v zadnjih letih povečuje predvsem število potovanj, opravljenih peš, pa je še vedno veliko voženj opravljenih z 
+avtomobilom. Velik del teh voženj je posledica dnevnih delovnih migracij v Ljubljano, pri čemer je uporaba avtomobila kot 
+osnovnega prevoznega sredstva veliko višja kot med prebivalci Ljubljane.
+40
+37, 5%
+peš
+38,2%
+avto
+11,2%
+kolo
+13,3%
+JPP
+ (vir: Potovalne navade prebivalcev v MOL in LUR, 2014)
+Deleži potovanj, ki so bila v celoti opravljena znotraj MOL 
+(notranja potovanja), po prometnih sredstvih – 2013
+84,3%
+avto
+0,8%
+peš
+14,6%
+JPP
+0,3%
+kolo
+Deleži potovanj, ki so se začela na območju LUR in 
+končala na območju MOL (ciljna potovanja)  
+po prometnih sredstvih – 2013
+
+=== PDF PAGE 22 ===
+42 43
+Strateški cilji 
+16. Manj voženj z avtomobilom
+Manj voženj z osebnim vozilom bo Ljubljana dosegla s premišljenim in prostorsko smiselnim umirjanjem motornega 
+prometa, hkrati pa bo s širjenjem in z načrtovanjem prostora po meri pešca in kolesarja spodbujala alternativne 
+načine premikanja po mestu. Hkrati bo smiselno poskrbela za možnost parkiranja prebivalcev v prometno in okoljsko 
+obremenjenih in občutljivih območjih večjih sosesk, v katerih zaradi močnega pomanjkanja parkirnih mest avtomobili 
+zasedajo tudi druge javne (in zasebne) površine.
+17. Manj dnevnih migrantov, ki se v mesto vozijo na delo z avtomobilom
+Zmanjšanje prometnih obremenitev, ki jih povzročijo dnevno delovni migranti, se bo Ljubljana lotila z nadaljevanjem in 
+nadgradnjo restriktivne parkirne politike skupaj z nadzorom in s sankcioniranjem prometnih prekrškov. Kot alternativo 
+osebnemu vozilu bo prebivalcem in obiskovalcem ponudila alternativne možnosti, kot so: izboljšana ponudba javnega 
+potniškega prometa, gradnja parkirišč P+R in sodelovanje pri optimizaciji osebnega prometa, kot sta souporaba vozil 
+(angl. carpool) in nadaljnji razvoj deljenja vozil (angl. car sharing). Ob premajhni učinkovitosti vseh sprejetih in izvedenih 
+ukrepov za spodbujanje trajnostne mobilnosti bo MOL preverila tudi možnosti uvedbe takse za vstop v mesto.
+18. Učinkovita parkirna politika
+Javni prostor ima na območjih goste pozidave z družbenega, ekonomskega in z okoljskega vidika višjo vrednost, če se 
+uporablja za kaj drugega kot za brezplačno parkiranje avtomobilov. Zaradi čezmerne ponudbe parkirnih mest nastaja še 
+več prometnih zastojev, poleg tega je ovirana dostopnost za vse – pešce, kolesarje, uporabnike JPP in voznike avtomobilov.
+Ljubljana bo k urejanju parkirne problematike v mestu pristopila predvsem z organizacijskimi ukrepi, z urejanjem 
+parkiranja v nekaterih (bolj obremenjenih) soseskah pa tudi z urejanjem parkiranja in dostopa turističnih avtobusov.  
+K učinkovitemu upravljanju parkiranja bo pristopila s smiselno in za izpolnjevanje končnega cilja zastavljeno diferencirano 
+cenovno politiko, ki brezplačnega parkiranja na javnih površinah za dnevne migrante ne bo omogočala. K učinkovitemu 
+upravljanju parkiranja bo pristopila tudi z izdelavo mobilnostnih načrtov ter vzpostavljanjem pametnih informacijskih 
+rešitev za upravljanje mirujočega prometa in vodenja do prostih parkirnih mest.
+19. Preureditev cest in križišč za večjo varnost kolesarjev in pešcev ter hitrejšo pretočnost JPP in prometa z 
+osebnimi avtomobili
+Boljše pogoje in večjo pretočnost v križiščih za motorni promet bo Ljubljana zagotavljala na način, ki ne bo negativno 
+vplival na varnost, udobje ali na hitrost potovanja s trajnostnimi prevoznimi sredstvi. Tako bo pri rekonstrukcijah cest in 
+križišč dosledno upoštevala ne samo cilj izboljšanja pogojev za motorni promet, ampak tudi smernice za načrtovanje peš 
+in kolesarskega prometa, pozornost pa bo namenila tudi hitrosti potovanja s sredstvi JPP .
+ 
+43Štirje stebri trajnostne mobilnosti42
+ Foto: Nik Rovan
+
+=== PDF PAGE 23 ===
+44 45
+20. Manjša onesnaženost
+Za zmanjšanje onesnaženosti na račun prometa bo Ljubljana v prihodnjih letih pospešeno nadaljevala razvoj 
+elektromobilnosti na strateški pa tudi izvedbeni ravni, hkrati pa bo za manjše onesnaževanje poskrbela tudi s podporno 
+infrastrukturo za vozila na stisnjen zemeljski plin (CNG). Za čistejše okolje bo skrbela tudi s posodobitvami voznega 
+parka mestne uprave in vozil komunalnih služb, ki bo v prihodnje temeljil na vozilih na stisnjen zemeljski plin (CNG) 
+ali utekočinjen naftni plin (LPG) ter na električnih vozilih. Aktivno bo spremljala stanje okolja in trende ter sprejemala 
+potrebne ukrepe glede na rezultate meritev.
+21. Zelena mestna logistika
+Tovorni promet s ciljem v Ljubljani in dostavne službe veliko prispevajo k številu poti, opravljenih z motornimi prevoznimi 
+sredstvi. Dostavna in tovorna vozila okolje in prostor obremenjujejo še bolj kot avtomobili, zato se bo Ljubljana v 
+naslednjih letih trudila optimizirati promet, ki je posledica logističnih dejavnosti. Tako bo sodelovala pri izvedbi manjših 
+konsolidacijskih centrov v mestu pa tudi velikega intermodalnega logističnega terminala. Spodbujala bo dostavo na 
+kolesih (predvsem znotraj avtocestnega obroča) in na različne načine uporabo čistejših vozil za dostavo. Hkrati bo v 
+središču mesta, na osrednji mestni tržnici ob njeni celoviti prenovi, poskrbela za izboljšanje pogojev dostave z gradnjo 
+garažne hiše ter na površju obogatila javni prostor in tako prispevala k oživitvi tržnice.
+Postavitev novih parkirišč P+R na vpadnicah 
+podpira več kot 90 % vprašanih v anketi, izvedeni 
+v sklopu priprave te CPS.
+45Štirje stebri trajnostne mobilnosti44
+ Foto: Vita Kontić
+
+=== PDF PAGE 24 ===
+46 47
+Pomen kratic:
+OGDP Oddelek za gospodarske dejavnosti in promet
+SLS Služba za lokalno samoupravo
+OOJ Odsek za odnose z javnostmi
+OPVI Odsek za predšolsko vzgojo in izobraževanje
+SPVCP Svet za preventivo in vzgojo v cestnem prometu
+OZSV Oddelek za zdravje in socialno varstvo
+SRPI Služba za razvojne projekte in investicije
+OVO Oddelek za varstvo okolja
+MR Mestno redarstvo
+MU MOL Mestna uprava Mestne občine Ljubljana
+Legenda ciljev in stebrov:
+Stebri trajnostne mobilnosti  Strateški cilji
+I. STEBER: Več ljudi pešači 1. Večji delež in večje zadovoljstvo pešcev v prometu na ravni  
+  celotnega mesta
+ 2. Boljša dostopnost do središča mesta za pešce
+ 3. Večji delež šolarjev, ki v šolo pešačijo
+ 4. Urejanje peš površin, tako da so dostopne in varne za vse uporabnike 
+II. STEBER: Več ljudi kolesari 5. Večji delež kolesarjev v prometu in večji delež poti, opravljen s kolesom
+ 6. Boljša dostopnost za kolesarje 
+ 7. Večji delež kolesarjev iz sosednjih občin LUR
+ 8. Zagotavljanje podporne infrastrukture za kolesarje
+III. STEBER: Več ljudi uporablja javni potniški promet 9. Sprememba potovalnih navad in večji delež potnikov z JPP
+ 10. Na vpadnicah v prometnih konicah zagotovljen hitrejši   
+  potovalni čas avtobusov od osebnih vozil
+ 11. Hitrejše in udobnejše potovanje do cilja
+ 12. Razvoj mestne železnice na obstoječih železniških tirih*
+ 13. Prenovljena Avtobusna in Železniška postaja Ljubljana*
+ 14. Lažje kombiniranje različnih vrst prometa
+ 15. Sodoben in do okolja prijazen vozni park LPP
+IV. STEBER: Optimiziran motorni promet  16. Manj voženj z avtomobilom
+ 17. Manj dnevnih migrantov, ki se v mesto vozijo na delo z avtomobilom
+ 18. Učinkovita parkirna politika
+ 19. Preureditev cest in križišč za večjo varnost kolesarjev in pešcev   
+  ter hitrejšo pretočnost JPP in prometa z osebnimi avtomobili
+ 20. Manjša onesnaženost
+ 21. Zelena mestna logistika
+7 Akcijski načrt
+RRA LUR Regionalna razvojna agencija Ljubljanske urbane regije
+LPP Ljubljanski potniški promet
+JP LPT Javno podjetje, Ljubljanska parkirišča in tržnice
+JHL Javni holding Ljubljana
+SŽ Slovenske železnice
+MzI Ministrstvo za infrastrukturo
+DARS Družba za avtoceste v Republiki Sloveniji
+CTN Celostne teritorialne naložbe
+JZP javno-zasebno partnerstvo
+IJPP integrirani javni potniški promet
+Akcijski načrt
+Foto: Doris Kodrić
+Opomba: * ob navedbi projekta pomeni, da izvedba ni v pristojnosti MOL
+
+=== PDF PAGE 25 ===
+48 49
+II. 5 Širitev sistema izposoje koles (Bicikelj) in  V sklopu pogodbe  P
+  povečanje kapacitet v središču mesta JZP  kontinuirano
+II. 5 Pravočasno pluženje kolesarskih površin V sklopu pluženja  kontinuirano
+   po prioritetah
+II. 5 Uvedba dodatnih števcev za beleženje števila kolesarjev 60.000  kontinuirano
+I., II., IV. 1, 6, 19 Ureditev predfaze za kolesarje in pešce / OGDP  kontinuirano
+  v semaforiziranih križiščih
+II., IV 7, 17 Sodelovanje s sosednjimi občinami in državo pri / OGDP , RRA LUR P
+  vzpostavljanju medobčinskih kolesarskih povezav   kontinuirano
+II., IV 7, 17 Vzpostavitev varnih in udobnih daljinskih 3.000.000  P
+  (medkrajevnih) kolesarskih stez oz. poti   kontinuirano
+II., IV. 7, 8,  Urejanje infrastrukture za električna kolesa  / OGDP 
+ 16, 17 (polnilnice, kolesarnice …)   kontinuirano
+II. 5, 8 Možnost varnega shranjevanja koles (npr. urejanje 500.000  OGDP , OPVI (za po- kontinuirano  
+  varnih in pokritih kolesarnic, zunanjih stojal okoli  trebe izobraževalnih (odvisno  od prioritet) 
+  glavnih zaposlovalcev v mestu ter okoli šol in fakultet)  ustanov)   
+III., IV. 9, 16 Izobraževanje in promocija uporabe LPP 10.000 OGDP , LPP kontinuirano
+III., IV. 9, 16 Zagotavljanje pametnih informacijskih sistemov 1.275.000 nosilec: OGDP 
+  (za izkoriščanje intermodalnosti)  sodeluje: LPP , JHL do 2020
+III., IV. 10, 11,  Uvedba rumenih pasov na vpadnicah 200.000 nosilec: OGDP 
+ 16   sodeluje: LPP , JP LPT P
+III., IV. 10, 11, Zagotavljanje prednosti v križiščih za LPP 100.000 nosilec: OGDP 
+ 16, 19   sodeluje: LPP , JP LPT P
+III. 11, 14 Nov sistem hitrih linij z zagotavljanjem povezav na P+R 2.500.000  do 2022
+III. 11 Uvedba tangencialnih linij 2.500.000  do 2022
+III., IV. 11, 17 Podaljšanje linij LPP v občine LUR se določi na podlagi OGDP , LPP , RRA LUR /
+   razpisa MzI za
+   koncesije
+III. 11 Zagotavljanje javnega prevoza na klic 200.000  kontinuirano
+  v mestnem središču (Kavalir)
+III. 11 Urejanje obstoječih avtobusnih postajališč (urbana  200.000  P
+  oprema, dostopi, prikazovalniki časov prihoda/odhoda  …)   kontinuirano
+III. 11 Zagotavljanje možnosti dostopa do interneta Investicija: 200.000 €  se določi glede na
+  na avtobusih LPP  stroški zagotavljanja  potrebe in trende v
+   storitve:   mobilni telefoniji  
+   1.000€/mesec  
+III. 12 Podaljševanje linij preko glavne železniške postaje /   /
+III. 12 Nova železniška postajališča znotraj MOL /   /
+III. 12 Ureditev železniških postajališč (urbana oprema, dostop) /   P
+III. 12 Uvedba taktnega voznega reda potniških vlakov /   /
+OGDP 
+OGDP , LPP
+OGDP , LPP
+nosilec: MzI, SŽ
+sodeluje: MOL
+Akcijski načrt
+Steber Cilj Ukrep Ocena vrednosti Nosilec izvajanja Rok izvedbe
+     (P=prioritetni projekt)
+Steber Cilj Ukrep Ocena vrednosti Nosilec izvajanja Rok izvedbe
+     (P=prioritetni projekt)
+I. 1 Širitev peš cone v središču mesta in posameznih ČS 500.000  kontinuirano
+I. 1 Preureditve ulic po načelu skupnega 2.000.000  kontinuirano
+  prometnega prostora
+I. 1 Širitev in dograditev pločnikov 200.000  kontinuirano
+I. 1 Preurejeni ali novi javni prostori v soseskah 1.000.000  kontinuirano
+I., II 1, 5 Širitev 30 km/h con v soseskah in celovito 50.000  P 
+  umirjanje prometa v teh conah   kontinuirano
+I. 2 Ureditev širokih in udobnih površin za pešce 200.000 OGDP  kontinuirano
+  ob vpadnicah
+I. 2 Novi drevoredi ob vpadnicah in drugih cestah 2.000.000 nosilec: OGDP
+  (za prijetnejše pešačenje)  sodeluje: Snaga kontinuirano
+I. 2 Gradnja sredinskih otokov  150.000  kontinuirano
+  (npr. na vpadnicah, glavnih mestnih cestah ...)
+I. 2, 1 Novi in dvignjeni prehodi za pešce 150.000  P 
+     kontinuirano
+I. 1, 3 Promocijske in izobraževalne aktivnosti 10.000 nosilec: OPVI, OOJ, SLS
+    sodeluje: SPVCP kontinuirano
+I., II. 3, 5 Urejanje varnih šolskih poti (30 km/h cone, celovito  50.000  P
+  umirjanje prometa na šolskih poteh, infrastruktura …)   kontinuirano
+I. 3 Urejanje javnega prostora v okolici šol 25.000  kontinuirano
+I., II. 3, 5 Nadzor in sankcioniranje prekrškov 220.000  kontinuirano
+  (zagotavljanje varnosti pešcev in kolesarjev, 
+  prevoznost kolesarskih površin, oviranje peš in JPP 
+  prometa zaradi nepravilnega parkiranja ipd.)
+I. 4 Uporaba taktilnih oznak pri rekonstrukcijah v okviru drugih     
+  in novogradnjah investicij  kontinuirano
+I. 4 Upoštevanje potreb oseb z oviranostmi /  kontinuirano
+  pri načrtovanju in projektni dokumentaciji
+II. 5, 6 Vzpostavitev neprekinjene, udobne in varne mreže 8.000.000  do 2018 (sredstva CTN) 
+  glavnih in povezovalnih kolesarskih povezav (v okviru CTN)
+II. 5 Odprava nevarnih točk v kolesarski mreži 40.000  P
+     kontinuirano
+II. 5 Promocija mestnega kolesarjenja 50.000 nosilec: OPVI, OOJ, SLS
+    sodeluje: SPVCP kontinuirano
+II. 5 Določitev mestnega koordinatorja za kolesarjenje / OGDP  P
+II. 5 Gradnja kolesarskih površin ob Savi 3.600.000  P
+     do 2020
+II. 5 Zagotavljanje varnosti in prevoznosti za kolesarje /  kontinuirano
+  v času rekonstrukcij cest/dela na cestah
+nosilec: OGDP
+sodeluje: SLS
+OGDP
+OGDP , SPVCP
+Mestno 
+redarstvo
+OGDP , OZSV
+OGDP 
+OGDP 
+
+=== PDF PAGE 26 ===
+50 51
+I., II., IV. 1, 5,  Uvedba mobilnostnih načrtov za velike prireditve 10.000 OGDP kontinuirano
+ 16, 18
+I., II., IV. 1, 5, 16, Izvedba mobilnostnih načrtov za večje generatorje  50.000  do 2020
+ 17, 18 prometa in upravo MOL
+I., II., IV. 1, 5, 16,  Uvedba plačljivih parkirnih con v okolici /  kontinuirano
+ 17, 18 izobraževalnih ustanov
+IV. 16, 18,  Zagotavljanje pametnih informacijskih sistemov za že upoštevano pri   do 2020
+ 20 upravljanje mirujočega prometa  cilju 10    
+II., IV. 5, 6, 19 Načrtovanje kolesarskih površin v skladu s smernicami /  P
+  za urejanje kolesarskega in peš prometa v MOL   kontinuirano
+IV. 19 Rekonstrukcije in novogradnje cest z namenom 10.000.000  kontinuirano
+  boljših povezav z JPP , zmanjšanja zastojev motornega
+  prometa in optimizacije vodenja kolesarjev in pešcev
+IV. 19 Rekonstrukcije križišč z namenom zmanjšanja 2.000.000  kontinuirano
+  zastojev motornega prometa in optimizacije
+  vodenja JPP , kolesarjev in pešcev 
+IV. 20 Promocija in spodbujanje e-mobilnosti  10.000 OGDP , OOJ kontinuirano
+  (električni avtomobili, električna kolesa …) 
+IV. 20 Izvajanje in posodabljanje sprejete 10.000   kontinuirano
+  strategije elektromobilnosti
+IV. 20 Zagotavljanje infrastrukture za e-mobilnost  155.000  do 2020
+  (polnilna mesta, normativi za parkirna mesta …)
+III., IV. 15, 20 Vzpostavitev električne avtobusne linije 2.600.000  do 2020
+IV. 20 Izgradnja polnilnic za CNG vozila 2.000.000  do 2020
+IV. 20 Zmanjševanje hitrosti na delih avtocest in hitrih cest / DARS /
+IV. 20 Prepoved vožnje tovornih vozil na severni / DARS /
+  ljubljanski obvoznici
+IV. 20 Spremljanje stanja zraka 45.000 OVO kontinuirano 
+IV. 20 Obnova vozil komunalnih služb 3.500.000 JHL kontinuirano 
+IV. 20 Obnova vozil mestne uprave 2.500.000 MU MOL kontinuirano 
+IV. 20 Zmanjševanje hrupne obremenjenosti okolja / OVO, OUP , OGDP do 2020
+  (npr. ob obvoznici, vpadnicah, železnici)
+IV. 1, 21 Prenova osrednje tržnice s prometno 31.500.000 SRPI do 2021
+  ureditvijo območja
+I., IV. 21 Izvedba intermodalnega logističnega terminala 140.000.000 nosilec: Mercator,  do 2020
+     SŽ, BTC, DARS 
+    sodeluje: MOL  
+OGDP
+OGDP , OUP
+OGDP
+Akcijski načrt
+Steber Cilj Ukrep Ocena vrednosti Nosilec izvajanja Rok izvedbe
+     (P=prioritetni projekt)
+III., IV. 9, 11, 12, Celovita prenova železniške in avtobusne postaje / nosilec: MzI, SŽ
+ 13, 14, 16 v mestu, vključno z obodnim prometnim omrežjem  sodeluje: MOL, LPP /
+III. 12, 14 Urejanje prestopnih točk ob železniških postajališčih  150.000 OGDP kontinuirano
+  (Bicikelj, LPP …)
+III. 14, 16 Uvedba integrirane (enotne) vozovnice / MzI, LPP /
+III. 6, 7, 14 Izboljšanje možnosti prevoza koles na avtobusih 10.000 MOL, LPP , SŽ kontinuirano
+  in vlakih
+III., IV. 14, 16, Izgradnja omrežja prestopnih točk P+R 11.000.000 OGDP  P
+ 17 na uvozih v mesto   do 2022
+III. 14 Uskladitev voznih redov med železniškim Se vzpostavi v nosilec: MZI (v     
+  in avtobusnim prometom  okviru IJPP kontekstu IJPP), 
+    LPP , SŽ
+    sodeluje: MOL /
+II., III. 5, 7, 14 Možnost varnega shranjevanja koles na P+R 500.000 OGDP kontinuirano
+II., III. 5, 6,  Ureditev udobnih, hitrih in varnih kolesarskih 1.000.000    
+ 7, 14 povezav do vseh postajališč P+R   kontinuirano
+II., III. 5, 6,  Ureditev postajališč Bicikelj na vseh 600.000  kontinuirano
+ 7, 14 postajališčih P+R
+III. 14 Energetska izraba Ljubljanice ob istočasni 35.000.000  do 2027
+  vzpostavitvi krožne plovne poti
+III., IV. 11, 15 Posodabljanje voznega parka LPP 15.000.000 LPP kontinuirano
+III., IV. 11, 15 Nakup novih avtobusov na CNG ali električni pogon 15.000.000 JHL, LPP kontinuirano
+III., IV. 11, 15 Predelava avtobusov na električni pogon 1.500.000 LPP kontinuirano
+I., II., IV. 1, 5,  Umirjanje motornega prometa 500.000  kontinuirano
+ 16, 20
+IV. 14, 16 Urejanje parkiranja v soseskah 1.500.000  kontinuirano
+IV. 16, 20 Širitev javnega prostora po meri pešca in kolesarja 1.000.000  kontinuirano
+IV. 17, 20 Optimizacija uporabe avtomobilov  /  Kontinuirano
+  (car sharing, car pooling …)  
+I., II., IV. 1, 5,  Restriktivna parkirna politika /  Kontinuirano
+ 16, 17
+IV. 17 Nadzor in sankcioniranje nepravilnega parkiranja,  že upoštevano Mestno redarstvo kontinuirano
+  neupoštevanja cestnoprometnih pravil in
+  prekoračitev hitrosti na celotnem območju MOL
+I., II., IV. 1, 5, 16,  Upravljanje parkiranja znotraj AC-obroča / OGDP kontinuirano 
+ 17, 18 (prilagajanje cenovne politike, višine kazni)
+IV. 16, 17, Spreminjanje parkirnih normativov skladno z načeli v okviru sprememb 
+ 18 trajnostnega prometnega načrtovanja  in dopolnitev OPN  OUP do 2018
+   MOL
+OGDP
+OGDP
+Steber Cilj Ukrep Ocena vrednosti Nosilec izvajanja Rok izvedbe
+     (P=prioritetni projekt)
+
+=== PDF PAGE 27 ===
+52 53
+VIRI
+CIVITAS ELAN, dostopno na: http://www.civitasljubljana.si/ in http://civitas.eu/content/ljubljana .
+ELTIS, dostopno na: http://www.eltis.org/sl.
+Guidelines. Developing and Implementing a Sustainable Urban Mobility Plan, 2014. Rupprecht Consult –    
+Forschung und Beratung GmbH, EU.
+Javni promet v Ljubljanski urbani regiji; 2010; RRA LUR.
+Kazalci okolja v Sloveniji, 2017. MOP ARSO, dostopno na: http://kazalci.arso.gov.si/?data=indicator&ind_id=422.
+Mreža P+R zbirnih središč P + R v Ljubljanski urbani regiji, 2014. RRA LUR.
+Nacionalni program razvoja prometa v RS za obdobje do leta 2030 (MzI, 2016).
+Navodila za projektiranje kolesarskih površin, 2012. MZI, Direkcija RS za ceste, dostopno na:  
+http://www.di.gov.si/fileadmin/di.gov.si/pageuploads/Stran_navodila_in_vzorci/kolesarji_prelom_web_06-2012.pdf.
+OPN MOL ID, Ur. l. RS, št. 78/2010, 22/11, 9/13, 23/13, 71/14, 95/15.
+OPN MOL SD, Ur. l. RS, št. 78/2010.
+Plevnik, A. 2016. Okolje, promet in zdravje. Naročnik: Ministrstvo za okolje in prostor – Agencija RS za okolje in    
+Ministrstvo za infrastrukturo, izdelovalec: UIRS.
+Portal vzgoje in izobraževanja, 2017, dostopno na:  
+http://gismol.gisportal.si/javno/profile.aspx?id=MOL_Solstvo@Ljubljana.
+Potovalne navade prebivalcev v Mestni občini Ljubljana in Ljubljanski urbani regiji, 2014.
+Program varstva okolja za Mestno občino Ljubljana 2014 . 2020, 2014 MOL, dostopno na:  
+https://www.ljubljana.si/sl/moja-ljubljana/varstvo-okolja/program-varstva-okolja/.
+Prometna politika Mestne občine Ljubljana, 2012. MOL.
+Push & Pull, Final report (Project Brochure), 2015. dostopno na: http://push-pull-parking.eu/index.php?id=15.
+Strategija razvoja prometa v Republiki Sloveniji, končna različica, 2015.
+SURS, 2017. dostopno na: http://www.stat.si/statweb.
+Trajnostna mobilnost za uspešno prihodnost; Smernice za pripravo Celostne prometne strategije, 2012. UIRS, MzI.
+Trajnostna urbana strategija Mestne občine Ljubljana 2014–2020, 2015. MOL.
+Vizija Ljubljane 2025, 2007. MOL.
+IV. 20, 21 Spodbujanje mestne logistike na kolesu (cargobike) /  kontinuirano
+IV. 20, 21 Konsolidacija dostav / manjša ekološka obremenitev v okviru drugih  do 2021
+  mesta zaradi voženj povezanih z dostavo /  projektov
+  konsolidacijski centri
+IV. 20, 21 Spodbujanje uporabe za čistejših dostavnih vozil /  kontinuirano
+Steber Cilj Ukrep Ocena vrednosti Nosilec izvajanja Rok izvedbe
+     (P=prioritetni projekt)
+OGDP
+
+=== PDF PAGE 28 ===
+54
+Celostna prometna strategija Mestne občine Ljubljana
+Izdala in založila: Mestna občina Ljubljana, Mestni trg 1, 1000 Ljubljana
+Vsebinska zasnova: Ljubljanski urbanistični zavod ( LUZ d.d.)  in Regionalna razvojna agencija Ljubljanske urbane regije (RRA LUR)
+Urednik: Klemen Milovanovič
+Uredniški odbor: David Polutnik, Matic Sopotnik, Tina Capek, Vita Kontić, dr. Petra Vertelj Nared, Matej Gojčič,  
+dr. Aidan Cerar, Barbara Boh
+Lektorica: Kristina Kantar
+Oblikovanje: Studio Licul
+Fotografije: Volker Hoffmann, Vita Kontić, Doris Kordić, Nik Rovan, Katja Butina, Uroš Hočevar, Alenka Rebec
+Tisk: Tiskarno Oman, Peter Oman s.p.
+Naklada: 1000 izvodov
+Ljubljana, julij 2017
+©: Vse pravice pridržane. 
+CIP - Kataložni zapis o publikaciji 
+Narodna in univerzitetna knjižnica, Ljubljana 
+656(497.4Ljubljana)(082) 
+        CELOSTNA prometna strategija Mestne občine Ljubljana / [urednik Klemen Milovanovič ;  
+fotografije Volker Hoffmann ... et al.]. - Ljubljana : Mestna občina, 2017 
+ISBN 978-961-6449-70-0 
+290705664 

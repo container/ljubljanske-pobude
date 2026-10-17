@@ -1,0 +1,495 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<link rel="icon" href="img/favicon.ico">
+		
+		<title>Pobude meščanov</title>
+		
+		<!-- CSS -->
+		<link href="css/style.css" rel="stylesheet">
+		
+
+            <link rel="stylesheet" href="https://js.arcgis.com/3.29/dijit/themes/tundra/tundra.css">
+            <link rel="stylesheet" href="https://js.arcgis.com/3.29/esri/css/esri.css">
+
+        <script src="https://js.arcgis.com/3.29/"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+
+		<script src="js/ui-load.js"></script>
+		<script src="js/ui-jp.config.js"></script>
+		<script src="js/ui-jp.js"></script>
+
+            <script type="text/javascript" src="JavaScriptPlain/PlaceMarker.js"></script>
+            <script type="text/javascript" src="JavaScriptPlain/PrikazPobud.js"></script>
+            <script type="text/javascript" src="JavaScriptPlain/PregledObjavljenihPobud.js"></script>
+        <style>
+                        .esriSimpleSliderTL {
+              top: 0px;
+            }
+
+        </style> 
+        <script>
+             var gdiMap, dialog;
+             require([
+               "esri/map", "esri/layers/FeatureLayer",
+               "esri/symbols/SimpleFillSymbol", "esri/symbols/SimpleLineSymbol",
+               "esri/renderers/SimpleRenderer", "esri/graphic", "esri/lang",
+               "esri/Color", "dojo/number", "dojo/dom-style", "dojo/dom", "dojo/dom-construct", "dojo/query", "dojo/on", "dojo/window",
+                 "dijit/TooltipDialog", "dijit/popup", /*"esri/layers/ArcGISTiledMapServiceLayer"*/"esri/layers/ArcGISTiledMapServiceLayer", "esri/symbols/SimpleMarkerSymbol", "esri/urlUtils", "dojo/domReady!"
+             ], function (
+               Map, FeatureLayer,
+               SimpleFillSymbol, SimpleLineSymbol,
+               SimpleRenderer, Graphic, esriLang,
+               Color, number, domStyle, dom, domConstruct, dojoQuery, on, win,
+               TooltipDialog, dijitPopup, Basemap, SMS, urlUtils
+             ) {
+                 
+                     urlUtils.addProxyRule({
+                         urlPrefix: "https://pobude.ljubljana.si",
+                          proxyUrl: "./gdi_proxy/proxy.ashx"
+					 });
+                 urlUtils.addProxyRule({
+                     urlPrefix: "https://pobudetest.ljubljana.si",
+                     proxyUrl: "./gdi_proxy/proxy.ashx"
+                 });
+
+                 if (domStyle.get(dom.byId("showMapBtn"), "display") == "none") {
+                     SetMapInMapDiv("mapDiv", false);
+                 } else {
+                     SetMapInMapDiv("mapDiv2", false);
+                 }
+
+                 $('#mapModal').on('shown.bs.modal', function (e) {
+                     if (gdiMap) {
+                         domStyle.set(dom.byId('GDiMap'), 'height', '100%');
+                         domStyle.set(dom.byId('GDiMap'), 'width', '100%');
+                         gdiMap.resize();
+                     }
+                 })
+
+                 function mapRepositionAndResize() {
+
+                     var w = win.getBox().w;
+
+                     if (w <= 1200) {
+                         SetMapInMapDiv("mapDiv2", true);
+                     } else {
+                         SetMapInMapDiv("mapDiv", true);
+                     }
+                 }
+
+
+                 function SetMapInMapDiv(divName, reposition) {
+                     var footerHeight = 0
+                     if (divName == "mapDiv")
+                         footerHeight = dojoQuery("footer")[0].scrollHeight;
+
+                     console.log(dom.byId(divName).scrollHeight - footerHeight);
+                     domStyle.set(dom.byId("GDiMap"), "height", (dom.byId(divName).scrollHeight - footerHeight) + "px");
+                     domStyle.set(dom.byId("GDiMap"), "width", "100%");
+
+                     domConstruct.place(GDiMap, divName);
+
+                     if (gdiMap !== undefined && divName == "mapDiv")
+                         gdiMap.resize();
+
+
+                     if (reposition) {
+
+                         gdiMap.reposition();
+                     }
+
+
+                     if (divName == "mapDiv2") {
+                         domStyle.set(dom.byId("GDiMap"), "height", "auto");
+                     }
+                     //if(gdiMap !== undefined)
+                     //    gdiMap.resize();
+                 }
+
+
+                 gdiMap = new Map("GDiMap", {
+                     id: "map",
+                     slider: true,
+                     autoResize:false
+                 });
+
+                 //gdiMap.on('load', function () {
+                 //    onMapLoad(true)
+                 //});
+
+                 var basemap = new Basemap(pobudeBaseService, { useMapImage: true });
+                 var pobudeFL = new FeatureLayer(pobudeThemeService, { id: 'pobude', mode: FeatureLayer.MODE_ONDEMAND, outFields: ["*"] });
+                 pobudeFL.setDefinitionExpression("STATUS_POBUDE = 1");
+
+                 gdiMap.addLayer(basemap);
+                 gdiMap.addLayer(pobudeFL);
+
+                 var startupEvtHandle = gdiMap.on("update-end", function () {
+
+                     startupEvtHandle.remove();
+                     if (typeof (idpobude) == "undefined") return;
+                     prikaziPobudo(idpobude + '::::' + 0 + '::::getpobudafirst');
+                 });
+                 on(window, "resize", mapRepositionAndResize);
+                 //domStyle.set(document.body.parentElement, "font-size", "");
+
+             });
+        </script>
+
+
+	</head>
+		
+	<body>
+		 <form method="post" action="./PregledObjavljenihPobud.aspx" id="From1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE1MDgyNzI0Ng9kFgICAQ9kFggCAw8WAh4JaW5uZXJodG1sBQU4MTA0OGQCBQ8WAh8ABQU4MDc5M2QCBw8QDxYGHg1EYXRhVGV4dEZpZWxkBQRPUElTHg5EYXRhVmFsdWVGaWVsZAUSTU9MX1ZSU1RFX1BPQlVEX0lEHgtfIURhdGFCb3VuZGdkEBUvClZzZSBwb2J1ZGUYQXZ0b2J1c25hIHBvc3RhamFsacWhxI1hCEJpY2lrZUxKBUNlc3RlD0RlbG8gaW7FoXBla2NpahdEZWxvIE1lc3RuZWdhIHJlZGFyc3R2YRxEZWxvdmFuamUgbG9rYWxuZSBzYW1vdXByYXZlI0RyZXZlc2EsIHJhc3RqZSBpbiB6ZWxlbmUgcG92csWhaW5lFkVuZXJnZXRza28gdXByYXZsamFuamURRXZyb3Bza2kgcHJvamVrdGkLSW5mb3JtYXRpa2ESSW52YXppdm5lIHJhc3RsaW5lEUludmF6aXZuZSDFvml2YWxpEEphdm5lIHByaXJlZGl0dmUQSmF2bmUgc2FuaXRhcmlqZQxKYXZuaSBwcmV2b3oQSmF2bmkgcmVkIGluIG1pcg9Lb2xlc2Fyc2tlIHBvdGkHS3VsdHVyYQNMUFAQTWlydWpvxI1pIHByb21ldBROYXBlbGphdmEgcGxpbm92b2RhIB5PYsSNaW5za2kgZG9tb3ZpIHByb3N0b3JpIGl0ZC4HT2RwYWRraQ1PZ2xhxaFldmFuamUgFU9zdGFsYSBpbmZyYXN0cnVrdHVyYRJPdHJvxaFrYSBpZ3JpxaHEjWERUGFya2kgaW4gemVsZW5pY2UVUGXFoXBvdGkgaW4gcGxvxI1uaWtpDVBva29wYWxpxaHEjWEPUG9yYWJhIHNyZWRzdGV2FlByaXRvxb5iZSBuYWQgZGVsb20gTVUFUmF6bm8bU29jaWFsbm8gdmFyc3R2byBpbiB6ZHJhdmplD1NwbG/FoW5vIE1VIE1PTBlTdGFub3Zhbmpza2EgcHJvYmxlbWF0aWthDFN0b3JpdHZlIE1PTAdTdmV0aWxhEsWgcG9ydG5lIHBvdnLFoWluZRtVbWlyaXRldiBwcm9tZXRhIGluIHZhcm5vc3QSVXByYXZuYSB2cHJhxaFhbmphEVVyZWphbmplIHByb3N0b3JhE1ZvZG5qYWtpIGluIHBpdG5pa2kHVm9kb3ZvZBFWemRyxb5ldmFuamUgY2VzdBhWemdvamEgaW4gaXpvYnJhxb5ldmFuamULWmFwb3JlIGNlc3QVLwEwAjM5AzExMgEyAzEwOQMxMTADMjE1AjYwAzIxOAMyMTkDMTM4AjY2AjY3AzE2NAI5NAMxMTEDMTU5ATYCOTkDMTE1AjEzAjkzAjg5AzEyMwI4NwI4NAMyMTYCNzkCMzUCODgDMTUwAzE0MgMyMTIDMjAxAzE5MQMxODIDMTA4AjgxAzIxNwE3AzE0NAMxODMCNTICNTUCMjgDMTUxAjQ2FCsDL2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCCQ8QDxYGHwEFA0lNRR8CBQJJRB8DZ2QQFRMWVnNlIMSNZXRydG5lIHNrdXBub3N0aQlCRcW9SUdSQUQPQlJFWiBHRU9NRVRSSUpFBkNFTlRFUgjEjFJOVcSMRQdEUkFWTEpFB0dPTE9WRUMGSkFSxaBFBU1PU1RFBVBPTEpFB1BPU0FWSkUHUk/FvU5JSwZSVUROSUsGU09TVFJPCMWgRU5UVklEB8WgScWgS0EMxaBNQVJOQSBHT1JBBlRSTk9WTwRWScSMFRMBMAE2ATACMTEBMwE1AjE0ATkCMTIBNwE0AjEwAjE3AjEzATIBOAExAjE2AjE1FCsDE2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZGSWLZ+Ra3RrY1k0g4qkVAwUQphg+2HL/ak13OuSuu28Rw==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+function prikaziPobudo(arg, context){WebForm_DoCallback('__Page',arg,processCallbackResult,context,ProcessError,true);}//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="ABC6B4C7" />
+		<div class="row-frame">
+			<div class="modal fade map-modal" id="mapModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close mt-20" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="modal-title" id="myModalLabel">Zemljevid</h4>
+						</div>
+						<div class="modal-body" id="mapDiv2">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="showMapBtn" class="show-map hidden-lg">
+				<button type="button" class="btn btn-primary btn-lg w-100" data-toggle="modal" data-target="#mapModal">
+					<i class="icon-map"></i> Prikaži zemljevid
+				</button>
+			</div>
+			<div class="col-content">
+				<div>
+					<nav class="navbar navbar-default navbar-static-top" role="navigation">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="http://www.ljubljana.si/">
+								<img src="img/novi-grb.gif" alt="" />
+							</a>
+						</div>
+						<div id="navbar" class="collapse navbar-collapse">
+								<ul class="nav navbar-nav">
+								<li>
+									<a href="http://www.ljubljana.si/sl/moja-ljubljana/">Moja Ljubljana</a>
+								</li>
+								<li>
+									<a href="http://www.ljubljana.si/sl/mestna-obcina/">Mestna občina</a>
+								</li>
+								<li>
+									<a href="http://www.ljubljana.si/sl/o-ljubljani/">O Ljubljani</a>
+								</li>
+								<li>
+									<a href="http://www.ljubljana.si/sl/mediji/">Mediji</a>
+								</li>
+								<li>
+									<a href="http://www.ljubljana.si/sl/kontakti/">Kontakt</a>
+								</li>
+							</ul>
+							<ul class="nav navbar-nav navbar-right mr-none hidden-xs">
+								<li>
+									<a class="btn btn-primary btn-outline btn-circle collapsed btn-search" data-toggle="collapse" href="#nav-search" aria-expanded="false" aria-controls="nav-search">
+										<i class="icon-magnifier"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</nav>
+					
+					<!--SEARCH-->
+					<div class="collapse nav nav-collapse slide-down nav-search" id="nav-search">
+						<div class="navbar-form clearfix" role="search">
+							<div class="form-group">
+								<input name="query" type="text" id="query" class="form-control" placeholder="Išči" onkeydown="return (event.keyCode!=13)" />
+							</div>
+							<button type="button" class="btn btn-primary" onclick="isciPobudo();">Išči</button>
+						</div>
+					</div>
+					
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-8">
+								<h1 class="text-primary mt-none">Servis pobude meščanov</h1>
+								<ol class="breadcrumb">
+									<li><a href="VnosPobude.aspx">Domov</a></li>
+									<li class="active">Servis pobude meščanov</li>
+								</ol>
+							</div>
+							<div class="col-sm-4">
+								<div class="header-status">
+                                    <div>
+										Št. pobud: <span id="pStPobud" class="text-primary">81048</span>
+									</div>
+									<div>
+										Št. odgovorov: <span id="pStOdgovorjenih" class="text-primary">80793</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<hr class="visible-1200 m-none" />
+					<div class="container">
+						<ul class="nav nav-tabs pobude-tabs">
+							<li role="presentation"><a href="VnosPobude.aspx">Vnos<small>pobude</small></a></li>
+							<li role="presentation" class="active"><a href="PregledObjavljenihPobud.aspx">Neodgovorjene<small>pobude</small></a></li>
+							<li role="presentation"><a href="PregledOdgovorjenihPobud.aspx">Odgovorjene<small>pobude</small></a></li>
+							<li role="presentation"><a href="PregledPobudPrekoKarte.aspx">Objavljene<small>pobude</small></a></li>
+						</ul>
+					</div>
+					<hr class="mt-none" />
+					<div class="container">
+						
+						<div class="row">
+							<div class="col-md-12">
+                                <div class="col-md-6">
+                                    <div class="form-horizontal">
+                                        <div class="row">
+                                            <div class="col-sm-12 mb-10">
+                                                <select name="ddlVrstaPobude" id="ddlVrstaPobude" class="w-100 form-control">
+	<option value="0">Vse pobude</option>
+	<option value="39">Avtobusna postajališča</option>
+	<option value="112">BicikeLJ</option>
+	<option value="2">Ceste</option>
+	<option value="109">Delo inšpekcij</option>
+	<option value="110">Delo Mestnega redarstva</option>
+	<option value="215">Delovanje lokalne samouprave</option>
+	<option value="60">Drevesa, rastje in zelene površine</option>
+	<option value="218">Energetsko upravljanje</option>
+	<option value="219">Evropski projekti</option>
+	<option value="138">Informatika</option>
+	<option value="66">Invazivne rastline</option>
+	<option value="67">Invazivne živali</option>
+	<option value="164">Javne prireditve</option>
+	<option value="94">Javne sanitarije</option>
+	<option value="111">Javni prevoz</option>
+	<option value="159">Javni red in mir</option>
+	<option value="6">Kolesarske poti</option>
+	<option value="99">Kultura</option>
+	<option value="115">LPP</option>
+	<option value="13">Mirujoči promet</option>
+	<option value="93">Napeljava plinovoda </option>
+	<option value="89">Občinski domovi prostori itd.</option>
+	<option value="123">Odpadki</option>
+	<option value="87">Oglaševanje </option>
+	<option value="84">Ostala infrastruktura</option>
+	<option value="216">Otroška igrišča</option>
+	<option value="79">Parki in zelenice</option>
+	<option value="35">Pešpoti in pločniki</option>
+	<option value="88">Pokopališča</option>
+	<option value="150">Poraba sredstev</option>
+	<option value="142">Pritožbe nad delom MU</option>
+	<option value="212">Razno</option>
+	<option value="201">Socialno varstvo in zdravje</option>
+	<option value="191">Splošno MU MOL</option>
+	<option value="182">Stanovanjska problematika</option>
+	<option value="108">Storitve MOL</option>
+	<option value="81">Svetila</option>
+	<option value="217">Športne površine</option>
+	<option value="7">Umiritev prometa in varnost</option>
+	<option value="144">Upravna vprašanja</option>
+	<option value="183">Urejanje prostora</option>
+	<option value="52">Vodnjaki in pitniki</option>
+	<option value="55">Vodovod</option>
+	<option value="28">Vzdrževanje cest</option>
+	<option value="151">Vzgoja in izobraževanje</option>
+	<option value="46">Zapore cest</option>
+
+</select>
+                                            </div>
+                                            <div class="col-sm-12 mb-10">
+                                                <select name="ddlCetrtnaSkupnost" id="ddlCetrtnaSkupnost" class="w-100 form-control">
+	<option value="0">Vse četrtne skupnosti</option>
+	<option value="6">BEŽIGRAD</option>
+	<option value="0">BREZ GEOMETRIJE</option>
+	<option value="11">CENTER</option>
+	<option value="3">ČRNUČE</option>
+	<option value="5">DRAVLJE</option>
+	<option value="14">GOLOVEC</option>
+	<option value="9">JARŠE</option>
+	<option value="12">MOSTE</option>
+	<option value="7">POLJE</option>
+	<option value="4">POSAVJE</option>
+	<option value="10">ROŽNIK</option>
+	<option value="17">RUDNIK</option>
+	<option value="13">SOSTRO</option>
+	<option value="2">ŠENTVID</option>
+	<option value="8">ŠIŠKA</option>
+	<option value="1">ŠMARNA GORA</option>
+	<option value="16">TRNOVO</option>
+	<option value="15">VIČ</option>
+
+</select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+										<p class="mb-10">Izberite obdobje odgovora</p>
+										<div class="radio mt-none">
+											<label class="i-checks">
+												<input id="rbZm" name="rbDatum" value="2" checked="checked" type="radio">
+												<i></i>
+												Zadnji teden
+											</label>
+										</div>
+										<div class="radio">
+											<label class="i-checks">
+												<input id="rbZt" name="rbDatum" value="1" type="radio">
+												<i></i>
+												Zadnji mesec
+											</label>
+										</div>
+										<div class="radio">
+											<label class="i-checks">
+												<input id="rbVse" name="rbDatum" value="0"" type="radio">
+												<i></i>
+												Vse
+											</label>
+										</div>
+                                </div>
+<div class="col-md-6">
+  <div class="form-horizontal">
+    <div class="row">
+  <div class="col-sm-12 mb-10">
+
+                                    <a class="btn btn-lg btn-primary" onclick="fillListbox();">Prikaži</a>
+  </div>
+  </div>
+    </div>
+  </div>
+
+							</div>
+						</div>
+						
+					</div>
+                    <div class="container">
+						<div class="row">
+                            <div id="counterContainer" ></div>
+                    		<div class="mt-20" id="tableContainer" style="max-height:300px;overflow-y:auto;"></div>
+                        </div>
+                    </div>
+                    <hr class="mt-none" />
+                    <div id="containerPobuda" class="hidden container">
+                    <div>
+						<div class="row">
+							<div class="col-sm-8">
+								<h3 class="m-none">
+									<span class="status-alert">
+										<strong id="pNaslovPobude"></strong>
+									</span>
+								</h3>
+							</div>
+						</div>
+					</div>
+                    <hr class="mb-10" />
+					<div>
+						<div class="pobuda">
+							<div class="mb-30">
+								<ul class="list-inline">
+									<li>
+										<small>Prijavljeno: <strong id="pDatumObjave"></strong></small>
+									</li>
+									<li>
+										<small>Četrtna skupnost: <strong id="pCetrtnaSkupnost"></strong></small>
+									</li>
+								</ul>
+							</div>
+							<hr class="visible-xs" />
+							<div class="mb-30">
+								<p id="pVsebinaPobude"></p>
+							</div>
+							<div class="gallery mb-30">
+								<div class="gallery-content" id="pictGallery">
+
+								</div>
+							</div>
+							<div>
+								<strong id="pOddelki"></strong>
+							</div>
+						</div>
+					</div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-map" id="mapDiv">
+                <div id="GDiMap" ></div>
+			</div>
+		</div>
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var pobudeThemeService = 'https://pobude.ljubljana.si/arcgis/rest/services/MolPobudeSQL_L/MolPobudeTemePublic/MapServer/0';
+ var pobudeBaseService = 'https://pobude.ljubljana.si/arcgis/rest/services/MolPobudeSQL_L/MolPobudePodloge/MapServer';
+ var pobudeEhisService = 'https://pobude.ljubljana.si/arcgis/rest/services/MolPobudeSQL_L/MolPobudeEhis/FeatureServer/0';//]]>
+</script>
+</form>
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-5 text-right visible-xs">
+						<form class="form-inline">
+							<button type="submit" class="btn btn-lg btn-default" onclick="location.href='http://www.ljubljana.si/si/e-obvestila/'">Prijava na e-novice</button>
+						</form>
+					</div>
+					<div class="col-sm-4 hidden-xs">
+						<div class="footer-nav">
+							<a href="PravnoObvestilo.aspx">Pravno obvestilo</a>
+							
+							<a href="Pomoc.aspx">Pomoč</a>
+						</div>
+						<small class="text-muted">© 2015 Mestna občina Ljubljana</small>
+					</div>
+					<hr class="visible-xs" />
+					<div class="col-sm-3">
+						legenda:
+						<div class="mt-10">
+							<span class="status-ok">Odgovorjene</span>
+							<span class="status-alert">Neodgovorjene</span>
+						</div>
+					</div>
+					<hr class="visible-xs" />
+					<div class="col-sm-4 visible-xs">
+						<div class="footer-nav">
+							<a href="PravnoObvestilo.aspx">Pravno obvestilo</a>
+							
+							<a href="Pomoc.aspx">Pomoč</a>
+						</div>
+						<small class="text-muted">© 2015 Mestna občina Ljubljana</small>
+					</div>
+					<div class="col-sm-5 text-right hidden-xs footer-newsletter">
+						<form class="form-inline">
+							<button type="submit" class="btn btn-lg btn-default" onclick="location.href='https://www.ljubljana.si/sl/e-novice/'">Prijava na e-novice</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</footer>		
+		
+	</body>
+</html>

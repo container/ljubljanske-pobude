@@ -1,0 +1,5 @@
+{
+  "order": "DATUM_VNOSA_desc_id_desc",
+  "missing_entry_date_ids": [],
+  "notes": "Both statuses interleaved; undated records last. Cached details are reused when resuming."
+}

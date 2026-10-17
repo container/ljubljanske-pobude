@@ -1,0 +1,903 @@
+{
+  "displayFieldName": "VSEBINA",
+  "fieldAliases": {
+    "OBJECTID": "OBJECTID",
+    "MOL_VNESENE_POBUDE_FC_ID": "MOL_VNESENE_POBUDE_FC_ID",
+    "NASLOV_POBUDE": "NASLOV_POBUDE",
+    "STATUS_POBUDE": "STATUS_POBUDE",
+    "MOL_VRSTE_POBUD_ID": "MOL_VRSTE_POBUD_ID",
+    "DATUM_VNOSA": "DATUM_VNOSA",
+    "DATUM_OBRAVNAVE": "DATUM_OBRAVNAVE",
+    "DATUM_ZADNJEGA_ODGOVORA": "DATUM_ZADNJEGA_ODGOVORA",
+    "DATUM_KONCA_AKTUALNOSTI": "DATUM_KONCA_AKTUALNOSTI",
+    "DATUM_DO_ODGOVORA": "DATUM_DO_ODGOVORA",
+    "OBRAVNAVA_VEC_ODDELKOV": "OBRAVNAVA_VEC_ODDELKOV"
+  },
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "MOL_VNESENE_POBUDE_FC_ID",
+      "type": "esriFieldTypeInteger",
+      "alias": "MOL_VNESENE_POBUDE_FC_ID"
+    },
+    {
+      "name": "NASLOV_POBUDE",
+      "type": "esriFieldTypeString",
+      "alias": "NASLOV_POBUDE",
+      "length": 250
+    },
+    {
+      "name": "STATUS_POBUDE",
+      "type": "esriFieldTypeInteger",
+      "alias": "STATUS_POBUDE"
+    },
+    {
+      "name": "MOL_VRSTE_POBUD_ID",
+      "type": "esriFieldTypeInteger",
+      "alias": "MOL_VRSTE_POBUD_ID"
+    },
+    {
+      "name": "DATUM_VNOSA",
+      "type": "esriFieldTypeDate",
+      "alias": "DATUM_VNOSA",
+      "length": 8
+    },
+    {
+      "name": "DATUM_OBRAVNAVE",
+      "type": "esriFieldTypeDate",
+      "alias": "DATUM_OBRAVNAVE",
+      "length": 8
+    },
+    {
+      "name": "DATUM_ZADNJEGA_ODGOVORA",
+      "type": "esriFieldTypeDate",
+      "alias": "DATUM_ZADNJEGA_ODGOVORA",
+      "length": 8
+    },
+    {
+      "name": "DATUM_KONCA_AKTUALNOSTI",
+      "type": "esriFieldTypeDate",
+      "alias": "DATUM_KONCA_AKTUALNOSTI",
+      "length": 8
+    },
+    {
+      "name": "DATUM_DO_ODGOVORA",
+      "type": "esriFieldTypeDate",
+      "alias": "DATUM_DO_ODGOVORA",
+      "length": 8
+    },
+    {
+      "name": "OBRAVNAVA_VEC_ODDELKOV",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "OBRAVNAVA_VEC_ODDELKOV"
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "MOL_VNESENE_POBUDE_FC_ID": 10,
+        "NASLOV_POBUDE": "Čiščenje parkirišča ",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 132,
+        "DATUM_VNOSA": 1228889830000,
+        "DATUM_OBRAVNAVE": 1228899629000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1229075604000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.547360163934126,
+        "y": 46.0478288458633
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 41,
+        "MOL_VNESENE_POBUDE_FC_ID": 41,
+        "NASLOV_POBUDE": "Ureditev kanalizacije",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 4,
+        "DATUM_VNOSA": 1229977155000,
+        "DATUM_OBRAVNAVE": 1230021847000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1230549197000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.555843224169086,
+        "y": 46.04056487481973
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 114,
+        "MOL_VNESENE_POBUDE_FC_ID": 114,
+        "NASLOV_POBUDE": "Pot na Golovec",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 183,
+        "DATUM_VNOSA": 1234831283000,
+        "DATUM_OBRAVNAVE": 1234857948000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1235556218000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.54267639220695,
+        "y": 46.046991488877566
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 123,
+        "MOL_VNESENE_POBUDE_FC_ID": 123,
+        "NASLOV_POBUDE": "Štepanjsko naselje - katastrofa!",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1235383945000,
+        "DATUM_OBRAVNAVE": 1235392753000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1236074081000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.545441268098225,
+        "y": 46.05336382302543
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 145,
+        "MOL_VNESENE_POBUDE_FC_ID": 145,
+        "NASLOV_POBUDE": "Kolesarska steza v izredno slabem stanju",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 55,
+        "DATUM_VNOSA": 1236583518000,
+        "DATUM_OBRAVNAVE": 1236590141000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1236684853000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.549036925514981,
+        "y": 46.05139852259164
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 146,
+        "MOL_VNESENE_POBUDE_FC_ID": 146,
+        "NASLOV_POBUDE": "Javna razsvetljava na sprehajalni poti ",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 2,
+        "DATUM_VNOSA": 1236598514000,
+        "DATUM_OBRAVNAVE": 1236606083000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1239201538000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.547193567669925,
+        "y": 46.054009583965666
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 238,
+        "MOL_VNESENE_POBUDE_FC_ID": 238,
+        "NASLOV_POBUDE": "Mrliška vežica",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 16,
+        "DATUM_VNOSA": 1240149295000,
+        "DATUM_OBRAVNAVE": 1240221103000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1240485814000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.540769610580893,
+        "y": 46.05100583174723
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 251,
+        "MOL_VNESENE_POBUDE_FC_ID": 251,
+        "NASLOV_POBUDE": "Usoda vrtičkov",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 183,
+        "DATUM_VNOSA": 1240740164000,
+        "DATUM_OBRAVNAVE": 1240911729000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1241005474000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.565093326044575,
+        "y": 46.04893214243143
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 271,
+        "MOL_VNESENE_POBUDE_FC_ID": 271,
+        "NASLOV_POBUDE": "Aktivno odstranjevanje ambrozije",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 145,
+        "DATUM_VNOSA": 1241778515000,
+        "DATUM_OBRAVNAVE": 1241783406000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1242830162000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.549150566186768,
+        "y": 46.048537711416785
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 278,
+        "MOL_VNESENE_POBUDE_FC_ID": 278,
+        "NASLOV_POBUDE": "Postavitev prometnega znaka",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 212,
+        "DATUM_VNOSA": 1241954461000,
+        "DATUM_OBRAVNAVE": 1242032224000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1242230525000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.54268709509538,
+        "y": 46.04726146163921
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 323,
+        "MOL_VNESENE_POBUDE_FC_ID": 323,
+        "NASLOV_POBUDE": "Parkiranje",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1243192071000,
+        "DATUM_OBRAVNAVE": 1243243971000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1243261292000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.544621314440345,
+        "y": 46.05407138753519
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 352,
+        "MOL_VNESENE_POBUDE_FC_ID": 352,
+        "NASLOV_POBUDE": "Kolesarska pot ob Ljubljanici",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 79,
+        "DATUM_VNOSA": 1244105724000,
+        "DATUM_OBRAVNAVE": 1244111285000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1245418411000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.550209754913439,
+        "y": 46.05018844037469
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 358,
+        "MOL_VNESENE_POBUDE_FC_ID": 358,
+        "NASLOV_POBUDE": "Varen prehod čez cesto do vrtca",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 88,
+        "DATUM_VNOSA": 1244230840000,
+        "DATUM_OBRAVNAVE": 1244462013000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1244472974000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.54289454822322,
+        "y": 46.05032149516757
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 383,
+        "MOL_VNESENE_POBUDE_FC_ID": 383,
+        "NASLOV_POBUDE": "Talne označbe",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1245319188000,
+        "DATUM_OBRAVNAVE": 1245320790000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1246362462000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543646182300535,
+        "y": 46.053212736364024
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 510,
+        "MOL_VNESENE_POBUDE_FC_ID": 510,
+        "NASLOV_POBUDE": "Interval semaforjev",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 212,
+        "DATUM_VNOSA": 1250152794000,
+        "DATUM_OBRAVNAVE": 1250154364000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1250170916000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.535236658351083,
+        "y": 46.04815828920891
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 524,
+        "MOL_VNESENE_POBUDE_FC_ID": 524,
+        "NASLOV_POBUDE": "Razsvetljava",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 145,
+        "DATUM_VNOSA": 1250431806000,
+        "DATUM_OBRAVNAVE": 1250496526000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1250585257000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.564539801413517,
+        "y": 46.04866011384576
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 611,
+        "MOL_VNESENE_POBUDE_FC_ID": 611,
+        "NASLOV_POBUDE": "Pločnike pešcem",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1251978978000,
+        "DATUM_OBRAVNAVE": 1251983229000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1252330876000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.545434640732507,
+        "y": 46.04784822828271
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 619,
+        "MOL_VNESENE_POBUDE_FC_ID": 619,
+        "NASLOV_POBUDE": "Križišče Bizoviška cesta-Litijska cesta",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 2,
+        "DATUM_VNOSA": 1252054930000,
+        "DATUM_OBRAVNAVE": 1252061920000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1252070176000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.572806403857442,
+        "y": 46.0373361097958
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 678,
+        "MOL_VNESENE_POBUDE_FC_ID": 678,
+        "NASLOV_POBUDE": "Zapuščeni avtomobili",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1253819350000,
+        "DATUM_OBRAVNAVE": 1253868243000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1254129449000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543694847516255,
+        "y": 46.05358183394998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 697,
+        "MOL_VNESENE_POBUDE_FC_ID": 697,
+        "NASLOV_POBUDE": "Zabojniki za organske odpadke",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 132,
+        "DATUM_VNOSA": 1254323058000,
+        "DATUM_OBRAVNAVE": 1254323846000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1254750808000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.569524815634436,
+        "y": 46.03734184572024
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 727,
+        "MOL_VNESENE_POBUDE_FC_ID": 727,
+        "NASLOV_POBUDE": "Ograjen prostor za \"pasjo rekreacijo\"",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 183,
+        "DATUM_VNOSA": 1254816877000,
+        "DATUM_OBRAVNAVE": 1254821184000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1254832938000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.542053837823934,
+        "y": 46.045702339236655
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 744,
+        "MOL_VNESENE_POBUDE_FC_ID": 744,
+        "NASLOV_POBUDE": "Jogiji na travniku",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 132,
+        "DATUM_VNOSA": 1254904589000,
+        "DATUM_OBRAVNAVE": 1254908972000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1255535992000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.567079134585402,
+        "y": 46.04615037193849
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 818,
+        "MOL_VNESENE_POBUDE_FC_ID": 818,
+        "NASLOV_POBUDE": "Knjižnica v Štepanjskem naselju",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 99,
+        "DATUM_VNOSA": 1257259975000,
+        "DATUM_OBRAVNAVE": 1257323727000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1257333804000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.545412914072553,
+        "y": 46.047344272732175
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 823,
+        "MOL_VNESENE_POBUDE_FC_ID": 823,
+        "NASLOV_POBUDE": "Dokončanje  pločnika",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 145,
+        "DATUM_VNOSA": 1257346938000,
+        "DATUM_OBRAVNAVE": 1257348042000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1257429735000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.57043904306631,
+        "y": 46.04443544154011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 864,
+        "MOL_VNESENE_POBUDE_FC_ID": 864,
+        "NASLOV_POBUDE": "Talne oznake na parkiriščih",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1258476873000,
+        "DATUM_OBRAVNAVE": 1258537343000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1258621609000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.545377588330268,
+        "y": 46.04850483209562
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 956,
+        "MOL_VNESENE_POBUDE_FC_ID": 956,
+        "NASLOV_POBUDE": "Zaparkirani pločniki",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1260713430000,
+        "DATUM_OBRAVNAVE": 1260782466000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1260961528000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.539027843629473,
+        "y": 46.04910933860222
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 976,
+        "MOL_VNESENE_POBUDE_FC_ID": 976,
+        "NASLOV_POBUDE": "Ureditev ceste, ukrepanje",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 212,
+        "DATUM_VNOSA": 1261160339000,
+        "DATUM_OBRAVNAVE": 1261381229000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1261391890000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.560394801109494,
+        "y": 46.04500925497228
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 980,
+        "MOL_VNESENE_POBUDE_FC_ID": 980,
+        "NASLOV_POBUDE": "Izgradnje pločnika za pešce",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 79,
+        "DATUM_VNOSA": 1261510227000,
+        "DATUM_OBRAVNAVE": 1261568416000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1261990862000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.572806403857442,
+        "y": 46.0373361097958
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 995,
+        "MOL_VNESENE_POBUDE_FC_ID": 995,
+        "NASLOV_POBUDE": "Odvoz zapuščenega vozila na pločniku",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 137,
+        "DATUM_VNOSA": 1262110236000,
+        "DATUM_OBRAVNAVE": 1262158443000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1262686925000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.539027843629473,
+        "y": 46.04910933860222
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1045,
+        "MOL_VNESENE_POBUDE_FC_ID": 1045,
+        "NASLOV_POBUDE": "Garažna hiša - Štepanjsko naselje",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1263329516000,
+        "DATUM_OBRAVNAVE": 1263368427000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1263390167000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.5444073301926,
+        "y": 46.04706135732054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1050,
+        "MOL_VNESENE_POBUDE_FC_ID": 1050,
+        "NASLOV_POBUDE": "PRERASLA DREVESA",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 132,
+        "DATUM_VNOSA": 1263385728000,
+        "DATUM_OBRAVNAVE": 1263386999000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1263807040000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543602162262983,
+        "y": 46.050702213411945
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1059,
+        "MOL_VNESENE_POBUDE_FC_ID": 1059,
+        "NASLOV_POBUDE": "NEVARNA DREVESA",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 183,
+        "DATUM_VNOSA": 1263475347000,
+        "DATUM_OBRAVNAVE": 1263477908000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1263807066000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543602162262983,
+        "y": 46.050702213411945
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1069,
+        "MOL_VNESENE_POBUDE_FC_ID": 1069,
+        "NASLOV_POBUDE": "Prerasla drevesa",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 183,
+        "DATUM_VNOSA": 1263807920000,
+        "DATUM_OBRAVNAVE": 1263809741000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1265715971000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543602162262983,
+        "y": 46.050702213411945
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1078,
+        "MOL_VNESENE_POBUDE_FC_ID": 1078,
+        "NASLOV_POBUDE": "Prerasla drevesa",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 183,
+        "DATUM_VNOSA": 1263887885000,
+        "DATUM_OBRAVNAVE": 1263889434000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1265122420000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543602162262983,
+        "y": 46.050702213411945
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1148,
+        "MOL_VNESENE_POBUDE_FC_ID": 1148,
+        "NASLOV_POBUDE": "ODSTRANITEV KONTEJNERJA HUMANE",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 79,
+        "DATUM_VNOSA": 1265303142000,
+        "DATUM_OBRAVNAVE": 1265354478000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1266221931000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543620183223496,
+        "y": 46.051656037455764
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1162,
+        "MOL_VNESENE_POBUDE_FC_ID": 1162,
+        "NASLOV_POBUDE": "Odstranitev kontejnerjev\"humane\"",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 79,
+        "DATUM_VNOSA": 1265553036000,
+        "DATUM_OBRAVNAVE": 1265703511000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1266221952000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543620183223496,
+        "y": 46.051656037455764
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1181,
+        "MOL_VNESENE_POBUDE_FC_ID": 1181,
+        "NASLOV_POBUDE": "SPORNO PARKIRANJE",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1265990638000,
+        "DATUM_OBRAVNAVE": 1266218781000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1266401180000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.542789488129722,
+        "y": 46.04895343136003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1198,
+        "MOL_VNESENE_POBUDE_FC_ID": 1198,
+        "NASLOV_POBUDE": "SPORNO PARKIRANJE 2",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1266404452000,
+        "DATUM_OBRAVNAVE": 1266502229000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1266570523000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.543620183223496,
+        "y": 46.051656037455764
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1203,
+        "MOL_VNESENE_POBUDE_FC_ID": 1203,
+        "NASLOV_POBUDE": "SPORNO PARKIRANJE 2",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 73,
+        "DATUM_VNOSA": 1266494249000,
+        "DATUM_OBRAVNAVE": 1266570562000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1266578728000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.542789488129722,
+        "y": 46.04895343136003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1227,
+        "MOL_VNESENE_POBUDE_FC_ID": 1227,
+        "NASLOV_POBUDE": "Odstranitev kontejnerjev humane",
+        "STATUS_POBUDE": 2,
+        "MOL_VRSTE_POBUD_ID": 79,
+        "DATUM_VNOSA": 1266947158000,
+        "DATUM_OBRAVNAVE": 1266996483000,
+        "DATUM_ZADNJEGA_ODGOVORA": 1267786655000,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": null,
+        "OBRAVNAVA_VEC_ODDELKOV": null
+      },
+      "geometry": {
+        "x": 14.54289454822322,
+        "y": 46.05032149516757
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1186848,
+        "MOL_VNESENE_POBUDE_FC_ID": 81975,
+        "NASLOV_POBUDE": "Izpuhteli koši za smeti",
+        "STATUS_POBUDE": 1,
+        "MOL_VRSTE_POBUD_ID": 123,
+        "DATUM_VNOSA": 1763379372000,
+        "DATUM_OBRAVNAVE": 1764837210000,
+        "DATUM_ZADNJEGA_ODGOVORA": null,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": 1765442010000,
+        "OBRAVNAVA_VEC_ODDELKOV": 0
+      },
+      "geometry": {
+        "x": 14.554118272581468,
+        "y": 46.049447887536054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1333268,
+        "MOL_VNESENE_POBUDE_FC_ID": 86967,
+        "NASLOV_POBUDE": "Poenotenje omejitve hitrosti",
+        "STATUS_POBUDE": 1,
+        "MOL_VRSTE_POBUD_ID": 2,
+        "DATUM_VNOSA": 1790705563000,
+        "DATUM_OBRAVNAVE": 1790769255000,
+        "DATUM_ZADNJEGA_ODGOVORA": null,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": 1791374055000,
+        "OBRAVNAVA_VEC_ODDELKOV": 0
+      },
+      "geometry": {
+        "x": 14.564294297070802,
+        "y": 46.04535703748678
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1335240,
+        "MOL_VNESENE_POBUDE_FC_ID": 87027,
+        "NASLOV_POBUDE": "Litijska cesta",
+        "STATUS_POBUDE": 1,
+        "MOL_VRSTE_POBUD_ID": 2,
+        "DATUM_VNOSA": 1791116229000,
+        "DATUM_OBRAVNAVE": 1791277565000,
+        "DATUM_ZADNJEGA_ODGOVORA": null,
+        "DATUM_KONCA_AKTUALNOSTI": null,
+        "DATUM_DO_ODGOVORA": 1791882365000,
+        "OBRAVNAVA_VEC_ODDELKOV": 0
+      },
+      "geometry": {
+        "x": 14.555376261610867,
+        "y": 46.04564675376716
+      }
+    }
+  ]
+}

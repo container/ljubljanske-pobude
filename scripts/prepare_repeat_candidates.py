@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Prepare cached 100 m comparison candidates; no pair or group is accepted automatically."""
+"""Prepare cached 100 m comparison candidates; no pair or group is accepted automatically.
+Reads registered source captures and district labels; writes analysis/cetrti/<id>/clusters/.
+Large candidates.json and record_hashes.json are ignored by Git. Older generated copies
+were moved to tmp/analysis/cetrti/; reviewed selection.json and review.json remain in analysis/.
+"""
 import argparse
 import hashlib
 import json
